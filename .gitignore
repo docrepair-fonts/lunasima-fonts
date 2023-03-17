@@ -1,8 +1,10 @@
+*.backup/
+*.vfpyc
 *~
 venv
 build.stamp
 proof
-fonts
+#fonts
 node_modules
 package-lock.json
 package.json
