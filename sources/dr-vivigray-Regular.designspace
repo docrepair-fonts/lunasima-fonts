@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis maximum="700" minimum="400" tag="wght" default="400" name="weight">
+  <axis minimum="400" tag="wght" name="weight" maximum="700" default="400">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
-  <axis maximum="200" minimum="1" tag="wdth" default="1" name="width">
+  <axis minimum="1" tag="wdth" name="width" maximum="200" default="1">
    <labelname xml:lang="en">Width</labelname>
   </axis>
  </axes>
  <sources>
-  <source familyname="Dr Vivigray" stylename="Bold" filename="masters/DrVivigray-Bold.ufo" name="Bold">
+  <source name="Bold" filename="masters/DrVivigray-Bold.ufo" stylename="Bold" familyname="Dr Vivigray">
    <location>
-    <dimension xvalue="700" name="weight"/>
-    <dimension xvalue="1" name="width"/>
+    <dimension name="weight" xvalue="700"/>
+    <dimension name="width" xvalue="1"/>
    </location>
   </source>
-  <source familyname="Dr Vivigray" stylename="Regular" filename="masters/DrVivigray-Regular.ufo" name="Regular">
+  <source name="Regular" filename="masters/DrVivigray-Regular.ufo" stylename="Regular" familyname="Dr Vivigray">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
-    <dimension xvalue="1" name="width"/>
+    <dimension name="weight" xvalue="400"/>
+    <dimension name="width" xvalue="1"/>
    </location>
   </source>
  </sources>
@@ -65,16 +65,16 @@
   </dict>
  </lib>
  <instances>
-  <instance familyname="Dr Vivigray" stylename="Regular" filename="instances/DrVivigray-Regular.ufo" name="Regular">
+  <instance name="Regular" filename="instances/DrVivigray-Regular.ufo" stylename="Regular" familyname="Dr Vivigray">
    <location>
-    <dimension xvalue="100" name="width"/>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="width" xvalue="100"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance familyname="Dr Vivigray" stylename="Bold" filename="instances/DrVivigray-Bold.ufo" name="Bold">
+  <instance name="Bold" filename="instances/DrVivigray-Bold.ufo" stylename="Bold" familyname="Dr Vivigray">
    <location>
-    <dimension xvalue="100" name="width"/>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="width" xvalue="100"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
  </instances>

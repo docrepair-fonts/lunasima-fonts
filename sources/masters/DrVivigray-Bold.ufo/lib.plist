@@ -2184,26 +2184,26 @@
       <string>summation</string>
       <string>therefore</string>
       <string>upDashArrow</string>
-      <string>contextmenu</string>
-      <string>mu1</string>
       <string>digammagreek</string>
-      <string>uni2028</string>
-      <string>Pcircle</string>
-      <string>nonmarkingreturn</string>
-      <string>quoteleft</string>
-      <string>ascript</string>
-      <string>TEChint.next3</string>
-      <string>pencil</string>
-      <string>apple</string>
-      <string>TEChint.next2</string>
-      <string>uni2029</string>
-      <string>gammasuperior</string>
       <string>uniFE0E</string>
-      <string>.null</string>
-      <string>pi1</string>
-      <string>eject</string>
       <string>TEChint.vartag1</string>
+      <string>contextmenu</string>
+      <string>eject</string>
+      <string>uni2029</string>
+      <string>apple</string>
+      <string>Pcircle</string>
+      <string>quoteleft</string>
+      <string>uni2028</string>
+      <string>pi1</string>
+      <string>ascript</string>
+      <string>.null</string>
       <string>quoteright</string>
+      <string>TEChint.next3</string>
+      <string>gammasuperior</string>
+      <string>TEChint.next2</string>
+      <string>pencil</string>
+      <string>nonmarkingreturn</string>
+      <string>mu1</string>
     </array>
   </dict>
 </plist>
