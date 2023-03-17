@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstopstrokereversed" format="2">
+  <advance width="999"/>
+  <unicode hex="02A2"/>
+  <anchor x="474" y="0" name="bottom"/>
+  <anchor x="474" y="1530" name="top"/>
+  <outline>
+    <contour>
+      <point x="515" y="1530" type="curve" smooth="yes"/>
+      <point x="217" y="1530"/>
+      <point x="42" y="1359"/>
+      <point x="42" y="1122" type="curve" smooth="yes"/>
+      <point x="42" y="933"/>
+      <point x="132" y="748"/>
+      <point x="398" y="617" type="curve"/>
+      <point x="398" y="488" type="line"/>
+      <point x="180" y="488" type="line"/>
+      <point x="180" y="301" type="line"/>
+      <point x="398" y="301" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="706" y="0" type="line"/>
+      <point x="706" y="301" type="line"/>
+      <point x="888" y="301" type="line"/>
+      <point x="888" y="488" type="line"/>
+      <point x="706" y="488" type="line"/>
+      <point x="706" y="737" type="line"/>
+      <point x="430" y="826"/>
+      <point x="351" y="980"/>
+      <point x="351" y="1119" type="curve" smooth="yes"/>
+      <point x="351" y="1242"/>
+      <point x="428" y="1317"/>
+      <point x="542" y="1317" type="curve" smooth="yes"/>
+      <point x="651" y="1317"/>
+      <point x="771" y="1266"/>
+      <point x="833" y="1219" type="curve"/>
+      <point x="942" y="1410" type="line"/>
+      <point x="817" y="1483"/>
+      <point x="678" y="1530"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0c5b438fa4da60199e3b47f5ae2178d1ed17985b2c7716cb76754e8c9107cc314b256bb755ad4bdcf6dd758d36509eb1a59320b854468ad0bb21e6cfcdc519c4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 262 244</string>
+          <string>hstem 1220 310</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

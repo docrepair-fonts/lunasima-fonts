@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ef-cy" format="2">
+  <advance width="1419"/>
+  <unicode hex="0424"/>
+  <anchor x="710" y="0" name="bottom"/>
+  <anchor x="710" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="621" y="1448" type="line"/>
+      <point x="621" y="1272" type="line"/>
+      <point x="239" y="1264"/>
+      <point x="112" y="1022"/>
+      <point x="112" y="740" type="curve" smooth="yes"/>
+      <point x="112" y="494"/>
+      <point x="223" y="210"/>
+      <point x="621" y="200" type="curve"/>
+      <point x="621" y="-20" type="line"/>
+      <point x="798" y="-20" type="line"/>
+      <point x="798" y="200" type="line"/>
+      <point x="1187" y="210"/>
+      <point x="1305" y="482"/>
+      <point x="1305" y="740" type="curve" smooth="yes"/>
+      <point x="1305" y="1030"/>
+      <point x="1178" y="1264"/>
+      <point x="798" y="1272" type="curve"/>
+      <point x="798" y="1448" type="line"/>
+    </contour>
+    <contour>
+      <point x="621" y="348" type="line"/>
+      <point x="386" y="358"/>
+      <point x="292" y="506"/>
+      <point x="292" y="742" type="curve" smooth="yes"/>
+      <point x="292" y="964"/>
+      <point x="373" y="1112"/>
+      <point x="621" y="1120" type="curve"/>
+    </contour>
+    <contour>
+      <point x="798" y="1120" type="line"/>
+      <point x="1044" y="1112"/>
+      <point x="1126" y="968"/>
+      <point x="1126" y="742" type="curve" smooth="yes"/>
+      <point x="1126" y="512"/>
+      <point x="1036" y="358"/>
+      <point x="798" y="348" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>598e5c522f883e25fa948394c3d0c801f7337496ec10d992f7562323fc8e9da8d3aafeaa51c12da5e5cc7cb13c469a50c449a5ff806a862a385cab529af4b0a5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 21</string>
+          <string>hstem 200 148</string>
+          <string>hstem 1120 152</string>
+          <string>hstem 1448 -20</string>
+          <string>vstem 136 182</string>
+          <string>vstem 748 178</string>
+          <string>vstem 1356 182</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

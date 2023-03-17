@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravebelowcomb" format="2">
+  <unicode hex="0316"/>
+  <anchor x="18" y="0" name="_bottom"/>
+  <anchor x="22" y="-408" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-200" y="-88" type="line"/>
+      <point x="-200" y="-108" type="line"/>
+      <point x="-148" y="-182"/>
+      <point x="6" y="-336"/>
+      <point x="100" y="-408" type="curve"/>
+      <point x="234" y="-408" type="line"/>
+      <point x="234" y="-383" type="line"/>
+      <point x="171" y="-309"/>
+      <point x="81" y="-178"/>
+      <point x="34" y="-88" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-200,-88l-200,-108c-148,-182 6,-336 100,-408l234,-408l234,-383c171,-309 81,-178 34,-88</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -408 21</string>
+          <string>hstem -88 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

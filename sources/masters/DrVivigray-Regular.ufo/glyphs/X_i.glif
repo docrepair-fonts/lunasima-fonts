@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="2">
+  <advance width="1271"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="1139" y="0" type="line"/>
+      <point x="1139" y="162" type="line"/>
+      <point x="132" y="162" type="line"/>
+      <point x="132" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="666" type="line"/>
+      <point x="1020" y="828" type="line"/>
+      <point x="252" y="828" type="line"/>
+      <point x="252" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="1100" y="1266" type="line"/>
+      <point x="1100" y="1428" type="line"/>
+      <point x="172" y="1428" type="line"/>
+      <point x="172" y="1266" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1271m1139,0l1139,162l132,162l132,0m1020,666l1020,828l252,828l252,666m1100,1266l1100,1428l172,1428l172,1266</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 162</string>
+          <string>hstem 666 162</string>
+          <string>hstem 1266 162</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

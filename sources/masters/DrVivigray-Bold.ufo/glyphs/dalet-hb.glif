@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dalet-hb" format="2">
+  <advance width="1150"/>
+  <unicode hex="05D3"/>
+  <anchor x="795" y="0" name="bottom"/>
+  <anchor x="164" y="0" name="bottomleft"/>
+  <anchor x="338" y="605" name="center"/>
+  <anchor x="591" y="1086" name="top"/>
+  <anchor x="-30" y="1086" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="946" y="0" type="line"/>
+      <point x="946" y="1110" type="line"/>
+      <point x="644" y="1110" type="line"/>
+      <point x="644" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1128" y="971" type="line"/>
+      <point x="1128" y="1198" type="line"/>
+      <point x="30" y="1198" type="line"/>
+      <point x="30" y="971" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1150m946,0l946,1110l644,1110l644,0m1128,971l1128,1198l30,1198l30,971</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 902 316</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

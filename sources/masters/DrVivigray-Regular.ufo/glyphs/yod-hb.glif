@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yod-hb" format="2">
+  <advance width="650"/>
+  <unicode hex="05D9"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="-25" y="0" name="bottomleft"/>
+  <anchor x="16" y="816" name="center"/>
+  <anchor x="252" y="1076" name="top"/>
+  <anchor x="3" y="1076" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="252" y="426" type="line"/>
+      <point x="354" y="614" type="line"/>
+      <point x="354" y="1188" type="line"/>
+      <point x="150" y="1188" type="line"/>
+      <point x="150" y="426" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w650m252,426l354,614l354,1188l150,1188l150,426</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 426 21</string>
+          <string>hstem 1184 -20</string>
+          <string>vstem 193 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

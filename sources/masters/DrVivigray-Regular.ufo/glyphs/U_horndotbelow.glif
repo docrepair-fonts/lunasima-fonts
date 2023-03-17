@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorndotbelow" format="2">
+  <advance width="1549"/>
+  <unicode hex="1EF0"/>
+  <anchor x="738" y="1428" name="top"/>
+  <anchor x="746" y="-362" name="bottom"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="dotbelowcomb" xOffset="1329"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Uhorn+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

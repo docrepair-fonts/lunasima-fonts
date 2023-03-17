@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ysmall" format="2">
+  <advance width="1096"/>
+  <unicode hex="028F"/>
+  <anchor x="577" y="0" name="bottom"/>
+  <anchor x="577" y="1086" name="top"/>
+  <outline>
+    <contour>
+      <point x="763" y="1086" type="line"/>
+      <point x="557" y="652" type="line"/>
+      <point x="350" y="1086" type="line"/>
+      <point x="38" y="1086" type="line"/>
+      <point x="413" y="434" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="699" y="0" type="line"/>
+      <point x="699" y="439" type="line"/>
+      <point x="1073" y="1086" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1096m763,1086l557,652l350,1086l38,1086l413,434l413,0l699,0l699,439l1073,1086</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1106 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

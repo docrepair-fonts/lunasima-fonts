@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis maximum="700" minimum="400" tag="wght" default="400" name="weight">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+  <axis maximum="200" minimum="1" tag="wdth" default="1" name="width">
+   <labelname xml:lang="en">Width</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Dr Vivigray" stylename="Bold" filename="masters/DrVivigray-Bold.ufo" name="Bold">
+   <location>
+    <dimension xvalue="700" name="weight"/>
+    <dimension xvalue="1" name="width"/>
+   </location>
+  </source>
+  <source familyname="Dr Vivigray" stylename="Regular" filename="masters/DrVivigray-Regular.ufo" name="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension xvalue="400" name="weight"/>
+    <dimension xvalue="1" name="width"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>org.docrepair-fonts</key>
+   <dict>
+    <key>masters</key>
+    <array>
+     <string>mux_Light</string>
+     <string>mux_Regular</string>
+     <string>mux_Bold</string>
+     <string>mux_LightXCond</string>
+     <string>mux_RegularXCond</string>
+     <string>mux_BoldXCond</string>
+     <string>mux_LightCond</string>
+     <string>mux_RegularCond</string>
+     <string>mux_BoldCond</string>
+     <string>mux_LightXWide</string>
+     <string>mux_RegularXWide</string>
+     <string>mux_BoldXWide</string>
+     <string>mux_LightWide</string>
+     <string>mux_RegularWide</string>
+     <string>mux_BoldWide</string>
+    </array>
+    <key>vaxis</key>
+    <array>
+     <string>src_Light</string>
+     <string>src_Regular</string>
+     <string>src_Bold</string>
+    </array>
+   </dict>
+   <key>org.docrepair-fonts.fit</key>
+   <dict>
+    <key>Bold</key>
+    <string>mux_Bold</string>
+    <key>Regular</key>
+    <string>mux_Regular</string>
+   </dict>
+  </dict>
+ </lib>
+ <instances>
+  <instance familyname="Dr Vivigray" stylename="Regular" filename="instances/DrVivigray-Regular.ufo" name="Regular">
+   <location>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="Dr Vivigray" stylename="Bold" filename="instances/DrVivigray-Bold.ufo" name="Bold">
+   <location>
+    <dimension xvalue="100" name="width"/>
+    <dimension xvalue="700" name="weight"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

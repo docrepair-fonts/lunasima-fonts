@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="UpsilondieresishookSymbol" format="2">
+  <advance width="1303"/>
+  <unicode hex="03D4"/>
+  <anchor x="-127" y="1428" name="topleft"/>
+  <anchor x="576" y="1809" name="top"/>
+  <outline>
+    <component base="UpsilonhookSymbol"/>
+    <component base="dieresiscomb" xOffset="564" yOffset="352"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>UpsilonhookSymbol+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

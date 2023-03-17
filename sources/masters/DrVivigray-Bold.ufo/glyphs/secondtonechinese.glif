@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="secondtonechinese" format="2">
+  <advance width="561"/>
+  <unicode hex="02CA"/>
+  <outline>
+    <contour>
+      <point x="647" y="1532" type="line"/>
+      <point x="311" y="1532" type="line"/>
+      <point x="253" y="1442"/>
+      <point x="145" y="1312"/>
+      <point x="80" y="1238" type="curve"/>
+      <point x="80" y="1212" type="line"/>
+      <point x="280" y="1212" type="line"/>
+      <point x="382" y="1283"/>
+      <point x="571" y="1438"/>
+      <point x="647" y="1512" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w561m647,1532l311,1532c253,1442 145,1312 80,1238l80,1212l280,1212c382,1283 571,1438 647,1512</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1212 21</string>
+          <string>hstem 1532 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

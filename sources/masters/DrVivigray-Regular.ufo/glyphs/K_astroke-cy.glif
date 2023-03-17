@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="1337"/>
+  <unicode hex="049E"/>
+  <anchor x="627" y="0" name="bottom"/>
+  <anchor x="627" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="575" y="1107" type="line"/>
+      <point x="575" y="1257" type="line"/>
+      <point x="26" y="1257" type="line"/>
+      <point x="26" y="1107" type="line"/>
+    </contour>
+    <contour>
+      <point x="623" y="734" type="line"/>
+      <point x="1225" y="1428" type="line"/>
+      <point x="1000" y="1428" type="line"/>
+      <point x="392" y="736" type="line"/>
+      <point x="392" y="1428" type="line"/>
+      <point x="192" y="1428" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="725" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1253" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1337m575,1107l575,1257l26,1257l26,1107m623,734l1225,1428l1000,1428l392,736l392,1428l192,1428l192,0l392,0l392,725l1016,0l1253,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1100 158</string>
+          <string>hstem 1428 -20</string>
+          <string>vstem 208 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yangdepartingtone" format="2">
+  <advance width="785"/>
+  <unicode hex="02EB"/>
+  <outline>
+    <contour>
+      <point x="156" y="332" type="line"/>
+      <point x="288" y="332" type="line"/>
+      <point x="288" y="628" type="line"/>
+      <point x="680" y="628" type="line"/>
+      <point x="680" y="760" type="line"/>
+      <point x="288" y="760" type="line"/>
+      <point x="288" y="1056" type="line"/>
+      <point x="156" y="1056" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w785m156,332l288,332l288,628l680,628l680,760l288,760l288,1056l156,1056</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 332 21</string>
+          <string>hstem 628 132</string>
+          <string>hstem 1056 -20</string>
+          <string>vstem 156 132</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

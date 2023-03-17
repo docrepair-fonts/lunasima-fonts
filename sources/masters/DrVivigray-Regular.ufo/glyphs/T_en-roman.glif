@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ten-roman" format="2">
+  <advance width="1282"/>
+  <unicode hex="2169"/>
+  <outline>
+    <contour>
+      <point x="8" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="598" y="605" type="line"/>
+      <point x="964" y="0" type="line"/>
+      <point x="1197" y="0" type="line"/>
+      <point x="719" y="744" type="line"/>
+      <point x="1163" y="1428" type="line"/>
+      <point x="944" y="1428" type="line"/>
+      <point x="604" y="879" type="line"/>
+      <point x="264" y="1428" type="line"/>
+      <point x="38" y="1428" type="line"/>
+      <point x="482" y="743" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1282m8,0l227,0l598,605l964,0l1197,0l719,744l1163,1428l944,1428l604,879l264,1428l38,1428l482,743</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

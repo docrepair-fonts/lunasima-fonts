@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odotaccent" format="2">
+  <advance width="1591"/>
+  <unicode hex="022E"/>
+  <anchor x="799" y="0" name="bottom"/>
+  <anchor x="797" y="714" name="center"/>
+  <anchor x="1540" y="1428" name="topright"/>
+  <anchor x="797" y="1833" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotaccentcomb" xOffset="786" yOffset="352"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+dotaccentcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

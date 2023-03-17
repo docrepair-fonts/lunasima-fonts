@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colontriangularhalfmod" format="2">
+  <advance width="790"/>
+  <unicode hex="02D1"/>
+  <outline>
+    <contour>
+      <point x="500" y="1072" type="line"/>
+      <point x="144" y="1072" type="line"/>
+      <point x="322" y="794" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w790m500,1072l144,1072l322,794</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 794 21</string>
+          <string>hstem 1072 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

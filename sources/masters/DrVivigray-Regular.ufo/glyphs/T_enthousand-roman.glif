@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tenthousand-roman" format="2">
+  <advance width="2131"/>
+  <unicode hex="2182"/>
+  <outline>
+    <contour>
+      <point x="846" y="0" type="curve" smooth="yes"/>
+      <point x="1465" y="0" type="line" smooth="yes"/>
+      <point x="1935" y="0"/>
+      <point x="2215" y="248"/>
+      <point x="2215" y="735" type="curve" smooth="yes"/>
+      <point x="2215" y="1194"/>
+      <point x="1942" y="1438"/>
+      <point x="1506" y="1438" type="curve" smooth="yes"/>
+      <point x="805" y="1438" type="line" smooth="yes"/>
+      <point x="370" y="1438"/>
+      <point x="96" y="1194"/>
+      <point x="96" y="735" type="curve" smooth="yes"/>
+      <point x="96" y="248"/>
+      <point x="376" y="0"/>
+    </contour>
+    <contour>
+      <point x="859" y="185" type="line" smooth="yes"/>
+      <point x="500" y="185"/>
+      <point x="319" y="369"/>
+      <point x="319" y="729" type="curve" smooth="yes"/>
+      <point x="319" y="1088"/>
+      <point x="501" y="1253"/>
+      <point x="823" y="1253" type="curve" smooth="yes"/>
+      <point x="1050" y="1253" type="line"/>
+      <point x="1050" y="1123" type="line"/>
+      <point x="900" y="1123" type="line" smooth="yes"/>
+      <point x="658" y="1123"/>
+      <point x="504" y="986"/>
+      <point x="504" y="728" type="curve" smooth="yes"/>
+      <point x="504" y="457"/>
+      <point x="658" y="317"/>
+      <point x="923" y="317" type="curve" smooth="yes"/>
+      <point x="1050" y="317" type="line"/>
+      <point x="1050" y="185" type="line"/>
+    </contour>
+    <contour>
+      <point x="960" y="422" type="line" smooth="yes"/>
+      <point x="759" y="422"/>
+      <point x="657" y="525"/>
+      <point x="657" y="724" type="curve" smooth="yes"/>
+      <point x="657" y="925"/>
+      <point x="759" y="1017"/>
+      <point x="940" y="1017" type="curve" smooth="yes"/>
+      <point x="1050" y="1017" type="line"/>
+      <point x="1050" y="422" type="line"/>
+    </contour>
+    <contour>
+      <point x="1262" y="422" type="line"/>
+      <point x="1262" y="1017" type="line"/>
+      <point x="1371" y="1017" type="line" smooth="yes"/>
+      <point x="1553" y="1017"/>
+      <point x="1655" y="925"/>
+      <point x="1655" y="724" type="curve" smooth="yes"/>
+      <point x="1655" y="525"/>
+      <point x="1553" y="422"/>
+      <point x="1352" y="422" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1262" y="185" type="line"/>
+      <point x="1262" y="317" type="line"/>
+      <point x="1389" y="317" type="line" smooth="yes"/>
+      <point x="1653" y="317"/>
+      <point x="1810" y="457"/>
+      <point x="1810" y="728" type="curve" smooth="yes"/>
+      <point x="1810" y="986"/>
+      <point x="1654" y="1123"/>
+      <point x="1412" y="1123" type="curve" smooth="yes"/>
+      <point x="1262" y="1123" type="line"/>
+      <point x="1262" y="1253" type="line"/>
+      <point x="1489" y="1253" type="line" smooth="yes"/>
+      <point x="1812" y="1253"/>
+      <point x="1993" y="1088"/>
+      <point x="1993" y="729" type="curve" smooth="yes"/>
+      <point x="1993" y="369"/>
+      <point x="1812" y="185"/>
+      <point x="1453" y="185" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bad1c589ac231f5284707b73f1a83d83de7f802fec9202d49d6170ff86a573a021ca86d37a87b04f1d5ebc2447b15bad3f664726c4b4e04c60dd788cb2bb11be</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 174</string>
+          <string>hstem 310 98</string>
+          <string>hstem 1030 100</string>
+          <string>hstem 1264 174</string>
+          <string>vstem 85 202</string>
+          <string>vstem 483 146</string>
+          <string>vstem 1053 194</string>
+          <string>vstem 1671 148</string>
+          <string>vstem 2013 202</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

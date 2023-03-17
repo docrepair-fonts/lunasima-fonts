@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kahook-cy" format="2">
+  <advance width="1203"/>
+  <unicode hex="04C4"/>
+  <anchor x="632" y="-472" name="bottom"/>
+  <anchor x="632" y="1086" name="top"/>
+  <outline>
+    <contour>
+      <point x="1205" y="88" type="curve" smooth="yes"/>
+      <point x="1205" y="427"/>
+      <point x="1032" y="601"/>
+      <point x="742" y="612" type="curve"/>
+      <point x="1184" y="1089" type="line"/>
+      <point x="853" y="1089" type="line"/>
+      <point x="431" y="599" type="line"/>
+      <point x="431" y="1089" type="line"/>
+      <point x="132" y="1089" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="431" y="388" type="line"/>
+      <point x="479" y="401"/>
+      <point x="539" y="412"/>
+      <point x="609" y="412" type="curve" smooth="yes"/>
+      <point x="801" y="412"/>
+      <point x="902" y="304"/>
+      <point x="902" y="74" type="curve" smooth="yes"/>
+      <point x="902" y="-165"/>
+      <point x="801" y="-266"/>
+      <point x="660" y="-266" type="curve" smooth="yes"/>
+      <point x="589" y="-266"/>
+      <point x="537" y="-245"/>
+      <point x="489" y="-219" type="curve"/>
+      <point x="489" y="-423" type="line"/>
+      <point x="547" y="-454"/>
+      <point x="612" y="-472"/>
+      <point x="706" y="-472" type="curve" smooth="yes"/>
+      <point x="999" y="-472"/>
+      <point x="1205" y="-291"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>401b44d981a403624512fc5a22badf003a6dba7a99fb67b8f6af381cef27e391b012dd65ddfa464acf45dae01421d2b753106d7f2fd7b9698e6d46c39e93f191</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -448 286</string>
+          <string>hstem 0 21</string>
+          <string>hstem 1106 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vtilde" format="2">
+  <advance width="1060"/>
+  <unicode hex="1E7D"/>
+  <anchor x="526" y="0" name="bottom"/>
+  <anchor x="1018" y="1072" name="topright"/>
+  <anchor x="526" y="1465" name="top"/>
+  <outline>
+    <component base="v"/>
+    <component base="tildecomb" xOffset="1137" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>v+tildecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

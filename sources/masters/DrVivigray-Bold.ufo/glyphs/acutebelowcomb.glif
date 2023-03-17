@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutebelowcomb" format="2">
+  <unicode hex="0317"/>
+  <anchor x="-46" y="0" name="_bottom"/>
+  <anchor x="-42" y="-408" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="237" y="-88" type="line"/>
+      <point x="-99" y="-88" type="line"/>
+      <point x="-157" y="-178"/>
+      <point x="-266" y="-308"/>
+      <point x="-330" y="-382" type="curve"/>
+      <point x="-330" y="-408" type="line"/>
+      <point x="-131" y="-408" type="line"/>
+      <point x="-28" y="-337"/>
+      <point x="161" y="-182"/>
+      <point x="237" y="-108" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m237,-88l-99,-88c-157,-178 -266,-308 -330,-382l-330,-408l-131,-408c-28,-337 161,-182 237,-108</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -408 21</string>
+          <string>hstem -88 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

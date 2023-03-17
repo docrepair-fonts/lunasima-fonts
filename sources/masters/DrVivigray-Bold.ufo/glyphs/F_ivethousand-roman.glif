@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fivethousand-roman" format="2">
+  <advance width="1624"/>
+  <unicode hex="2181"/>
+  <outline>
+    <contour>
+      <point x="154" y="0" type="line"/>
+      <point x="597" y="0" type="line" smooth="yes"/>
+      <point x="1059" y="0"/>
+      <point x="1347" y="249"/>
+      <point x="1347" y="738" type="curve" smooth="yes"/>
+      <point x="1347" y="1190"/>
+      <point x="1082" y="1436"/>
+      <point x="633" y="1436" type="curve" smooth="yes"/>
+      <point x="154" y="1436" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="473" type="line"/>
+      <point x="453" y="967" type="line"/>
+      <point x="529" y="967" type="line" smooth="yes"/>
+      <point x="650" y="967"/>
+      <point x="719" y="891"/>
+      <point x="719" y="724" type="curve" smooth="yes"/>
+      <point x="719" y="557"/>
+      <point x="649" y="473"/>
+      <point x="511" y="473" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="453" y="225" type="line"/>
+      <point x="453" y="342" type="line"/>
+      <point x="542" y="342" type="line" smooth="yes"/>
+      <point x="769" y="342"/>
+      <point x="901" y="473"/>
+      <point x="901" y="726" type="curve" smooth="yes"/>
+      <point x="901" y="969"/>
+      <point x="769" y="1098"/>
+      <point x="562" y="1098" type="curve" smooth="yes"/>
+      <point x="453" y="1098" type="line"/>
+      <point x="453" y="1211" type="line"/>
+      <point x="628" y="1211" type="line" smooth="yes"/>
+      <point x="896" y="1211"/>
+      <point x="1038" y="1058"/>
+      <point x="1038" y="728" type="curve" smooth="yes"/>
+      <point x="1038" y="393"/>
+      <point x="895" y="225"/>
+      <point x="597" y="225" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5193ceaa5c4a70ce9031784307a85064695347dde3a3fae3bc31b48524302444f89f841631b0c84aaf26c3d0accca43804cf38362b29f4e849dc53bd2984cb95</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 296</string>
+          <string>hstem 388 174</string>
+          <string>hstem 876 174</string>
+          <string>hstem 1136 292</string>
+          <string>vstem 682 206</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

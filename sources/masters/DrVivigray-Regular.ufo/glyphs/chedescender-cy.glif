@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="1135"/>
+  <unicode hex="04B7"/>
+  <anchor x="643" y="-375" name="bottom"/>
+  <anchor x="643" y="1076" name="top"/>
+  <outline>
+    <contour>
+      <point x="881" y="1076" type="line"/>
+      <point x="881" y="615" type="line"/>
+      <point x="770" y="549"/>
+      <point x="670" y="508"/>
+      <point x="542" y="508" type="curve" smooth="yes"/>
+      <point x="415" y="508"/>
+      <point x="348" y="565"/>
+      <point x="348" y="686" type="curve" smooth="yes"/>
+      <point x="348" y="1076" type="line"/>
+      <point x="148" y="1076" type="line"/>
+      <point x="148" y="673" type="line" smooth="yes"/>
+      <point x="148" y="474"/>
+      <point x="278" y="351"/>
+      <point x="500" y="351" type="curve" smooth="yes"/>
+      <point x="660" y="351"/>
+      <point x="766" y="397"/>
+      <point x="881" y="472" type="curve"/>
+      <point x="881" y="0" type="line"/>
+      <point x="1057" y="0" type="line"/>
+      <point x="1057" y="-375" type="line"/>
+      <point x="1250" y="-375" type="line"/>
+      <point x="1250" y="159" type="line"/>
+      <point x="1081" y="159" type="line"/>
+      <point x="1081" y="1076" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8c5c997753b96793d3e813e656d5dbb9aa5aea82c35e9f28b9d103f937b1c5325d92d8fcef69348f2dd4bd4f1df1a4e6c86ee47578b66a3fda78efa2107fe801</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -372 21</string>
+          <string>hstem 0 21</string>
+          <string>hstem 354 144</string>
+          <string>hstem 1072 -20</string>
+          <string>vstem 243 176</string>
+          <string>vstem 975 176</string>
+          <string>vstem 1135 174</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

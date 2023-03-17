@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overlinecomb" format="2">
+  <unicode hex="0305"/>
+  <anchor x="2" y="1262" name="_top"/>
+  <anchor x="2" y="1684" name="top"/>
+  <outline>
+    <contour>
+      <point x="-416" y="1499" type="line"/>
+      <point x="418" y="1499" type="line"/>
+      <point x="418" y="1684" type="line"/>
+      <point x="-416" y="1684" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-416,1499l418,1499l418,1684l-416,1684</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1436 248</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

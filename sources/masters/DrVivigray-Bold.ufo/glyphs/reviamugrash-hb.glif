@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reviamugrash-hb" format="2">
+  <unicode hex="0597"/>
+  <anchor x="394" y="1106" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="397" y="1461" type="line"/>
+      <point x="249" y="1623" type="line"/>
+      <point x="100" y="1461" type="line"/>
+      <point x="249" y="1300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m397,1461l249,1623l100,1461l249,1300</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1300 21</string>
+          <string>hstem 1640 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

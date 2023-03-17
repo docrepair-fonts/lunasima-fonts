@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shoulderedopenbox" format="2">
+  <advance width="654"/>
+  <unicode hex="237D"/>
+  <note>
+uni237D</note>
+  <outline>
+    <contour>
+      <point x="342" y="-418" type="line"/>
+      <point x="1528" y="-418" type="line"/>
+      <point x="1528" y="80" type="line"/>
+      <point x="1384" y="80" type="line"/>
+      <point x="1384" y="-276" type="line"/>
+      <point x="486" y="-276" type="line"/>
+      <point x="486" y="80" type="line"/>
+      <point x="342" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="142" type="line"/>
+      <point x="102" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="1384" y="0" type="line"/>
+      <point x="1768" y="0" type="line"/>
+      <point x="1768" y="142" type="line"/>
+      <point x="1384" y="142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.verticalOrigin</key>
+  <real>1069</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.736,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7430e0f429cea9cd2e540210ec76a0cb7dcfaa4bf6ac3d1ae35c7a1afd02b15d4b7eb43ee4d70c696988682ccca6cd5820ac8c5833df4e88d3237b557efc1ec5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -418 142</string>
+          <string>hstem 0 142</string>
+          <string>vstem 342 144</string>
+          <string>vstem 1384 144</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

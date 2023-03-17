@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pismall" format="2">
+  <advance width="1431"/>
+  <unicode hex="1D28"/>
+  <outline>
+    <contour>
+      <point x="1006" y="1084" type="line"/>
+      <point x="120" y="1084" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="373" y="899" type="line"/>
+      <point x="755" y="899" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="1006" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1431m1006,1084l120,1084l120,0l373,0l373,899l755,899l755,0l1006,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 856 244</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

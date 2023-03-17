@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vav-hb" format="2">
+  <advance width="655"/>
+  <unicode hex="05D5"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="36" y="0" name="bottomleft"/>
+  <anchor x="26" y="602" name="center"/>
+  <anchor x="272" y="1076" name="top"/>
+  <anchor x="272" y="1076" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="374" y="0" type="line"/>
+      <point x="374" y="1188" type="line"/>
+      <point x="170" y="1188" type="line"/>
+      <point x="170" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="213" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w655m374,0l374,1188l170,1188l170,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1184 -20</string>
+          <string>vstem 213 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

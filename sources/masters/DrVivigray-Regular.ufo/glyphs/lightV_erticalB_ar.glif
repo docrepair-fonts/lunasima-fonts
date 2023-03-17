@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightVerticalBar" format="2">
+  <advance width="592"/>
+  <unicode hex="2758"/>
+  <note>
+uni2758
+</note>
+  <outline>
+    <contour>
+      <point x="102" y="-184" type="line"/>
+      <point x="318" y="-184" type="line"/>
+      <point x="318" y="1584" type="line"/>
+      <point x="102" y="1584" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,1,0.602,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -184 21</string>
+              <string>hstem 1584 -20</string>
+              <string>vstem 102 216</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w420m102,-184l318,-184l318,1584l102,1584</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <real>1069.0</real>
+    </dict>
+  </lib>
+</glyph>

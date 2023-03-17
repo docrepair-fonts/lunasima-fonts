@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohookabove" format="2">
+  <advance width="1258"/>
+  <unicode hex="1ECF"/>
+  <anchor x="609" y="0" name="bottom"/>
+  <anchor x="613" y="1645" name="top"/>
+  <outline>
+    <contour>
+      <point x="1116" y="540" type="curve" smooth="yes"/>
+      <point x="1116" y="895"/>
+      <point x="908" y="1096"/>
+      <point x="615" y="1096" type="curve" smooth="yes"/>
+      <point x="303" y="1096"/>
+      <point x="110" y="895"/>
+      <point x="110" y="540" type="curve" smooth="yes"/>
+      <point x="110" y="183"/>
+      <point x="321" y="-20"/>
+      <point x="609" y="-20" type="curve" smooth="yes"/>
+      <point x="920" y="-20"/>
+      <point x="1116" y="183"/>
+    </contour>
+    <contour>
+      <point x="316" y="540" type="curve" smooth="yes"/>
+      <point x="316" y="788"/>
+      <point x="405" y="935"/>
+      <point x="611" y="935" type="curve" smooth="yes"/>
+      <point x="818" y="935"/>
+      <point x="910" y="788"/>
+      <point x="910" y="540" type="curve" smooth="yes"/>
+      <point x="910" y="292"/>
+      <point x="818" y="139"/>
+      <point x="613" y="139" type="curve" smooth="yes"/>
+      <point x="407" y="139"/>
+      <point x="316" y="292"/>
+    </contour>
+    <contour>
+      <point x="841" y="1459" type="curve" smooth="yes"/>
+      <point x="841" y="1584"/>
+      <point x="749" y="1645"/>
+      <point x="585" y="1645" type="curve" smooth="yes"/>
+      <point x="532" y="1645"/>
+      <point x="489" y="1640"/>
+      <point x="463" y="1632" type="curve"/>
+      <point x="463" y="1519" type="line"/>
+      <point x="488" y="1524"/>
+      <point x="526" y="1529"/>
+      <point x="563" y="1529" type="curve" smooth="yes"/>
+      <point x="633" y="1529"/>
+      <point x="686" y="1512"/>
+      <point x="686" y="1450" type="curve" smooth="yes"/>
+      <point x="686" y="1390"/>
+      <point x="629" y="1363"/>
+      <point x="534" y="1348" type="curve"/>
+      <point x="549" y="1182" type="line"/>
+      <point x="668" y="1182" type="line"/>
+      <point x="678" y="1283" type="line"/>
+      <point x="773" y="1305"/>
+      <point x="841" y="1358"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>eb48f190f91569bd848db117a050f438402db0324c8a03495f2f270796aa2de43c8c87c87b0f58ddfa72def9d0a034adba60389c99f00ac520215b31d760a983</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 146</string>
+          <string>hstem 944 148</string>
+          <string>hstem 1180 462</string>
+          <string>hstem 1534 108</string>
+          <string>vstem 148 182</string>
+          <string>vstem 730 136</string>
+          <string>vstem 958 182</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

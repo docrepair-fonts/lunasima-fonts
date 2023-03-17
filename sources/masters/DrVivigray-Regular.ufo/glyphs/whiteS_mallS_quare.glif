@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteSmallSquare" format="2">
+  <advance width="1036"/>
+  <unicode hex="25AB"/>
+  <outline>
+    <contour>
+      <point x="1198" y="958" type="line"/>
+      <point x="1198" y="562" type="line"/>
+      <point x="802" y="562" type="line"/>
+      <point x="802" y="958" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.863,1,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 562 396</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w2000m1198,958l1198,562l802,562l802,958</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

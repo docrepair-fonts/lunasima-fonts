@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinemod" format="2">
+  <advance width="395"/>
+  <unicode hex="02C8"/>
+  <anchor x="180" y="886" name="_top"/>
+  <anchor x="185" y="1534" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="1534" type="line"/>
+      <point x="80" y="992" type="line"/>
+      <point x="280" y="992" type="line"/>
+      <point x="280" y="1534" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w395m80,1534l80,992l280,992l280,1534</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 992 21</string>
+          <string>hstem 1552 -20</string>
+          <string>vstem 80 226</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equivalence" format="2">
+  <advance width="2000"/>
+  <unicode hex="2261"/>
+  <outline>
+    <contour>
+      <point x="1700" y="1312" type="line"/>
+      <point x="300" y="1312" type="line"/>
+      <point x="300" y="1092" type="line"/>
+      <point x="1700" y="1092" type="line"/>
+    </contour>
+    <contour>
+      <point x="1700" y="872" type="line"/>
+      <point x="300" y="872" type="line"/>
+      <point x="300" y="652" type="line"/>
+      <point x="1700" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="1700" y="432" type="line"/>
+      <point x="300" y="432" type="line"/>
+      <point x="300" y="212" type="line"/>
+      <point x="1700" y="212" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w2000m1700,1312l300,1312l300,1092l1700,1092m1700,872l300,872l300,652l1700,652m1700,432l300,432l300,212l1700,212</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 212 220</string>
+          <string>hstem 652 220</string>
+          <string>hstem 1092 220</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

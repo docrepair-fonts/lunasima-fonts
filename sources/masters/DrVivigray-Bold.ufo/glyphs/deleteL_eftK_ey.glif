@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deleteLeftKey" format="2">
+  <advance width="2677"/>
+  <unicode hex="232B"/>
+  <note>
+uni232B</note>
+  <outline>
+    <contour>
+      <point x="706" y="0" type="line"/>
+      <point x="2292" y="0" type="line"/>
+      <point x="2292" y="1388" type="line"/>
+      <point x="706" y="1388" type="line"/>
+      <point x="102" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="780" y="142" type="line"/>
+      <point x="296" y="694" type="line"/>
+      <point x="780" y="1246" type="line"/>
+      <point x="2148" y="1246" type="line"/>
+      <point x="2148" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="1070" y="220" type="line"/>
+      <point x="1420" y="588" type="line"/>
+      <point x="1770" y="220" type="line"/>
+      <point x="1876" y="320" type="line"/>
+      <point x="1520" y="694" type="line"/>
+      <point x="1876" y="1068" type="line"/>
+      <point x="1772" y="1168" type="line"/>
+      <point x="1420" y="798" type="line"/>
+      <point x="1068" y="1168" type="line"/>
+      <point x="964" y="1068" type="line"/>
+      <point x="1320" y="694" type="line"/>
+      <point x="964" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.verticalOrigin</key>
+  <real>1069</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.736,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a61d460562f0e25ef694df34692146416fb3b76bbd96885cd5c5bd04a0568ee9c97a325cc7670f27d1b185926a996184aeaab24516673ae2f22a0b97f6f1f4ee</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 142</string>
+          <string>hstem 1246 142</string>
+          <string>vstem 2148 144</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

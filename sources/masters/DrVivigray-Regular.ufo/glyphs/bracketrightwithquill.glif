@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketrightwithquill" format="2">
+  <advance width="666"/>
+  <unicode hex="2046"/>
+  <outline>
+    <contour>
+      <point x="504" y="-317" type="line"/>
+      <point x="504" y="1432" type="line"/>
+      <point x="52" y="1432" type="line"/>
+      <point x="52" y="1279" type="line"/>
+      <point x="316" y="1279" type="line"/>
+      <point x="316" y="-164" type="line"/>
+      <point x="52" y="-164" type="line"/>
+      <point x="52" y="-317" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="487" type="line"/>
+      <point x="467" y="637" type="line"/>
+      <point x="48" y="637" type="line"/>
+      <point x="48" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w666m504,-317l504,1432l52,1432l52,1279l316,1279l316,-164l52,-164l52,-317m467,487l467,637l48,637l48,487</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -316 144</string>
+          <string>hstem 488 140</string>
+          <string>hstem 1284 144</string>
+          <string>vstem 328 172</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

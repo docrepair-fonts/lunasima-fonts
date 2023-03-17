@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edblgrave" format="2">
+  <advance width="1141"/>
+  <unicode hex="0205"/>
+  <anchor x="609" y="0" name="bottom"/>
+  <anchor x="1091" y="1072" name="topright"/>
+  <anchor x="577" y="1528" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="dblgravecomb" xOffset="1149" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+dblgravecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegapsiliperispomeni" format="2">
+  <advance width="2076"/>
+  <unicode hex="1F6E"/>
+  <anchor x="731" y="0" name="bottom"/>
+  <anchor x="731" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="604" y="0" type="line"/>
+      <point x="604" y="137" type="line"/>
+      <point x="364" y="314"/>
+      <point x="283" y="489"/>
+      <point x="283" y="763" type="curve" smooth="yes"/>
+      <point x="283" y="1073"/>
+      <point x="426" y="1300"/>
+      <point x="731" y="1300" type="curve" smooth="yes"/>
+      <point x="1038" y="1300"/>
+      <point x="1183" y="1074"/>
+      <point x="1183" y="763" type="curve" smooth="yes"/>
+      <point x="1183" y="492"/>
+      <point x="1098" y="312"/>
+      <point x="858" y="137" type="curve"/>
+      <point x="858" y="0" type="line"/>
+      <point x="1403" y="0" type="line"/>
+      <point x="1403" y="150" type="line"/>
+      <point x="1091" y="150" type="line"/>
+      <point x="1246" y="263"/>
+      <point x="1391" y="465"/>
+      <point x="1391" y="770" type="curve" smooth="yes"/>
+      <point x="1391" y="1165"/>
+      <point x="1154" y="1450"/>
+      <point x="731" y="1450" type="curve" smooth="yes"/>
+      <point x="313" y="1450"/>
+      <point x="73" y="1161"/>
+      <point x="73" y="769" type="curve" smooth="yes"/>
+      <point x="73" y="465"/>
+      <point x="220" y="263"/>
+      <point x="374" y="150" type="curve"/>
+      <point x="61" y="150" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-321" y="771" type="line"/>
+      <point x="-240" y="816"/>
+      <point x="-176" y="879"/>
+      <point x="-176" y="971" type="curve" smooth="yes"/>
+      <point x="-176" y="1078"/>
+      <point x="-251" y="1123"/>
+      <point x="-367" y="1123" type="curve" smooth="yes"/>
+      <point x="-416" y="1123"/>
+      <point x="-447" y="1112"/>
+      <point x="-463" y="1106" type="curve"/>
+      <point x="-463" y="999" type="line"/>
+      <point x="-453" y="1003"/>
+      <point x="-434" y="1010"/>
+      <point x="-408" y="1010" type="curve" smooth="yes"/>
+      <point x="-370" y="1010"/>
+      <point x="-330" y="994"/>
+      <point x="-330" y="935" type="curve" smooth="yes"/>
+      <point x="-330" y="888"/>
+      <point x="-362" y="844"/>
+      <point x="-406" y="813" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-583" y="1183" type="line"/>
+      <point x="-565" y="1264"/>
+      <point x="-537" y="1301"/>
+      <point x="-477" y="1301" type="curve" smooth="yes"/>
+      <point x="-388" y="1301"/>
+      <point x="-282" y="1185"/>
+      <point x="-170" y="1185" type="curve" smooth="yes"/>
+      <point x="-43" y="1185"/>
+      <point x="34" y="1282"/>
+      <point x="50" y="1436" type="curve"/>
+      <point x="-57" y="1436" type="line"/>
+      <point x="-76" y="1355"/>
+      <point x="-105" y="1318"/>
+      <point x="-163" y="1318" type="curve" smooth="yes"/>
+      <point x="-249" y="1318"/>
+      <point x="-353" y="1434"/>
+      <point x="-469" y="1434" type="curve" smooth="yes"/>
+      <point x="-597" y="1434"/>
+      <point x="-676" y="1339"/>
+      <point x="-692" y="1183" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Omega+psiliperispomeni.case</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

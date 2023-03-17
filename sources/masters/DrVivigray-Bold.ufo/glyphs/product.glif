@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product" format="2">
+  <advance width="1628"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="342" y="1452" type="line"/>
+      <point x="342" y="-274" type="line"/>
+      <point x="700" y="-274" type="line"/>
+      <point x="700" y="1142" type="line"/>
+      <point x="1302" y="1142" type="line"/>
+      <point x="1302" y="-274" type="line"/>
+      <point x="1660" y="-274" type="line"/>
+      <point x="1660" y="1452" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.863,1,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -274 21</string>
+              <string>hstem 1142 310</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w2000m342,1452l342,-274l700,-274l700,1142l1302,1142l1302,-274l1660,-274l1660,1452</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

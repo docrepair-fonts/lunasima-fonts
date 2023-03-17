@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dehi-hb" format="2">
+  <unicode hex="05AD"/>
+  <anchor x="150" y="0" name="_bottomleft"/>
+  <outline>
+    <contour>
+      <point x="404" y="-378" type="line"/>
+      <point x="278" y="-378"/>
+      <point x="202" y="-309"/>
+      <point x="202" y="-194" type="curve"/>
+      <point x="100" y="-194" type="line"/>
+      <point x="100" y="-372"/>
+      <point x="212" y="-477"/>
+      <point x="404" y="-477" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m404,-378c278,-378 202,-309 202,-194l100,-194c100,-372 212,-477 404,-477</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 98</string>
+          <string>hstem -200 -20</string>
+          <string>vstem 100 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

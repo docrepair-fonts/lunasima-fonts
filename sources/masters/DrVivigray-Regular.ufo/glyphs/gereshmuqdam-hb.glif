@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gereshmuqdam-hb" format="2">
+  <unicode hex="059D"/>
+  <anchor x="300" y="1072" name="_top"/>
+  <outline>
+    <contour>
+      <point x="202" y="1298" type="line"/>
+      <point x="202" y="1415"/>
+      <point x="278" y="1482"/>
+      <point x="404" y="1482" type="curve"/>
+      <point x="404" y="1582" type="line"/>
+      <point x="214" y="1582"/>
+      <point x="100" y="1478"/>
+      <point x="100" y="1298" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m202,1298c202,1415 278,1482 404,1482l404,1582c214,1582 100,1478 100,1298</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1300 21</string>
+          <string>hstem 1482 100</string>
+          <string>vstem 100 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

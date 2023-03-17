@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gradient" format="2">
+  <advance width="1502"/>
+  <unicode hex="2207"/>
+  <outline>
+    <contour>
+      <point x="266" y="1250" type="line"/>
+      <point x="776" y="-22" type="line"/>
+      <point x="1224" y="-22" type="line"/>
+      <point x="1734" y="1250" type="line"/>
+      <point x="1734" y="1466" type="line"/>
+      <point x="266" y="1466" type="line"/>
+    </contour>
+    <contour>
+      <point x="1328" y="1166" type="line"/>
+      <point x="1148" y="686" type="line"/>
+      <point x="996" y="248" type="line"/>
+      <point x="986" y="248" type="line"/>
+      <point x="836" y="686" type="line"/>
+      <point x="662" y="1166" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.863,1,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -22 21</string>
+              <string>hstem 1166 300</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w2000m266,1250l776,-22l1224,-22l1734,1250l1734,1466l266,1466m1328,1166l1148,686l996,248l986,248l836,686l662,1166</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gheupturn-cy" format="2">
+  <advance width="1083"/>
+  <unicode hex="0490"/>
+  <anchor x="563" y="0" name="bottom"/>
+  <anchor x="563" y="1729" name="top"/>
+  <outline>
+    <contour>
+      <point x="762" y="1729" type="line"/>
+      <point x="762" y="1428" type="line"/>
+      <point x="184" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="1190" type="line"/>
+      <point x="1040" y="1190" type="line"/>
+      <point x="1040" y="1729" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1083m762,1729l762,1428l184,1428l184,0l504,0l504,1190l1040,1190l1040,1729</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1116 312</string>
+          <string>hstem 1734 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

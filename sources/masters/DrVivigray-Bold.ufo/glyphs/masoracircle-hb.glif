@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="masoracircle-hb" format="2">
+  <unicode hex="05AF"/>
+  <anchor x="302" y="1106" name="_top"/>
+  <outline>
+    <contour>
+      <point x="295" y="1286" type="curve" smooth="yes"/>
+      <point x="405" y="1286"/>
+      <point x="490" y="1371"/>
+      <point x="490" y="1477" type="curve" smooth="yes"/>
+      <point x="490" y="1583"/>
+      <point x="403" y="1668"/>
+      <point x="295" y="1668" type="curve" smooth="yes"/>
+      <point x="187" y="1668"/>
+      <point x="100" y="1583"/>
+      <point x="100" y="1477" type="curve" smooth="yes"/>
+      <point x="100" y="1371"/>
+      <point x="185" y="1286"/>
+    </contour>
+    <contour>
+      <point x="295" y="1375" type="curve" smooth="yes"/>
+      <point x="238" y="1375"/>
+      <point x="191" y="1421"/>
+      <point x="191" y="1477" type="curve" smooth="yes"/>
+      <point x="191" y="1534"/>
+      <point x="240" y="1579"/>
+      <point x="295" y="1579" type="curve" smooth="yes"/>
+      <point x="351" y="1579"/>
+      <point x="399" y="1534"/>
+      <point x="399" y="1477" type="curve" smooth="yes"/>
+      <point x="399" y="1421"/>
+      <point x="353" y="1375"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fea849b0e95c1a643dc1aa04e1a65dc2a0bb65ce4872f810ca3be692949c2914ff31158d8740c2bba3a2b1269984d01fa3c19982b22043b40467dec39fdea145</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1264 94</string>
+          <string>hstem 1574 94</string>
+          <string>vstem 100 94</string>
+          <string>vstem 410 94</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

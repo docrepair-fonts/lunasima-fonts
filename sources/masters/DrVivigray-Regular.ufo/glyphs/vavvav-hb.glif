@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vavvav-hb" format="2">
+  <advance width="1261"/>
+  <unicode hex="05F0"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="9" y="0" name="bottomleft"/>
+  <anchor x="564" y="0" name="caret_1"/>
+  <anchor x="-1" y="602" name="center"/>
+  <anchor x="292" y="1076" name="top"/>
+  <anchor x="248" y="1076" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="968" y="0" type="line"/>
+      <point x="968" y="1188" type="line"/>
+      <point x="764" y="1188" type="line"/>
+      <point x="764" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="0" type="line"/>
+      <point x="394" y="1188" type="line"/>
+      <point x="190" y="1188" type="line"/>
+      <point x="190" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1261m968,0l968,1188l764,1188l764,0m394,0l394,1188l190,1188l190,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1184 -20</string>
+          <string>vstem 247 180</string>
+          <string>vstem 807 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

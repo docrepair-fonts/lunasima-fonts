@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+  <advance width="1351"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="340" y="1428" type="line"/>
+      <point x="9" y="1428" type="line"/>
+      <point x="457" y="714" type="line"/>
+      <point x="197" y="714" type="line"/>
+      <point x="197" y="534" type="line"/>
+      <point x="524" y="534" type="line"/>
+      <point x="524" y="404" type="line"/>
+      <point x="197" y="404" type="line"/>
+      <point x="197" y="225" type="line"/>
+      <point x="524" y="225" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="828" y="0" type="line"/>
+      <point x="828" y="225" type="line"/>
+      <point x="1153" y="225" type="line"/>
+      <point x="1153" y="404" type="line"/>
+      <point x="828" y="404" type="line"/>
+      <point x="828" y="534" type="line"/>
+      <point x="1153" y="534" type="line"/>
+      <point x="1153" y="714" type="line"/>
+      <point x="888" y="714" type="line"/>
+      <point x="1342" y="1428" type="line"/>
+      <point x="1013" y="1428" type="line"/>
+      <point x="676" y="868" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d199f71010e5c487ac0457ed5a0b04ac5eaa5caa5314746de6ebbb92cbe55551f87e11c300baa388008c51d060890be959d520bcba16d89c64b8be777f12af18</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 208 204</string>
+          <string>hstem 526 206</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

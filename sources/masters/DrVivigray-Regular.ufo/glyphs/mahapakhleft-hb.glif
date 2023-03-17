@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mahapakhleft-hb" format="2">
+  <unicode hex="05A4"/>
+  <anchor x="334" y="0" name="_bottomleft"/>
+  <outline>
+    <contour>
+      <point x="404" y="-500" type="line"/>
+      <point x="236" y="-332" type="line"/>
+      <point x="404" y="-165" type="line"/>
+      <point x="268" y="-165" type="line"/>
+      <point x="100" y="-332" type="line"/>
+      <point x="268" y="-500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m404,-500l236,-332l404,-165l268,-165l100,-332l268,-500</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -500 21</string>
+          <string>hstem -168 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

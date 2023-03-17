@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilonvaria" format="2">
+  <advance width="1640"/>
+  <unicode hex="1FC8"/>
+  <outline>
+    <contour>
+      <point x="920" y="200" type="line"/>
+      <point x="392" y="200" type="line"/>
+      <point x="392" y="643" type="line"/>
+      <point x="885" y="643" type="line"/>
+      <point x="885" y="843" type="line"/>
+      <point x="392" y="843" type="line"/>
+      <point x="392" y="1228" type="line"/>
+      <point x="920" y="1228" type="line"/>
+      <point x="920" y="1428" type="line"/>
+      <point x="93" y="1428" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="920" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-118" y="1088" type="line"/>
+      <point x="-118" y="1114" type="line"/>
+      <point x="-212" y="1428" type="line"/>
+      <point x="-532" y="1428" type="line"/>
+      <point x="-532" y="1408" type="line"/>
+      <point x="-302" y="1088" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Epsilon+varia.case</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

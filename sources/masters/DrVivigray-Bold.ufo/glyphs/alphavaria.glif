@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphavaria" format="2">
+  <advance width="1499"/>
+  <unicode hex="1F70"/>
+  <anchor x="688" y="0" name="bottom"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="varia" xOffset="232" yOffset="-11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>alpha+varia</string>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

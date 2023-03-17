@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresis" format="2">
+  <advance width="1234"/>
+  <unicode hex="03CB"/>
+  <anchor x="594" y="0" name="bottom"/>
+  <anchor x="584" y="1453" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresiscomb" xOffset="572" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>upsilon+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+  <advance width="1351"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="825" y="768" type="line"/>
+      <point x="765" y="969" type="line"/>
+      <point x="1222" y="939" type="line"/>
+      <point x="1222" y="1182" type="line"/>
+      <point x="765" y="1152" type="line"/>
+      <point x="835" y="1520" type="line"/>
+      <point x="513" y="1520" type="line"/>
+      <point x="583" y="1152" type="line"/>
+      <point x="129" y="1182" type="line"/>
+      <point x="129" y="939" type="line"/>
+      <point x="583" y="969" type="line"/>
+      <point x="522" y="768" type="line"/>
+      <point x="583" y="552" type="line"/>
+      <point x="129" y="582" type="line"/>
+      <point x="129" y="338" type="line"/>
+      <point x="583" y="368" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="765" y="368" type="line"/>
+      <point x="1222" y="338" type="line"/>
+      <point x="1222" y="582" type="line"/>
+      <point x="765" y="552" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9a1ed2292173dcbc7e1b88446b3de028d985a731dc94f586e96eb05c07c74990a9d784cf36eb9e61016e3385b6a155334379edcf549190cdc0eb340c4be95f7f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 351 250</string>
+          <string>hstem 919 250</string>
+          <string>hstem 1520 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

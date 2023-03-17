@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tetse-cy" format="2">
+  <advance width="1468"/>
+  <unicode hex="04B5"/>
+  <anchor x="742" y="-373" name="bottom"/>
+  <anchor x="742" y="1076" name="top"/>
+  <outline>
+    <contour>
+      <point x="1449" y="-373" type="line"/>
+      <point x="1449" y="159" type="line"/>
+      <point x="1277" y="159" type="line"/>
+      <point x="1277" y="1076" type="line"/>
+      <point x="1077" y="1076" type="line"/>
+      <point x="1077" y="161" type="line"/>
+      <point x="546" y="161" type="line"/>
+      <point x="546" y="917" type="line"/>
+      <point x="885" y="917" type="line"/>
+      <point x="885" y="1076" type="line"/>
+      <point x="40" y="1076" type="line"/>
+      <point x="40" y="917" type="line"/>
+      <point x="348" y="917" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="1259" y="0" type="line"/>
+      <point x="1259" y="-373" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9f869ef808f398f68a094811248c967b22253624f5107bb70ace40696c10cb620e5f6e0df217a7c598e793897d5b929d9e8562995f8e24dddc026e71113f83e9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -370 21</string>
+          <string>hstem 0 148</string>
+          <string>hstem 926 146</string>
+          <string>vstem 334 174</string>
+          <string>vstem 1060 176</string>
+          <string>vstem 1226 172</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

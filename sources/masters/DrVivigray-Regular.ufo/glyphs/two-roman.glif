@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two-roman" format="2">
+  <advance width="1184"/>
+  <unicode hex="2171"/>
+  <anchor x="893" y="0" name="bottom"/>
+  <anchor x="887" y="1474" name="top"/>
+  <anchor x="1186" y="1474" name="topright"/>
+  <outline>
+    <component base="i"/>
+    <component base="i" xOffset="592"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i_i</string>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <string>one-roman</string>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <string>one-roman</string>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

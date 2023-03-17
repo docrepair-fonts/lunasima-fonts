@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="2">
+  <advance width="709"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="88" y="890" type="line"/>
+      <point x="299" y="551" type="line"/>
+      <point x="88" y="210" type="line"/>
+      <point x="320" y="90" type="line"/>
+      <point x="623" y="537" type="line"/>
+      <point x="623" y="563" type="line"/>
+      <point x="320" y="1012" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w709m88,890l299,551l88,210l320,90l623,537l623,563l320,1012</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 78 21</string>
+          <string>hstem 1046 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

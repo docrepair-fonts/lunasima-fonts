@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="2">
+  <advance width="931"/>
+  <unicode hex="0157"/>
+  <anchor x="516" y="1095" name="top"/>
+  <anchor x="890" y="1095" name="topright"/>
+  <anchor x="327" y="-442" name="bottom"/>
+  <outline>
+    <component base="r"/>
+    <component base="commaaccentcomb" xOffset="312"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>r+commaaccentcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronlowmod" format="2">
+  <advance width="740"/>
+  <unicode hex="02CD"/>
+  <outline>
+    <contour>
+      <point x="80" y="-153" type="line"/>
+      <point x="80" y="-303" type="line"/>
+      <point x="688" y="-303" type="line"/>
+      <point x="688" y="-153" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w740m80,-153l80,-303l688,-303l688,-153</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -294 142</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

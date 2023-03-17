@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron" format="2">
+  <advance width="1413"/>
+  <unicode hex="0164"/>
+  <anchor x="708" y="0" name="bottom"/>
+  <anchor x="708" y="714" name="center"/>
+  <anchor x="1346" y="1428" name="topright"/>
+  <anchor x="712" y="1874" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="caroncomb" xOffset="762" yOffset="342"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+caroncomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

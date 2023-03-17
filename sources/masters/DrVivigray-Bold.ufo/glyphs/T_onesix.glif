@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tonesix" format="2">
+  <advance width="1500"/>
+  <unicode hex="0184"/>
+  <anchor x="655" y="0" name="bottom"/>
+  <anchor x="655" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="696" y="-22" type="curve" smooth="yes"/>
+      <point x="1061" y="-22"/>
+      <point x="1234" y="160"/>
+      <point x="1234" y="422" type="curve" smooth="yes"/>
+      <point x="1234" y="655"/>
+      <point x="1066" y="849"/>
+      <point x="646" y="849" type="curve" smooth="yes"/>
+      <point x="458" y="849" type="line"/>
+      <point x="458" y="1428" type="line"/>
+      <point x="156" y="1428" type="line"/>
+      <point x="156" y="423" type="line" smooth="yes"/>
+      <point x="156" y="147"/>
+      <point x="330" y="-22"/>
+    </contour>
+    <contour>
+      <point x="687" y="178" type="curve" smooth="yes"/>
+      <point x="530" y="178"/>
+      <point x="458" y="249"/>
+      <point x="458" y="427" type="curve" smooth="yes"/>
+      <point x="458" y="649" type="line"/>
+      <point x="606" y="649" type="line" smooth="yes"/>
+      <point x="809" y="649"/>
+      <point x="926" y="590"/>
+      <point x="926" y="422" type="curve" smooth="yes"/>
+      <point x="926" y="261"/>
+      <point x="840" y="178"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1aa01b7b4bf603fcb0eb8d6bff2fd5b109af7d4b1c199e18ac06eea43d411f767930bff6aa9ff55ff74ab9531696100ee53d6a45e0959cc332e057119adc73c4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -30 320</string>
+          <string>hstem 596 320</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

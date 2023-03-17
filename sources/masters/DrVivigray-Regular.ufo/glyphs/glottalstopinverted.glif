@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstopinverted" format="2">
+  <advance width="913"/>
+  <unicode hex="0296"/>
+  <anchor x="440" y="0" name="bottom"/>
+  <anchor x="440" y="1520" name="top"/>
+  <outline>
+    <contour>
+      <point x="392" y="-20" type="curve" smooth="yes"/>
+      <point x="673" y="-20"/>
+      <point x="824" y="130"/>
+      <point x="824" y="368" type="curve" smooth="yes"/>
+      <point x="824" y="550"/>
+      <point x="728" y="750"/>
+      <point x="451" y="880" type="curve"/>
+      <point x="451" y="1520" type="line"/>
+      <point x="249" y="1520" type="line"/>
+      <point x="249" y="782" type="line"/>
+      <point x="495" y="705"/>
+      <point x="620" y="551"/>
+      <point x="620" y="374" type="curve" smooth="yes"/>
+      <point x="620" y="223"/>
+      <point x="542" y="141"/>
+      <point x="384" y="141" type="curve" smooth="yes"/>
+      <point x="289" y="141"/>
+      <point x="175" y="182"/>
+      <point x="99" y="239" type="curve"/>
+      <point x="24" y="94" type="line"/>
+      <point x="123" y="25"/>
+      <point x="248" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5bbdcd244a4694522e24089c3837e911d92aace9282adb1ab355eeabc4e8a71aad6f619d1909c525e5193cdcdde92c95ddf9217c7b057c1ade61debbcb26befa</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 146</string>
+          <string>hstem 1520 -20</string>
+          <string>vstem 286 176</string>
+          <string>vstem 658 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

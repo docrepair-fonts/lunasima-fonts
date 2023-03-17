@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yodyod-hb" format="2">
+  <advance width="1437"/>
+  <unicode hex="05F2"/>
+  <anchor x="503" y="0" name="caret_1"/>
+  <outline>
+    <contour>
+      <point x="829" y="426" type="line"/>
+      <point x="980" y="642" type="line"/>
+      <point x="980" y="1198" type="line"/>
+      <point x="677" y="1198" type="line"/>
+      <point x="677" y="426" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="426" type="line"/>
+      <point x="423" y="642" type="line"/>
+      <point x="423" y="1198" type="line"/>
+      <point x="120" y="1198" type="line"/>
+      <point x="120" y="426" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1437m829,426l980,642l980,1198l677,1198l677,426m272,426l423,642l423,1198l120,1198l120,426</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 426 21</string>
+          <string>hstem 1218 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

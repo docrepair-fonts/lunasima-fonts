@@ -1,7 +1,7 @@
+---
+buildOTF: false
+buildVariable: false
+familyName: Dr Vivigray
+outputDir: ../fonts
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - dr-vivigray-Regular.designspace

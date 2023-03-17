@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downWhiteSmallTriangle" format="2">
+  <advance width="1308"/>
+  <unicode hex="25BF"/>
+  <note>
+uni25BF</note>
+  <outline>
+    <contour>
+      <point x="370" y="348" type="line"/>
+      <point x="666" y="942" type="line"/>
+      <point x="72" y="942" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="508" type="line"/>
+      <point x="194" y="868" type="line"/>
+      <point x="544" y="868" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.verticalOrigin</key>
+  <real>1069</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.736,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1308m370,348l666,942l72,942m370,508l194,868l544,868</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 348 21</string>
+          <string>hstem 868 74</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

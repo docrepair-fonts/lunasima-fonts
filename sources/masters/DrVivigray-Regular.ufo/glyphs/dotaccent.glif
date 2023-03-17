@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+  <advance width="1258"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="632" y="1474" type="curve" smooth="yes"/>
+      <point x="568" y="1474"/>
+      <point x="517" y="1440"/>
+      <point x="517" y="1362" type="curve" smooth="yes"/>
+      <point x="517" y="1286"/>
+      <point x="568" y="1250"/>
+      <point x="632" y="1250" type="curve" smooth="yes"/>
+      <point x="689" y="1250"/>
+      <point x="741" y="1286"/>
+      <point x="741" y="1362" type="curve" smooth="yes"/>
+      <point x="741" y="1440"/>
+      <point x="689" y="1474"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1258m632,1474c568,1474 517,1440 517,1362c517,1286 568,1250 632,1250c689,1250 741,1286 741,1362c741,1440 689,1474 632,1474</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1250 224</string>
+          <string>vstem 80 206</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

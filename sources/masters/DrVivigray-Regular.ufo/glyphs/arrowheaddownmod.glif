@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowheaddownmod" format="2">
+  <advance width="737"/>
+  <unicode hex="02C5"/>
+  <outline>
+    <contour>
+      <point x="439" y="1564" type="line"/>
+      <point x="276" y="1194" type="line"/>
+      <point x="112" y="1564" type="line"/>
+      <point x="26" y="1564" type="line"/>
+      <point x="245" y="1091" type="line"/>
+      <point x="306" y="1091" type="line"/>
+      <point x="525" y="1564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w737m439,1564l276,1194l112,1564l26,1564l245,1091l306,1091l525,1564</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1092 21</string>
+          <string>hstem 1562 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

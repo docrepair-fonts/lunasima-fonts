@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tugrik" format="2">
+  <advance width="1295"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="674" y="0" type="line"/>
+      <point x="674" y="429" type="line"/>
+      <point x="972" y="635" type="line"/>
+      <point x="898" y="743" type="line"/>
+      <point x="674" y="587" type="line"/>
+      <point x="674" y="785" type="line"/>
+      <point x="973" y="991" type="line"/>
+      <point x="898" y="1100" type="line"/>
+      <point x="674" y="943" type="line"/>
+      <point x="674" y="1256" type="line"/>
+      <point x="1107" y="1256" type="line"/>
+      <point x="1107" y="1428" type="line"/>
+      <point x="38" y="1428" type="line"/>
+      <point x="38" y="1256" type="line"/>
+      <point x="472" y="1256" type="line"/>
+      <point x="472" y="829" type="line"/>
+      <point x="176" y="625" type="line"/>
+      <point x="250" y="516" type="line"/>
+      <point x="472" y="670" type="line"/>
+      <point x="472" y="473" type="line"/>
+      <point x="176" y="269" type="line"/>
+      <point x="250" y="160" type="line"/>
+      <point x="472" y="314" type="line"/>
+      <point x="472" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c5f03dd02fe2f39de9a41c7788f8bb36167217454d38c0ed4d2fbb7497d972733f2509f912eecc7334781e2efdf473532bd9e610b3bd3cae97c94fa4e3e80d48</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1270 158</string>
+          <string>vstem 473 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

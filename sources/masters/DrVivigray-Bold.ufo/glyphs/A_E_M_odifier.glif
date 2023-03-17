@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEModifier" format="2">
+  <advance width="1009"/>
+  <unicode hex="1D2D"/>
+  <anchor x="598" y="574" name="bottom"/>
+  <anchor x="598" y="1430" name="top"/>
+  <outline>
+    <contour>
+      <point x="1127" y="707" type="line"/>
+      <point x="800" y="707" type="line"/>
+      <point x="800" y="950" type="line"/>
+      <point x="1103" y="950" type="line"/>
+      <point x="1103" y="1086" type="line"/>
+      <point x="800" y="1086" type="line"/>
+      <point x="800" y="1294" type="line"/>
+      <point x="1127" y="1294" type="line"/>
+      <point x="1127" y="1430" type="line"/>
+      <point x="415" y="1430" type="line"/>
+      <point x="-1" y="571" type="line"/>
+      <point x="216" y="571" type="line"/>
+      <point x="310" y="796" type="line"/>
+      <point x="606" y="796" type="line"/>
+      <point x="606" y="571" type="line"/>
+      <point x="1127" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="1294" type="line"/>
+      <point x="606" y="1294" type="line"/>
+      <point x="606" y="932" type="line"/>
+      <point x="374" y="932" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1511629a46da1cd3d6067fb930bc3c3dfc82396c0b1911e46fad6dd742eed60edb1f89f38c6d4f1a520c782ee188617cb0ca645ea5e5b790233911245d2d43df</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 574 188</string>
+          <string>hstem 734 192</string>
+          <string>hstem 924 186</string>
+          <string>hstem 1244 186</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

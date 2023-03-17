@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="einvertedbreve" format="2">
+  <advance width="1141"/>
+  <unicode hex="0207"/>
+  <anchor x="609" y="0" name="bottom"/>
+  <anchor x="1091" y="1072" name="topright"/>
+  <anchor x="582" y="1486" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="breveinvertedcomb" xOffset="564" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+breveinvertedcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

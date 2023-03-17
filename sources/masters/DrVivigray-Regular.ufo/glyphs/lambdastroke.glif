@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambdastroke" format="2">
+  <advance width="1217"/>
+  <unicode hex="019B"/>
+  <anchor x="555" y="0" name="bottom"/>
+  <anchor x="555" y="1532" name="top"/>
+  <outline>
+    <contour>
+      <point x="195" y="0" type="line"/>
+      <point x="431" y="552" type="line" smooth="yes"/>
+      <point x="473" y="651"/>
+      <point x="512" y="757"/>
+      <point x="535" y="848" type="curve"/>
+      <point x="543" y="848" type="line"/>
+      <point x="558" y="773"/>
+      <point x="604" y="637"/>
+      <point x="637" y="542" type="curve" smooth="yes"/>
+      <point x="773" y="153" type="line" smooth="yes"/>
+      <point x="816" y="29"/>
+      <point x="876" y="-19"/>
+      <point x="986" y="-19" type="curve" smooth="yes"/>
+      <point x="1038" y="-19"/>
+      <point x="1079" y="-8"/>
+      <point x="1109" y="6" type="curve"/>
+      <point x="1109" y="148" type="line"/>
+      <point x="1094" y="144"/>
+      <point x="1068" y="138"/>
+      <point x="1047" y="138" type="curve" smooth="yes"/>
+      <point x="998" y="138"/>
+      <point x="969" y="171"/>
+      <point x="940" y="251" type="curve" smooth="yes"/>
+      <point x="593" y="1221" type="line"/>
+      <point x="791" y="1284" type="line"/>
+      <point x="750" y="1417" type="line"/>
+      <point x="536" y="1352" type="line"/>
+      <point x="470" y="1475"/>
+      <point x="389" y="1532"/>
+      <point x="232" y="1532" type="curve" smooth="yes"/>
+      <point x="184" y="1532"/>
+      <point x="130" y="1524"/>
+      <point x="94" y="1516" type="curve"/>
+      <point x="94" y="1363" type="line"/>
+      <point x="123" y="1369"/>
+      <point x="159" y="1375"/>
+      <point x="207" y="1375" type="curve" smooth="yes"/>
+      <point x="276" y="1375"/>
+      <point x="316" y="1356"/>
+      <point x="353" y="1296" type="curve"/>
+      <point x="159" y="1237" type="line"/>
+      <point x="201" y="1105" type="line"/>
+      <point x="410" y="1168" type="line"/>
+      <point x="452" y="1051" type="line"/>
+      <point x="-12" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>56c7f953ab6a097c3de5645230a66acddc36b4a0a11f14184d370c43665beda39b7ef2190738360742ccdaaf84b3615ac0e04e65e50589885bc9ddbe5c509546</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 144</string>
+          <string>hstem 0 21</string>
+          <string>hstem 1386 146</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

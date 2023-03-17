@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rafe-hb" format="2">
+  <unicode hex="05BF"/>
+  <anchor x="298" y="1072" name="_top"/>
+  <outline>
+    <contour>
+      <point x="511" y="1349" type="line"/>
+      <point x="511" y="1448" type="line"/>
+      <point x="100" y="1448" type="line"/>
+      <point x="100" y="1349" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m511,1349l511,1448l100,1448l100,1349</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1348 94</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

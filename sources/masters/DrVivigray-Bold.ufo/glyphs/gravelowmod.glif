@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravelowmod" format="2">
+  <advance width="561"/>
+  <unicode hex="02CE"/>
+  <outline>
+    <contour>
+      <point x="80" y="-88" type="line"/>
+      <point x="80" y="-108" type="line"/>
+      <point x="157" y="-182"/>
+      <point x="346" y="-337"/>
+      <point x="448" y="-408" type="curve"/>
+      <point x="647" y="-408" type="line"/>
+      <point x="647" y="-382" type="line"/>
+      <point x="583" y="-308"/>
+      <point x="475" y="-178"/>
+      <point x="417" y="-88" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w561m80,-88l80,-108c157,-182 346,-337 448,-408l647,-408l647,-382c583,-308 475,-178 417,-88</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -408 21</string>
+          <string>hstem -88 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

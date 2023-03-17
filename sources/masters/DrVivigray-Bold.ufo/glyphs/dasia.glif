@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasia" format="2">
+  <advance width="1258"/>
+  <unicode hex="1FFE"/>
+  <anchor x="306" y="1106" name="_top"/>
+  <outline>
+    <contour>
+      <point x="379" y="1255" type="line"/>
+      <point x="347" y="1282"/>
+      <point x="325" y="1318"/>
+      <point x="325" y="1356" type="curve" smooth="yes"/>
+      <point x="325" y="1401"/>
+      <point x="351" y="1420"/>
+      <point x="391" y="1420" type="curve" smooth="yes"/>
+      <point x="415" y="1420"/>
+      <point x="433" y="1413"/>
+      <point x="444" y="1408" type="curve"/>
+      <point x="444" y="1540" type="line"/>
+      <point x="413" y="1549"/>
+      <point x="376" y="1560"/>
+      <point x="316" y="1560" type="curve" smooth="yes"/>
+      <point x="198" y="1560"/>
+      <point x="118" y="1510"/>
+      <point x="118" y="1404" type="curve" smooth="yes"/>
+      <point x="118" y="1314"/>
+      <point x="172" y="1249"/>
+      <point x="270" y="1199" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6fd52cf5386a0ad0b2619ee548ef5d381ca65c6745600483148c614c62a70c046da75bcd9b2f5c561f3cea6557753ea430ecfbecb203b68a0ba1360d8153f2a3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1188 21</string>
+          <string>hstem 1390 172</string>
+          <string>vstem 120 248</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

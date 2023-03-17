@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalnun-hb" format="2">
+  <advance width="755"/>
+  <unicode hex="05DF"/>
+  <anchor x="22" y="0" name="bottomleft"/>
+  <anchor x="78" y="605" name="center"/>
+  <anchor x="300" y="1086" name="top"/>
+  <anchor x="-45" y="1086" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="521" y="-480" type="line"/>
+      <point x="521" y="894" type="line" smooth="yes"/>
+      <point x="521" y="1097"/>
+      <point x="412" y="1198"/>
+      <point x="216" y="1198" type="curve" smooth="yes"/>
+      <point x="10" y="1198" type="line"/>
+      <point x="10" y="971" type="line"/>
+      <point x="131" y="971" type="line" smooth="yes"/>
+      <point x="192" y="971"/>
+      <point x="218" y="942"/>
+      <point x="218" y="867" type="curve" smooth="yes"/>
+      <point x="218" y="-480" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w755m521,-480l521,894c521,1097 412,1198 216,1198l10,1198l10,971l131,971c192,971 218,942 218,867l218,-480</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 21</string>
+          <string>hstem 902 316</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

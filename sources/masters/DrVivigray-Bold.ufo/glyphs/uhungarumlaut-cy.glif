@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhungarumlaut-cy" format="2">
+  <advance width="1192"/>
+  <unicode hex="04F3"/>
+  <anchor x="252" y="-480" name="bottom"/>
+  <anchor x="595" y="1541" name="top"/>
+  <outline>
+    <component base="u-cy"/>
+    <component base="hungarumlautcomb" xOffset="509" yOffset="9"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

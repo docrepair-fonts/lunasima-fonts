@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enghe-cy" format="2">
+  <advance width="1456"/>
+  <unicode hex="04A5"/>
+  <anchor x="646" y="0" name="bottom"/>
+  <anchor x="646" y="1076" name="top"/>
+  <outline>
+    <contour>
+      <point x="370" y="0" type="line"/>
+      <point x="370" y="474" type="line"/>
+      <point x="919" y="474" type="line"/>
+      <point x="919" y="0" type="line"/>
+      <point x="1119" y="0" type="line"/>
+      <point x="1119" y="919" type="line"/>
+      <point x="1459" y="919" type="line"/>
+      <point x="1459" y="1076" type="line"/>
+      <point x="919" y="1076" type="line"/>
+      <point x="919" y="634" type="line"/>
+      <point x="370" y="634" type="line"/>
+      <point x="370" y="1076" type="line"/>
+      <point x="170" y="1076" type="line"/>
+      <point x="170" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1456m370,0l370,474l919,474l919,0l1119,0l1119,919l1459,919l1459,1076l919,1076l919,634l370,634l370,1076l170,1076l170,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 478 148</string>
+          <string>hstem 928 144</string>
+          <string>vstem 224 176</string>
+          <string>vstem 982 176</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

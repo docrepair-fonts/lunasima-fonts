@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eleven-roman" format="2">
+  <advance width="1706"/>
+  <unicode hex="217A"/>
+  <anchor x="1557" y="0" name="bottom"/>
+  <anchor x="1551" y="1474" name="top"/>
+  <anchor x="1850" y="1474" name="topright"/>
+  <outline>
+    <component base="x"/>
+    <component base="i" xOffset="1256"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ten-roman</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one-roman</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/13 22:16:41</string>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

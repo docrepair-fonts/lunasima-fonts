@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="inverseBullet" format="2">
+  <advance width="1144"/>
+  <unicode hex="25D8"/>
+  <note>
+invbullet</note>
+  <outline>
+    <contour>
+      <point x="102" y="254" type="line"/>
+      <point x="1042" y="254" type="line"/>
+      <point x="1042" y="1194" type="line"/>
+      <point x="102" y="1194" type="line"/>
+    </contour>
+    <contour>
+      <point x="572" y="366" type="curve" smooth="yes"/>
+      <point x="377" y="366"/>
+      <point x="216" y="528"/>
+      <point x="216" y="724" type="curve" smooth="yes"/>
+      <point x="216" y="922"/>
+      <point x="375" y="1082"/>
+      <point x="572" y="1082" type="curve" smooth="yes"/>
+      <point x="767" y="1082"/>
+      <point x="928" y="920"/>
+      <point x="928" y="724" type="curve" smooth="yes"/>
+      <point x="928" y="528"/>
+      <point x="767" y="366"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.verticalOrigin</key>
+  <real>1069</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d097a45f2b6036e9d7f693ff7c68a14f7c2d44063f956a67a652dc18d98fa2842e78c07fbff2e7aed2b408c6cb1152b8d1aca84363cd4dc29933bd12c783c0e2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 254 112</string>
+          <string>hstem 1082 112</string>
+          <string>vstem 102 110</string>
+          <string>vstem 928 114</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

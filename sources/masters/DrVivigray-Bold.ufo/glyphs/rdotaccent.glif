@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdotaccent" format="2">
+  <advance width="930"/>
+  <unicode hex="1E59"/>
+  <anchor x="321" y="0" name="bottom"/>
+  <anchor x="890" y="1095" name="topright"/>
+  <anchor x="516" y="1515" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="dotaccentcomb" xOffset="556" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>r+dotaccentcomb</string>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

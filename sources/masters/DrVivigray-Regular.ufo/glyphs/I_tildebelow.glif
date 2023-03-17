@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itildebelow" format="2">
+  <advance width="590"/>
+  <unicode hex="1E2C"/>
+  <anchor x="296" y="1428" name="top"/>
+  <anchor x="552" y="1428" name="topright"/>
+  <anchor x="300" y="-373" name="bottom"/>
+  <outline>
+    <component base="I"/>
+    <component base="tildebelowcomb" xOffset="292"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+tildebelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

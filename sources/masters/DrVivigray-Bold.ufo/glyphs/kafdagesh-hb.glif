@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kafdagesh-hb" format="2">
+  <advance width="1158"/>
+  <unicode hex="FB3B"/>
+  <anchor x="430" y="0" name="bottom"/>
+  <anchor x="38" y="0" name="bottomleft"/>
+  <anchor x="412" y="1086" name="top"/>
+  <anchor x="-45" y="1086" name="topleft"/>
+  <outline>
+    <component base="kaf-hb"/>
+    <component base="dagesh-hb" xOffset="204" yOffset="-7"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>kaf-hb+dagesh-hb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

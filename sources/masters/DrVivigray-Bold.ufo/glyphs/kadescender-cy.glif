@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="1265"/>
+  <unicode hex="049B"/>
+  <anchor x="642" y="-385" name="bottom"/>
+  <anchor x="642" y="1086" name="top"/>
+  <outline>
+    <contour>
+      <point x="1272" y="-385" type="line"/>
+      <point x="1272" y="204" type="line"/>
+      <point x="1031" y="204" type="line"/>
+      <point x="749" y="565" type="line"/>
+      <point x="1180" y="1086" type="line"/>
+      <point x="850" y="1086" type="line"/>
+      <point x="432" y="560" type="line"/>
+      <point x="432" y="1086" type="line"/>
+      <point x="132" y="1086" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="552" type="line"/>
+      <point x="871" y="0" type="line"/>
+      <point x="1004" y="0" type="line"/>
+      <point x="1004" y="-385" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a1134cae03eed40d3536451be95c681162c988c9e8db2eb4ff1be8b1134dcce8ac8ab09892094d3bc75f350a02ae7af150173628f3c2528aaa33dd8adbb95c75</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -406 21</string>
+          <string>hstem 0 21</string>
+          <string>hstem 1106 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

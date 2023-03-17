@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sampi" format="2">
+  <advance width="1365"/>
+  <unicode hex="03E0"/>
+  <outline>
+    <contour>
+      <point x="935" y="0" type="line"/>
+      <point x="1016" y="194"/>
+      <point x="1054" y="391"/>
+      <point x="1054" y="582" type="curve" smooth="yes"/>
+      <point x="1054" y="1129"/>
+      <point x="828" y="1450"/>
+      <point x="396" y="1450" type="curve" smooth="yes"/>
+      <point x="206" y="1450"/>
+      <point x="81" y="1403"/>
+      <point x="-20" y="1327" type="curve"/>
+      <point x="70" y="1194" type="line"/>
+      <point x="137" y="1252"/>
+      <point x="254" y="1300"/>
+      <point x="393" y="1300" type="curve" smooth="yes"/>
+      <point x="488" y="1300"/>
+      <point x="570" y="1271"/>
+      <point x="633" y="1219" type="curve"/>
+      <point x="200" y="956" type="line"/>
+      <point x="281" y="827" type="line"/>
+      <point x="744" y="1107" type="line"/>
+      <point x="778" y="1045"/>
+      <point x="803" y="969"/>
+      <point x="820" y="880" type="curve"/>
+      <point x="395" y="624" type="line"/>
+      <point x="475" y="496" type="line"/>
+      <point x="841" y="722" type="line"/>
+      <point x="845" y="679"/>
+      <point x="847" y="633"/>
+      <point x="847" y="585" type="curve" smooth="yes"/>
+      <point x="847" y="388"/>
+      <point x="807" y="200"/>
+      <point x="724" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b5b3fb924371f0e5a5087da3fa2904172e37b8bf2165e85216aba46e5c5167d6fe3188f1b93d3d88ae26b870d30fcfb1827a607ed35648efb47206c3257360fe</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1292 158</string>
+          <string>vstem 880 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zarqa-hb" format="2">
+  <unicode hex="0598"/>
+  <anchor x="404" y="1106" name="_top"/>
+  <outline>
+    <contour>
+      <point x="235" y="1369" type="line"/>
+      <point x="197" y="1386"/>
+      <point x="177" y="1410"/>
+      <point x="177" y="1451" type="curve" smooth="yes"/>
+      <point x="177" y="1497"/>
+      <point x="205" y="1525"/>
+      <point x="241" y="1525" type="curve" smooth="yes"/>
+      <point x="285" y="1525"/>
+      <point x="307" y="1504"/>
+      <point x="366" y="1423" type="curve" smooth="yes"/>
+      <point x="434" y="1331"/>
+      <point x="480" y="1302"/>
+      <point x="546" y="1302" type="curve" smooth="yes"/>
+      <point x="627" y="1302"/>
+      <point x="686" y="1359"/>
+      <point x="686" y="1444" type="curve" smooth="yes"/>
+      <point x="686" y="1519"/>
+      <point x="650" y="1569"/>
+      <point x="580" y="1596" type="curve"/>
+      <point x="552" y="1525" type="line"/>
+      <point x="590" y="1510"/>
+      <point x="609" y="1486"/>
+      <point x="609" y="1444" type="curve" smooth="yes"/>
+      <point x="609" y="1397"/>
+      <point x="582" y="1371"/>
+      <point x="546" y="1371" type="curve" smooth="yes"/>
+      <point x="503" y="1371"/>
+      <point x="474" y="1398"/>
+      <point x="421" y="1470" type="curve" smooth="yes"/>
+      <point x="351" y="1564"/>
+      <point x="307" y="1594"/>
+      <point x="245" y="1594" type="curve" smooth="yes"/>
+      <point x="160" y="1594"/>
+      <point x="100" y="1535"/>
+      <point x="100" y="1451" type="curve" smooth="yes"/>
+      <point x="100" y="1375"/>
+      <point x="137" y="1323"/>
+      <point x="207" y="1300" type="curve" name=".hr01"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fd4a756d9072e86cf987cfa10122d960b165157fe96b10849a72467ef84b0b252bab5e495a37184b876dfbb429567a4160f44e420c9f3d935f751367b3bd5275</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1538 72</string>
+          <string>hstem 1612 -20</string>
+          <string>vstem 628 80</string>
+          <string>hstem 1302 72</string>
+          <string>vstem 100 80</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1300 21</string>
+          <string>hstem 1538 72</string>
+          <string>hstem 1612 -20</string>
+          <string>vstem 628 80</string>
+          <string>vstem 100 80</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

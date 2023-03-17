@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="De-cy" format="2">
+  <advance width="1561"/>
+  <unicode hex="0414"/>
+  <anchor x="784" y="-376" name="bottom"/>
+  <anchor x="784" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="580" y="1428" type="line"/>
+      <point x="556" y="1008"/>
+      <point x="367" y="492"/>
+      <point x="140" y="160" type="curve"/>
+      <point x="13" y="160" type="line"/>
+      <point x="13" y="-376" type="line"/>
+      <point x="185" y="-376" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="1342" y="0" type="line"/>
+      <point x="1342" y="-376" type="line"/>
+      <point x="1513" y="-376" type="line"/>
+      <point x="1513" y="160" type="line"/>
+      <point x="1305" y="160" type="line"/>
+      <point x="1305" y="1428" type="line"/>
+    </contour>
+    <contour>
+      <point x="1127" y="1266" type="line"/>
+      <point x="1127" y="160" type="line"/>
+      <point x="330" y="160" type="line"/>
+      <point x="531" y="450"/>
+      <point x="718" y="956"/>
+      <point x="742" y="1266" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>87644a3c30ee814782b4232cf6faf06b0c0d88ab317a1a1f022bc6f7add3b999c62859035a57e3c5ec401e9bfe221b35eed290b80672af515c3846bbfc2556d7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -376 21</string>
+          <string>hstem 0 160</string>
+          <string>hstem 1266 162</string>
+          <string>vstem 15 172</string>
+          <string>vstem 499 158</string>
+          <string>vstem 981 178</string>
+          <string>vstem 1169 172</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

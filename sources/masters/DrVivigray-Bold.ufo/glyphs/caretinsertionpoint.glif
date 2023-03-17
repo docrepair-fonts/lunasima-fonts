@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caretinsertionpoint" format="2">
+  <advance width="1024"/>
+  <unicode hex="2041"/>
+  <outline>
+    <contour>
+      <point x="205" y="-480" type="line"/>
+      <point x="795" y="804" type="line"/>
+      <point x="628" y="804" type="line"/>
+      <point x="38" y="-480" type="line"/>
+    </contour>
+    <contour>
+      <point x="772" y="-480" type="line"/>
+      <point x="473" y="150" type="line"/>
+      <point x="352" y="111" type="line"/>
+      <point x="403" y="-10" type="line"/>
+      <point x="605" y="-480" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1024m205,-480l795,804l628,804l38,-480m772,-480l473,150l352,111l403,-10l605,-480</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 21</string>
+          <string>hstem 804 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraphreversed" format="2">
+  <advance width="1295"/>
+  <unicode hex="204B"/>
+  <outline>
+    <contour>
+      <point x="188" y="-254" type="line"/>
+      <point x="312" y="-254" type="line"/>
+      <point x="312" y="1398" type="line"/>
+      <point x="510" y="1398" type="line"/>
+      <point x="510" y="-254" type="line"/>
+      <point x="634" y="-254" type="line"/>
+      <point x="634" y="546" type="line"/>
+      <point x="674" y="534"/>
+      <point x="726" y="528"/>
+      <point x="774" y="528" type="curve" smooth="yes"/>
+      <point x="1022" y="528"/>
+      <point x="1184" y="652"/>
+      <point x="1184" y="1018" type="curve" smooth="yes"/>
+      <point x="1184" y="1400"/>
+      <point x="1006" y="1520"/>
+      <point x="744" y="1520" type="curve" smooth="yes"/>
+      <point x="188" y="1520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3cb410ac67387c43fb89e0668a7c12c126e5682204215bef201c8817acc59888d35002827870dc146a60aa9c61ed8d0e29153a1c2dbcc473f7069ad50ef8dffe</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -254 21</string>
+          <string>hstem 1408 112</string>
+          <string>vstem 275 116</string>
+          <string>vstem 595 116</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

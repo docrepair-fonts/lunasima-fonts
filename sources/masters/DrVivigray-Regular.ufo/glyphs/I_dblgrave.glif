@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idblgrave" format="2">
+  <advance width="590"/>
+  <unicode hex="0208"/>
+  <anchor x="296" y="0" name="bottom"/>
+  <anchor x="552" y="1428" name="topright"/>
+  <anchor x="296" y="1884" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dblgravecomb" xOffset="868" yOffset="352"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+dblgravecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

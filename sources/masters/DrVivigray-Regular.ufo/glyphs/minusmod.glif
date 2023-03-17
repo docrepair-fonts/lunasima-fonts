@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minusmod" format="2">
+  <advance width="925"/>
+  <unicode hex="02D7"/>
+  <outline>
+    <contour>
+      <point x="512" y="666" type="line"/>
+      <point x="60" y="666" type="line"/>
+      <point x="60" y="544" type="line"/>
+      <point x="512" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w925m512,666l60,666l60,544l512,544</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 542 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

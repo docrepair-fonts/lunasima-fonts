@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overline" format="2">
+  <advance width="1024"/>
+  <unicode hex="203E"/>
+  <outline>
+    <contour>
+      <point x="1006" y="1662" type="line"/>
+      <point x="-6" y="1662" type="line"/>
+      <point x="-6" y="1520" type="line"/>
+      <point x="1006" y="1520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1024m1006,1662l-6,1662l-6,1520l1006,1520</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1520 132</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

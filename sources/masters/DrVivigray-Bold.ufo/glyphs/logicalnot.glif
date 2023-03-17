@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+  <advance width="1629"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="108" y="816" type="line"/>
+      <point x="108" y="594" type="line"/>
+      <point x="1274" y="594" type="line"/>
+      <point x="1274" y="240" type="line"/>
+      <point x="1519" y="240" type="line"/>
+      <point x="1519" y="816" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1629m108,816l108,594l1274,594l1274,240l1519,240l1519,816</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 232 21</string>
+          <string>hstem 574 262</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numeral-greek" format="2">
+  <advance width="703"/>
+  <unicode hex="0374"/>
+  <outline>
+    <contour>
+      <point x="264" y="1152" type="line"/>
+      <point x="513" y="1512" type="line"/>
+      <point x="513" y="1532" type="line"/>
+      <point x="177" y="1532" type="line"/>
+      <point x="64" y="1178" type="line"/>
+      <point x="64" y="1152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w703m264,1152l513,1512l513,1532l177,1532l64,1178l64,1152</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1152 380</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

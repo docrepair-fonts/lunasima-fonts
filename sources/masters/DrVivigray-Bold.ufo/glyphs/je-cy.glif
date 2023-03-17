@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="je-cy" format="2">
+  <advance width="694"/>
+  <unicode hex="0458"/>
+  <anchor x="97" y="-480" name="bottom"/>
+  <anchor x="371" y="1526" name="top"/>
+  <outline>
+    <contour>
+      <point x="97" y="-480" type="curve" smooth="yes"/>
+      <point x="407" y="-480"/>
+      <point x="531" y="-313"/>
+      <point x="531" y="-113" type="curve" smooth="yes"/>
+      <point x="531" y="1095" type="line"/>
+      <point x="211" y="1095" type="line"/>
+      <point x="211" y="-62" type="line" smooth="yes"/>
+      <point x="211" y="-194"/>
+      <point x="136" y="-228"/>
+      <point x="38" y="-228" type="curve" smooth="yes"/>
+      <point x="-24" y="-228"/>
+      <point x="-71" y="-222"/>
+      <point x="-123" y="-210" type="curve"/>
+      <point x="-123" y="-456" type="line"/>
+      <point x="-70" y="-470"/>
+      <point x="14" y="-480"/>
+    </contour>
+    <contour>
+      <point x="195" y="1376" type="curve" smooth="yes"/>
+      <point x="195" y="1262"/>
+      <point x="274" y="1226"/>
+      <point x="373" y="1226" type="curve" smooth="yes"/>
+      <point x="467" y="1226"/>
+      <point x="550" y="1262"/>
+      <point x="550" y="1376" type="curve" smooth="yes"/>
+      <point x="550" y="1492"/>
+      <point x="467" y="1526"/>
+      <point x="373" y="1526" type="curve" smooth="yes"/>
+      <point x="274" y="1526"/>
+      <point x="195" y="1492"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7d207912344ade5a0af525d2b65977f091e5055b2800c84dc4802511aa4694b35cf436e121eb7483ff84a514aadec4c432e09e787dc0fe2d9b442eed293fac9e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 304</string>
+          <string>hstem 1106 -20</string>
+          <string>hstem 1214 338</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

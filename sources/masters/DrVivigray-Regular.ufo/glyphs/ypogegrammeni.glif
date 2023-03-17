@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ypogegrammeni" format="2">
+  <advance width="1258"/>
+  <unicode hex="037A"/>
+  <anchor x="288" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="340" y="-480" type="curve" smooth="yes"/>
+      <point x="383" y="-480"/>
+      <point x="431" y="-469"/>
+      <point x="454" y="-461" type="curve"/>
+      <point x="454" y="-338" type="line"/>
+      <point x="438" y="-342"/>
+      <point x="413" y="-348"/>
+      <point x="392" y="-348" type="curve" smooth="yes"/>
+      <point x="350" y="-348"/>
+      <point x="334" y="-323"/>
+      <point x="334" y="-285" type="curve" smooth="yes"/>
+      <point x="334" y="-158" type="line"/>
+      <point x="164" y="-158" type="line"/>
+      <point x="164" y="-327" type="line" smooth="yes"/>
+      <point x="164" y="-422"/>
+      <point x="227" y="-480"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fee0f194649e7e41a94b76939cee2c2f61391464f336bb851abec0233b6f6204fbfe354efbd0b9b658f5f39b65ea52913085c50ac19072133191a8152b58cd98</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 124</string>
+          <string>hstem -480 316</string>
+          <string>vstem 210 156</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

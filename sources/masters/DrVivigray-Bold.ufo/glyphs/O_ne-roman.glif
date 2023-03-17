@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="One-roman" format="2">
+  <advance width="679"/>
+  <unicode hex="2160"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="722" y="0" type="line"/>
+      <point x="722" y="152" type="line"/>
+      <point x="547" y="202" type="line"/>
+      <point x="547" y="1226" type="line"/>
+      <point x="722" y="1277" type="line"/>
+      <point x="722" y="1428" type="line"/>
+      <point x="68" y="1428" type="line"/>
+      <point x="68" y="1277" type="line"/>
+      <point x="242" y="1226" type="line"/>
+      <point x="242" y="202" type="line"/>
+      <point x="68" y="152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w679m68,0l722,0l722,152l547,202l547,1226l722,1277l722,1428l68,1428l68,1277l242,1226l242,202l68,152</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

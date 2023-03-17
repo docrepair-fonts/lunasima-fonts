@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowlinecomb" format="2">
+  <unicode hex="0332"/>
+  <anchor x="3" y="0" name="_bottom"/>
+  <anchor x="7" y="-309" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="455" y="-180" type="line"/>
+      <point x="-448" y="-180" type="line"/>
+      <point x="-448" y="-309" type="line"/>
+      <point x="455" y="-309" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m455,-180l-448,-180l-448,-309l455,-309</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -308 128</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

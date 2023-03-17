@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qamats-hb" format="2">
+  <unicode hex="05B8"/>
+  <anchor x="238" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="295" y="-391" type="line"/>
+      <point x="295" y="-263" type="line"/>
+      <point x="389" y="-263" type="line"/>
+      <point x="389" y="-165" type="line"/>
+      <point x="100" y="-165" type="line"/>
+      <point x="100" y="-263" type="line"/>
+      <point x="196" y="-263" type="line"/>
+      <point x="196" y="-391" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-168"/>
+  <guideline angle="0" x="0" y="-262"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m295,-391l295,-263l389,-263l389,-165l100,-165l100,-263l196,-263l196,-391</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -388 220</string>
+          <string>hstem -262 94</string>
+          <string>vstem 192 94</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tdotaccent" format="2">
+  <advance width="1413"/>
+  <unicode hex="1E6A"/>
+  <anchor x="708" y="0" name="bottom"/>
+  <anchor x="708" y="714" name="center"/>
+  <anchor x="1346" y="1428" name="topright"/>
+  <anchor x="708" y="1848" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="dotaccentcomb" xOffset="748" yOffset="342"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+dotaccentcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

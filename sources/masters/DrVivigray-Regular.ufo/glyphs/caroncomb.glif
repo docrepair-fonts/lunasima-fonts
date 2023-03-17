@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="12" y="1076" name="_top"/>
+  <anchor x="16" y="1532" name="top"/>
+  <outline>
+    <contour>
+      <point x="112" y="1212" type="line"/>
+      <point x="162" y="1303"/>
+      <point x="287" y="1431"/>
+      <point x="362" y="1506" type="curve"/>
+      <point x="362" y="1532" type="line"/>
+      <point x="224" y="1532" type="line"/>
+      <point x="154" y="1487"/>
+      <point x="80" y="1423"/>
+      <point x="9" y="1352" type="curve"/>
+      <point x="-58" y="1423"/>
+      <point x="-133" y="1487"/>
+      <point x="-203" y="1532" type="curve"/>
+      <point x="-338" y="1532" type="line"/>
+      <point x="-338" y="1506" type="line"/>
+      <point x="-266" y="1431"/>
+      <point x="-144" y="1303"/>
+      <point x="-91" y="1212" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cddff35c23636b7fe6175e82d4e5ed07779a688549f5abff0b24b90ce6a09148a8123db45c91561a6e126d68bb247dd88863b9ce18baa54de561e040d9a7acd4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1212 21</string>
+          <string>hstem 1532 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

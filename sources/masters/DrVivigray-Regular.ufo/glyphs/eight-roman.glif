@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight-roman" format="2">
+  <advance width="2687"/>
+  <unicode hex="2177"/>
+  <anchor x="2545" y="0" name="bottom"/>
+  <anchor x="2539" y="1474" name="top"/>
+  <anchor x="2838" y="1474" name="topright"/>
+  <outline>
+    <component base="v"/>
+    <component base="i" xOffset="1060"/>
+    <component base="i" xOffset="1652"/>
+    <component base="i" xOffset="2244"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>five-roman</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one-roman</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/11/13 22:16:41</string>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex" format="2">
+  <advance width="1271"/>
+  <unicode hex="00FB"/>
+  <anchor x="605" y="0" name="bottom"/>
+  <anchor x="1143" y="1072" name="topright"/>
+  <anchor x="635" y="1526" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="circumflexcomb" xOffset="619" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+circumflexcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

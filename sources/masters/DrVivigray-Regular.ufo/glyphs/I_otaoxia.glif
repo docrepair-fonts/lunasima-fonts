@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaoxia" format="2">
+  <advance width="937"/>
+  <unicode hex="1FDB"/>
+  <outline>
+    <contour>
+      <point x="1003" y="100" type="line"/>
+      <point x="834" y="135" type="line"/>
+      <point x="834" y="1292" type="line"/>
+      <point x="1003" y="1329" type="line"/>
+      <point x="1003" y="1428" type="line"/>
+      <point x="465" y="1428" type="line"/>
+      <point x="465" y="1329" type="line"/>
+      <point x="634" y="1292" type="line"/>
+      <point x="634" y="135" type="line"/>
+      <point x="465" y="100" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="1003" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="1088" type="line"/>
+      <point x="346" y="1409" type="line"/>
+      <point x="346" y="1428" type="line"/>
+      <point x="116" y="1428" type="line"/>
+      <point x="20" y="1112" type="line"/>
+      <point x="20" y="1088" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>578141fd04042f4ce4318f1cf3f9be2c3e9756c80e9de1c2fa8f90fb2f388c44f08d3993ffb6c1efdf99c0b2d2b196b7d4b10fce7eb0bd82578e975e1e9396d7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1088 340</string>
+          <string>vstem 616 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

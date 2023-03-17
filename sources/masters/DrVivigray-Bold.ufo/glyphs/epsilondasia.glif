@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilondasia" format="2">
+  <advance width="1028"/>
+  <unicode hex="1F11"/>
+  <anchor x="552" y="0" name="bottom"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="dasia" xOffset="251" yOffset="-11"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>epsilon+dasia</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

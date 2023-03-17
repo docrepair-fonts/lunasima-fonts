@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresis" format="2">
+  <advance width="753"/>
+  <unicode hex="03CA"/>
+  <anchor x="441" y="0" name="bottom"/>
+  <anchor x="290" y="1453" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dieresiscomb" xOffset="278" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iota+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
