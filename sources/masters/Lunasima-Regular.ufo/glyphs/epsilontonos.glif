@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos" format="2">
   <advance width="975"/>
   <unicode hex="03AD"/>
@@ -8,13 +8,13 @@
     <component base="tonos" xOffset="51"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
-      <key>com.fontlab.recipe</key>
-      <string>epsilon+tonos</string>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>epsilon+tonos</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

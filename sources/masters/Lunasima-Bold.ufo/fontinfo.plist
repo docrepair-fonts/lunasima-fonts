@@ -74,7 +74,7 @@
     <key>openTypeNamePreferredFamilyName</key>
     <string>Lunasima</string>
     <key>openTypeNamePreferredSubfamilyName</key>
-    <string>SemiBold</string>
+    <string>Bold</string>
     <key>openTypeNameVersion</key>
     <string>Version 2.009</string>
     <key>openTypeOS2CodePageRanges</key>
@@ -192,11 +192,11 @@
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptFontName</key>
-    <string>Lunasima-SemiBold</string>
+    <string>Lunasima-Bold</string>
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptFullName</key>
-    <string>Lunasima SemiBold</string>
+    <string>Lunasima Bold</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
@@ -218,13 +218,13 @@
     <key>postscriptUnderlineThickness</key>
     <integer>100</integer>
     <key>postscriptWeightName</key>
-    <string>Bold</string>
+    <string>Semi Bold</string>
     <key>styleMapFamilyName</key>
-    <string>Lunasima SemBd</string>
+    <string>Lunasima</string>
     <key>styleMapStyleName</key>
     <string>bold</string>
     <key>styleName</key>
-    <string>SemiBold</string>
+    <string>Bold</string>
     <key>trademark</key>
     <string>Noto is a trademark of Google LLC.</string>
     <key>unitsPerEm</key>

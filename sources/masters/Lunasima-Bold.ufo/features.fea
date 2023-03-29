@@ -56,6 +56,8 @@ sub yod-hb zerowidthjoiner yod-hb by yodyod-hb;
 
 } ccmp;
 feature liga {
+sub f f l by f_f_l;
+sub f f i by f_f_i;
 sub f f by f_f;
 sub f i by fi;
 sub f l by fl;
