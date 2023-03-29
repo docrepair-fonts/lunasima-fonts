@@ -6,228 +6,72 @@
 #/< tags
 #< classes
 
-#> languagesystem
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-languagesystem latn MOL;
-languagesystem latn ROM;
-languagesystem bopo dflt;
 languagesystem cyrl dflt;
 languagesystem grek dflt;
 languagesystem hebr dflt;
-#< languagesystem
-feature aalt {
-# Access All Alternates
+feature ccmp {
+lookup ccmp_latn {
+sub f zerowidthjoiner f by f_f;
+sub f zerowidthjoiner i by fi;
+sub f zerowidthjoiner l by fl;
+} ccmp_latn;
 
-#> feature
-  feature locl;
-  feature sinf;
-  feature sups;
-  feature subs;
-  feature hist;
-  feature case;
-#< feature
-} aalt;
-feature locl {
-# Localized Forms
+lookup ccmp_hebr {
+lookupflag RightToLeft;
+sub shin-hb dagesh-hb shindot-hb by shindageshshindot-hb;
+sub shin-hb dagesh-hb sindot-hb by shindageshsindot-hb;
+sub shin-hb shindot-hb dagesh-hb by shindageshshindot-hb;
+sub shin-hb sindot-hb dagesh-hb by shindageshsindot-hb;
+sub bet-hb dagesh-hb by betdagesh-hb;
+sub gimel-hb dagesh-hb by gimeldagesh-hb;
+sub dalet-hb dagesh-hb by daletdagesh-hb;
+sub he-hb dagesh-hb by hedagesh-hb;
+sub vav-hb holam-hb by vavholam-hb;
+sub vav-hb dagesh-hb by vavdagesh-hb;
+sub zayin-hb dagesh-hb by zayindagesh-hb;
+sub tet-hb dagesh-hb by tetdagesh-hb;
+sub yod-hb dagesh-hb by yoddagesh-hb;
+sub finalkaf-hb dagesh-hb by finalkafdagesh-hb;
+sub kaf-hb dagesh-hb by kafdagesh-hb;
+sub lamed-hb dagesh-hb by lameddagesh-hb;
+sub mem-hb dagesh-hb by memdagesh-hb;
+sub nun-hb dagesh-hb by nundagesh-hb;
+sub samekh-hb dagesh-hb by samekhdagesh-hb;
+sub finalpe-hb dagesh-hb by finalpedagesh-hb;
+sub pe-hb dagesh-hb by pedagesh-hb;
+sub tsadi-hb dagesh-hb by tsadidagesh-hb;
+sub qof-hb dagesh-hb by qofdagesh-hb;
+sub resh-hb dagesh-hb by reshdagesh-hb;
+sub shin-hb dagesh-hb by shindagesh-hb;
+sub shin-hb shindot-hb by shinshindot-hb;
+sub shin-hb sindot-hb by shinsindot-hb;
+sub tav-hb dagesh-hb by tavdagesh-hb;
+sub yodyod-hb patah-hb by yodyodpatah-hb;  
+sub vav-hb zerowidthjoiner vav-hb by vavvav-hb;
+sub vav-hb zerowidthjoiner yod-hb by vavyod-hb;
+sub yod-hb zerowidthjoiner yod-hb by yodyod-hb;
+} ccmp_hebr;
 
-#> feature
-  script latn; # Latin
-  language MOL; # Moldavian
-  sub Scedilla by Scommaaccent;
-  sub Tcedilla by Tcommaaccent;
-  sub scedilla by scommaaccent;
-  sub tcedilla by tcommaaccent;
-
-  language ROM; # Romanian
-  sub Scedilla by Scommaaccent;
-  sub Tcedilla by Tcommaaccent;
-  sub scedilla by scommaaccent;
-  sub tcedilla by tcommaaccent;
-#< feature
-} locl;
-feature sinf {
-# Scientific Inferiors
-
-#> feature
-  sub beta by betasubscript;
-  sub chi by chisubscript;
-  sub gamma by gammasubscript;
-  sub i by isubscript;
-  sub phi by phisubscript;
-  sub r by rsubscript;
-  sub rho by rhosubscript;
-  sub u by usubscript;
-  sub v by vsubscript;
-#< feature
-} sinf;
-feature sups {
-# Superscript
-
-#> feature
-  sub A by Amod;
-  sub AE by AEModifier;
-  sub B by Bmod;
-  sub D by Dmod;
-  sub E by Emod;
-  sub Ereversed by EReversedmod;
-  sub G by Gmod;
-  sub H by Hmod;
-  sub I by Imod;
-  sub J by Jmod;
-  sub K by Kmod;
-  sub L by Lmod;
-  sub M by Mmod;
-  sub N by Nmod;
-  sub O by Omod;
-  sub OU by OUmod;
-  sub P by Pmod;
-  sub R by Rmod;
-  sub Rsmallinverted by Rsmallinvertedmod;
-  sub T by Tmod;
-  sub U by Umod;
-  sub W by Wmod;
-  sub a by amod;
-  sub aeTurned by aeTurnedmod;
-  sub ain by ainmod;
-  sub aturned by aTurnedmod;
-  sub b by bmod;
-  sub beta by betamod;
-  sub chi by chimod;
-  sub d by dmod;
-  sub delta by deltamod;
-  sub e by emod;
-  sub eight by eightsuperior;
-  sub eng by engmod;
-  sub eopen by eOpenmod;
-  sub eopenreversed by eTurnedopenmod;
-  sub equal by equalsuperior;
-  sub five by fivesuperior;
-  sub four by foursuperior;
-  sub g by gmod;
-  sub gamma by gammamod;
-  sub glottalstopreversed by glottalstopreversedsuperior;
-  sub h by hmod;
-  sub hhook by hhookmod;
-  sub j by jmod;
-  sub k by kmod;
-  sub l by lmod;
-  sub m by mmod;
-  sub minus by minussuperior;
-  sub mturned by mTurnedmod;
-  sub n by nmod;
-  sub nine by ninesuperior;
-  sub o by omod;
-  sub oBottomhalf by oBottomhalfmod;
-  sub oTophalf by oTophalfmod;
-  sub one by onesuperior;
-  sub oopen by oOpenmod;
-  sub p by pmod;
-  sub parenleft by parenleftsuperior;
-  sub parenright by parenrightsuperior;
-  sub phi by phimod;
-  sub plus by plussuperior;
-  sub r by rmod;
-  sub rhookturned by rhookturnedmod;
-  sub rturned by rturnedmod;
-  sub s by smod;
-  sub schwa by schwamod;
-  sub seven by sevensuperior;
-  sub six by sixsuperior;
-  sub t by tmod;
-  sub three by threesuperior;
-  sub two by twosuperior;
-  sub u by umod;
-  sub uSideways by uSidewaysmod;
-  sub v by vmod;
-  sub w by wmod;
-  sub x by xmod;
-  sub y by ymod;
-  sub zero by zerosuperior;
-#< feature
-} sups;
-feature subs {
-# Subscript
-
-#> feature
-  sub beta by betasubscript;
-  sub chi by chisubscript;
-  sub gamma by gammasubscript;
-  sub i by isubscript;
-  sub phi by phisubscript;
-  sub r by rsubscript;
-  sub rho by rhosubscript;
-  sub u by usubscript;
-  sub v by vsubscript;
-#< feature
-} subs;
-feature frac {
-# Fractions
-
-#> feature
-lookup frac_precomposed {
-
-  sub one slash four by onequarter;
-  sub one slash two by onehalf;
-  sub three slash four by threequarters;
-  sub one slash three by onethird;
-  sub two slash three by twothirds;
-  sub one slash eight by oneeighth;
-  sub three slash eight by threeeighths;
-  sub five slash eight by fiveeighths;
-  sub seven slash eight by seveneighths;
-  sub one fraction four by onequarter;
-  sub one fraction two by onehalf;
-  sub three fraction four by threequarters;
-  sub one fraction three by onethird;
-  sub two fraction three by twothirds;
-  sub one fraction eight by oneeighth;
-  sub three fraction eight by threeeighths;
-  sub five fraction eight by fiveeighths;
-  sub seven fraction eight by seveneighths;
-} frac_precomposed;
-#< feature
-} frac;
-feature ordn {
-# Ordinals
-
-#> feature
-  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-  sub N o period by numero;
-#< feature
-} ordn;
+} ccmp;
 feature liga {
-# Standard Ligatures
-
-#> feature
-  sub f f by f_f;
-  sub f i by fi;
-  sub f l by fl;
-  sub f f i by f_f_i;
-  sub f f l by f_f_l;
-#< feature
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
 } liga;
-feature hist {
-# Historical Forms
+feature dlig {
+lookup dlig_liga {
+lookupflag RightToLeft;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+} dlig_liga;
 
-#> feature
-  sub s by longs;
-#< feature
-} hist;
-feature case {
-# Case Sensitive Forms
-
-#> feature
-  sub dasia by dasia.case;
-  sub dasiaoxia by dasiaoxia.case;
-  sub dasiaperispomeni by dasiaperispomeni.case;
-  sub dasiavaria by dasiavaria.case;
-  sub psili by psili.case;
-  sub psilioxia by psilioxia.case;
-  sub psiliperispomeni by psiliperispomeni.case;
-  sub psilivaria by psilivaria.case;
-  sub tonos by tonos.case;
-  sub varia by varia.case;
-#< feature
-} case;
+lookup dlig_hebr {
+lookupflag RightToLeft;
+sub vav-hb vav-hb by vavvav-hb;
+sub vav-hb yod-hb by vavyod-hb;
+sub yod-hb yod-hb by yodyod-hb;
+} dlig_hebr;
+} dlig;
