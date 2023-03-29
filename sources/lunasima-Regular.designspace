@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" minimum="400" tag="wght" maximum="700" name="weight">
+  <axis name="weight" maximum="700" minimum="400" default="400" tag="wght">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
-  <axis default="1" minimum="1" tag="wdth" maximum="200" name="width">
+  <axis name="width" maximum="200" minimum="1" default="1" tag="wdth">
    <labelname xml:lang="en">Width</labelname>
   </axis>
  </axes>
  <sources>
-  <source stylename="SemiBold" filename="masters/Lunasima-Bold.ufo" familyname="Lunasima" name="Bold">
+  <source name="Bold" stylename="Bold" filename="masters/Lunasima-Bold.ufo" familyname="Lunasima">
    <location>
-    <dimension xvalue="700" name="weight"/>
-    <dimension xvalue="1" name="width"/>
+    <dimension name="weight" xvalue="700"/>
+    <dimension name="width" xvalue="1"/>
    </location>
   </source>
-  <source stylename="Medium" filename="masters/Lunasima-Regular.ufo" familyname="Lunasima" name="Regular">
+  <source name="Regular" stylename="Regular" filename="masters/Lunasima-Regular.ufo" familyname="Lunasima">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="400" name="weight"/>
-    <dimension xvalue="1" name="width"/>
+    <dimension name="weight" xvalue="400"/>
+    <dimension name="width" xvalue="1"/>
    </location>
   </source>
  </sources>
@@ -65,16 +65,16 @@
   </dict>
  </lib>
  <instances>
-  <instance stylename="Regular" filename="instances/Lunasima-Regular.ufo" familyname="Lunasima" name="Regular">
+  <instance name="Regular" stylename="Regular" filename="instances/Lunasima-Regular.ufo" familyname="Lunasima">
    <location>
-    <dimension xvalue="3" name="width"/>
-    <dimension xvalue="400" name="weight"/>
+    <dimension name="width" xvalue="3"/>
+    <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance stylename="Bold" filename="instances/Lunasima-Bold.ufo" familyname="Lunasima" name="Bold">
+  <instance name="Bold" stylename="Bold" filename="instances/Lunasima-Bold.ufo" familyname="Lunasima">
    <location>
-    <dimension xvalue="3" name="width"/>
-    <dimension xvalue="700" name="weight"/>
+    <dimension name="width" xvalue="3"/>
+    <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
  </instances>
