@@ -2,6 +2,7 @@
 <glyph name="micro" format="2">
   <advance width="1419"/>
   <unicode hex="00B5"/>
+  <unicode hex="03BC"/>
   <outline>
     <contour>
       <point x="940" y="1095" type="line"/>

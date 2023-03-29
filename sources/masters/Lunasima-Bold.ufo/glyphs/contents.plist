@@ -3002,8 +3002,6 @@
     <string>mmod.glif</string>
     <key>mturned</key>
     <string>mturned.glif</string>
-    <key>mu1</key>
-    <string>mu1.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
     <key>munahleft-hb</key>
@@ -3498,12 +3496,8 @@
     <string>quotedblright.glif</string>
     <key>quotedblrightreversed</key>
     <string>quotedblrightreversed.glif</string>
-    <key>quoteleft</key>
-    <string>quoteleft.glif</string>
     <key>quotereversed</key>
     <string>quotereversed.glif</string>
-    <key>quoteright</key>
-    <string>quoteright.glif</string>
     <key>quotesinglbase</key>
     <string>quotesinglbase.glif</string>
     <key>quotesingle</key>

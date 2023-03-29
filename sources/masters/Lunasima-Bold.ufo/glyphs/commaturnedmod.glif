@@ -2,6 +2,7 @@
 <glyph name="commaturnedmod" format="2">
   <advance width="506"/>
   <unicode hex="02BB"/>
+  <unicode hex="2018"/>
   <outline>
     <contour>
       <point x="37" y="884" type="line"/>
