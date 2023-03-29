@@ -1,7 +1,7 @@
 ---
 buildOTF: false
 buildVariable: false
-familyName: Dr Vivigray
+familyName: Lunasima
 outputDir: ../fonts
 sources:
-  - dr-vivigray-Regular.designspace
+  - Lunasima-Regular.designspace
