@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upWhiteArrow" format="2">
+  <advance width="2418"/>
+  <unicode hex="21E7"/>
+  <outline>
+    <contour>
+      <point x="1236" y="1004" type="line"/>
+      <point x="1236" y="-44" type="line"/>
+      <point x="764" y="-44" type="line"/>
+      <point x="764" y="1004" type="line"/>
+      <point x="530" y="1004" type="line"/>
+      <point x="530" y="1008" type="line"/>
+      <point x="1000" y="1544" type="line"/>
+      <point x="1470" y="1008" type="line"/>
+      <point x="1470" y="1004" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.863,1,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -44 21</string>
+              <string>hstem 1544 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w2000m1236,1004l1236,-44l764,-44l764,1004l530,1004l530,1008l1000,1544l1470,1008l1470,1004</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

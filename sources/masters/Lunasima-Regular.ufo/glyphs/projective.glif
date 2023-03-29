@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="projective" format="2">
+  <advance width="1628"/>
+  <unicode hex="2305"/>
+  <note>
+uni2305</note>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="565" y="480" type="line"/>
+      <point x="805" y="0" type="line"/>
+      <point x="984" y="0" type="line"/>
+      <point x="590" y="758" type="line"/>
+      <point x="541" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="896" type="line"/>
+      <point x="1024" y="896" type="line"/>
+      <point x="1024" y="1049" type="line"/>
+      <point x="102" y="1049" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1628m147,0l325,0l565,480l805,0l984,0l590,758l541,758m102,896l1024,896l1024,1049l102,1049</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 898 142</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

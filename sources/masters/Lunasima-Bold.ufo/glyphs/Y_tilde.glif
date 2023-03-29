@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ytilde" format="2">
+  <advance width="1406"/>
+  <unicode hex="1EF8"/>
+  <anchor x="623" y="0" name="bottom"/>
+  <anchor x="623" y="1837" name="top"/>
+  <outline>
+    <contour>
+      <point x="326" y="1428" type="line"/>
+      <point x="0" y="1428" type="line"/>
+      <point x="473" y="546" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="773" y="0" type="line"/>
+      <point x="773" y="556" type="line"/>
+      <point x="1246" y="1428" type="line"/>
+      <point x="922" y="1428" type="line"/>
+      <point x="623" y="772" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="1558" type="line"/>
+      <point x="390" y="1643"/>
+      <point x="419" y="1674"/>
+      <point x="460" y="1674" type="curve" smooth="yes"/>
+      <point x="554" y="1674"/>
+      <point x="667" y="1560"/>
+      <point x="783" y="1560" type="curve" smooth="yes"/>
+      <point x="910" y="1560"/>
+      <point x="997" y="1664"/>
+      <point x="1013" y="1837" type="curve"/>
+      <point x="868" y="1837" type="line"/>
+      <point x="852" y="1758"/>
+      <point x="821" y="1726"/>
+      <point x="781" y="1726" type="curve" smooth="yes"/>
+      <point x="688" y="1726"/>
+      <point x="571" y="1835"/>
+      <point x="463" y="1835" type="curve" smooth="yes"/>
+      <point x="327" y="1835"/>
+      <point x="244" y="1739"/>
+      <point x="228" y="1558" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>87203044d3e123c22db9dfe39c25179f7fca7b120893c5c2d95cc5da6e192d48c662746afad19eb530e4b513ff9baafc9ad6c7e49d31fce82af95af773821cee</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1428 -20</string>
+          <string>hstem 1532 238</string>
+          <string>hstem 1626 238</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

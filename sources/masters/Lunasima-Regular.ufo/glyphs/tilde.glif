@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+  <advance width="1258"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="219" y="1212" type="line"/>
+      <point x="247" y="1290"/>
+      <point x="288" y="1328"/>
+      <point x="401" y="1328" type="curve" smooth="yes"/>
+      <point x="529" y="1328"/>
+      <point x="678" y="1214" name=".hr01"/>
+      <point x="843" y="1214" type="curve" smooth="yes"/>
+      <point x="1031" y="1214"/>
+      <point x="1137" y="1314"/>
+      <point x="1161" y="1470" type="curve"/>
+      <point x="1044" y="1470" type="line"/>
+      <point x="1012" y="1392"/>
+      <point x="971" y="1354"/>
+      <point x="862" y="1354" type="curve" smooth="yes"/>
+      <point x="743" y="1354"/>
+      <point x="601" y="1468" name=".hr02"/>
+      <point x="416" y="1468" type="curve" smooth="yes"/>
+      <point x="235" y="1468"/>
+      <point x="121" y="1370"/>
+      <point x="97" y="1212" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d03ce58e39467c749dce0764640ed2dc0a99d2a3bf54d8cc3e49cdd2cb2cce892153f6c9f7061ba02504cad9cac99d88c2f7c50ca99e169f97d8ea9870db6777</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1328 140</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1214 140</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1328 140</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

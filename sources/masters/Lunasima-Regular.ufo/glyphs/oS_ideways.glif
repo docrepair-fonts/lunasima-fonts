@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oSideways" format="2">
+  <advance width="1357"/>
+  <unicode hex="1D11"/>
+  <anchor x="606" y="0" name="bottom"/>
+  <anchor x="606" y="1076" name="top"/>
+  <outline>
+    <contour>
+      <point x="597" y="37" type="curve" smooth="yes"/>
+      <point x="952" y="37"/>
+      <point x="1152" y="243"/>
+      <point x="1152" y="536" type="curve" smooth="yes"/>
+      <point x="1152" y="847"/>
+      <point x="952" y="1039"/>
+      <point x="597" y="1039" type="curve" smooth="yes"/>
+      <point x="239" y="1039"/>
+      <point x="36" y="829"/>
+      <point x="36" y="542" type="curve" smooth="yes"/>
+      <point x="36" y="232"/>
+      <point x="239" y="37"/>
+    </contour>
+    <contour>
+      <point x="597" y="838" type="curve" smooth="yes"/>
+      <point x="843" y="838"/>
+      <point x="989" y="748"/>
+      <point x="989" y="540" type="curve" smooth="yes"/>
+      <point x="989" y="330"/>
+      <point x="843" y="237"/>
+      <point x="597" y="237" type="curve" smooth="yes"/>
+      <point x="350" y="237"/>
+      <point x="199" y="330"/>
+      <point x="199" y="538" type="curve" smooth="yes"/>
+      <point x="199" y="747"/>
+      <point x="350" y="838"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7538704e1d3a785d4d74f758d2528f7562885d32c4f81026769e95b7a35bcd749af4e61b592a502f46bd1cd008699d33456b11bf4fff311f1f3456d64af50aa5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 40 182</string>
+          <string>hstem 850 182</string>
+          <string>vstem 36 146</string>
+          <string>vstem 1000 148</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

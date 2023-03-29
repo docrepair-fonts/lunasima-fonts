@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng" format="2">
+  <advance width="1271"/>
+  <unicode hex="014B"/>
+  <anchor x="636" y="-480" name="bottom"/>
+  <anchor x="636" y="1072" name="top"/>
+  <anchor x="1144" y="1072" name="topright"/>
+  <outline>
+    <contour>
+      <point x="807" y="-480" type="curve" smooth="yes"/>
+      <point x="1005" y="-480"/>
+      <point x="1095" y="-360"/>
+      <point x="1095" y="-160" type="curve" smooth="yes"/>
+      <point x="1095" y="700" type="line" smooth="yes"/>
+      <point x="1095" y="974"/>
+      <point x="965" y="1092"/>
+      <point x="702" y="1092" type="curve" smooth="yes"/>
+      <point x="564" y="1092"/>
+      <point x="438" y="1038"/>
+      <point x="368" y="926" type="curve"/>
+      <point x="358" y="926" type="line"/>
+      <point x="330" y="1072" type="line"/>
+      <point x="187" y="1072" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="363" y="0" type="line"/>
+      <point x="363" y="558" type="line" smooth="yes"/>
+      <point x="363" y="808"/>
+      <point x="442" y="944"/>
+      <point x="681" y="944" type="curve" smooth="yes"/>
+      <point x="843" y="944"/>
+      <point x="920" y="860"/>
+      <point x="920" y="688" type="curve" smooth="yes"/>
+      <point x="920" y="-166" type="line" smooth="yes"/>
+      <point x="920" y="-296"/>
+      <point x="861" y="-334"/>
+      <point x="785" y="-334" type="curve" smooth="yes"/>
+      <point x="737" y="-334"/>
+      <point x="701" y="-326"/>
+      <point x="665" y="-314" type="curve"/>
+      <point x="665" y="-456" type="line"/>
+      <point x="699" y="-470"/>
+      <point x="743" y="-480"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>88f863c507602b11b6aa938dac3ab9cd6a9db2285d5be1c3c4043d60919d38c35a466e28f162523f1b2dcc2ba6cde4ededad790231a677b661f2face3f9cb1b8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 146</string>
+          <string>hstem 0 21</string>
+          <string>hstem 944 148</string>
+          <string>vstem 224 176</string>
+          <string>vstem 954 176</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

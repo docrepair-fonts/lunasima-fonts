@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="1722"/>
+  <unicode hex="0126"/>
+  <anchor x="863" y="0" name="bottom"/>
+  <anchor x="863" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="526" y="0" type="line"/>
+      <point x="526" y="623" type="line"/>
+      <point x="1196" y="623" type="line"/>
+      <point x="1196" y="0" type="line"/>
+      <point x="1516" y="0" type="line"/>
+      <point x="1516" y="1044" type="line"/>
+      <point x="1722" y="1044" type="line"/>
+      <point x="1722" y="1232" type="line"/>
+      <point x="1516" y="1232" type="line"/>
+      <point x="1516" y="1428" type="line"/>
+      <point x="1196" y="1428" type="line"/>
+      <point x="1196" y="1232" type="line"/>
+      <point x="526" y="1232" type="line"/>
+      <point x="526" y="1428" type="line"/>
+      <point x="207" y="1428" type="line"/>
+      <point x="207" y="1232" type="line"/>
+      <point x="0" y="1232" type="line"/>
+      <point x="0" y="1044" type="line"/>
+      <point x="207" y="1044" type="line"/>
+      <point x="207" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="526" y="1044" type="line"/>
+      <point x="1196" y="1044" type="line"/>
+      <point x="1196" y="863" type="line"/>
+      <point x="526" y="863" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>904f1c6fa203605b7d8deb370bf39bbb87b65b7126da3e8af2fa8fa11badd09096ce847e97cdfccd51417026ad5dd5d755aa96a36d432dd2267e844de523ecc1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 582 316</string>
+          <string>hstem 1042 228</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

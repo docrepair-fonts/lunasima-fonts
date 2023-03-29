@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pashta-hb" format="2">
+  <unicode hex="0599"/>
+  <anchor x="400" y="1072" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="404" y="1300" type="line"/>
+      <point x="404" y="1482"/>
+      <point x="291" y="1585"/>
+      <point x="100" y="1585" type="curve"/>
+      <point x="100" y="1484" type="line"/>
+      <point x="230" y="1484"/>
+      <point x="303" y="1416"/>
+      <point x="303" y="1300" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m404,1300c404,1482 291,1585 100,1585l100,1484c230,1484 303,1416 303,1300</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1300 21</string>
+          <string>hstem 1482 100</string>
+          <string>vstem 300 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

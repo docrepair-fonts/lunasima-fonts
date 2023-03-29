@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotamacron" format="2">
+  <advance width="753"/>
+  <unicode hex="1FD1"/>
+  <anchor x="441" y="0" name="bottom"/>
+  <anchor x="290" y="1363" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="macroncomb" xOffset="282" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iota+macroncomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

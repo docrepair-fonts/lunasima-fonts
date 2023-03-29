@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minusbelowcomb" format="2">
+  <unicode hex="0320"/>
+  <anchor x="-3" y="0" name="_bottom"/>
+  <anchor x="-3" y="-428" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="223" y="-194" type="line"/>
+      <point x="-228" y="-194" type="line"/>
+      <point x="-228" y="-316" type="line"/>
+      <point x="223" y="-316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m223,-194l-228,-194l-228,-316l223,-316</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -316 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

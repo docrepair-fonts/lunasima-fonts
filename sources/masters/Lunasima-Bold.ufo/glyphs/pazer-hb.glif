@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pazer-hb" format="2">
+  <unicode hex="05A1"/>
+  <anchor x="268" y="1106" name="_top"/>
+  <outline>
+    <contour>
+      <point x="199" y="1288" type="line"/>
+      <point x="199" y="1385" type="line"/>
+      <point x="214" y="1377"/>
+      <point x="233" y="1375"/>
+      <point x="254" y="1375" type="curve" smooth="yes"/>
+      <point x="368" y="1375"/>
+      <point x="424" y="1446"/>
+      <point x="424" y="1559" type="curve" smooth="yes"/>
+      <point x="424" y="1606" type="line" name=".hr01"/>
+      <point x="324" y="1606" type="line"/>
+      <point x="324" y="1559" type="line" smooth="yes"/>
+      <point x="324" y="1488"/>
+      <point x="303" y="1463"/>
+      <point x="241" y="1463" type="curve" smooth="yes"/>
+      <point x="218" y="1463"/>
+      <point x="207" y="1467"/>
+      <point x="199" y="1476" type="curve"/>
+      <point x="199" y="1606" type="line"/>
+      <point x="99" y="1606" type="line"/>
+      <point x="99" y="1288" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d006521fd4b01538368d8bfe13a7849572eeebb2216e2e56c78d7433cb68f6a235eb3c8676d71c3a4d18252fd496195789fa741c407163cfb5f886702e55bc21</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1362 92</string>
+          <string>vstem 100 102</string>
+          <string>vstem 332 104</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1270 336</string>
+          <string>vstem 100 102</string>
+          <string>vstem 332 104</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

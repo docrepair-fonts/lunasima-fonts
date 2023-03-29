@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteBullet" format="2">
+  <advance width="1246"/>
+  <unicode hex="25E6"/>
+  <outline>
+    <contour>
+      <point x="1000" y="556" type="curve" smooth="yes"/>
+      <point x="888" y="556"/>
+      <point x="796" y="648"/>
+      <point x="796" y="760" type="curve" smooth="yes"/>
+      <point x="796" y="872"/>
+      <point x="888" y="964"/>
+      <point x="1000" y="964" type="curve" smooth="yes"/>
+      <point x="1112" y="964"/>
+      <point x="1204" y="872"/>
+      <point x="1204" y="760" type="curve" smooth="yes"/>
+      <point x="1204" y="648"/>
+      <point x="1112" y="556"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.863,1,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 556 408</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w2000m1000,556c888,556 796,648 796,760c796,872 888,964 1000,964c1112,964 1204,872 1204,760c1204,648 1112,556 1000,556</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

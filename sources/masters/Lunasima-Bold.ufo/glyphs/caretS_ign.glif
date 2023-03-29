@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caretSign" format="2">
+  <advance width="722"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="201" y="-480" type="line"/>
+      <point x="397" y="-32" type="line"/>
+      <point x="608" y="-480" type="line"/>
+      <point x="776" y="-480" type="line"/>
+      <point x="443" y="167" type="line"/>
+      <point x="342" y="167" type="line"/>
+      <point x="36" y="-480" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w722m201,-480l397,-32l608,-480l776,-480l443,167l342,167l36,-480</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 21</string>
+          <string>hstem 172 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

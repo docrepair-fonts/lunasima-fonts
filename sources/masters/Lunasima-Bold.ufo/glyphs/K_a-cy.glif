@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ka-cy" format="2">
+  <advance width="1391"/>
+  <unicode hex="041A"/>
+  <anchor x="702" y="0" name="bottom"/>
+  <anchor x="750" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="840" y="741" type="line"/>
+      <point x="1372" y="1428" type="line"/>
+      <point x="1020" y="1428" type="line"/>
+      <point x="504" y="736" type="line"/>
+      <point x="504" y="1428" type="line"/>
+      <point x="184" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="724" type="line"/>
+      <point x="1036" y="0" type="line"/>
+      <point x="1401" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1391m840,741l1372,1428l1020,1428l504,736l504,1428l184,1428l184,0l504,0l504,724l1036,0l1401,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

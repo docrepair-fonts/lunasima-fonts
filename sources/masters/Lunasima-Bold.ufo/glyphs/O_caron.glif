@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocaron" format="2">
+  <advance width="1686"/>
+  <unicode hex="01D1"/>
+  <anchor x="782" y="0" name="bottom"/>
+  <anchor x="783" y="1879" name="top"/>
+  <outline>
+    <contour>
+      <point x="1460" y="716" type="curve" smooth="yes"/>
+      <point x="1460" y="1160"/>
+      <point x="1246" y="1450"/>
+      <point x="784" y="1450" type="curve" smooth="yes"/>
+      <point x="316" y="1450"/>
+      <point x="102" y="1158"/>
+      <point x="102" y="718" type="curve" smooth="yes"/>
+      <point x="102" y="275"/>
+      <point x="316" y="-20"/>
+      <point x="782" y="-20" type="curve" smooth="yes"/>
+      <point x="1246" y="-20"/>
+      <point x="1460" y="274"/>
+    </contour>
+    <contour>
+      <point x="417" y="716" type="curve" smooth="yes"/>
+      <point x="417" y="1049"/>
+      <point x="525" y="1250"/>
+      <point x="784" y="1250" type="curve" smooth="yes"/>
+      <point x="1041" y="1250"/>
+      <point x="1146" y="1049"/>
+      <point x="1146" y="716" type="curve" smooth="yes"/>
+      <point x="1146" y="384"/>
+      <point x="1041" y="180"/>
+      <point x="782" y="180" type="curve" smooth="yes"/>
+      <point x="526" y="180"/>
+      <point x="417" y="384"/>
+    </contour>
+    <contour>
+      <point x="933" y="1559" type="line"/>
+      <point x="989" y="1650"/>
+      <point x="1112" y="1779"/>
+      <point x="1183" y="1853" type="curve"/>
+      <point x="1183" y="1879" type="line"/>
+      <point x="987" y="1879" type="line"/>
+      <point x="917" y="1835"/>
+      <point x="853" y="1774"/>
+      <point x="782" y="1706" type="curve"/>
+      <point x="714" y="1774"/>
+      <point x="652" y="1834"/>
+      <point x="582" y="1879" type="curve"/>
+      <point x="386" y="1879" type="line"/>
+      <point x="386" y="1853" type="line"/>
+      <point x="460" y="1778"/>
+      <point x="579" y="1650"/>
+      <point x="635" y="1559" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a5cdeb1cb99c941edbb37680d1e334df9f115f73927726ca43a4cbe709f79d5a4b3023da249fc0ffd43c9cade72554f20f1be832566dd4ba1550cbe107acc5a6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 322</string>
+          <string>hstem 1134 316</string>
+          <string>hstem 1854 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

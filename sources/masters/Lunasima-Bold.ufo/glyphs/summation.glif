@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation" format="2">
+  <advance width="1629"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="856" y="290" type="line"/>
+      <point x="856" y="300" type="line"/>
+      <point x="1228" y="753" type="line"/>
+      <point x="886" y="1180" type="line"/>
+      <point x="886" y="1186" type="line"/>
+      <point x="1552" y="1186" type="line"/>
+      <point x="1552" y="1476" type="line"/>
+      <point x="416" y="1476" type="line"/>
+      <point x="416" y="1263" type="line"/>
+      <point x="846" y="739" type="line"/>
+      <point x="396" y="194" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="1604" y="0" type="line"/>
+      <point x="1604" y="290" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.863,1,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 290</string>
+              <string>hstem 1188 288</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w2000m856,290l856,300l1228,753l886,1180l886,1186l1552,1186l1552,1476l416,1476l416,1263l846,739l396,194l396,0l1604,0l1604,290</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

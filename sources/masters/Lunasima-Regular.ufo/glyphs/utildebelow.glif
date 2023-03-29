@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="utildebelow" format="2">
+  <advance width="1271"/>
+  <unicode hex="1E75"/>
+  <anchor x="635" y="1072" name="top"/>
+  <anchor x="1143" y="1072" name="topright"/>
+  <anchor x="609" y="-373" name="bottom"/>
+  <outline>
+    <component base="u"/>
+    <component base="tildebelowcomb" xOffset="601"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+tildebelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

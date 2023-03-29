@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ole-hb" format="2">
+  <unicode hex="05AB"/>
+  <anchor x="250" y="1072" name="_top"/>
+  <outline>
+    <contour>
+      <point x="404" y="1297" type="line"/>
+      <point x="236" y="1465" type="line"/>
+      <point x="404" y="1632" type="line"/>
+      <point x="268" y="1632" type="line"/>
+      <point x="100" y="1465" type="line"/>
+      <point x="268" y="1297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m404,1297l236,1465l404,1632l268,1632l100,1465l268,1297</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1300 21</string>
+          <string>hstem 1632 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

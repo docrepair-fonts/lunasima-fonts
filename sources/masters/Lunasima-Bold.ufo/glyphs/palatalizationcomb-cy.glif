@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="palatalizationcomb-cy" format="2">
+  <unicode hex="0484"/>
+  <anchor x="-520" y="1086" name="_top"/>
+  <anchor x="-516" y="1504" name="top"/>
+  <outline>
+    <contour>
+      <point x="-390" y="1504" type="curve" smooth="yes"/>
+      <point x="-556" y="1504"/>
+      <point x="-691" y="1388"/>
+      <point x="-895" y="1388" type="curve" smooth="yes"/>
+      <point x="-908" y="1388" type="line"/>
+      <point x="-908" y="1217" type="line"/>
+      <point x="-892" y="1217" type="line" smooth="yes"/>
+      <point x="-603" y="1217"/>
+      <point x="-519" y="1325"/>
+      <point x="-411" y="1325" type="curve" smooth="yes"/>
+      <point x="-352" y="1325"/>
+      <point x="-313" y="1297"/>
+      <point x="-313" y="1214" type="curve"/>
+      <point x="-134" y="1214" type="line"/>
+      <point x="-134" y="1258" type="line" smooth="yes"/>
+      <point x="-134" y="1428"/>
+      <point x="-225" y="1504"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>71affadfa8b4539ed09d16229318b71f5eb727a76ed41e2c1c7325bdefbc7eb831b8297899580182726a8c1e5485f2e42dd36e2a31892c459e2e66f0541a46a3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1202 236</string>
+          <string>hstem 1306 252</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

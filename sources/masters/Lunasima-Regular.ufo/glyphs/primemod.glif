@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="primemod" format="2">
+  <advance width="493"/>
+  <unicode hex="02B9"/>
+  <outline>
+    <contour>
+      <point x="328" y="1428" type="line"/>
+      <point x="123" y="1428" type="line"/>
+      <point x="104" y="1287"/>
+      <point x="62" y="1084"/>
+      <point x="24" y="931" type="curve"/>
+      <point x="170" y="931" type="line"/>
+      <point x="235" y="1074"/>
+      <point x="306" y="1266"/>
+      <point x="342" y="1406" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w493m328,1428l123,1428c104,1287 62,1084 24,931l170,931c235,1074 306,1266 342,1406</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 938 21</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

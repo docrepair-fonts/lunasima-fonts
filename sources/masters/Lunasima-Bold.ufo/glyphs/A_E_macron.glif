@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEmacron" format="2">
+  <advance width="1962"/>
+  <unicode hex="01E2"/>
+  <anchor x="979" y="0" name="bottom"/>
+  <anchor x="1094" y="1737" name="top"/>
+  <outline>
+    <component base="AE"/>
+    <component base="macroncomb" xOffset="1118" yOffset="342"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>AE+macroncomb</string>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

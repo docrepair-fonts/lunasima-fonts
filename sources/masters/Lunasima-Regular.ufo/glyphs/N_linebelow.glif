@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nlinebelow" format="2">
+  <advance width="1513"/>
+  <unicode hex="1E48"/>
+  <anchor x="757" y="1428" name="top"/>
+  <anchor x="1445" y="1428" name="topright"/>
+  <anchor x="763" y="-303" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <component base="macronbelowcomb" xOffset="751"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+macronbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

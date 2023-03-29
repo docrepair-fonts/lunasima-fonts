@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invertedundertie" format="2">
+  <advance width="1024"/>
+  <unicode hex="2054"/>
+  <outline>
+    <contour>
+      <point x="156" y="-485" type="line"/>
+      <point x="245" y="-276"/>
+      <point x="417" y="-171"/>
+      <point x="631" y="-171" type="curve" smooth="yes"/>
+      <point x="838" y="-171"/>
+      <point x="1012" y="-277"/>
+      <point x="1100" y="-485" type="curve"/>
+      <point x="1224" y="-423" type="line"/>
+      <point x="1091" y="-155"/>
+      <point x="895" y="-22"/>
+      <point x="631" y="-22" type="curve" smooth="yes"/>
+      <point x="367" y="-22"/>
+      <point x="171" y="-155"/>
+      <point x="34" y="-423" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2c9418d53603097ebdcd629b5c284d3ddca349d3c70c5b5756a35f7f1fb1ea2fcedbb36f8dc013f1626b2d4a7eb1b3c033f050aa5c5f4b579d2cdc3fd15bcf2d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -522 21</string>
+          <string>hstem -212 214</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

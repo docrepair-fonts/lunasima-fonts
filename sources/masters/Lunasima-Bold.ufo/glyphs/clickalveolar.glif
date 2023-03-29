@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="clickalveolar" format="2">
+  <advance width="938"/>
+  <unicode hex="01C2"/>
+  <anchor x="498" y="-1" name="bottom"/>
+  <anchor x="498" y="1520" name="top"/>
+  <outline>
+    <contour>
+      <point x="378" y="1520" type="line"/>
+      <point x="378" y="1060" type="line"/>
+      <point x="86" y="1060" type="line"/>
+      <point x="86" y="860" type="line"/>
+      <point x="378" y="860" type="line"/>
+      <point x="378" y="694" type="line"/>
+      <point x="86" y="694" type="line"/>
+      <point x="86" y="494" type="line"/>
+      <point x="378" y="494" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="617" y="0" type="line"/>
+      <point x="617" y="494" type="line"/>
+      <point x="913" y="494" type="line"/>
+      <point x="913" y="694" type="line"/>
+      <point x="617" y="694" type="line"/>
+      <point x="617" y="860" type="line"/>
+      <point x="913" y="860" type="line"/>
+      <point x="913" y="1060" type="line"/>
+      <point x="617" y="1060" type="line"/>
+      <point x="617" y="1520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>57fdfb232d97f6311075f21b17ea689f5aea7dd6ea4d0b80029e7205c3091a414de63c47238c46824bb453a6d359a04000dd1a2dd13d44325e53fa57ad4c431e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 436 272</string>
+          <string>hstem 854 272</string>
+          <string>hstem 1520 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

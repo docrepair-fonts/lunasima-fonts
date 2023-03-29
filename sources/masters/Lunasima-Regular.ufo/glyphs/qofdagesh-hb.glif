@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qofdagesh-hb" format="2">
+  <advance width="1364"/>
+  <unicode hex="FB47"/>
+  <anchor x="745" y="0" name="bottom"/>
+  <anchor x="67" y="0" name="bottomleft"/>
+  <anchor x="688" y="1076" name="top"/>
+  <anchor x="3" y="1076" name="topleft"/>
+  <outline>
+    <component base="qof-hb"/>
+    <component base="dagesh-hb" xOffset="432" yOffset="2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>qof-hb+dagesh-hb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

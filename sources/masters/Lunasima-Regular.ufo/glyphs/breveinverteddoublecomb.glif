@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinverteddoublecomb" format="2">
+  <unicode hex="0361"/>
+  <anchor x="-673" y="1224" name="_top"/>
+  <anchor x="7" y="1702" name="top"/>
+  <outline>
+    <contour>
+      <point x="-4" y="1702" type="curve" smooth="yes"/>
+      <point x="-354" y="1702"/>
+      <point x="-636" y="1591"/>
+      <point x="-772" y="1323" type="curve"/>
+      <point x="-621" y="1323" type="line"/>
+      <point x="-509" y="1481"/>
+      <point x="-283" y="1550"/>
+      <point x="-2" y="1550" type="curve" smooth="yes"/>
+      <point x="330" y="1550"/>
+      <point x="530" y="1463"/>
+      <point x="626" y="1323" type="curve"/>
+      <point x="777" y="1323" type="line"/>
+      <point x="667" y="1573"/>
+      <point x="390" y="1702"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b97b2ad70715022c874e8924d2d9f095658d80a430c011bcc03e1576be2f975b0382cc2d7cd35e24ff141d2cbc5f09a70363f2c9f6251a6159bea62c10ae2344</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1318 21</string>
+          <string>hstem 1550 144</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="merkhaleft-hb" format="2">
+  <unicode hex="05A5"/>
+  <anchor x="400" y="0" name="_bottomleft"/>
+  <outline>
+    <contour>
+      <point x="100" y="-448" type="line"/>
+      <point x="295" y="-448"/>
+      <point x="404" y="-343"/>
+      <point x="404" y="-165" type="curve"/>
+      <point x="303" y="-165" type="line"/>
+      <point x="303" y="-278"/>
+      <point x="226" y="-349"/>
+      <point x="100" y="-349" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m100,-448c295,-448 404,-343 404,-165l303,-165c303,-278 226,-349 100,-349</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -448 98</string>
+          <string>hstem -168 -20</string>
+          <string>vstem 300 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

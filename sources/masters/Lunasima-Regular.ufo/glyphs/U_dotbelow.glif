@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udotbelow" format="2">
+  <advance width="1419"/>
+  <unicode hex="1EE4"/>
+  <anchor x="711" y="1428" name="top"/>
+  <anchor x="1348" y="1428" name="topright"/>
+  <anchor x="709" y="-362" name="bottom"/>
+  <outline>
+    <component base="U"/>
+    <component base="dotbelowcomb" xOffset="1292"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

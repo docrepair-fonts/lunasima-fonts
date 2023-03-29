@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pdotaccent" format="2">
+  <advance width="1256"/>
+  <unicode hex="1E56"/>
+  <anchor x="635" y="0" name="bottom"/>
+  <anchor x="1210" y="1428" name="topright"/>
+  <anchor x="656" y="1848" name="top"/>
+  <outline>
+    <component base="P"/>
+    <component base="dotaccentcomb" xOffset="696" yOffset="342"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>P+dotaccentcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

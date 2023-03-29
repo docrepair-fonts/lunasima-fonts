@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odblgrave" format="2">
+  <advance width="1308"/>
+  <unicode hex="020D"/>
+  <anchor x="650" y="0" name="bottom"/>
+  <anchor x="654" y="548" name="center"/>
+  <anchor x="1253" y="1095" name="topright"/>
+  <anchor x="654" y="1541" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="dblgravecomb" xOffset="1333" yOffset="9"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+dblgravecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

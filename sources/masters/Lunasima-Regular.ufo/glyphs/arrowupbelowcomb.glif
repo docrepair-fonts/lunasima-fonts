@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupbelowcomb" format="2">
+  <unicode hex="034E"/>
+  <anchor x="2" y="0" name="_bottom"/>
+  <anchor x="6" y="-480" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="68" y="-480" type="line"/>
+      <point x="68" y="-240" type="line"/>
+      <point x="186" y="-240" type="line"/>
+      <point x="2" y="-50" type="line"/>
+      <point x="-182" y="-240" type="line"/>
+      <point x="-64" y="-240" type="line"/>
+      <point x="-64" y="-480" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m68,-480l68,-240l186,-240l2,-50l-182,-240l-64,-240l-64,-480</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 21</string>
+          <string>hstem -50 -20</string>
+          <string>vstem -64 132</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

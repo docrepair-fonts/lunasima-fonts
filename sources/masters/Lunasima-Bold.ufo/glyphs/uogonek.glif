@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="2">
+  <advance width="1345"/>
+  <unicode hex="0173"/>
+  <anchor x="656" y="-466" name="bottom"/>
+  <anchor x="674" y="1095" name="top"/>
+  <outline>
+    <contour>
+      <point x="867" y="1095" type="line"/>
+      <point x="867" y="586" type="line" smooth="yes"/>
+      <point x="867" y="356"/>
+      <point x="817" y="230"/>
+      <point x="642" y="230" type="curve" smooth="yes"/>
+      <point x="527" y="230"/>
+      <point x="478" y="309"/>
+      <point x="478" y="462" type="curve" smooth="yes"/>
+      <point x="478" y="1095" type="line"/>
+      <point x="156" y="1095" type="line"/>
+      <point x="156" y="381" type="line" smooth="yes"/>
+      <point x="156" y="101"/>
+      <point x="314" y="-20"/>
+      <point x="545" y="-20" type="curve" smooth="yes"/>
+      <point x="683" y="-20"/>
+      <point x="813" y="28"/>
+      <point x="883" y="140" type="curve"/>
+      <point x="901" y="140" type="line"/>
+      <point x="942" y="0" type="line" name=".hr01"/>
+      <point x="1187" y="0" type="line"/>
+      <point x="1187" y="1095" type="line"/>
+    </contour>
+    <contour>
+      <point x="992" y="-206" type="curve" smooth="yes"/>
+      <point x="992" y="-139"/>
+      <point x="1033" y="-86"/>
+      <point x="1123" y="0" type="curve"/>
+      <point x="990" y="44" type="line"/>
+      <point x="841" y="-55"/>
+      <point x="774" y="-155"/>
+      <point x="774" y="-253" type="curve" smooth="yes"/>
+      <point x="774" y="-386"/>
+      <point x="876" y="-466"/>
+      <point x="1026" y="-466" type="curve" smooth="yes"/>
+      <point x="1092" y="-466"/>
+      <point x="1140" y="-456"/>
+      <point x="1183" y="-443" type="curve"/>
+      <point x="1183" y="-262" type="line"/>
+      <point x="1156" y="-271"/>
+      <point x="1109" y="-280"/>
+      <point x="1072" y="-280" type="curve" smooth="yes"/>
+      <point x="1023" y="-280"/>
+      <point x="992" y="-258"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8622e23ad8fd665c6d113f48d6575bf0aaff68640b8c8d1d0aeff1f9b4c9b52434921ddf3aad146c587a1282ce62a37727f6288a0fc024de2d4ebcef653f51b8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 220</string>
+          <string>hstem 1106 -20</string>
+          <string>vstem 754 248</string>
+          <string>hstem -20 302</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem -480 220</string>
+          <string>hstem 1106 -20</string>
+          <string>vstem 754 248</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

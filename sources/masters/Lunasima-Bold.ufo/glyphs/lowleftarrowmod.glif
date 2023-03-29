@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowleftarrowmod" format="2">
+  <advance width="987"/>
+  <unicode hex="02FF"/>
+  <outline>
+    <contour>
+      <point x="582" y="-362" type="line"/>
+      <point x="318" y="-224" type="line"/>
+      <point x="988" y="-224" type="line"/>
+      <point x="988" y="-104" type="line"/>
+      <point x="318" y="-104" type="line"/>
+      <point x="582" y="32" type="line"/>
+      <point x="582" y="150" type="line"/>
+      <point x="80" y="-116" type="line"/>
+      <point x="80" y="-214" type="line"/>
+      <point x="582" y="-480" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w987m582,-362l318,-224l988,-224l988,-104l318,-104l582,32l582,150l80,-116l80,-214l582,-480</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 21</string>
+          <string>hstem -224 120</string>
+          <string>hstem 150 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

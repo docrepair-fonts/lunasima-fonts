@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicronpsilioxia" format="2">
+  <advance width="1258"/>
+  <unicode hex="1F44"/>
+  <outline>
+    <contour>
+      <point x="1116" y="540" type="curve" smooth="yes"/>
+      <point x="1116" y="895"/>
+      <point x="908" y="1096"/>
+      <point x="615" y="1096" type="curve" smooth="yes"/>
+      <point x="303" y="1096"/>
+      <point x="110" y="895"/>
+      <point x="110" y="540" type="curve" smooth="yes"/>
+      <point x="110" y="183"/>
+      <point x="321" y="-20"/>
+      <point x="609" y="-20" type="curve" smooth="yes"/>
+      <point x="920" y="-20"/>
+      <point x="1116" y="183"/>
+    </contour>
+    <contour>
+      <point x="316" y="540" type="curve" smooth="yes"/>
+      <point x="316" y="788"/>
+      <point x="405" y="935"/>
+      <point x="611" y="935" type="curve" smooth="yes"/>
+      <point x="818" y="935"/>
+      <point x="910" y="788"/>
+      <point x="910" y="540" type="curve" smooth="yes"/>
+      <point x="910" y="292"/>
+      <point x="818" y="139"/>
+      <point x="613" y="139" type="curve" smooth="yes"/>
+      <point x="407" y="139"/>
+      <point x="316" y="292"/>
+    </contour>
+    <contour>
+      <point x="426" y="1205" type="line"/>
+      <point x="508" y="1250"/>
+      <point x="571" y="1313"/>
+      <point x="571" y="1406" type="curve" smooth="yes"/>
+      <point x="571" y="1514"/>
+      <point x="496" y="1559"/>
+      <point x="380" y="1559" type="curve" smooth="yes"/>
+      <point x="331" y="1559"/>
+      <point x="300" y="1547"/>
+      <point x="282" y="1540" type="curve"/>
+      <point x="282" y="1424" type="line"/>
+      <point x="293" y="1428"/>
+      <point x="312" y="1436"/>
+      <point x="338" y="1436" type="curve" smooth="yes"/>
+      <point x="376" y="1436"/>
+      <point x="415" y="1421"/>
+      <point x="415" y="1366" type="curve" smooth="yes"/>
+      <point x="415" y="1321"/>
+      <point x="383" y="1279"/>
+      <point x="340" y="1251" type="curve"/>
+    </contour>
+    <contour>
+      <point x="745" y="1212" type="line"/>
+      <point x="943" y="1532" type="line"/>
+      <point x="943" y="1552" type="line" name=".hr01"/>
+      <point x="709" y="1552" type="line"/>
+      <point x="613" y="1237" type="line"/>
+      <point x="613" y="1212" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>efeeed148773d0387c1d19ff310dcaf6d035e42e45a16c40bd73634d94c7e682aeaae47e6d0e6081813218666630f055478f13f8b82c35a0dfdba0b4e5cabfea</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 944 148</string>
+          <string>hstem 1440 118</string>
+          <string>vstem 148 182</string>
+          <string>vstem 458 144</string>
+          <string>vstem 958 182</string>
+          <string>hstem -20 146</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1212 340</string>
+          <string>hstem 944 148</string>
+          <string>vstem 148 182</string>
+          <string>vstem 458 144</string>
+          <string>vstem 958 182</string>
+          <string>hstem -20 146</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

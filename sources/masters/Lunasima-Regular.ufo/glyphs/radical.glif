@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="1653"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="1120" y="1760" type="line"/>
+      <point x="540" y="94" type="line"/>
+      <point x="342" y="614" type="line"/>
+      <point x="68" y="228" type="line"/>
+      <point x="120" y="190" type="line"/>
+      <point x="260" y="388" type="line"/>
+      <point x="476" y="-172" type="line"/>
+      <point x="536" y="-172" type="line"/>
+      <point x="1178" y="1678" type="line"/>
+      <point x="2000" y="1678" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.863,1,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -172 21</string>
+              <string>hstem 1678 41</string>
+              <string>hstem 1760 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w2000m1120,1760l540,94l342,614l68,228l120,190l260,388l476,-172l536,-172l1178,1678l2000,1678</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

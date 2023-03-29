@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="1012"/>
+  <unicode hex="0493"/>
+  <anchor x="441" y="0" name="bottom"/>
+  <anchor x="441" y="1076" name="top"/>
+  <outline>
+    <contour>
+      <point x="167" y="1076" type="line"/>
+      <point x="167" y="608" type="line"/>
+      <point x="16" y="608" type="line"/>
+      <point x="16" y="458" type="line"/>
+      <point x="167" y="458" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="367" y="0" type="line"/>
+      <point x="367" y="458" type="line"/>
+      <point x="696" y="458" type="line"/>
+      <point x="696" y="608" type="line"/>
+      <point x="367" y="608" type="line"/>
+      <point x="367" y="915" type="line"/>
+      <point x="840" y="915" type="line"/>
+      <point x="840" y="1076" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1012m167,1076l167,608l16,608l16,458l167,458l167,0l367,0l367,458l696,458l696,608l367,608l367,915l840,915l840,1076</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 466 136</string>
+          <string>hstem 924 148</string>
+          <string>vstem 157 176</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

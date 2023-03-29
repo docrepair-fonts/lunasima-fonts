@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scommaaccent" format="2">
+  <advance width="1158"/>
+  <unicode hex="0219"/>
+  <anchor x="569" y="1095" name="top"/>
+  <anchor x="1091" y="1095" name="topright"/>
+  <anchor x="575" y="-442" name="bottom"/>
+  <outline>
+    <component base="s"/>
+    <component base="commaaccentcomb" xOffset="560"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s+commaaccentcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

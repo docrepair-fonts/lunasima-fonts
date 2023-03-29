@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance width="1516"/>
+  <unicode hex="04A0"/>
+  <anchor x="700" y="0" name="bottom"/>
+  <anchor x="700" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="1150" y="1428" type="line"/>
+      <point x="541" y="736" type="line"/>
+      <point x="541" y="1428" type="line"/>
+      <point x="14" y="1428" type="line"/>
+      <point x="14" y="1277" type="line"/>
+      <point x="341" y="1277" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="541" y="725" type="line"/>
+      <point x="1166" y="0" type="line"/>
+      <point x="1403" y="0" type="line"/>
+      <point x="772" y="734" type="line"/>
+      <point x="1375" y="1428" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1516m1150,1428l541,736l541,1428l14,1428l14,1277l341,1277l341,0l541,0l541,725l1166,0l1403,0l772,734l1375,1428</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1268 160</string>
+          <string>vstem 289 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

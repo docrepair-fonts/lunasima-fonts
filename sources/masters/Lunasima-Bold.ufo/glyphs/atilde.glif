@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde" format="2">
+  <advance width="1204"/>
+  <unicode hex="00E3"/>
+  <anchor x="598" y="0" name="bottom"/>
+  <anchor x="1110" y="1095" name="topright"/>
+  <anchor x="598" y="1503" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="tildecomb" xOffset="1357" yOffset="9"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+tildecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

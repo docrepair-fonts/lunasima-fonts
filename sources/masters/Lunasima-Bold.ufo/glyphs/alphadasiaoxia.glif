@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphadasiaoxia" format="2">
+  <advance width="1499"/>
+  <unicode hex="1F05"/>
+  <anchor x="688" y="0" name="bottom"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="dasiaoxia" xOffset="170" yOffset="-11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>alpha+dasiaoxia</string>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

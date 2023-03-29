@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horncomb" format="2">
+  <advance width="123"/>
+  <unicode hex="031B"/>
+  <anchor x="-99" y="1234" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="-206" y="1106" type="line"/>
+      <point x="82" y="1139"/>
+      <point x="190" y="1282"/>
+      <point x="228" y="1498" type="curve"/>
+      <point x="214" y="1520" type="line" name=".hr01"/>
+      <point x="7" y="1520" type="line"/>
+      <point x="7" y="1344"/>
+      <point x="-71" y="1259"/>
+      <point x="-206" y="1238" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w123m-206,1106c82,1139 190,1282 228,1498l214,1520l7,1520c7,1344 -71,1259 -206,1238</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1110 124</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1110 410</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

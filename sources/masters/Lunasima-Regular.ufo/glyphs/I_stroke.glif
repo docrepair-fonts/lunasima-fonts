@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Istroke" format="2">
+  <advance width="802"/>
+  <unicode hex="0197"/>
+  <anchor x="351" y="0" name="bottom"/>
+  <anchor x="351" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="79" y="1428" type="line"/>
+      <point x="79" y="1329" type="line"/>
+      <point x="249" y="1292" type="line"/>
+      <point x="249" y="808" type="line"/>
+      <point x="68" y="808" type="line"/>
+      <point x="68" y="660" type="line"/>
+      <point x="249" y="660" type="line"/>
+      <point x="249" y="135" type="line"/>
+      <point x="79" y="100" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="619" y="100" type="line"/>
+      <point x="449" y="135" type="line"/>
+      <point x="449" y="660" type="line"/>
+      <point x="630" y="660" type="line"/>
+      <point x="630" y="808" type="line"/>
+      <point x="449" y="808" type="line"/>
+      <point x="449" y="1292" type="line"/>
+      <point x="619" y="1329" type="line"/>
+      <point x="619" y="1428" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cc487c73c3275a7e5b4df8a3ef24965ac8a989f0e38db8585ce4d5e3599a7f9b643a76b1beb00daa2193e3bb8b8a1df43b09d74ca0c7ca6d3e5b5542fc9c6f17</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 654 156</string>
+          <string>hstem 1428 -20</string>
+          <string>vstem 276 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

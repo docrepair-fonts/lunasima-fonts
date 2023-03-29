@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilonvrachy" format="2">
+  <advance width="1247"/>
+  <unicode hex="1FE0"/>
+  <anchor x="608" y="0" name="bottom"/>
+  <anchor x="597" y="1521" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="brevecomb" xOffset="629" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>upsilon+brevecomb</string>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rdblgrave" format="2">
+  <advance width="1295"/>
+  <unicode hex="0210"/>
+  <anchor x="689" y="0" name="bottom"/>
+  <anchor x="1254" y="1428" name="topright"/>
+  <anchor x="653" y="1884" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="dblgravecomb" xOffset="1225" yOffset="352"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>R+dblgravecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldotbelowmacron" format="2">
+  <advance width="1190"/>
+  <unicode hex="1E38"/>
+  <anchor x="612" y="-382" name="bottom"/>
+  <anchor x="316" y="1725" name="top"/>
+  <outline>
+    <contour>
+      <point x="1053" y="0" type="line"/>
+      <point x="1053" y="200" type="line"/>
+      <point x="471" y="200" type="line"/>
+      <point x="471" y="1432" type="line"/>
+      <point x="172" y="1432" type="line"/>
+      <point x="172" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="609" y="-382" type="curve" smooth="yes"/>
+      <point x="696" y="-382"/>
+      <point x="770" y="-346"/>
+      <point x="770" y="-255" type="curve" smooth="yes"/>
+      <point x="770" y="-162"/>
+      <point x="696" y="-128"/>
+      <point x="609" y="-128" type="curve" smooth="yes"/>
+      <point x="520" y="-128"/>
+      <point x="448" y="-162"/>
+      <point x="448" y="-255" type="curve" smooth="yes"/>
+      <point x="448" y="-346"/>
+      <point x="520" y="-382"/>
+    </contour>
+    <contour>
+      <point x="-14" y="1725" type="line"/>
+      <point x="-14" y="1564" type="line"/>
+      <point x="647" y="1564" type="line"/>
+      <point x="647" y="1725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>55182496da5b00d546f1f2cb81e4122fe50e86c9792533cf1583dfb69d57b7c5de38f1abccdd745f198c80f42e53efcf3c5b2c232e895d23b99a3cab328f0b5f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -468 338</string>
+          <string>hstem 0 312</string>
+          <string>hstem 1428 -20</string>
+          <string>hstem 1534 230</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

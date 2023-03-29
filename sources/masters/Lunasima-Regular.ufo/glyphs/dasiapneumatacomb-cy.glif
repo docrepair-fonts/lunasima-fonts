@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiapneumatacomb-cy" format="2">
+  <unicode hex="0485"/>
+  <anchor x="-561" y="1076" name="_top"/>
+  <anchor x="-557" y="1561" name="top"/>
+  <outline>
+    <contour>
+      <point x="-688" y="1430" type="curve" smooth="yes"/>
+      <point x="-688" y="1318"/>
+      <point x="-600" y="1240"/>
+      <point x="-435" y="1206" type="curve"/>
+      <point x="-435" y="1282" type="line"/>
+      <point x="-513" y="1304"/>
+      <point x="-551" y="1337"/>
+      <point x="-551" y="1373" type="curve" smooth="yes"/>
+      <point x="-551" y="1428"/>
+      <point x="-451" y="1407"/>
+      <point x="-451" y="1479" type="curve" smooth="yes"/>
+      <point x="-451" y="1531"/>
+      <point x="-490" y="1561"/>
+      <point x="-557" y="1561" type="curve" smooth="yes"/>
+      <point x="-636" y="1561"/>
+      <point x="-688" y="1507"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b0847d3a8827dfc285748c60b2c49adafeae36af967eb549e8ff65773fcb4d3dc2f63ea974353fed9b55390945dcd6ca0744df37e83091c45808cb55f166d6d5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1208 21</string>
+          <string>hstem 1556 -20</string>
+          <string>vstem -699 124</string>
+          <string>vstem -699 220</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

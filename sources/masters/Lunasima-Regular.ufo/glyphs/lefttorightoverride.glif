@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lefttorightoverride" format="2">
+  <unicode hex="202D"/>
+  <outline>
+    <contour>
+      <point x="42" y="-266" type="line"/>
+      <point x="42" y="954" type="line"/>
+      <point x="232" y="954" type="line"/>
+      <point x="232" y="1030" type="line"/>
+      <point x="-154" y="1030" type="line"/>
+      <point x="-154" y="1300" type="line"/>
+      <point x="232" y="1300" type="line"/>
+      <point x="232" y="1378" type="line"/>
+      <point x="-232" y="1378" type="line"/>
+      <point x="-232" y="954" type="line"/>
+      <point x="-42" y="954" type="line"/>
+      <point x="-42" y="-266" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m42,-266l42,954l232,954l232,1030l-154,1030l-154,1300l232,1300l232,1378l-232,1378l-232,954l-42,954l-42,-266</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -266 21</string>
+          <string>hstem 954 76</string>
+          <string>hstem 1300 78</string>
+          <string>vstem -232 78</string>
+          <string>vstem -42 84</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

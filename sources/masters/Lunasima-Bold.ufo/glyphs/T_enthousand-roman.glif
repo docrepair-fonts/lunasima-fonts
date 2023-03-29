@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tenthousand-roman" format="2">
+  <advance width="2583"/>
+  <unicode hex="2182"/>
+  <outline>
+    <contour>
+      <point x="853" y="0" type="curve" smooth="yes"/>
+      <point x="1427" y="0" type="line" smooth="yes"/>
+      <point x="1888" y="0"/>
+      <point x="2177" y="248"/>
+      <point x="2177" y="739" type="curve" smooth="yes"/>
+      <point x="2177" y="1188"/>
+      <point x="1912" y="1434"/>
+      <point x="1463" y="1434" type="curve" smooth="yes"/>
+      <point x="817" y="1434" type="line" smooth="yes"/>
+      <point x="367" y="1434"/>
+      <point x="102" y="1188"/>
+      <point x="102" y="739" type="curve" smooth="yes"/>
+      <point x="102" y="248"/>
+      <point x="391" y="0"/>
+    </contour>
+    <contour>
+      <point x="853" y="225" type="line" smooth="yes"/>
+      <point x="554" y="225"/>
+      <point x="411" y="393"/>
+      <point x="411" y="729" type="curve" smooth="yes"/>
+      <point x="411" y="1058"/>
+      <point x="554" y="1209"/>
+      <point x="823" y="1209" type="curve" smooth="yes"/>
+      <point x="998" y="1209" type="line"/>
+      <point x="998" y="1098" type="line"/>
+      <point x="888" y="1098" type="line" smooth="yes"/>
+      <point x="682" y="1098"/>
+      <point x="548" y="968"/>
+      <point x="548" y="727" type="curve" smooth="yes"/>
+      <point x="548" y="474"/>
+      <point x="682" y="342"/>
+      <point x="909" y="342" type="curve" smooth="yes"/>
+      <point x="998" y="342" type="line"/>
+      <point x="998" y="225" type="line"/>
+    </contour>
+    <contour>
+      <point x="939" y="473" type="line" smooth="yes"/>
+      <point x="802" y="473"/>
+      <point x="731" y="558"/>
+      <point x="731" y="724" type="curve" smooth="yes"/>
+      <point x="731" y="891"/>
+      <point x="800" y="967"/>
+      <point x="922" y="967" type="curve" smooth="yes"/>
+      <point x="998" y="967" type="line"/>
+      <point x="998" y="473" type="line"/>
+    </contour>
+    <contour>
+      <point x="1282" y="473" type="line"/>
+      <point x="1282" y="967" type="line"/>
+      <point x="1357" y="967" type="line" smooth="yes"/>
+      <point x="1479" y="967"/>
+      <point x="1548" y="891"/>
+      <point x="1548" y="724" type="curve" smooth="yes"/>
+      <point x="1548" y="558"/>
+      <point x="1478" y="473"/>
+      <point x="1340" y="473" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1282" y="225" type="line"/>
+      <point x="1282" y="342" type="line"/>
+      <point x="1371" y="342" type="line" smooth="yes"/>
+      <point x="1597" y="342"/>
+      <point x="1731" y="474"/>
+      <point x="1731" y="727" type="curve" smooth="yes"/>
+      <point x="1731" y="968"/>
+      <point x="1598" y="1098"/>
+      <point x="1392" y="1098" type="curve" smooth="yes"/>
+      <point x="1282" y="1098" type="line"/>
+      <point x="1282" y="1209" type="line"/>
+      <point x="1457" y="1209" type="line" smooth="yes"/>
+      <point x="1725" y="1209"/>
+      <point x="1866" y="1058"/>
+      <point x="1866" y="729" type="curve" smooth="yes"/>
+      <point x="1866" y="393"/>
+      <point x="1725" y="225"/>
+      <point x="1426" y="225" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e365a21e29ae654b3da7f2295fa107755bae28d7af7f9dbd9bbd175090aa4d598357b8db6a90efb1b59533105401877d47a86fe27cc53e865d25e329dd74c14a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 296</string>
+          <string>hstem 388 174</string>
+          <string>hstem 876 174</string>
+          <string>hstem 1136 292</string>
+          <string>vstem 575 206</string>
+          <string>vstem 1451 206</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

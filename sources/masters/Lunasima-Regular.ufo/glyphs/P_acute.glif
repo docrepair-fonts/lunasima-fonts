@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pacute" format="2">
+  <advance width="1132"/>
+  <unicode hex="1E54"/>
+  <anchor x="579" y="0" name="bottom"/>
+  <anchor x="1071" y="1428" name="topright"/>
+  <anchor x="601" y="1882" name="top"/>
+  <outline>
+    <component base="P"/>
+    <component base="acutecomb" xOffset="1135" yOffset="352"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>P+acutecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

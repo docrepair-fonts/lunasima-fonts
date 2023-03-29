@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="almostequaltoabovecomb" format="2">
+  <unicode hex="034C"/>
+  <anchor x="2" y="1076" name="_top"/>
+  <anchor x="6" y="1721" name="top"/>
+  <outline>
+    <contour>
+      <point x="143" y="1492" type="curve" smooth="yes"/>
+      <point x="264" y="1492"/>
+      <point x="326" y="1584"/>
+      <point x="340" y="1720" type="curve"/>
+      <point x="236" y="1720" type="line"/>
+      <point x="219" y="1661"/>
+      <point x="200" y="1624"/>
+      <point x="145" y="1624" type="curve" smooth="yes"/>
+      <point x="67" y="1624"/>
+      <point x="-27" y="1719"/>
+      <point x="-140" y="1719" type="curve" smooth="yes"/>
+      <point x="-258" y="1719"/>
+      <point x="-323" y="1629"/>
+      <point x="-336" y="1490" type="curve"/>
+      <point x="-231" y="1490" type="line"/>
+      <point x="-215" y="1550"/>
+      <point x="-196" y="1587"/>
+      <point x="-139" y="1587" type="curve" smooth="yes"/>
+      <point x="-59" y="1587"/>
+      <point x="39" y="1492"/>
+    </contour>
+    <contour>
+      <point x="143" y="1212" type="curve" smooth="yes"/>
+      <point x="264" y="1212" name=".hr01"/>
+      <point x="326" y="1304"/>
+      <point x="340" y="1440" type="curve"/>
+      <point x="236" y="1440" type="line"/>
+      <point x="219" y="1381"/>
+      <point x="200" y="1344"/>
+      <point x="145" y="1344" type="curve" smooth="yes"/>
+      <point x="67" y="1344"/>
+      <point x="-27" y="1439"/>
+      <point x="-140" y="1439" type="curve" smooth="yes"/>
+      <point x="-258" y="1439"/>
+      <point x="-323" y="1349"/>
+      <point x="-336" y="1210" type="curve"/>
+      <point x="-231" y="1210" type="line"/>
+      <point x="-215" y="1270"/>
+      <point x="-196" y="1307"/>
+      <point x="-139" y="1307" type="curve" smooth="yes"/>
+      <point x="-59" y="1307"/>
+      <point x="39" y="1212"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>29e4c2ed88f11554feb3c6bd0e6a8b3bf79d787b9952cde71ef56a325efc993ebfbb26ba5e4648d3d5f6f3b1e11012cbfd2f064cf8a35e330550171af40ffea4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1492 130</string>
+          <string>hstem 1308 130</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1212 130</string>
+          <string>hstem 1588 130</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

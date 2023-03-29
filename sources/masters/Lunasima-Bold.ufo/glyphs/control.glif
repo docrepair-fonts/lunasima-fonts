@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="control" format="2">
+  <advance width="1900"/>
+  <unicode hex="2303"/>
+  <note>
+uni2303</note>
+  <outline>
+    <contour>
+      <point x="26" y="786" type="line"/>
+      <point x="274" y="786" type="line"/>
+      <point x="481" y="1222" type="line"/>
+      <point x="689" y="786" type="line"/>
+      <point x="937" y="786" type="line"/>
+      <point x="527" y="1565" type="line"/>
+      <point x="437" y="1565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1900m26,786l274,786l481,1222l689,786l937,786l527,1565l437,1565</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 738 21</string>
+          <string>hstem 1556 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamondBlackSuit" format="2">
+  <advance width="2000"/>
+  <unicode hex="2666"/>
+  <outline>
+    <contour>
+      <point x="1000" y="1700" type="curve"/>
+      <point x="820" y="1364"/>
+      <point x="458" y="934"/>
+      <point x="278" y="760" type="curve"/>
+      <point x="458" y="586"/>
+      <point x="820" y="156"/>
+      <point x="1000" y="-180" type="curve"/>
+      <point x="1182" y="156"/>
+      <point x="1542" y="586"/>
+      <point x="1722" y="760" type="curve"/>
+      <point x="1542" y="934"/>
+      <point x="1180" y="1364"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w2000m1000,1700c820,1364 458,934 278,760c458,586 820,156 1000,-180c1182,156 1542,586 1722,760c1542,934 1180,1364 1000,1700</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -180 21</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

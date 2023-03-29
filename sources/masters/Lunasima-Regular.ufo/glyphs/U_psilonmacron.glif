@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonmacron" format="2">
+  <advance width="1307"/>
+  <unicode hex="1FE9"/>
+  <anchor x="-118" y="1428" name="topleft"/>
+  <anchor x="654" y="1761" name="top"/>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="macroncomb" xOffset="646" yOffset="394"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Upsilon+macroncomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

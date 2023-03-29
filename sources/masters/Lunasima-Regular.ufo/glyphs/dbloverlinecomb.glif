@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbloverlinecomb" format="2">
+  <unicode hex="033F"/>
+  <anchor x="9" y="1076" name="_top"/>
+  <anchor x="14" y="1921" name="top"/>
+  <outline>
+    <contour>
+      <point x="435" y="1659" type="line"/>
+      <point x="-416" y="1659" type="line"/>
+      <point x="-416" y="1528" type="line"/>
+      <point x="435" y="1528" type="line"/>
+    </contour>
+    <contour>
+      <point x="435" y="1921" type="line"/>
+      <point x="-416" y="1921" type="line"/>
+      <point x="-416" y="1790" type="line"/>
+      <point x="435" y="1790" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m435,1659l-416,1659l-416,1528l435,1528m435,1921l-416,1921l-416,1790l435,1790</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1528 128</string>
+          <string>hstem 1792 128</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

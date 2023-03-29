@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackSquare" format="2">
+  <advance width="1110"/>
+  <unicode hex="25A0"/>
+  <outline>
+    <contour>
+      <point x="1800" y="1560" type="line"/>
+      <point x="200" y="1560" type="line"/>
+      <point x="200" y="-40" type="line"/>
+      <point x="1800" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.863,1,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -40 21</string>
+              <string>hstem 1560 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w2000m1800,1560l200,1560l200,-40l1800,-40</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

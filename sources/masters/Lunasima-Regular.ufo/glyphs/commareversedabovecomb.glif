@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commareversedabovecomb" format="2">
+  <unicode hex="0314"/>
+  <anchor x="2" y="793" name="_top"/>
+  <anchor x="6" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="-144" y="1428" type="line"/>
+      <point x="-158" y="1406" type="line"/>
+      <point x="-122" y="1266"/>
+      <point x="-51" y="1074"/>
+      <point x="15" y="931" type="curve"/>
+      <point x="162" y="931" type="line"/>
+      <point x="124" y="1084"/>
+      <point x="82" y="1287"/>
+      <point x="62" y="1428" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-144,1428l-158,1406c-122,1266 -51,1074 15,931l162,931c124,1084 82,1287 62,1428</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 938 21</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etavaria" format="2">
+  <advance width="2008"/>
+  <unicode hex="1FCA"/>
+  <outline>
+    <contour>
+      <point x="1262" y="1428" type="line"/>
+      <point x="962" y="1428" type="line"/>
+      <point x="962" y="844" type="line"/>
+      <point x="393" y="844" type="line"/>
+      <point x="393" y="1428" type="line"/>
+      <point x="93" y="1428" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="393" y="644" type="line"/>
+      <point x="962" y="644" type="line"/>
+      <point x="962" y="0" type="line"/>
+      <point x="1262" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-118" y="1088" type="line"/>
+      <point x="-118" y="1114" type="line"/>
+      <point x="-212" y="1428" type="line"/>
+      <point x="-532" y="1428" type="line"/>
+      <point x="-532" y="1408" type="line"/>
+      <point x="-302" y="1088" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Eta+varia.case</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

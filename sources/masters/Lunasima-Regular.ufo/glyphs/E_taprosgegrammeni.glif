@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaprosgegrammeni" format="2">
+  <advance width="2258"/>
+  <unicode hex="1FCC"/>
+  <outline>
+    <contour>
+      <point x="1301" y="1428" type="line"/>
+      <point x="1097" y="1428" type="line"/>
+      <point x="1097" y="831" type="line"/>
+      <point x="398" y="831" type="line"/>
+      <point x="398" y="1428" type="line"/>
+      <point x="194" y="1428" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="659" type="line"/>
+      <point x="1097" y="659" type="line"/>
+      <point x="1097" y="0" type="line"/>
+      <point x="1301" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="836" y="-480" type="curve" smooth="yes"/>
+      <point x="879" y="-480"/>
+      <point x="926" y="-469"/>
+      <point x="949" y="-461" type="curve"/>
+      <point x="949" y="-338" type="line"/>
+      <point x="933" y="-342"/>
+      <point x="908" y="-348"/>
+      <point x="888" y="-348" type="curve" smooth="yes"/>
+      <point x="845" y="-348"/>
+      <point x="830" y="-323"/>
+      <point x="830" y="-285" type="curve" smooth="yes"/>
+      <point x="830" y="-158" type="line"/>
+      <point x="659" y="-158" type="line"/>
+      <point x="659" y="-327" type="line" smooth="yes"/>
+      <point x="659" y="-422"/>
+      <point x="723" y="-480"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5cdb8c689060a3ae38d83ba6c168de7c4bd7928acea184988426f2d332798e18d29a076e9f65993b1b5329f07b4e4603bf936bfb69bc87d8c26b297407cda86c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -480 316</string>
+          <string>hstem -480 124</string>
+          <string>hstem 0 21</string>
+          <string>hstem 666 158</string>
+          <string>hstem 1428 -20</string>
+          <string>vstem 251 180</string>
+          <string>vstem 715 156</string>
+          <string>vstem 1163 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

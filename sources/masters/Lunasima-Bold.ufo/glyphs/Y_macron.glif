@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ymacron" format="2">
+  <advance width="1406"/>
+  <unicode hex="0232"/>
+  <anchor x="703" y="0" name="bottom"/>
+  <anchor x="1361" y="1428" name="topright"/>
+  <anchor x="703" y="1737" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="macroncomb" xOffset="727" yOffset="342"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+macroncomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

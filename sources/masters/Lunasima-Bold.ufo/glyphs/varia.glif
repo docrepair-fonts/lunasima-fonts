@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="varia" format="2">
+  <advance width="1308"/>
+  <unicode hex="1FEF"/>
+  <anchor x="456" y="1106" name="_top"/>
+  <outline>
+    <contour>
+      <point x="499" y="1212" type="line"/>
+      <point x="499" y="1238" type="line"/>
+      <point x="404" y="1552" type="line"/>
+      <point x="80" y="1552" type="line"/>
+      <point x="80" y="1532" type="line"/>
+      <point x="311" y="1212" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1308m499,1212l499,1238l404,1552l80,1552l80,1532l311,1212</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1212 340</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsadidagesh-hb" format="2">
+  <advance width="1177"/>
+  <unicode hex="FB46"/>
+  <anchor x="519" y="0" name="bottom"/>
+  <anchor x="50" y="0" name="bottomleft"/>
+  <anchor x="567" y="1076" name="top"/>
+  <anchor x="-3" y="1076" name="topleft"/>
+  <outline>
+    <component base="tsadi-hb"/>
+    <component base="dagesh-hb" xOffset="66" yOffset="-105"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>tsadi-hb+dagesh-hb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

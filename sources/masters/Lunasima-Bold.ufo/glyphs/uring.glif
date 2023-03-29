@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="2">
+  <advance width="1345"/>
+  <unicode hex="016F"/>
+  <anchor x="656" y="0" name="bottom"/>
+  <anchor x="1250" y="1095" name="topright"/>
+  <anchor x="679" y="1671" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="ringcomb" xOffset="720" yOffset="9"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+ringcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

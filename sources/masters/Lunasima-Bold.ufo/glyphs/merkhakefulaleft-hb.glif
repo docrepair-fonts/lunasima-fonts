@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="merkhakefulaleft-hb" format="2">
+  <unicode hex="05A6"/>
+  <anchor x="532" y="0" name="_bottomleft"/>
+  <outline>
+    <contour>
+      <point x="421" y="-448" type="line"/>
+      <point x="627" y="-448"/>
+      <point x="741" y="-337"/>
+      <point x="741" y="-156" type="curve"/>
+      <point x="633" y="-156" type="line"/>
+      <point x="633" y="-273"/>
+      <point x="554" y="-345"/>
+      <point x="421" y="-345" type="curve"/>
+    </contour>
+    <contour>
+      <point x="100" y="-448" type="line"/>
+      <point x="305" y="-448"/>
+      <point x="421" y="-339"/>
+      <point x="421" y="-156" type="curve"/>
+      <point x="313" y="-156" type="line"/>
+      <point x="313" y="-273"/>
+      <point x="234" y="-345"/>
+      <point x="100" y="-345" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0eb12f7c844b85d2e8c4ae0b21814df65004fa32c0c5f51e9d0848cac2a359f776760883dc88644fc849ea9714bbc6a19883bc5a44f5ce94916931bf403b5eae</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -448 108</string>
+          <string>hstem -140 -20</string>
+          <string>vstem 320 112</string>
+          <string>vstem 652 112</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

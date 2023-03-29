@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="telishagedola-hb" format="2">
+  <unicode hex="05A0"/>
+  <anchor x="336" y="1106" name="_top"/>
+  <outline>
+    <contour>
+      <point x="258" y="1362" type="line"/>
+      <point x="287" y="1348"/>
+      <point x="320" y="1341"/>
+      <point x="355" y="1341" type="curve" smooth="yes"/>
+      <point x="468" y="1341"/>
+      <point x="555" y="1427"/>
+      <point x="555" y="1535" type="curve" smooth="yes"/>
+      <point x="555" y="1645"/>
+      <point x="465" y="1728"/>
+      <point x="355" y="1728" type="curve" smooth="yes"/>
+      <point x="245" y="1728"/>
+      <point x="156" y="1643"/>
+      <point x="156" y="1535" type="curve" smooth="yes"/>
+      <point x="156" y="1499"/>
+      <point x="166" y="1466"/>
+      <point x="183" y="1439" type="curve"/>
+      <point x="100" y="1358" type="line"/>
+      <point x="177" y="1283" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="1437" type="curve" smooth="yes"/>
+      <point x="301" y="1437"/>
+      <point x="256" y="1481"/>
+      <point x="256" y="1535" type="curve" smooth="yes"/>
+      <point x="256" y="1589"/>
+      <point x="303" y="1632"/>
+      <point x="353" y="1632" type="curve" smooth="yes"/>
+      <point x="407" y="1632"/>
+      <point x="455" y="1587"/>
+      <point x="455" y="1535" type="curve" smooth="yes"/>
+      <point x="455" y="1483"/>
+      <point x="409" y="1437"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cd8e49432ad9da7ba50876c3f4fc23f7c2afbc31d4046dc3be76231f430db772fdd14cf213bb56442a1d3265785ab6d92e4eb388f3f7050ea4e1af2a483d885b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1258 21</string>
+          <string>hstem 1318 102</string>
+          <string>hstem 1626 102</string>
+          <string>vstem 158 104</string>
+          <string>vstem 468 104</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcircumflexbelow" format="2">
+  <advance width="1357"/>
+  <unicode hex="1E13"/>
+  <anchor x="680" y="548" name="center"/>
+  <anchor x="539" y="1520" name="top"/>
+  <anchor x="1253" y="1520" name="topright"/>
+  <anchor x="655" y="-400" name="bottom"/>
+  <outline>
+    <component base="d"/>
+    <component base="circumflexbelowcomb" xOffset="700"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>d+circumflexbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

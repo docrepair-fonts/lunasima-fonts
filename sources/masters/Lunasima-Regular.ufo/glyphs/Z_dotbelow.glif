@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotbelow" format="2">
+  <advance width="1239"/>
+  <unicode hex="1E92"/>
+  <anchor x="628" y="1428" name="top"/>
+  <anchor x="1197" y="1428" name="topright"/>
+  <anchor x="646" y="-362" name="bottom"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotbelowcomb" xOffset="1229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>Z+dotbelowcomb</string>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

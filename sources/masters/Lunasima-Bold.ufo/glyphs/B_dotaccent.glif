@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Bdotaccent" format="2">
+  <advance width="1290"/>
+  <unicode hex="1E02"/>
+  <anchor x="652" y="0" name="bottom"/>
+  <anchor x="1231" y="1428" name="topright"/>
+  <anchor x="653" y="1848" name="top"/>
+  <outline>
+    <component base="B"/>
+    <component base="dotaccentcomb" xOffset="693" yOffset="342"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>B+dotaccentcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

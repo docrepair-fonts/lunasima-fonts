@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alternativekeysymbol" format="2">
+  <advance width="2048"/>
+  <unicode hex="2387"/>
+  <note>
+uni2387</note>
+  <outline>
+    <contour>
+      <point x="84" y="191" type="line"/>
+      <point x="790" y="191" type="line"/>
+      <point x="1050" y="768" type="line"/>
+      <point x="1289" y="768" type="line"/>
+      <point x="1289" y="495" type="line"/>
+      <point x="2006" y="866" type="line"/>
+      <point x="1289" y="1238" type="line"/>
+      <point x="1289" y="962" type="line"/>
+      <point x="894" y="962" type="line"/>
+      <point x="636" y="385" type="line"/>
+      <point x="84" y="385" type="line"/>
+    </contour>
+    <contour>
+      <point x="1033" y="191" type="line"/>
+      <point x="1939" y="191" type="line"/>
+      <point x="1939" y="385" type="line"/>
+      <point x="1033" y="385" type="line"/>
+    </contour>
+    <contour>
+      <point x="1452" y="739" type="line"/>
+      <point x="1452" y="993" type="line"/>
+      <point x="1670" y="866" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2dcdb5b5528a2a9066282d15c782cb7441a31072f5b8af07f18a39c10a4ed9df4c59109e085cc0c3b18f5f6260de16629d2648512dfc90329a04abd756ad3dbc</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 136 270</string>
+          <string>hstem 800 268</string>
+          <string>hstem 1368 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

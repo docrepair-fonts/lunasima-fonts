@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kdotbelow" format="2">
+  <advance width="1296"/>
+  <unicode hex="1E33"/>
+  <anchor x="320" y="1520" name="top"/>
+  <anchor x="893" y="1747" name="topright"/>
+  <anchor x="654" y="-399" name="bottom"/>
+  <outline>
+    <component base="k"/>
+    <component base="dotbelowcomb" xOffset="1419"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>k+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

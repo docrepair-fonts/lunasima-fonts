@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shelfmod" format="2">
+  <advance width="790"/>
+  <unicode hex="02FD"/>
+  <outline>
+    <contour>
+      <point x="972" y="-86" type="line"/>
+      <point x="858" y="-86" type="line"/>
+      <point x="858" y="-284" type="line" name=".hr01"/>
+      <point x="192" y="-284" type="line"/>
+      <point x="192" y="-86" type="line" name=".hr02"/>
+      <point x="80" y="-86" type="line"/>
+      <point x="80" y="-416" type="line"/>
+      <point x="972" y="-416" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w790m972,-86l858,-86l858,-284l192,-284l192,-86l80,-86l80,-416l972,-416</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -416 330</string>
+          <string>vstem 858 114</string>
+          <string>vstem 80 112</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -416 132</string>
+          <string>vstem 858 114</string>
+          <string>vstem 80 112</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -416 330</string>
+          <string>vstem 80 112</string>
+          <string>vstem 858 114</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

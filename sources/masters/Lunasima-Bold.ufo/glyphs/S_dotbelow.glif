@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sdotbelow" format="2">
+  <advance width="1170"/>
+  <unicode hex="1E62"/>
+  <anchor x="598" y="1428" name="top"/>
+  <anchor x="1128" y="1428" name="topright"/>
+  <anchor x="579" y="-399" name="bottom"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotbelowcomb" xOffset="1344"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

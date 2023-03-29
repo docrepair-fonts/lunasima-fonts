@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="telephone" format="2">
+  <advance width="2984"/>
+  <unicode hex="2121"/>
+  <outline>
+    <contour>
+      <point x="382" y="724" type="line"/>
+      <point x="382" y="1293" type="line"/>
+      <point x="563" y="1293" type="line"/>
+      <point x="563" y="1428" type="line"/>
+      <point x="36" y="1428" type="line"/>
+      <point x="36" y="1293" type="line"/>
+      <point x="216" y="1293" type="line"/>
+      <point x="216" y="724" type="line"/>
+    </contour>
+    <contour>
+      <point x="1052" y="724" type="line"/>
+      <point x="1052" y="852" type="line"/>
+      <point x="796" y="852" type="line"/>
+      <point x="796" y="1022" type="line"/>
+      <point x="1033" y="1022" type="line"/>
+      <point x="1033" y="1149" type="line"/>
+      <point x="796" y="1149" type="line"/>
+      <point x="796" y="1301" type="line"/>
+      <point x="1052" y="1301" type="line"/>
+      <point x="1052" y="1428" type="line"/>
+      <point x="630" y="1428" type="line"/>
+      <point x="630" y="724" type="line"/>
+    </contour>
+    <contour>
+      <point x="1587" y="724" type="line"/>
+      <point x="1587" y="859" type="line"/>
+      <point x="1343" y="859" type="line"/>
+      <point x="1343" y="1428" type="line"/>
+      <point x="1177" y="1428" type="line"/>
+      <point x="1177" y="724" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>46df63a6423d517b657ebe345ae3d6330583436668bd268a16cb156907ff30010653eb8e5e0838841df646782d248514239b29a5392b650ac030482b06d8ee7a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 724 172</string>
+          <string>hstem 724 156</string>
+          <string>hstem 1006 154</string>
+          <string>hstem 1256 172</string>
+          <string>hstem 1272 156</string>
+          <string>vstem 196 192</string>
+          <string>vstem 624 192</string>
+          <string>vstem 1166 192</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

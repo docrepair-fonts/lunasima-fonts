@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacronacute" format="2">
+  <advance width="1258"/>
+  <unicode hex="1E53"/>
+  <anchor x="609" y="0" name="bottom"/>
+  <anchor x="613" y="1491" name="top"/>
+  <outline>
+    <contour>
+      <point x="1116" y="540" type="curve" smooth="yes"/>
+      <point x="1116" y="895"/>
+      <point x="908" y="1096"/>
+      <point x="615" y="1096" type="curve" smooth="yes"/>
+      <point x="303" y="1096"/>
+      <point x="110" y="895"/>
+      <point x="110" y="540" type="curve" smooth="yes"/>
+      <point x="110" y="183"/>
+      <point x="321" y="-20"/>
+      <point x="609" y="-20" type="curve" smooth="yes"/>
+      <point x="920" y="-20"/>
+      <point x="1116" y="183"/>
+    </contour>
+    <contour>
+      <point x="316" y="540" type="curve" smooth="yes"/>
+      <point x="316" y="788"/>
+      <point x="405" y="935"/>
+      <point x="611" y="935" type="curve" smooth="yes"/>
+      <point x="818" y="935"/>
+      <point x="910" y="788"/>
+      <point x="910" y="540" type="curve" smooth="yes"/>
+      <point x="910" y="292"/>
+      <point x="818" y="139"/>
+      <point x="613" y="139" type="curve" smooth="yes"/>
+      <point x="407" y="139"/>
+      <point x="316" y="292"/>
+    </contour>
+    <contour>
+      <point x="464" y="1474" type="line"/>
+      <point x="596" y="1474" type="line"/>
+      <point x="689" y="1544"/>
+      <point x="833" y="1668"/>
+      <point x="885" y="1742" type="curve"/>
+      <point x="885" y="1764" type="line"/>
+      <point x="651" y="1764" type="line"/>
+      <point x="607" y="1675"/>
+      <point x="520" y="1571"/>
+      <point x="464" y="1499" type="curve"/>
+    </contour>
+    <contour>
+      <point x="902" y="1240" type="line"/>
+      <point x="902" y="1389" type="line"/>
+      <point x="300" y="1389" type="line"/>
+      <point x="300" y="1240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>dbd2106e569ba26ffcc62ed3628116ceddf17b3d6df07adc011b134b67ac1496feaad801d5ae3547456ea88d02ffad944637c8a1c3a02386500eea77471b0cb2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 146</string>
+          <string>hstem 944 148</string>
+          <string>hstem 1242 142</string>
+          <string>hstem 1762 -20</string>
+          <string>vstem 148 182</string>
+          <string>vstem 958 182</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

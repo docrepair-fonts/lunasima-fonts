@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="2">
+  <advance width="2551"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="273" y="1428" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="585" y="502" type="line"/>
+      <point x="673" y="502" type="line" smooth="yes"/>
+      <point x="1294" y="502"/>
+      <point x="1486" y="728"/>
+      <point x="1486" y="979" type="curve" smooth="yes"/>
+      <point x="1486" y="1258"/>
+      <point x="1256" y="1428"/>
+      <point x="714" y="1428" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="700" y="1174" type="line" smooth="yes"/>
+      <point x="1020" y="1174"/>
+      <point x="1167" y="1103"/>
+      <point x="1167" y="968" type="curve" smooth="yes"/>
+      <point x="1167" y="824"/>
+      <point x="999" y="756"/>
+      <point x="660" y="756" type="curve" smooth="yes"/>
+      <point x="585" y="756" type="line"/>
+      <point x="585" y="1174" type="line"/>
+    </contour>
+    <contour>
+      <point x="1810" y="1061" type="line"/>
+      <point x="1706" y="826" type="line" name=".hr01"/>
+      <point x="1468" y="722" type="line"/>
+      <point x="1468" y="614" type="line"/>
+      <point x="1694" y="614" type="line"/>
+      <point x="1694" y="320" type="line" smooth="yes"/>
+      <point x="1694" y="60"/>
+      <point x="1845" y="-20"/>
+      <point x="2082" y="-20" type="curve" smooth="yes"/>
+      <point x="2212" y="-20"/>
+      <point x="2310" y="3"/>
+      <point x="2369" y="32" type="curve"/>
+      <point x="2369" y="244" type="line"/>
+      <point x="2323" y="224"/>
+      <point x="2225" y="208"/>
+      <point x="2156" y="208" type="curve" smooth="yes"/>
+      <point x="2038" y="208"/>
+      <point x="1990" y="253"/>
+      <point x="1990" y="328" type="curve" smooth="yes"/>
+      <point x="1990" y="614" type="line"/>
+      <point x="2336" y="614" type="line"/>
+      <point x="2336" y="826" type="line"/>
+      <point x="1990" y="826" type="line"/>
+      <point x="1990" y="1061" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>79efe0bda1d5a948b4ddf53ba320199e51e02679ad76cdfe50b216c0659d3571ed09e747be6bb7876b49724f16aff17dbec1598153f75eee14ec8b17fde4f2c4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1124 304</string>
+          <string>hstem 474 304</string>
+          <string>hstem 0 21</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 574 252</string>
+          <string>hstem -20 270</string>
+          <string>hstem 1124 304</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

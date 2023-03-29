@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rhodasia" format="2">
+  <advance width="1626"/>
+  <unicode hex="1FEC"/>
+  <outline>
+    <contour>
+      <point x="137" y="1428" type="line"/>
+      <point x="137" y="-4" type="line"/>
+      <point x="436" y="-4" type="line"/>
+      <point x="436" y="531" type="line"/>
+      <point x="568" y="531" type="line" smooth="yes"/>
+      <point x="983" y="531"/>
+      <point x="1122" y="757"/>
+      <point x="1122" y="997" type="curve" smooth="yes"/>
+      <point x="1122" y="1270"/>
+      <point x="949" y="1428"/>
+      <point x="582" y="1428" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="571" y="1228" type="line" smooth="yes"/>
+      <point x="742" y="1228"/>
+      <point x="820" y="1147"/>
+      <point x="820" y="989" type="curve" smooth="yes"/>
+      <point x="820" y="802"/>
+      <point x="714" y="731"/>
+      <point x="541" y="731" type="curve" smooth="yes"/>
+      <point x="436" y="731" type="line"/>
+      <point x="436" y="1228" type="line"/>
+    </contour>
+    <contour>
+      <point x="-118" y="1126" type="line"/>
+      <point x="-151" y="1154"/>
+      <point x="-173" y="1191"/>
+      <point x="-173" y="1233" type="curve" smooth="yes"/>
+      <point x="-173" y="1285"/>
+      <point x="-146" y="1303"/>
+      <point x="-106" y="1303" type="curve" smooth="yes"/>
+      <point x="-82" y="1303"/>
+      <point x="-65" y="1295"/>
+      <point x="-54" y="1290" type="curve"/>
+      <point x="-54" y="1416" type="line"/>
+      <point x="-84" y="1424"/>
+      <point x="-121" y="1436"/>
+      <point x="-179" y="1436" type="curve" smooth="yes"/>
+      <point x="-297" y="1436"/>
+      <point x="-376" y="1388"/>
+      <point x="-376" y="1280" type="curve" smooth="yes"/>
+      <point x="-376" y="1187"/>
+      <point x="-323" y="1122"/>
+      <point x="-225" y="1075" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Rho+dasia.case</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

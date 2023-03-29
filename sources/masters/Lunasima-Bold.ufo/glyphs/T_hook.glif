@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thook" format="2">
+  <advance width="1452"/>
+  <unicode hex="01AC"/>
+  <anchor x="619" y="0" name="bottom"/>
+  <anchor x="619" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="812" y="0" type="line"/>
+      <point x="812" y="1228" type="line"/>
+      <point x="1204" y="1228" type="line"/>
+      <point x="1204" y="1428" type="line"/>
+      <point x="362" y="1428" type="line" smooth="yes"/>
+      <point x="101" y="1428"/>
+      <point x="6" y="1323"/>
+      <point x="6" y="1143" type="curve" smooth="yes"/>
+      <point x="6" y="1105"/>
+      <point x="20" y="1056"/>
+      <point x="31" y="1030" type="curve"/>
+      <point x="271" y="1030" type="line"/>
+      <point x="263" y="1049"/>
+      <point x="251" y="1090"/>
+      <point x="251" y="1133" type="curve" smooth="yes"/>
+      <point x="251" y="1190"/>
+      <point x="284" y="1228"/>
+      <point x="355" y="1228" type="curve" smooth="yes"/>
+      <point x="509" y="1228" type="line"/>
+      <point x="509" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>920a3ec3625a09fe467732e463b8fac657b6fc95940d740e47ef9b424c1e94a67048e42f4f51dbd49f1bdaf41b8e5a6cfcb8b878984c732c0b11c141689699c3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 930 498</string>
+          <string>hstem 1104 324</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

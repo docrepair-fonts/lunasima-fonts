@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblverticallineabovecomb" format="2">
+  <unicode hex="030E"/>
+  <anchor x="5" y="1076" name="_top"/>
+  <anchor x="9" y="1523" name="top"/>
+  <outline>
+    <contour>
+      <point x="-240" y="1523" type="line"/>
+      <point x="-240" y="1192" type="line"/>
+      <point x="-73" y="1192" type="line"/>
+      <point x="-73" y="1523" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="1523" type="line"/>
+      <point x="84" y="1192" type="line"/>
+      <point x="251" y="1192" type="line"/>
+      <point x="251" y="1523" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-240,1523l-240,1192l-73,1192l-73,1523m84,1523l84,1192l251,1192l251,1523</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1192 328</string>
+          <string>vstem -169 160</string>
+          <string>vstem 151 160</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="firsttonechinese" format="2">
+  <advance width="1258"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="208" y="1354" type="line"/>
+      <point x="208" y="1212" type="line"/>
+      <point x="1050" y="1212" type="line"/>
+      <point x="1050" y="1354" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1258m208,1354l208,1212l1050,1212l1050,1354</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1212 142</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

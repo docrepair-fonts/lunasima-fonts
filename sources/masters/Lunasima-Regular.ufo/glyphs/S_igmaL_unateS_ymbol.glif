@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SigmaLunateSymbol" format="2">
+  <advance width="1417"/>
+  <unicode hex="03F9"/>
+  <outline>
+    <contour>
+      <point x="806" y="1298" type="curve" smooth="yes"/>
+      <point x="933" y="1298"/>
+      <point x="1041" y="1262"/>
+      <point x="1130" y="1221" type="curve"/>
+      <point x="1207" y="1365" type="line"/>
+      <point x="1095" y="1419"/>
+      <point x="953" y="1448"/>
+      <point x="808" y="1448" type="curve" smooth="yes"/>
+      <point x="366" y="1448"/>
+      <point x="122" y="1148"/>
+      <point x="122" y="717" type="curve" smooth="yes"/>
+      <point x="122" y="267"/>
+      <point x="338" y="-20"/>
+      <point x="779" y="-20" type="curve" smooth="yes"/>
+      <point x="936" y="-20"/>
+      <point x="1042" y="-1"/>
+      <point x="1150" y="39" type="curve"/>
+      <point x="1150" y="187" type="line"/>
+      <point x="1041" y="154"/>
+      <point x="930" y="130"/>
+      <point x="806" y="130" type="curve" smooth="yes"/>
+      <point x="489" y="130"/>
+      <point x="331" y="356"/>
+      <point x="331" y="715" type="curve" smooth="yes"/>
+      <point x="331" y="1075"/>
+      <point x="512" y="1298"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8e2aa57c101a8ef7556f8591d060cc971d87a2682d6451e61c7f6a7cd1a0bf677e60eb553f240ba59197befa03098fea5c8940c8b1af00ea0ebd30ada848f932</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 158</string>
+          <string>hstem 1290 158</string>
+          <string>vstem 142 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

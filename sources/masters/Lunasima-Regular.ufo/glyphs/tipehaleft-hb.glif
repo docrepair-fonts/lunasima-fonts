@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tipehaleft-hb" format="2">
+  <unicode hex="0596"/>
+  <anchor x="150" y="0" name="_bottomleft"/>
+  <outline>
+    <contour>
+      <point x="404" y="-349" type="line"/>
+      <point x="278" y="-349"/>
+      <point x="202" y="-280"/>
+      <point x="202" y="-165" type="curve"/>
+      <point x="100" y="-165" type="line"/>
+      <point x="100" y="-343"/>
+      <point x="212" y="-448"/>
+      <point x="404" y="-448" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m404,-349c278,-349 202,-280 202,-165l100,-165c100,-343 212,-448 404,-448</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -448 98</string>
+          <string>hstem -168 -20</string>
+          <string>vstem 100 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

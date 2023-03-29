@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="YturnedSansSerif" format="2">
+  <advance width="1276"/>
+  <unicode hex="2144"/>
+  <outline>
+    <contour>
+      <point x="933" y="0" type="line"/>
+      <point x="1155" y="0" type="line"/>
+      <point x="680" y="882" type="line"/>
+      <point x="680" y="1428" type="line"/>
+      <point x="476" y="1428" type="line"/>
+      <point x="476" y="874" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="578" y="687" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1276m933,0l1155,0l680,882l680,1428l476,1428l476,874l0,0l221,0l578,687</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1428 -20</string>
+          <string>vstem 476 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

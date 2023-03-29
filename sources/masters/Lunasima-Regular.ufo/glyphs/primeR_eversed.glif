@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="primeReversed" format="2">
+  <advance width="666"/>
+  <unicode hex="2035"/>
+  <outline>
+    <contour>
+      <point x="-52" y="1428" type="line"/>
+      <point x="272" y="912" type="line"/>
+      <point x="401" y="912" type="line"/>
+      <point x="143" y="1428" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w666m-52,1428l272,912l401,912l143,1428</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 912 21</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

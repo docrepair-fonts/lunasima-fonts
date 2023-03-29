@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Onethousandcd-roman" format="2">
+  <advance width="2216"/>
+  <unicode hex="2180"/>
+  <outline>
+    <contour>
+      <point x="852" y="0" type="curve" smooth="yes"/>
+      <point x="1427" y="0" type="line" smooth="yes"/>
+      <point x="1888" y="0"/>
+      <point x="2177" y="248"/>
+      <point x="2177" y="737" type="curve" smooth="yes"/>
+      <point x="2177" y="1188"/>
+      <point x="1912" y="1434"/>
+      <point x="1463" y="1434" type="curve" smooth="yes"/>
+      <point x="816" y="1434" type="line" smooth="yes"/>
+      <point x="367" y="1434"/>
+      <point x="102" y="1188"/>
+      <point x="102" y="737" type="curve" smooth="yes"/>
+      <point x="102" y="248"/>
+      <point x="391" y="0"/>
+    </contour>
+    <contour>
+      <point x="852" y="233" type="line" smooth="yes"/>
+      <point x="563" y="233"/>
+      <point x="423" y="398"/>
+      <point x="423" y="727" type="curve" smooth="yes"/>
+      <point x="423" y="1050"/>
+      <point x="562" y="1201"/>
+      <point x="822" y="1201" type="curve" smooth="yes"/>
+      <point x="985" y="1201" type="line"/>
+      <point x="985" y="233" type="line"/>
+    </contour>
+    <contour>
+      <point x="1294" y="233" type="line"/>
+      <point x="1294" y="1201" type="line"/>
+      <point x="1457" y="1201" type="line" smooth="yes"/>
+      <point x="1717" y="1201"/>
+      <point x="1856" y="1050"/>
+      <point x="1856" y="727" type="curve" smooth="yes"/>
+      <point x="1856" y="398"/>
+      <point x="1716" y="233"/>
+      <point x="1426" y="233" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>37432e752a93e9625eb55e372ec2814a18665cb5ded4846e2b532be820f099d5af6a5bd8d3865b1a4a7fbbb698b851a565e6fbf20483effc840e9ad9ef77ade0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 316</string>
+          <string>hstem 1116 312</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

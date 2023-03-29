@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gershayim-hb" format="2">
+  <advance width="1143"/>
+  <unicode hex="05F4"/>
+  <outline>
+    <contour>
+      <point x="697" y="676" type="line"/>
+      <point x="763" y="820"/>
+      <point x="833" y="1034"/>
+      <point x="869" y="1176" type="curve"/>
+      <point x="855" y="1198" type="line"/>
+      <point x="580" y="1198" type="line"/>
+      <point x="561" y="1050"/>
+      <point x="519" y="839"/>
+      <point x="481" y="676" type="curve"/>
+    </contour>
+    <contour>
+      <point x="250" y="676" type="line"/>
+      <point x="316" y="820"/>
+      <point x="386" y="1034"/>
+      <point x="422" y="1176" type="curve"/>
+      <point x="408" y="1198" type="line"/>
+      <point x="133" y="1198" type="line"/>
+      <point x="114" y="1050"/>
+      <point x="74" y="839"/>
+      <point x="36" y="676" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a197f06cbfe0b0099449d000cc6d73808dc7f374008f066f115ac7e69e9a3ccf6605260f8f2d6d0e6f7affa60bb61ad594d2b1d8ddb36697438a0a44b58a7a38</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 648 21</string>
+          <string>hstem 1218 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

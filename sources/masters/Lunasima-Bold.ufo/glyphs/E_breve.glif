@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="2">
+  <advance width="1230"/>
+  <unicode hex="0114"/>
+  <anchor x="661" y="0" name="bottom"/>
+  <anchor x="1193" y="1428" name="topright"/>
+  <anchor x="660" y="1854" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="brevecomb" xOffset="692" yOffset="342"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+brevecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

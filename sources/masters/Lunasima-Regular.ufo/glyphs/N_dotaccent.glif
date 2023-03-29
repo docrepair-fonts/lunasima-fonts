@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotaccent" format="2">
+  <advance width="1513"/>
+  <unicode hex="1E44"/>
+  <anchor x="757" y="0" name="bottom"/>
+  <anchor x="1445" y="1428" name="topright"/>
+  <anchor x="757" y="1833" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="dotaccentcomb" xOffset="746" yOffset="352"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+dotaccentcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

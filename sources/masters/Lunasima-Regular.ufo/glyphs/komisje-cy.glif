@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="komisje-cy" format="2">
+  <advance width="1134"/>
+  <unicode hex="050D"/>
+  <anchor x="648" y="0" name="bottom"/>
+  <anchor x="648" y="1076" name="top"/>
+  <outline>
+    <contour>
+      <point x="673" y="424" type="line"/>
+      <point x="987" y="424" type="line"/>
+      <point x="986" y="252"/>
+      <point x="896" y="136"/>
+      <point x="676" y="136" type="curve" smooth="yes"/>
+      <point x="424" y="136"/>
+      <point x="316" y="294"/>
+      <point x="316" y="536" type="curve" smooth="yes"/>
+      <point x="316" y="784"/>
+      <point x="446" y="939"/>
+      <point x="711" y="939" type="curve" smooth="yes"/>
+      <point x="836" y="939"/>
+      <point x="949" y="905"/>
+      <point x="1031" y="868" type="curve"/>
+      <point x="1096" y="1017" type="line"/>
+      <point x="989" y="1067"/>
+      <point x="868" y="1096"/>
+      <point x="713" y="1096" type="curve" smooth="yes"/>
+      <point x="322" y="1096"/>
+      <point x="110" y="880"/>
+      <point x="110" y="537" type="curve" smooth="yes"/>
+      <point x="110" y="191"/>
+      <point x="305" y="-20"/>
+      <point x="675" y="-20" type="curve" smooth="yes"/>
+      <point x="1025" y="-20"/>
+      <point x="1189" y="168"/>
+      <point x="1189" y="507" type="curve" smooth="yes"/>
+      <point x="1189" y="580" type="line"/>
+      <point x="673" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4ea003904570a8686904c3dbc8a9f13ad040f7af62a971c39e50a3fca6ea5514130ba10d571c4ddbdba57de5e6e824e6a7956a7a8ec8c4412524c841d36651c9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 144</string>
+          <string>hstem 424 146</string>
+          <string>hstem 948 144</string>
+          <string>vstem 148 182</string>
+          <string>vstem 1038 178</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

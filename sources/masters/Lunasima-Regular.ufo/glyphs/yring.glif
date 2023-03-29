@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yring" format="2">
+  <advance width="1070"/>
+  <unicode hex="1E99"/>
+  <anchor x="195" y="-480" name="bottom"/>
+  <anchor x="1028" y="1072" name="topright"/>
+  <anchor x="540" y="1637" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="ringcomb" xOffset="527" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+ringcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

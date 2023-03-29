@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Five-roman" format="2">
+  <advance width="1431"/>
+  <unicode hex="2164"/>
+  <outline>
+    <contour>
+      <point x="484" y="0" type="line"/>
+      <point x="829" y="0" type="line"/>
+      <point x="1314" y="1428" type="line"/>
+      <point x="978" y="1428" type="line"/>
+      <point x="731" y="592" type="line" smooth="yes"/>
+      <point x="700" y="488"/>
+      <point x="669" y="358"/>
+      <point x="657" y="269" type="curve"/>
+      <point x="646" y="358"/>
+      <point x="612" y="488"/>
+      <point x="582" y="591" type="curve" smooth="yes"/>
+      <point x="337" y="1428" type="line"/>
+      <point x="0" y="1428" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1431m484,0l829,0l1314,1428l978,1428l731,592c700,488 669,358 657,269c646,358 612,488 582,591l337,1428l0,1428</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

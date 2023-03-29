@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaafrican" format="2">
+  <advance width="829"/>
+  <unicode hex="0196"/>
+  <anchor x="445" y="0" name="bottom"/>
+  <anchor x="327" y="1428" name="top"/>
+  <outline>
+    <contour>
+      <point x="529" y="-20" type="curve" smooth="yes"/>
+      <point x="628" y="-20"/>
+      <point x="725" y="-3"/>
+      <point x="781" y="19" type="curve"/>
+      <point x="781" y="206" type="line"/>
+      <point x="731" y="193"/>
+      <point x="674" y="180"/>
+      <point x="608" y="180" type="curve" smooth="yes"/>
+      <point x="528" y="180"/>
+      <point x="481" y="239"/>
+      <point x="481" y="352" type="curve" smooth="yes"/>
+      <point x="481" y="1425" type="line"/>
+      <point x="166" y="1425" type="line"/>
+      <point x="166" y="332" type="line" smooth="yes"/>
+      <point x="166" y="55"/>
+      <point x="328" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>47396f3af72e32ef66b7f3d38df9aa3548da774b3a5b363d90404dba4bf21d55ffe03049b7f350d3aaf9887d4c1a7c754d6c93bb27a2db01d2e614bf23824bb8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 326</string>
+          <string>hstem 1428 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

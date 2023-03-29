@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="izhitsadblgrave-cy" format="2">
+  <advance width="1157"/>
+  <unicode hex="0477"/>
+  <anchor x="531" y="0" name="bottom"/>
+  <anchor x="530" y="1532" name="top"/>
+  <outline>
+    <component base="izhitsa-cy"/>
+    <component base="dblgravecomb" xOffset="1102"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>izhitsa-cy+dblgravecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minusinferior" format="2">
+  <advance width="864"/>
+  <unicode hex="208B"/>
+  <outline>
+    <contour>
+      <point x="618" y="75" type="line"/>
+      <point x="618" y="185" type="line"/>
+      <point x="70" y="185" type="line"/>
+      <point x="70" y="75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w864m618,75l618,185l70,185l70,75</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 74 104</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

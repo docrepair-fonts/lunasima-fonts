@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lbar" format="2">
+  <advance width="789"/>
+  <unicode hex="019A"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <anchor x="267" y="1520" name="top"/>
+  <outline>
+    <contour>
+      <point x="367" y="0" type="line"/>
+      <point x="367" y="698" type="line"/>
+      <point x="505" y="698" type="line"/>
+      <point x="505" y="842" type="line"/>
+      <point x="367" y="842" type="line"/>
+      <point x="367" y="1520" type="line"/>
+      <point x="167" y="1520" type="line"/>
+      <point x="167" y="842" type="line"/>
+      <point x="30" y="842" type="line"/>
+      <point x="30" y="698" type="line"/>
+      <point x="167" y="698" type="line"/>
+      <point x="167" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w789m367,0l367,698l505,698l505,842l367,842l367,1520l167,1520l167,842l30,842l30,698l167,698l167,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 708 132</string>
+          <string>hstem 1520 -20</string>
+          <string>vstem 189 176</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

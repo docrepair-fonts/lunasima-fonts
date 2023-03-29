@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdotaccent" format="2">
+  <advance width="1752"/>
+  <unicode hex="1E86"/>
+  <anchor x="864" y="0" name="bottom"/>
+  <anchor x="1712" y="1428" name="topright"/>
+  <anchor x="876" y="1833" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="dotaccentcomb" xOffset="865" yOffset="352"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+dotaccentcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

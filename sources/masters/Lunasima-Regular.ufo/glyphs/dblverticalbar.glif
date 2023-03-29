@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblverticalbar" format="2">
+  <advance width="1209"/>
+  <unicode hex="2016"/>
+  <outline>
+    <contour>
+      <point x="258" y="-477" type="line"/>
+      <point x="417" y="-477" type="line"/>
+      <point x="417" y="1520" type="line"/>
+      <point x="258" y="1520" type="line"/>
+    </contour>
+    <contour>
+      <point x="707" y="-477" type="line"/>
+      <point x="867" y="-477" type="line"/>
+      <point x="867" y="1520" type="line"/>
+      <point x="707" y="1520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1209m258,-477l417,-477l417,1520l258,1520m707,-477l867,-477l867,1520l707,1520</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -482 21</string>
+          <string>hstem 1520 -20</string>
+          <string>vstem 328 146</string>
+          <string>vstem 768 146</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

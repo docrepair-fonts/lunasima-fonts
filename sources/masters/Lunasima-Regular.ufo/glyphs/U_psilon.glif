@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="2">
+  <advance width="1307"/>
+  <unicode hex="03A5"/>
+  <anchor x="-118" y="1428" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="197" y="1428" type="line"/>
+      <point x="0" y="1428" type="line"/>
+      <point x="564" y="546" type="line"/>
+      <point x="564" y="0" type="line"/>
+      <point x="744" y="0" type="line"/>
+      <point x="744" y="554" type="line"/>
+      <point x="1307" y="1428" type="line"/>
+      <point x="1113" y="1428" type="line"/>
+      <point x="654" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1307m197,1428l0,1428l564,546l564,0l744,0l744,554l1307,1428l1113,1428l654,726</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1428 -20</string>
+          <string>vstem 476 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

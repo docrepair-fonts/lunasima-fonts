@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresisbelow" format="2">
+  <advance width="1345"/>
+  <unicode hex="1E73"/>
+  <anchor x="675" y="1095" name="top"/>
+  <anchor x="1250" y="1095" name="topright"/>
+  <anchor x="661" y="-377" name="bottom"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresisbelowcomb" xOffset="707"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+dieresisbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

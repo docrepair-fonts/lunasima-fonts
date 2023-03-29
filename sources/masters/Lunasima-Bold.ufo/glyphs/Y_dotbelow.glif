@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydotbelow" format="2">
+  <advance width="1406"/>
+  <unicode hex="1EF4"/>
+  <anchor x="703" y="1428" name="top"/>
+  <anchor x="1361" y="1428" name="topright"/>
+  <anchor x="704" y="-399" name="bottom"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dotbelowcomb" xOffset="1469"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
