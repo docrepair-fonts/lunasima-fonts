@@ -14,9 +14,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Flunasima-fonts%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdocrepair-fonts%2Flunasima-fonts%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Lunasima is a DocRepair font intended for improving document compatibility
-with the ISO/IEC 29500 standard. Lunasima is based on Noto Sans, which is
-an unmodulated (“sans serif”) design.
+Lunasima is a DocRepair font intended for improving document compatibility with the ISO/IEC 29500 standard. Lunasima is based on Noto Sans, which is an unmodulated (“sans serif”) design.
 
 ## About
 

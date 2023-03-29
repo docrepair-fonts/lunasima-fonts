@@ -1,7 +1,8 @@
 *.backup/
 *.vfpyc
 *~
-venv
+
+venv/
 build.stamp
 proof
 #fonts
