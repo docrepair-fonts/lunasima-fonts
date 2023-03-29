@@ -6,9 +6,9 @@
 uni25BE</note>
   <outline>
     <contour>
-      <point x="370" y="348" type="line"/>
-      <point x="666" y="942" type="line"/>
-      <point x="72" y="942" type="line"/>
+      <point x="655" y="348" type="line"/>
+      <point x="1099" y="942" type="line"/>
+      <point x="208" y="942" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@ uni25BE</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1308m370,348l666,942l72,942</string>
+    <string>w1308m655,348l1099,942l208,942</string>
     <key>hintSetList</key>
     <array>
       <dict>

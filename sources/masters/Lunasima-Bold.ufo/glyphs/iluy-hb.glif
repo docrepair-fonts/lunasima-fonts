@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iluy-hb" format="2">
   <unicode hex="05AC"/>
-  <anchor x="264" y="1106" name="_top"/>
+  <anchor x="128" y="1095" name="_top"/>
   <outline>
     <contour>
-      <point x="417" y="1289" type="line"/>
-      <point x="417" y="1588" type="line" name=".hr01"/>
-      <point x="311" y="1588" type="line"/>
-      <point x="311" y="1391" type="line"/>
-      <point x="100" y="1391" type="line"/>
-      <point x="100" y="1289" type="line"/>
+      <point x="246" y="1282" type="line"/>
+      <point x="246" y="1588" type="line" name=".hr01"/>
+      <point x="167" y="1588" type="line"/>
+      <point x="167" y="1386" type="line"/>
+      <point x="10" y="1386" type="line"/>
+      <point x="10" y="1282" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m417,1289l417,1588l311,1588l311,1391l100,1391l100,1289</string>
+    <string>w0m246,1282l246,1588l167,1588l167,1386l10,1386l10,1282</string>
     <key>hintSetList</key>
     <array>
       <dict>

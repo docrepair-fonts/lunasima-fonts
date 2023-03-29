@@ -4,18 +4,18 @@
   <unicode hex="208A"/>
   <outline>
     <contour>
-      <point x="439" y="-147" type="line"/>
-      <point x="439" y="77" type="line"/>
-      <point x="665" y="77" type="line"/>
-      <point x="665" y="207" type="line"/>
-      <point x="439" y="207" type="line"/>
-      <point x="439" y="432" type="line"/>
-      <point x="296" y="432" type="line"/>
-      <point x="296" y="207" type="line"/>
-      <point x="70" y="207" type="line"/>
-      <point x="70" y="77" type="line"/>
-      <point x="296" y="77" type="line"/>
-      <point x="296" y="-147" type="line"/>
+      <point x="579" y="-146" type="line"/>
+      <point x="579" y="78" type="line"/>
+      <point x="901" y="78" type="line"/>
+      <point x="901" y="225" type="line"/>
+      <point x="579" y="225" type="line"/>
+      <point x="579" y="451" type="line"/>
+      <point x="407" y="451" type="line"/>
+      <point x="407" y="225" type="line"/>
+      <point x="84" y="225" type="line"/>
+      <point x="84" y="78" type="line"/>
+      <point x="407" y="78" type="line"/>
+      <point x="407" y="-146" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w987m439,-147l439,77l665,77l665,207l439,207l439,432l296,432l296,207l70,207l70,77l296,77l296,-147</string>
+    <string>w987m579,-146l579,78l901,78l901,225l579,225l579,451l407,451l407,225l84,225l84,78l407,78l407,-146</string>
     <key>hintSetList</key>
     <array>
       <dict>

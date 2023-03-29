@@ -2,58 +2,58 @@
 <glyph name="Chedieresis-cy" format="2">
   <advance width="1413"/>
   <unicode hex="04F4"/>
-  <anchor x="710" y="0" name="bottom"/>
-  <anchor x="710" y="1827" name="top"/>
+  <anchor x="699" y="0" name="bottom"/>
+  <anchor x="699" y="1837" name="top"/>
   <outline>
     <contour>
-      <point x="1272" y="1428" type="line"/>
-      <point x="972" y="1428" type="line"/>
-      <point x="972" y="760" type="line"/>
-      <point x="834" y="709"/>
-      <point x="728" y="682"/>
-      <point x="615" y="682" type="curve" smooth="yes"/>
-      <point x="462" y="682"/>
-      <point x="404" y="755"/>
-      <point x="404" y="903" type="curve" smooth="yes"/>
-      <point x="404" y="1428" type="line"/>
-      <point x="104" y="1428" type="line"/>
-      <point x="104" y="849" type="line" smooth="yes"/>
-      <point x="104" y="613"/>
-      <point x="262" y="482"/>
-      <point x="530" y="482" type="curve" smooth="yes"/>
-      <point x="673" y="482"/>
-      <point x="805" y="515"/>
-      <point x="972" y="571" type="curve"/>
-      <point x="972" y="0" type="line"/>
-      <point x="1272" y="0" type="line"/>
+      <point x="1229" y="1428" type="line"/>
+      <point x="909" y="1428" type="line"/>
+      <point x="909" y="782" type="line"/>
+      <point x="792" y="733"/>
+      <point x="698" y="708"/>
+      <point x="615" y="708" type="curve" smooth="yes"/>
+      <point x="489" y="708"/>
+      <point x="444" y="779"/>
+      <point x="444" y="920" type="curve" smooth="yes"/>
+      <point x="444" y="1428" type="line"/>
+      <point x="124" y="1428" type="line"/>
+      <point x="124" y="841" type="line" smooth="yes"/>
+      <point x="124" y="602"/>
+      <point x="269" y="468"/>
+      <point x="511" y="468" type="curve" smooth="yes"/>
+      <point x="631" y="468"/>
+      <point x="754" y="499"/>
+      <point x="909" y="556" type="curve"/>
+      <point x="909" y="0" type="line"/>
+      <point x="1229" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="336" y="1714" type="curve" smooth="yes"/>
-      <point x="336" y="1637"/>
-      <point x="395" y="1600"/>
-      <point x="471" y="1600" type="curve" smooth="yes"/>
-      <point x="544" y="1600"/>
-      <point x="608" y="1637"/>
-      <point x="608" y="1714" type="curve" smooth="yes"/>
-      <point x="608" y="1794"/>
-      <point x="544" y="1827"/>
-      <point x="471" y="1827" type="curve" smooth="yes"/>
-      <point x="395" y="1827"/>
-      <point x="336" y="1794"/>
+      <point x="332" y="1710" type="curve" smooth="yes"/>
+      <point x="332" y="1624"/>
+      <point x="393" y="1583"/>
+      <point x="472" y="1583" type="curve" smooth="yes"/>
+      <point x="547" y="1583"/>
+      <point x="612" y="1624"/>
+      <point x="612" y="1710" type="curve" smooth="yes"/>
+      <point x="612" y="1799"/>
+      <point x="547" y="1837"/>
+      <point x="472" y="1837" type="curve" smooth="yes"/>
+      <point x="393" y="1837"/>
+      <point x="332" y="1799"/>
     </contour>
     <contour>
-      <point x="765" y="1714" type="curve" smooth="yes"/>
-      <point x="765" y="1637"/>
-      <point x="824" y="1600"/>
-      <point x="901" y="1600" type="curve" smooth="yes"/>
-      <point x="974" y="1600"/>
-      <point x="1037" y="1637"/>
-      <point x="1037" y="1714" type="curve" smooth="yes"/>
-      <point x="1037" y="1794"/>
-      <point x="974" y="1827"/>
-      <point x="901" y="1827" type="curve" smooth="yes"/>
-      <point x="824" y="1827"/>
-      <point x="765" y="1794"/>
+      <point x="741" y="1710" type="curve" smooth="yes"/>
+      <point x="741" y="1624"/>
+      <point x="802" y="1583"/>
+      <point x="882" y="1583" type="curve" smooth="yes"/>
+      <point x="957" y="1583"/>
+      <point x="1022" y="1624"/>
+      <point x="1022" y="1710" type="curve" smooth="yes"/>
+      <point x="1022" y="1799"/>
+      <point x="957" y="1837"/>
+      <point x="882" y="1837" type="curve" smooth="yes"/>
+      <point x="802" y="1837"/>
+      <point x="741" y="1799"/>
     </contour>
   </outline>
   <lib>
@@ -65,7 +65,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0a0303a3f3892624b8406a3ce44ca2245f76fc31822f30066281ae5fa3aed203a65e3925c64c302b2bb3551c6e3e44071209c8c9b5f8a20887838f2968578da6</string>
+    <string>ecaffa736a555819affc5751f3d057b603a0b92da651ddc1bf0ad38a8f19dfe5f2cdf5ac58a0748d9b7f175e3e5a533a1954ad48784e69a3ad89ba084c452852</string>
     <key>hintSetList</key>
     <array>
       <dict>

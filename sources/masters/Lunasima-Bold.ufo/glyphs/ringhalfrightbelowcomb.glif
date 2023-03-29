@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringhalfrightbelowcomb" format="2">
   <unicode hex="0339"/>
-  <anchor x="-9" y="0" name="_bottom"/>
-  <anchor x="-4" y="-470" name="bottom"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="6" y="-483" name="bottom"/>
   <outline>
     <contour>
-      <point x="-130" y="-154" type="line"/>
-      <point x="-75" y="-154"/>
-      <point x="-35" y="-190"/>
-      <point x="-35" y="-249" type="curve" smooth="yes"/>
-      <point x="-35" y="-308"/>
-      <point x="-67" y="-344"/>
-      <point x="-130" y="-344" type="curve"/>
-      <point x="-130" y="-470" type="line"/>
-      <point x="14" y="-470"/>
-      <point x="112" y="-386"/>
-      <point x="112" y="-249" type="curve" smooth="yes"/>
-      <point x="112" y="-111"/>
-      <point x="14" y="-28"/>
-      <point x="-130" y="-28" type="curve"/>
+      <point x="-156" y="-170" type="line"/>
+      <point x="-70" y="-170"/>
+      <point x="-16" y="-203"/>
+      <point x="-16" y="-256" type="curve" smooth="yes"/>
+      <point x="-16" y="-307"/>
+      <point x="-71" y="-340"/>
+      <point x="-156" y="-340" type="curve"/>
+      <point x="-156" y="-483" type="line"/>
+      <point x="29" y="-483"/>
+      <point x="154" y="-396"/>
+      <point x="154" y="-256" type="curve" smooth="yes"/>
+      <point x="154" y="-115"/>
+      <point x="29" y="-28"/>
+      <point x="-156" y="-28" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e247c605e0075c68e8a3ff436a6b0f92e4fd86eaa1371bac8b0267917eda3e4d1f0574d4e5a4fd7035473a7af76b413e604229ea9871befff7d2b0298e7790e9</string>
+    <string>4cb8171edb95ecd84208af3dff1cc0fef8777c08e3a281faa8c8c315b9cc4bad3f140c13f8b68df4a76fe6122e63f1dff1ff7027e4d880e619b620f4190b02ac</string>
     <key>hintSetList</key>
     <array>
       <dict>

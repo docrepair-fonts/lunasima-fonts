@@ -2,22 +2,22 @@
 <glyph name="Imod" format="2">
   <advance width="346"/>
   <unicode hex="1D35"/>
-  <anchor x="228" y="574" name="bottom"/>
-  <anchor x="228" y="1430" name="top"/>
+  <anchor x="173" y="574" name="bottom"/>
+  <anchor x="173" y="1430" name="top"/>
   <outline>
     <contour>
-      <point x="405" y="643" type="line"/>
-      <point x="294" y="668" type="line"/>
-      <point x="294" y="1337" type="line"/>
-      <point x="405" y="1362" type="line"/>
-      <point x="405" y="1430" type="line"/>
-      <point x="52" y="1430" type="line"/>
-      <point x="52" y="1362" type="line"/>
-      <point x="162" y="1337" type="line"/>
-      <point x="162" y="668" type="line"/>
-      <point x="52" y="643" type="line"/>
-      <point x="52" y="574" type="line"/>
-      <point x="405" y="574" type="line"/>
+      <point x="320" y="636" type="line"/>
+      <point x="231" y="660" type="line"/>
+      <point x="231" y="1344" type="line"/>
+      <point x="320" y="1368" type="line"/>
+      <point x="320" y="1430" type="line"/>
+      <point x="26" y="1430" type="line"/>
+      <point x="26" y="1368" type="line"/>
+      <point x="115" y="1344" type="line"/>
+      <point x="115" y="660" type="line"/>
+      <point x="26" y="636" type="line"/>
+      <point x="26" y="574" type="line"/>
+      <point x="320" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w346m405,643l294,668l294,1337l405,1362l405,1430l52,1430l52,1362l162,1337l162,668l52,643l52,574l405,574</string>
+    <string>w346m320,636l231,660l231,1344l320,1368l320,1430l26,1430l26,1368l115,1344l115,660l26,636l26,574l320,574</string>
     <key>hintSetList</key>
     <array>
       <dict>

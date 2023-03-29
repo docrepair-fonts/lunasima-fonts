@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="leftBlackPointer" format="2">
-  <advance width="1466"/>
+  <advance width="1506"/>
   <unicode hex="25C4"/>
   <note>
 triaglf</note>
   <outline>
     <contour>
-      <point x="1364" y="316" type="line"/>
-      <point x="1364" y="974" type="line"/>
-      <point x="102" y="644" type="line"/>
+      <point x="1384" y="316" type="line"/>
+      <point x="1384" y="974" type="line"/>
+      <point x="122" y="644" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@ triaglf</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1466m1364,316l1364,974l102,644</string>
+    <string>w1506m1384,316l1384,974l122,644</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,24 +2,24 @@
 <glyph name="ghestroke-cy" format="2">
   <advance width="1012"/>
   <unicode hex="0493"/>
-  <anchor x="441" y="0" name="bottom"/>
-  <anchor x="441" y="1076" name="top"/>
+  <anchor x="507" y="0" name="bottom"/>
+  <anchor x="507" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="167" y="1076" type="line"/>
-      <point x="167" y="608" type="line"/>
-      <point x="16" y="608" type="line"/>
-      <point x="16" y="458" type="line"/>
-      <point x="167" y="458" type="line"/>
-      <point x="167" y="0" type="line"/>
-      <point x="367" y="0" type="line"/>
-      <point x="367" y="458" type="line"/>
-      <point x="696" y="458" type="line"/>
-      <point x="696" y="608" type="line"/>
-      <point x="367" y="608" type="line"/>
-      <point x="367" y="915" type="line"/>
-      <point x="840" y="915" type="line"/>
-      <point x="840" y="1076" type="line"/>
+      <point x="201" y="1072" type="line"/>
+      <point x="201" y="602" type="line"/>
+      <point x="17" y="602" type="line"/>
+      <point x="17" y="466" type="line"/>
+      <point x="201" y="466" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="466" type="line"/>
+      <point x="790" y="466" type="line"/>
+      <point x="790" y="602" type="line"/>
+      <point x="377" y="602" type="line"/>
+      <point x="377" y="924" type="line"/>
+      <point x="966" y="924" type="line"/>
+      <point x="966" y="1072" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1012m167,1076l167,608l16,608l16,458l167,458l167,0l367,0l367,458l696,458l696,608l367,608l367,915l840,915l840,1076</string>
+    <string>w1012m201,1072l201,602l17,602l17,466l201,466l201,0l377,0l377,466l790,466l790,602l377,602l377,924l966,924l966,1072</string>
     <key>hintSetList</key>
     <array>
       <dict>

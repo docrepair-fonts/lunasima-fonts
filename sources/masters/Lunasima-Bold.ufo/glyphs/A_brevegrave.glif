@@ -2,57 +2,57 @@
 <glyph name="Abrevegrave" format="2">
   <advance width="1508"/>
   <unicode hex="1EB0"/>
-  <anchor x="693" y="0" name="bottom"/>
-  <anchor x="688" y="2018" name="top"/>
+  <anchor x="760" y="0" name="bottom"/>
+  <anchor x="754" y="2018" name="top"/>
   <outline>
     <contour>
-      <point x="1378" y="0" type="line"/>
-      <point x="870" y="1434" type="line"/>
-      <point x="505" y="1434" type="line"/>
+      <point x="1508" y="0" type="line"/>
+      <point x="945" y="1434" type="line"/>
+      <point x="561" y="1434" type="line"/>
       <point x="0" y="0" type="line"/>
-      <point x="322" y="0" type="line"/>
-      <point x="436" y="396" type="line"/>
-      <point x="943" y="396" type="line"/>
-      <point x="1056" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="472" y="352" type="line"/>
+      <point x="1036" y="352" type="line"/>
+      <point x="1165" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="874" y="596" type="line"/>
-      <point x="507" y="596" type="line"/>
-      <point x="611" y="976" type="line"/>
-      <point x="632" y="1035"/>
-      <point x="670" y="1148"/>
-      <point x="688" y="1234" type="curve"/>
-      <point x="705" y="1171"/>
-      <point x="754" y="1020"/>
-      <point x="770" y="976" type="curve"/>
+      <point x="961" y="593" type="line"/>
+      <point x="551" y="593" type="line"/>
+      <point x="671" y="922" type="line"/>
+      <point x="693" y="993"/>
+      <point x="733" y="1132"/>
+      <point x="754" y="1223" type="curve"/>
+      <point x="772" y="1148"/>
+      <point x="826" y="977"/>
+      <point x="842" y="922" type="curve"/>
     </contour>
     <contour>
-      <point x="910" y="1823" type="line"/>
-      <point x="900" y="1720"/>
-      <point x="818" y="1687"/>
-      <point x="704" y="1687" type="curve" smooth="yes"/>
-      <point x="578" y="1687"/>
-      <point x="512" y="1719"/>
-      <point x="499" y="1823" type="curve"/>
-      <point x="349" y="1823" type="line"/>
-      <point x="363" y="1652"/>
-      <point x="485" y="1542"/>
-      <point x="706" y="1542" type="curve" smooth="yes"/>
-      <point x="935" y="1542"/>
-      <point x="1045" y="1651"/>
-      <point x="1054" y="1823" type="curve"/>
+      <point x="995" y="1841" type="line"/>
+      <point x="983" y="1741"/>
+      <point x="894" y="1699"/>
+      <point x="770" y="1699" type="curve" smooth="yes"/>
+      <point x="631" y="1699"/>
+      <point x="560" y="1742"/>
+      <point x="546" y="1841" type="curve"/>
+      <point x="384" y="1841" type="line"/>
+      <point x="400" y="1662"/>
+      <point x="531" y="1542"/>
+      <point x="771" y="1542" type="curve" smooth="yes"/>
+      <point x="1021" y="1542"/>
+      <point x="1140" y="1658"/>
+      <point x="1150" y="1841" type="curve"/>
     </contour>
     <contour>
-      <point x="468" y="2018" type="line"/>
-      <point x="468" y="1998" type="line"/>
-      <point x="521" y="1929"/>
-      <point x="605" y="1850"/>
-      <point x="670" y="1796" type="curve"/>
-      <point x="797" y="1796" type="line"/>
-      <point x="797" y="1820" type="line"/>
-      <point x="761" y="1881"/>
-      <point x="715" y="1942"/>
-      <point x="684" y="2018" type="curve"/>
+      <point x="509" y="2018" type="line"/>
+      <point x="509" y="1998" type="line"/>
+      <point x="569" y="1935"/>
+      <point x="659" y="1850"/>
+      <point x="732" y="1796" type="curve"/>
+      <point x="869" y="1796" type="line"/>
+      <point x="869" y="1822" type="line"/>
+      <point x="828" y="1877"/>
+      <point x="779" y="1950"/>
+      <point x="743" y="2018" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -64,7 +64,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>74f9399bc58e955e5d32f7b41aafed5723474b6ed728581ba79def874581e31d4ff10679163701ee1d08ceab54eaf45418c6ef7f85a3402e97a88d68180e5aff</string>
+    <string>04451c3b31f6b4c3dd3aec23f5d4ce58917428e16af1fd5b2aeea2dd9cf8c6ac821d5c5abfe6daec9a7d11ce92d77e83c55088e6a003e374ef43ab92dbad15e0</string>
     <key>hintSetList</key>
     <array>
       <dict>

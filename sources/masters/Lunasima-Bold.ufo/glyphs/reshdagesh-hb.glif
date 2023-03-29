@@ -2,20 +2,20 @@
 <glyph name="reshdagesh-hb" format="2">
   <advance width="1118"/>
   <unicode hex="FB48"/>
-  <anchor x="896" y="0" name="bottom"/>
-  <anchor x="388" y="0" name="bottomleft"/>
-  <anchor x="536" y="1086" name="top"/>
-  <anchor x="-33" y="1086" name="topleft"/>
+  <anchor x="802" y="0" name="bottom"/>
+  <anchor x="340" y="0" name="bottomleft"/>
+  <anchor x="501" y="1095" name="top"/>
+  <anchor x="-22" y="1095" name="topleft"/>
   <outline>
     <component base="resh-hb"/>
-    <component base="dagesh-hb" xOffset="186" yOffset="-7"/>
+    <component base="dagesh-hb" xOffset="250"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>resh-hb+dagesh-hb</string>
+  <string>'resh-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

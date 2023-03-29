@@ -4,22 +4,22 @@
   <unicode hex="2034"/>
   <outline>
     <contour>
-      <point x="954" y="912" type="line"/>
-      <point x="1278" y="1428" type="line"/>
-      <point x="1079" y="1428" type="line"/>
-      <point x="820" y="912" type="line"/>
+      <point x="1125" y="912" type="line"/>
+      <point x="1599" y="1428" type="line"/>
+      <point x="1400" y="1428" type="line"/>
+      <point x="1015" y="912" type="line"/>
     </contour>
     <contour>
-      <point x="211" y="912" type="line"/>
-      <point x="536" y="1428" type="line"/>
-      <point x="337" y="1428" type="line"/>
-      <point x="78" y="912" type="line"/>
+      <point x="209" y="912" type="line"/>
+      <point x="683" y="1428" type="line"/>
+      <point x="484" y="1428" type="line"/>
+      <point x="99" y="912" type="line"/>
     </contour>
     <contour>
-      <point x="582" y="912" type="line"/>
-      <point x="907" y="1428" type="line"/>
-      <point x="708" y="1428" type="line"/>
-      <point x="449" y="912" type="line"/>
+      <point x="667" y="912" type="line"/>
+      <point x="1141" y="1428" type="line"/>
+      <point x="942" y="1428" type="line"/>
+      <point x="557" y="912" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1554m954,912l1278,1428l1079,1428l820,912m211,912l536,1428l337,1428l78,912m582,912l907,1428l708,1428l449,912</string>
+    <string>w1554m1125,912l1599,1428l1400,1428l1015,912m209,912l683,1428l484,1428l99,912m667,912l1141,1428l942,1428l557,912</string>
     <key>hintSetList</key>
     <array>
       <dict>

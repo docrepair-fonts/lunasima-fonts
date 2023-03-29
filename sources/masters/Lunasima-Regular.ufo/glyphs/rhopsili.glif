@@ -5,7 +5,7 @@
   <anchor x="612" y="-480" name="bottom"/>
   <outline>
     <component base="rho"/>
-    <component base="psili" xOffset="356"/>
+    <component base="psili" xOffset="28"/>
   </outline>
   <lib>
   <dict>

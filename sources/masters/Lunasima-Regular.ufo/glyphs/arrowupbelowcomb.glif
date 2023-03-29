@@ -2,16 +2,16 @@
 <glyph name="arrowupbelowcomb" format="2">
   <unicode hex="034E"/>
   <anchor x="2" y="0" name="_bottom"/>
-  <anchor x="6" y="-480" name="bottom"/>
+  <anchor x="7" y="-480" name="bottom"/>
   <outline>
     <contour>
-      <point x="68" y="-480" type="line"/>
-      <point x="68" y="-240" type="line"/>
-      <point x="186" y="-240" type="line"/>
+      <point x="75" y="-480" type="line"/>
+      <point x="75" y="-240" type="line"/>
+      <point x="205" y="-240" type="line"/>
       <point x="2" y="-50" type="line"/>
-      <point x="-182" y="-240" type="line"/>
-      <point x="-64" y="-240" type="line"/>
-      <point x="-64" y="-480" type="line"/>
+      <point x="-201" y="-240" type="line"/>
+      <point x="-70" y="-240" type="line"/>
+      <point x="-70" y="-480" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m68,-480l68,-240l186,-240l2,-50l-182,-240l-64,-240l-64,-480</string>
+    <string>w0m75,-480l75,-240l205,-240l2,-50l-201,-240l-70,-240l-70,-480</string>
     <key>hintSetList</key>
     <array>
       <dict>

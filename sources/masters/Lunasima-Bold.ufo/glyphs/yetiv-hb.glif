@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yetiv-hb" format="2">
   <unicode hex="059A"/>
-  <anchor x="264" y="0" name="_bottomleft"/>
+  <anchor x="107" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="415" y="-501" type="line"/>
-      <point x="240" y="-328" type="line"/>
-      <point x="415" y="-155" type="line"/>
-      <point x="276" y="-155" type="line"/>
-      <point x="100" y="-328" type="line"/>
-      <point x="276" y="-501" type="line"/>
+      <point x="245" y="-502" type="line"/>
+      <point x="113" y="-324" type="line"/>
+      <point x="245" y="-148" type="line"/>
+      <point x="141" y="-148" type="line"/>
+      <point x="10" y="-324" type="line"/>
+      <point x="141" y="-502" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m415,-501l240,-328l415,-155l276,-155l100,-328l276,-501</string>
+    <string>w0m245,-502l113,-324l245,-148l141,-148l10,-324l141,-502</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,11 +2,11 @@
 <glyph name="idblgrave" format="2">
   <advance width="592"/>
   <unicode hex="0209"/>
-  <anchor x="277" y="0" name="bottom"/>
-  <anchor x="270" y="1532" name="top"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="295" y="1532" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dblgravecomb" xOffset="842"/>
+    <component base="dblgravecomb" xOffset="942"/>
   </outline>
   <lib>
   <dict>

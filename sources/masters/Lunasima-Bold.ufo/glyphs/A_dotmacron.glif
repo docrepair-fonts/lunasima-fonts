@@ -2,49 +2,49 @@
 <glyph name="Adotmacron" format="2">
   <advance width="1508"/>
   <unicode hex="01E0"/>
-  <anchor x="693" y="0" name="bottom"/>
-  <anchor x="688" y="2021" name="top"/>
+  <anchor x="760" y="0" name="bottom"/>
+  <anchor x="754" y="2038" name="top"/>
   <outline>
     <contour>
-      <point x="1378" y="0" type="line"/>
-      <point x="870" y="1434" type="line"/>
-      <point x="505" y="1434" type="line"/>
+      <point x="1508" y="0" type="line"/>
+      <point x="945" y="1434" type="line"/>
+      <point x="561" y="1434" type="line"/>
       <point x="0" y="0" type="line"/>
-      <point x="322" y="0" type="line"/>
-      <point x="436" y="396" type="line"/>
-      <point x="943" y="396" type="line"/>
-      <point x="1056" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="472" y="352" type="line"/>
+      <point x="1036" y="352" type="line"/>
+      <point x="1165" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="874" y="596" type="line"/>
-      <point x="507" y="596" type="line"/>
-      <point x="611" y="976" type="line"/>
-      <point x="632" y="1035"/>
-      <point x="670" y="1148"/>
-      <point x="688" y="1234" type="curve"/>
-      <point x="705" y="1171"/>
-      <point x="754" y="1020"/>
-      <point x="770" y="976" type="curve"/>
+      <point x="961" y="593" type="line"/>
+      <point x="551" y="593" type="line"/>
+      <point x="671" y="922" type="line"/>
+      <point x="693" y="993"/>
+      <point x="733" y="1132"/>
+      <point x="754" y="1223" type="curve"/>
+      <point x="772" y="1148"/>
+      <point x="826" y="977"/>
+      <point x="842" y="922" type="curve"/>
     </contour>
     <contour>
-      <point x="359" y="2021" type="line"/>
-      <point x="359" y="1860" type="line"/>
-      <point x="1018" y="1860" type="line"/>
-      <point x="1018" y="2021" type="line"/>
+      <point x="394" y="2038" type="line"/>
+      <point x="394" y="1857" type="line"/>
+      <point x="1113" y="1857" type="line"/>
+      <point x="1113" y="2038" type="line"/>
     </contour>
     <contour>
-      <point x="688" y="1773" type="curve" smooth="yes"/>
-      <point x="610" y="1773"/>
-      <point x="559" y="1735"/>
-      <point x="559" y="1654" type="curve" smooth="yes"/>
-      <point x="559" y="1576"/>
-      <point x="610" y="1536"/>
-      <point x="688" y="1536" type="curve" smooth="yes"/>
-      <point x="763" y="1536"/>
-      <point x="818" y="1576"/>
-      <point x="818" y="1654" type="curve" smooth="yes"/>
-      <point x="818" y="1735"/>
-      <point x="763" y="1773"/>
+      <point x="753" y="1781" type="curve" smooth="yes"/>
+      <point x="669" y="1781"/>
+      <point x="614" y="1740"/>
+      <point x="614" y="1656" type="curve" smooth="yes"/>
+      <point x="614" y="1575"/>
+      <point x="669" y="1532"/>
+      <point x="753" y="1532" type="curve" smooth="yes"/>
+      <point x="834" y="1532"/>
+      <point x="894" y="1575"/>
+      <point x="894" y="1656" type="curve" smooth="yes"/>
+      <point x="894" y="1740"/>
+      <point x="834" y="1781"/>
     </contour>
   </outline>
   <lib>
@@ -56,7 +56,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>557ba0388e3a7ff82ff4d29c810b8f963740ab72eb1f39bc3e7f932c969a84ff7c53ddc56460957886fd36394d4e44de6c4db3f3a0aab800b3c10962865fb36d</string>
+    <string>ac883795266abc07d0373d98bd8876c4ec9ae662e733627774f9ceb9d324c524da706f71df8728da5eccb2723d067ac877048f8fb59f96cb78dd821cbf4e44c8</string>
     <key>hintSetList</key>
     <array>
       <dict>

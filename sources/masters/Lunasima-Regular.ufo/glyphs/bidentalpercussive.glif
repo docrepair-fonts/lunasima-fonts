@@ -2,28 +2,28 @@
 <glyph name="bidentalpercussive" format="2">
   <advance width="1185"/>
   <unicode hex="02AD"/>
-  <anchor x="595" y="0" name="bottom"/>
-  <anchor x="595" y="1428" name="top"/>
+  <anchor x="593" y="0" name="bottom"/>
+  <anchor x="593" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="170" y="0" type="line"/>
-      <point x="357" y="0" type="line"/>
-      <point x="357" y="297" type="line"/>
-      <point x="834" y="297" type="line"/>
-      <point x="834" y="0" type="line"/>
-      <point x="1021" y="0" type="line"/>
-      <point x="1021" y="470" type="line"/>
-      <point x="170" y="470" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="302" type="line" name=".hr01"/>
+      <point x="826" y="302" type="line"/>
+      <point x="826" y="0" type="line" name=".hr02"/>
+      <point x="998" y="0" type="line"/>
+      <point x="998" y="466" type="line"/>
+      <point x="187" y="466" type="line"/>
     </contour>
     <contour>
-      <point x="170" y="959" type="line"/>
-      <point x="357" y="959" type="line"/>
-      <point x="357" y="1256" type="line"/>
-      <point x="834" y="1256" type="line"/>
-      <point x="834" y="959" type="line"/>
-      <point x="1021" y="959" type="line"/>
-      <point x="1021" y="1428" type="line"/>
-      <point x="170" y="1428" type="line"/>
+      <point x="187" y="962" type="line"/>
+      <point x="360" y="962" type="line"/>
+      <point x="360" y="1264" type="line" name=".hr03"/>
+      <point x="826" y="1264" type="line"/>
+      <point x="826" y="962" type="line" name=".hr04"/>
+      <point x="998" y="962" type="line"/>
+      <point x="998" y="1428" type="line"/>
+      <point x="187" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,19 +35,61 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>45f8356b9dee1f54d582120459b85dfe486dffb45a7f82e2856d353928a1c4d9b5e2067ed0bf19c3134d8ee8a1897e7b0913f94c1ff5a316e8faba6d9fb7f303</string>
+    <string>23168448afdf5c3e76b8740121173f0ac6d957d3ae45fc138b1f52d7be63af7f0758d6e83b6b6ecb97a60298664aaaaf792928d2d6a0794bd27dd6d7e7f868be</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 466</string>
-          <string>hstem 302 164</string>
+          <string>vstem 216 176</string>
+          <string>vstem 880 176</string>
           <string>hstem 962 466</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 302 164</string>
+          <string>vstem 216 176</string>
+          <string>vstem 880 176</string>
+          <string>hstem 962 466</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 466</string>
+          <string>vstem 216 176</string>
+          <string>vstem 880 176</string>
+          <string>hstem 962 466</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
           <string>hstem 1264 164</string>
           <string>vstem 216 176</string>
           <string>vstem 880 176</string>
+          <string>hstem 0 466</string>
         </array>
+        <key>pointTag</key>
+        <string>.hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 962 466</string>
+          <string>vstem 216 176</string>
+          <string>vstem 880 176</string>
+          <string>hstem 0 466</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr04</string>
       </dict>
     </array>
   </dict>

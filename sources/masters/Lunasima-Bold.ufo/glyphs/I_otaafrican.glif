@@ -2,26 +2,26 @@
 <glyph name="Iotaafrican" format="2">
   <advance width="829"/>
   <unicode hex="0196"/>
-  <anchor x="445" y="0" name="bottom"/>
-  <anchor x="327" y="1428" name="top"/>
+  <anchor x="475" y="0" name="bottom"/>
+  <anchor x="371" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="529" y="-20" type="curve" smooth="yes"/>
-      <point x="628" y="-20"/>
-      <point x="725" y="-3"/>
-      <point x="781" y="19" type="curve"/>
-      <point x="781" y="206" type="line"/>
-      <point x="731" y="193"/>
-      <point x="674" y="180"/>
-      <point x="608" y="180" type="curve" smooth="yes"/>
-      <point x="528" y="180"/>
-      <point x="481" y="239"/>
-      <point x="481" y="352" type="curve" smooth="yes"/>
-      <point x="481" y="1425" type="line"/>
-      <point x="166" y="1425" type="line"/>
-      <point x="166" y="332" type="line" smooth="yes"/>
-      <point x="166" y="55"/>
-      <point x="328" y="-20"/>
+      <point x="555" y="-20" type="curve" smooth="yes"/>
+      <point x="657" y="-20"/>
+      <point x="751" y="1"/>
+      <point x="810" y="27" type="curve"/>
+      <point x="810" y="256" type="line"/>
+      <point x="758" y="239"/>
+      <point x="711" y="226"/>
+      <point x="647" y="226" type="curve" smooth="yes"/>
+      <point x="582" y="226"/>
+      <point x="539" y="280"/>
+      <point x="539" y="378" type="curve" smooth="yes"/>
+      <point x="539" y="1428" type="line"/>
+      <point x="199" y="1428" type="line"/>
+      <point x="199" y="355" type="line" smooth="yes"/>
+      <point x="199" y="59"/>
+      <point x="359" y="-20"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>47396f3af72e32ef66b7f3d38df9aa3548da774b3a5b363d90404dba4bf21d55ffe03049b7f350d3aaf9887d4c1a7c754d6c93bb27a2db01d2e614bf23824bb8</string>
+    <string>443141ad5bd2479533803ab145f78787d709ee90cc2f3c9ef17d0e5318d3c92c45b5a9f55ad9e4286bb712fe013483f36d59cc270a3867d4d0f3f3872b0c1672</string>
     <key>hintSetList</key>
     <array>
       <dict>

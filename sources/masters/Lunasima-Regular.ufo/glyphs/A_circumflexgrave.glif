@@ -2,60 +2,60 @@
 <glyph name="Acircumflexgrave" format="2">
   <advance width="1413"/>
   <unicode hex="1EA6"/>
-  <anchor x="656" y="0" name="bottom"/>
-  <anchor x="645" y="1954" name="top"/>
+  <anchor x="718" y="0" name="bottom"/>
+  <anchor x="704" y="1954" name="top"/>
   <outline>
     <contour>
-      <point x="1293" y="0" type="line"/>
-      <point x="745" y="1434" type="line"/>
-      <point x="550" y="1434" type="line"/>
+      <point x="1411" y="0" type="line"/>
+      <point x="780" y="1434" type="line"/>
+      <point x="635" y="1434" type="line"/>
       <point x="0" y="0" type="line"/>
-      <point x="206" y="0" type="line"/>
-      <point x="366" y="450" type="line"/>
-      <point x="923" y="450" type="line"/>
-      <point x="1085" y="0" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="380" y="442" type="line"/>
+      <point x="1024" y="442" type="line"/>
+      <point x="1228" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="866" y="602" type="line"/>
-      <point x="428" y="602" type="line"/>
-      <point x="581" y="1046" type="line" smooth="yes"/>
-      <point x="597" y="1092"/>
-      <point x="625" y="1177"/>
-      <point x="645" y="1257" type="curve"/>
-      <point x="660" y="1205"/>
-      <point x="704" y="1079"/>
-      <point x="715" y="1046" type="curve" smooth="yes"/>
+      <point x="967" y="602" type="line"/>
+      <point x="445" y="602" type="line"/>
+      <point x="637" y="1034" type="line"/>
+      <point x="655" y="1080"/>
+      <point x="681" y="1166"/>
+      <point x="704" y="1248" type="curve"/>
+      <point x="719" y="1198"/>
+      <point x="765" y="1066"/>
+      <point x="777" y="1034" type="curve"/>
     </contour>
     <contour>
-      <point x="330" y="1542" type="line"/>
-      <point x="438" y="1542" type="line"/>
-      <point x="504" y="1587"/>
-      <point x="576" y="1645"/>
-      <point x="644" y="1707" type="curve"/>
-      <point x="714" y="1645"/>
-      <point x="784" y="1587"/>
-      <point x="850" y="1542" type="curve"/>
-      <point x="959" y="1542" type="line"/>
-      <point x="959" y="1564" type="line"/>
-      <point x="892" y="1638"/>
-      <point x="809" y="1730"/>
-      <point x="748" y="1819" type="curve"/>
-      <point x="542" y="1819" type="line"/>
-      <point x="480" y="1730"/>
-      <point x="396" y="1638"/>
-      <point x="330" y="1564" type="curve"/>
+      <point x="371" y="1542" type="line"/>
+      <point x="470" y="1542" type="line"/>
+      <point x="544" y="1586"/>
+      <point x="625" y="1642"/>
+      <point x="701" y="1704" type="curve"/>
+      <point x="779" y="1642"/>
+      <point x="858" y="1586"/>
+      <point x="932" y="1542" type="curve"/>
+      <point x="1033" y="1542" type="line"/>
+      <point x="1033" y="1564" type="line"/>
+      <point x="957" y="1640"/>
+      <point x="865" y="1730"/>
+      <point x="796" y="1820" type="curve"/>
+      <point x="609" y="1820" type="line"/>
+      <point x="539" y="1730"/>
+      <point x="445" y="1640"/>
+      <point x="371" y="1564" type="curve"/>
     </contour>
     <contour>
-      <point x="409" y="1732" type="line"/>
-      <point x="409" y="1754" type="line"/>
-      <point x="357" y="1820"/>
-      <point x="326" y="1870"/>
-      <point x="284" y="1954" type="curve"/>
-      <point x="100" y="1954" type="line"/>
-      <point x="100" y="1935" type="line"/>
-      <point x="158" y="1857"/>
-      <point x="230" y="1789"/>
-      <point x="305" y="1732" type="curve"/>
+      <point x="457" y="1732" type="line"/>
+      <point x="457" y="1754" type="line"/>
+      <point x="399" y="1820"/>
+      <point x="367" y="1868"/>
+      <point x="320" y="1954" type="curve"/>
+      <point x="136" y="1954" type="line"/>
+      <point x="136" y="1934" type="line"/>
+      <point x="201" y="1856"/>
+      <point x="276" y="1788"/>
+      <point x="358" y="1732" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -67,7 +67,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a4642252e148c0f9d019a242ca3b7b1b7bb67389529a995614043469cfff585fbb989fa85260d5366ba5f5bf10dd583f0c7fc2fdf963d669341706eea7e57424</string>
+    <string>b41864a75b2a20dab6c37244f8abd016329b1fa401ab8628065fd832250739c2e35a02fe80dce4ddd05644343ea54d09c95cdfff4dd3ce9fea76aee9046c9087</string>
     <key>hintSetList</key>
     <array>
       <dict>

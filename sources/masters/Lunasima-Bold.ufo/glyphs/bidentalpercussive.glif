@@ -2,28 +2,28 @@
 <glyph name="bidentalpercussive" format="2">
   <advance width="1209"/>
   <unicode hex="02AD"/>
-  <anchor x="583" y="0" name="bottom"/>
-  <anchor x="583" y="1428" name="top"/>
+  <anchor x="607" y="0" name="bottom"/>
+  <anchor x="607" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="136" y="0" type="line"/>
-      <point x="372" y="0" type="line"/>
-      <point x="372" y="278" type="line"/>
-      <point x="800" y="278" type="line"/>
-      <point x="800" y="0" type="line"/>
-      <point x="1036" y="0" type="line"/>
-      <point x="1036" y="478" type="line"/>
-      <point x="136" y="478" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="408" y="262" type="line"/>
+      <point x="817" y="262" type="line"/>
+      <point x="817" y="0" type="line"/>
+      <point x="1061" y="0" type="line"/>
+      <point x="1061" y="493" type="line"/>
+      <point x="163" y="493" type="line"/>
     </contour>
     <contour>
-      <point x="136" y="945" type="line"/>
-      <point x="372" y="945" type="line"/>
-      <point x="372" y="1228" type="line"/>
-      <point x="800" y="1228" type="line"/>
-      <point x="800" y="945" type="line"/>
-      <point x="1036" y="945" type="line"/>
-      <point x="1036" y="1428" type="line"/>
-      <point x="136" y="1428" type="line"/>
+      <point x="163" y="936" type="line"/>
+      <point x="408" y="936" type="line"/>
+      <point x="408" y="1198" type="line"/>
+      <point x="817" y="1198" type="line"/>
+      <point x="817" y="936" type="line"/>
+      <point x="1061" y="936" type="line"/>
+      <point x="1061" y="1428" type="line"/>
+      <point x="163" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>34c672ffd907bcee255653bcd3764a0d4caadf49554b78f86ebc9cae614d24e0de77bd14e033a4ea6ac7fd2b3a3c7d71a8076eb995a95129fc142d23f702b6ef</string>
+    <string>1b3ffec311e45e2b32c27ca8b0357a0f79ce841d10d48f33d7090f720b9c903c4e72dc58c473b790823d81466ea8c358239a725c10dfccc0b258997b356042aa</string>
     <key>hintSetList</key>
     <array>
       <dict>

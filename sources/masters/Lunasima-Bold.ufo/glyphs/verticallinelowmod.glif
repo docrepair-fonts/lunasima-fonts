@@ -2,14 +2,14 @@
 <glyph name="verticallinelowmod" format="2">
   <advance width="395"/>
   <unicode hex="02CC"/>
-  <anchor x="180" y="-527" name="_top"/>
-  <anchor x="185" y="120" name="top"/>
+  <anchor x="197" y="-526" name="_top"/>
+  <anchor x="202" y="120" name="top"/>
   <outline>
     <contour>
-      <point x="80" y="120" type="line"/>
-      <point x="80" y="-421" type="line"/>
-      <point x="280" y="-421" type="line"/>
-      <point x="280" y="120" type="line"/>
+      <point x="96" y="120" type="line"/>
+      <point x="96" y="-429" type="line"/>
+      <point x="299" y="-429" type="line"/>
+      <point x="299" y="120" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w395m80,120l80,-421l280,-421l280,120</string>
+    <string>w395m96,120l96,-429l299,-429l299,120</string>
     <key>hintSetList</key>
     <array>
       <dict>

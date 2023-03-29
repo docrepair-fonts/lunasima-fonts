@@ -2,17 +2,17 @@
 <glyph name="vav-hb" format="2">
   <advance width="655"/>
   <unicode hex="05D5"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="36" y="0" name="bottomleft"/>
-  <anchor x="26" y="602" name="center"/>
-  <anchor x="272" y="1076" name="top"/>
-  <anchor x="272" y="1076" name="topleft"/>
+  <anchor x="328" y="0" name="bottom"/>
+  <anchor x="-5" y="0" name="bottomleft"/>
+  <anchor x="32" y="600" name="center"/>
+  <anchor x="328" y="1072" name="top"/>
+  <anchor x="328" y="1072" name="topleft"/>
   <outline>
     <contour>
-      <point x="374" y="0" type="line"/>
-      <point x="374" y="1188" type="line"/>
-      <point x="170" y="1188" type="line"/>
-      <point x="170" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="419" y="1184" type="line"/>
+      <point x="236" y="1184" type="line"/>
+      <point x="236" y="0" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="213" y="0"/>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w655m374,0l374,1188l170,1188l170,0</string>
+    <string>w655m419,0l419,1184l236,1184l236,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

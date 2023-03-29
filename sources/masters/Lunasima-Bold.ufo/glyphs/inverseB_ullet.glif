@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="inverseBullet" format="2">
-  <advance width="1144"/>
+  <advance width="1184"/>
   <unicode hex="25D8"/>
   <note>
 invbullet</note>
   <outline>
     <contour>
-      <point x="102" y="254" type="line"/>
-      <point x="1042" y="254" type="line"/>
-      <point x="1042" y="1194" type="line"/>
-      <point x="102" y="1194" type="line"/>
+      <point x="122" y="254" type="line"/>
+      <point x="1062" y="254" type="line"/>
+      <point x="1062" y="1194" type="line"/>
+      <point x="122" y="1194" type="line"/>
     </contour>
     <contour>
-      <point x="572" y="366" type="curve" smooth="yes"/>
-      <point x="377" y="366"/>
-      <point x="216" y="528"/>
-      <point x="216" y="724" type="curve" smooth="yes"/>
-      <point x="216" y="922"/>
-      <point x="375" y="1082"/>
-      <point x="572" y="1082" type="curve" smooth="yes"/>
-      <point x="767" y="1082"/>
-      <point x="928" y="920"/>
-      <point x="928" y="724" type="curve" smooth="yes"/>
-      <point x="928" y="528"/>
-      <point x="767" y="366"/>
+      <point x="590" y="366" type="curve" smooth="yes"/>
+      <point x="394" y="366"/>
+      <point x="232" y="528"/>
+      <point x="232" y="724" type="curve" smooth="yes"/>
+      <point x="232" y="922"/>
+      <point x="392" y="1082"/>
+      <point x="590" y="1082" type="curve" smooth="yes"/>
+      <point x="786" y="1082"/>
+      <point x="948" y="920"/>
+      <point x="948" y="724" type="curve" smooth="yes"/>
+      <point x="948" y="528"/>
+      <point x="786" y="366"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@ invbullet</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d097a45f2b6036e9d7f693ff7c68a14f7c2d44063f956a67a652dc18d98fa2842e78c07fbff2e7aed2b408c6cb1152b8d1aca84363cd4dc29933bd12c783c0e2</string>
+    <string>21e57c28addc4defa01fba2d0760a903c678892f9c7e5d4a82a2d4724378e33fabb18bdb3bfb80271473a49d2dccd76493821e69dff6a16a35d66719991d1134</string>
     <key>hintSetList</key>
     <array>
       <dict>

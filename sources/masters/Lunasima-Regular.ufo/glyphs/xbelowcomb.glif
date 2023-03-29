@@ -2,21 +2,21 @@
 <glyph name="xbelowcomb" format="2">
   <unicode hex="0353"/>
   <anchor x="0" y="0" name="_bottom"/>
-  <anchor x="4" y="-446" name="bottom"/>
+  <anchor x="5" y="-446" name="bottom"/>
   <outline>
     <contour>
-      <point x="-90" y="-252" type="line"/>
-      <point x="-188" y="-350" type="line"/>
-      <point x="-94" y="-444" type="line"/>
-      <point x="4" y="-346" type="line"/>
-      <point x="106" y="-446" type="line"/>
-      <point x="190" y="-362" type="line"/>
-      <point x="90" y="-260" type="line"/>
-      <point x="188" y="-162" type="line"/>
-      <point x="94" y="-68" type="line"/>
+      <point x="-99" y="-252" type="line"/>
+      <point x="-206" y="-350" type="line"/>
+      <point x="-103" y="-444" type="line"/>
+      <point x="5" y="-346" type="line"/>
+      <point x="117" y="-446" type="line"/>
+      <point x="209" y="-362" type="line"/>
+      <point x="99" y="-260" type="line"/>
+      <point x="207" y="-162" type="line"/>
+      <point x="104" y="-68" type="line"/>
       <point x="-4" y="-166" type="line"/>
-      <point x="-106" y="-66" type="line"/>
-      <point x="-190" y="-150" type="line"/>
+      <point x="-116" y="-66" type="line"/>
+      <point x="-209" y="-150" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-90,-252l-188,-350l-94,-444l4,-346l106,-446l190,-362l90,-260l188,-162l94,-68l-4,-166l-106,-66l-190,-150</string>
+    <string>w0m-99,-252l-206,-350l-103,-444l5,-346l117,-446l209,-362l99,-260l207,-162l104,-68l-4,-166l-116,-66l-209,-150</string>
     <key>hintSetList</key>
     <array>
       <dict>

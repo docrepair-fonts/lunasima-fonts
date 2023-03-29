@@ -2,20 +2,20 @@
 <glyph name="samekhdagesh-hb" format="2">
   <advance width="1361"/>
   <unicode hex="FB41"/>
-  <anchor x="725" y="0" name="bottom"/>
-  <anchor x="158" y="0" name="bottomleft"/>
-  <anchor x="722" y="1076" name="top"/>
-  <anchor x="-22" y="1076" name="topleft"/>
+  <anchor x="712" y="0" name="bottom"/>
+  <anchor x="164" y="0" name="bottomleft"/>
+  <anchor x="708" y="1072" name="top"/>
+  <anchor x="-15" y="1072" name="topleft"/>
   <outline>
     <component base="samekh-hb"/>
-    <component base="dagesh-hb" xOffset="554" yOffset="2"/>
+    <component base="dagesh-hb" xOffset="637"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>samekh-hb+dagesh-hb</string>
+  <string>'samekh-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rafe-hb" format="2">
   <unicode hex="05BF"/>
-  <anchor x="298" y="1072" name="_top"/>
+  <anchor x="180" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="511" y="1349" type="line"/>
-      <point x="511" y="1448" type="line"/>
-      <point x="100" y="1448" type="line"/>
-      <point x="100" y="1349" type="line"/>
+      <point x="349" y="1348" type="line"/>
+      <point x="349" y="1442" type="line"/>
+      <point x="10" y="1442" type="line"/>
+      <point x="10" y="1348" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m511,1349l511,1448l100,1448l100,1349</string>
+    <string>w0m349,1348l349,1442l10,1442l10,1348</string>
     <key>hintSetList</key>
     <array>
       <dict>

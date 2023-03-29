@@ -5,7 +5,7 @@
   <anchor x="318" y="0" name="bottom"/>
   <outline>
     <component base="eta"/>
-    <component base="psilioxia" xOffset="128" yOffset="-11"/>
+    <component base="psilioxia" xOffset="-56"/>
   </outline>
   <lib>
   <dict>

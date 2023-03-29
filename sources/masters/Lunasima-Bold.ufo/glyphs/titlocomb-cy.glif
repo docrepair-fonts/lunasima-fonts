@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="titlocomb-cy" format="2">
   <unicode hex="0483"/>
-  <anchor x="-566" y="1086" name="_top"/>
-  <anchor x="-562" y="1465" name="top"/>
+  <anchor x="-650" y="1095" name="_top"/>
+  <anchor x="-645" y="1487" name="top"/>
   <outline>
     <contour>
-      <point x="-305" y="1220" type="line" smooth="yes"/>
-      <point x="-195" y="1220"/>
-      <point x="-168" y="1270"/>
-      <point x="-168" y="1346" type="curve" smooth="yes"/>
-      <point x="-168" y="1423"/>
-      <point x="-204" y="1465"/>
-      <point x="-286" y="1465" type="curve" smooth="yes"/>
-      <point x="-352" y="1465"/>
-      <point x="-395" y="1433"/>
-      <point x="-401" y="1376" type="curve"/>
-      <point x="-829" y="1376" type="line" smooth="yes"/>
-      <point x="-928" y="1376"/>
-      <point x="-964" y="1335"/>
-      <point x="-964" y="1253" type="curve" smooth="yes"/>
-      <point x="-964" y="1184"/>
-      <point x="-928" y="1131"/>
-      <point x="-848" y="1131" type="curve" smooth="yes"/>
-      <point x="-780" y="1131"/>
-      <point x="-742" y="1161"/>
-      <point x="-732" y="1220" type="curve"/>
+      <point x="-300" y="1212" type="line" smooth="yes"/>
+      <point x="-179" y="1212"/>
+      <point x="-144" y="1278"/>
+      <point x="-144" y="1356" type="curve" smooth="yes"/>
+      <point x="-144" y="1439"/>
+      <point x="-187" y="1487"/>
+      <point x="-285" y="1487" type="curve" smooth="yes"/>
+      <point x="-370" y="1487"/>
+      <point x="-417" y="1455"/>
+      <point x="-426" y="1400" type="curve"/>
+      <point x="-1003" y="1400" type="line" smooth="yes"/>
+      <point x="-1117" y="1400"/>
+      <point x="-1157" y="1348"/>
+      <point x="-1157" y="1260" type="curve" smooth="yes"/>
+      <point x="-1157" y="1189"/>
+      <point x="-1117" y="1126"/>
+      <point x="-1017" y="1126" type="curve" smooth="yes"/>
+      <point x="-931" y="1126"/>
+      <point x="-889" y="1152"/>
+      <point x="-877" y="1212" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1a70c1aeb1b3f4ffc114f36c99e0aea2985f2ea8e1942be62093b9ab389428706152788d5cc08cb64cdcf9e49b363c874289285658018c96a02bc79c4ccbf11e</string>
+    <string>2b5c4fbb51c9c2f76fbb18bdcb219fc373b5d70e9b2eb505d454e3864432f2d60033383e1eccb3e250f59e045b00046354899fa00d436a885d9b466e08659539</string>
     <key>hintSetList</key>
     <array>
       <dict>

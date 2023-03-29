@@ -2,26 +2,26 @@
 <glyph name="qof-hb" format="2">
   <advance width="1364"/>
   <unicode hex="05E7"/>
-  <anchor x="745" y="0" name="bottom"/>
-  <anchor x="67" y="0" name="bottomleft"/>
-  <anchor x="600" y="602" name="center"/>
-  <anchor x="688" y="1076" name="top"/>
-  <anchor x="3" y="1076" name="topleft"/>
+  <anchor x="776" y="0" name="bottom"/>
+  <anchor x="83" y="0" name="bottomleft"/>
+  <anchor x="633" y="600" name="center"/>
+  <anchor x="733" y="1072" name="top"/>
+  <anchor x="-1" y="1072" name="topleft"/>
   <outline>
     <contour>
-      <point x="837" y="0" type="line"/>
-      <point x="1214" y="1044" type="line"/>
-      <point x="1214" y="1188" type="line"/>
-      <point x="160" y="1188" type="line"/>
-      <point x="160" y="1008" type="line"/>
-      <point x="1002" y="1008" type="line"/>
-      <point x="624" y="0" type="line"/>
+      <point x="880" y="0" type="line"/>
+      <point x="1287" y="1048" type="line"/>
+      <point x="1287" y="1184" type="line"/>
+      <point x="176" y="1184" type="line"/>
+      <point x="176" y="1018" type="line"/>
+      <point x="1099" y="1018" type="line"/>
+      <point x="688" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="364" y="-481" type="line"/>
-      <point x="364" y="720" type="line"/>
-      <point x="160" y="720" type="line"/>
-      <point x="160" y="-481" type="line"/>
+      <point x="357" y="-482" type="line"/>
+      <point x="357" y="724" type="line"/>
+      <point x="176" y="724" type="line"/>
+      <point x="176" y="-482" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1364m837,0l1214,1044l1214,1188l160,1188l160,1008l1002,1008l624,0m364,-481l364,720l160,720l160,-481</string>
+    <string>w1364m880,0l1287,1048l1287,1184l176,1184l176,1018l1099,1018l688,0m357,-482l357,724l176,724l176,-482</string>
     <key>hintSetList</key>
     <array>
       <dict>

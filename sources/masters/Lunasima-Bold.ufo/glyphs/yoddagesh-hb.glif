@@ -2,20 +2,20 @@
 <glyph name="yoddagesh-hb" format="2">
   <advance width="742"/>
   <unicode hex="FB39"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="-68" y="0" name="bottomleft"/>
-  <anchor x="272" y="1086" name="top"/>
-  <anchor x="-12" y="1086" name="topleft"/>
+  <anchor x="377" y="0" name="bottom"/>
+  <anchor x="-51" y="0" name="bottomleft"/>
+  <anchor x="377" y="1095" name="top"/>
+  <anchor x="-3" y="1095" name="topleft"/>
   <outline>
     <component base="yod-hb"/>
-    <component base="dagesh-hb" xOffset="-224" yOffset="201"/>
+    <component base="dagesh-hb" xOffset="-79" yOffset="203"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>yod-hb+dagesh-hb</string>
+  <string>'yod-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

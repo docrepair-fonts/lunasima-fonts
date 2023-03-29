@@ -2,35 +2,35 @@
 <glyph name="jdotlessstroke" format="2">
   <advance width="755"/>
   <unicode hex="025F"/>
-  <anchor x="296" y="-480" name="bottom"/>
-  <anchor x="296" y="1086" name="top"/>
-  <anchor x="507" y="1086" name="topright"/>
+  <anchor x="402" y="-480" name="bottom"/>
+  <anchor x="402" y="1095" name="top"/>
+  <anchor x="641" y="1095" name="topright"/>
   <outline>
     <contour>
-      <point x="54" y="-480" type="curve" smooth="yes"/>
-      <point x="341" y="-480"/>
-      <point x="447" y="-331"/>
-      <point x="447" y="-126" type="curve" smooth="yes"/>
-      <point x="447" y="469" type="line"/>
-      <point x="597" y="469" type="line"/>
-      <point x="597" y="653" type="line"/>
-      <point x="447" y="653" type="line"/>
-      <point x="447" y="1086" type="line"/>
-      <point x="143" y="1086" type="line"/>
-      <point x="143" y="653" type="line"/>
-      <point x="-8" y="653" type="line"/>
-      <point x="-8" y="469" type="line"/>
-      <point x="143" y="469" type="line"/>
-      <point x="143" y="-101" type="line" smooth="yes"/>
-      <point x="143" y="-235"/>
-      <point x="76" y="-267"/>
-      <point x="-1" y="-267" type="curve" smooth="yes"/>
-      <point x="-59" y="-267"/>
-      <point x="-97" y="-260"/>
-      <point x="-142" y="-248" type="curve"/>
-      <point x="-142" y="-456" type="line"/>
-      <point x="-96" y="-470"/>
-      <point x="-17" y="-480"/>
+      <point x="104" y="-480" type="curve" smooth="yes"/>
+      <point x="434" y="-480"/>
+      <point x="563" y="-313"/>
+      <point x="563" y="-105" type="curve" smooth="yes"/>
+      <point x="563" y="451" type="line"/>
+      <point x="757" y="451" type="line"/>
+      <point x="757" y="662" type="line"/>
+      <point x="563" y="662" type="line"/>
+      <point x="563" y="1095" type="line"/>
+      <point x="240" y="1095" type="line"/>
+      <point x="240" y="662" type="line"/>
+      <point x="44" y="662" type="line"/>
+      <point x="44" y="451" type="line"/>
+      <point x="240" y="451" type="line"/>
+      <point x="240" y="-60" type="line" smooth="yes"/>
+      <point x="240" y="-197"/>
+      <point x="156" y="-226"/>
+      <point x="51" y="-226" type="curve" smooth="yes"/>
+      <point x="-22" y="-226"/>
+      <point x="-72" y="-219"/>
+      <point x="-127" y="-207" type="curve"/>
+      <point x="-127" y="-456" type="line"/>
+      <point x="-74" y="-470"/>
+      <point x="12" y="-480"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0b7fae102a7ed8f1c36df0374282d608eb100846040ce523f67ebe632f7d9ef3203bcccfe17da2dde3ac57baf9420156642c5de5ae4dca43412ed92dfc3618b7</string>
+    <string>63b3bcaec72fff123db1a489920ab73ea1a4b393efd460d37a24bf014e26ace3c2ccf2b6f2514cb5a8cbd36ef4713a2742e76df7f5209b98c136454ead1cfe14</string>
     <key>hintSetList</key>
     <array>
       <dict>

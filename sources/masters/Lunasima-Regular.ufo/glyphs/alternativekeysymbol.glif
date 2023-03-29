@@ -6,28 +6,28 @@
 uni2387</note>
   <outline>
     <contour>
-      <point x="102" y="220" type="line"/>
-      <point x="815" y="220" type="line"/>
-      <point x="1057" y="751" type="line"/>
-      <point x="1368" y="751" type="line"/>
-      <point x="1368" y="492" type="line"/>
-      <point x="2008" y="829" type="line"/>
-      <point x="1368" y="1166" type="line"/>
-      <point x="1368" y="905" type="line"/>
-      <point x="940" y="905" type="line"/>
-      <point x="700" y="374" type="line"/>
-      <point x="102" y="374" type="line"/>
+      <point x="112" y="228" type="line"/>
+      <point x="796" y="228" type="line"/>
+      <point x="1026" y="746" type="line"/>
+      <point x="1335" y="746" type="line"/>
+      <point x="1335" y="490" type="line"/>
+      <point x="1936" y="818" type="line"/>
+      <point x="1335" y="1146" type="line"/>
+      <point x="1335" y="888" type="line"/>
+      <point x="919" y="888" type="line"/>
+      <point x="692" y="370" type="line"/>
+      <point x="112" y="370" type="line"/>
     </contour>
     <contour>
-      <point x="1049" y="220" type="line"/>
-      <point x="1979" y="220" type="line"/>
-      <point x="1979" y="374" type="line"/>
-      <point x="1049" y="374" type="line"/>
+      <point x="1019" y="228" type="line"/>
+      <point x="1915" y="228" type="line"/>
+      <point x="1915" y="370" type="line"/>
+      <point x="1019" y="370" type="line"/>
     </contour>
     <contour>
-      <point x="1490" y="686" type="line"/>
-      <point x="1490" y="972" type="line"/>
-      <point x="1772" y="829" type="line"/>
+      <point x="1445" y="670" type="line"/>
+      <point x="1445" y="966" type="line"/>
+      <point x="1726" y="818" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@ uni2387</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3b985420f6995878425052dba7b39a3434ccb9d022b4ce9e8fc509cad9edbf31a86e60b53d038f78831c30e1ee1abc1db84025a2698dd85c5246f2f19604acef</string>
+    <string>a93cab18830454411742ee0acb9a9318c3204d1e8435925021c5ee4d66d3d7c8d0203967f121239ce14a07ff9f4f10fedc9a1647539afc22bfc6e61ea10a757e</string>
     <key>hintSetList</key>
     <array>
       <dict>

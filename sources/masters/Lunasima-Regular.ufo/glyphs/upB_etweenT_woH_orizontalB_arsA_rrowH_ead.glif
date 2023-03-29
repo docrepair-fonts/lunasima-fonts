@@ -7,25 +7,25 @@ uni2324
 </note>
   <outline>
     <contour>
-      <point x="448" y="280" type="line"/>
-      <point x="610" y="280" type="line"/>
-      <point x="888" y="812" type="line"/>
-      <point x="1166" y="280" type="line"/>
-      <point x="1328" y="280" type="line"/>
-      <point x="908" y="1072" type="line"/>
-      <point x="868" y="1072" type="line"/>
+      <point x="458" y="280" type="line"/>
+      <point x="620" y="280" type="line"/>
+      <point x="898" y="812" type="line"/>
+      <point x="1176" y="280" type="line"/>
+      <point x="1338" y="280" type="line"/>
+      <point x="918" y="1072" type="line"/>
+      <point x="878" y="1072" type="line"/>
     </contour>
     <contour>
-      <point x="102" y="930" type="line"/>
-      <point x="596" y="930" type="line"/>
-      <point x="596" y="1072" type="line"/>
-      <point x="102" y="1072" type="line"/>
+      <point x="112" y="930" type="line"/>
+      <point x="606" y="930" type="line"/>
+      <point x="606" y="1072" type="line"/>
+      <point x="112" y="1072" type="line"/>
     </contour>
     <contour>
-      <point x="1180" y="930" type="line"/>
-      <point x="1674" y="930" type="line"/>
-      <point x="1674" y="1072" type="line"/>
-      <point x="1180" y="1072" type="line"/>
+      <point x="1190" y="930" type="line"/>
+      <point x="1684" y="930" type="line"/>
+      <point x="1684" y="1072" type="line"/>
+      <point x="1190" y="1072" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@ uni2324
           </dict>
         </array>
         <key>id</key>
-        <string>eaba6241cca3b44f75daa345a2e418bd32386f46534b20bb890a40d9c4d078b2b20cb35b33b8a2a8cc8e751cd3729dd1d5d5100687c02e64d9d92a4c26f75925</string>
+        <string>80fdd34c5d83da339d234dde421ca40510c7e26cad5199c7d34c0640f9a4d0e4fefd691b86f30aef46ae18a31aa211eb7e7a8521b21783576aefa44c5dc492ca</string>
       </dict>
       <key>public.verticalOrigin</key>
       <real>1069.0</real>

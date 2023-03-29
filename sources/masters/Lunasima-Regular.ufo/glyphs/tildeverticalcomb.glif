@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildeverticalcomb" format="2">
   <unicode hex="033E"/>
-  <anchor x="0" y="1076" name="_top"/>
-  <anchor x="4" y="1732" name="top"/>
+  <anchor x="0" y="1072" name="_top"/>
+  <anchor x="5" y="1732" name="top"/>
   <outline>
     <contour>
-      <point x="-126" y="1568" type="curve" smooth="yes"/>
-      <point x="-126" y="1470"/>
-      <point x="-12" y="1390" name=".hr01"/>
-      <point x="-12" y="1324" type="curve" smooth="yes"/>
-      <point x="-12" y="1288"/>
-      <point x="-50" y="1254"/>
-      <point x="-128" y="1254" type="curve"/>
-      <point x="-128" y="1152" type="line"/>
-      <point x="30" y="1152"/>
-      <point x="126" y="1224"/>
-      <point x="126" y="1318" type="curve" smooth="yes"/>
-      <point x="126" y="1422"/>
-      <point x="12" y="1504" name=".hr02"/>
-      <point x="12" y="1560" type="curve" smooth="yes"/>
-      <point x="12" y="1596"/>
-      <point x="50" y="1632"/>
-      <point x="128" y="1632" type="curve"/>
-      <point x="128" y="1732" type="line"/>
-      <point x="-28" y="1732"/>
-      <point x="-126" y="1662"/>
+      <point x="-138" y="1568" type="curve" smooth="yes"/>
+      <point x="-138" y="1470"/>
+      <point x="-13" y="1390"/>
+      <point x="-13" y="1324" type="curve" smooth="yes"/>
+      <point x="-13" y="1288"/>
+      <point x="-55" y="1254"/>
+      <point x="-141" y="1254" type="curve"/>
+      <point x="-141" y="1152" type="line"/>
+      <point x="34" y="1152"/>
+      <point x="139" y="1224"/>
+      <point x="139" y="1318" type="curve" smooth="yes"/>
+      <point x="139" y="1422"/>
+      <point x="14" y="1504"/>
+      <point x="14" y="1560" type="curve" smooth="yes"/>
+      <point x="14" y="1596"/>
+      <point x="56" y="1632"/>
+      <point x="141" y="1632" type="curve"/>
+      <point x="141" y="1732" type="line"/>
+      <point x="-30" y="1732"/>
+      <point x="-138" y="1662"/>
     </contour>
   </outline>
   <lib>
@@ -36,36 +36,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>938be7fa98ee0f7aeb95d6d40cd5068951d91442ab7ab9a2558dc0e7ef5a9ab420136dc7525a5ca4017eda16b598fb0da610647f0e7208c6fe48d609089328fe</string>
+    <string>efa50eb5d54e87998c9a9da42dd876370acbc08b8967ae4832eccaee04de06d5d14e19917218af1318a7a2504a1085d17d7630b42e965ce9d968bfb3c17ab143</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem -126 138</string>
           <string>hstem 1152 102</string>
           <string>hstem 1632 100</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>vstem -126 138</string>
           <string>vstem -12 138</string>
-          <string>hstem 1152 102</string>
-          <string>hstem 1632 100</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem -126 138</string>
-          <string>hstem 1632 100</string>
-          <string>hstem 1152 102</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

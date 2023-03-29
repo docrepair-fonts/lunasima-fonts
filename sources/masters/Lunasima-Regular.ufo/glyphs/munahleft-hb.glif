@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="munahleft-hb" format="2">
   <unicode hex="05A3"/>
-  <anchor x="400" y="0" name="_bottomleft"/>
+  <anchor x="255" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="404" y="-456" type="line"/>
-      <point x="404" y="-165" type="line"/>
-      <point x="303" y="-165" type="line"/>
-      <point x="303" y="-357" type="line"/>
-      <point x="100" y="-357" type="line"/>
-      <point x="100" y="-456" type="line"/>
+      <point x="255" y="-456" type="line"/>
+      <point x="255" y="-168" type="line"/>
+      <point x="174" y="-168" type="line"/>
+      <point x="174" y="-358" type="line" name=".hr01"/>
+      <point x="10" y="-358" type="line"/>
+      <point x="10" y="-456" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,16 +21,24 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m404,-456l404,-165l303,-165l303,-357l100,-357l100,-456</string>
+    <string>w0m255,-456l255,-168l174,-168l174,-358l10,-358l10,-456</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -456 98</string>
           <string>hstem -456 288</string>
           <string>vstem 300 100</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -456 288</string>
+          <string>vstem 300 100</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

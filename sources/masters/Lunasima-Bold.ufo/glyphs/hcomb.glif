@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcomb" format="2">
   <unicode hex="036A"/>
-  <anchor x="4" y="1106" name="_top"/>
+  <anchor x="-5" y="1095" name="_top"/>
   <outline>
     <contour>
-      <point x="-86" y="1848" type="line"/>
-      <point x="-222" y="1848" type="line"/>
-      <point x="-222" y="1240" type="line" name=".hr01"/>
-      <point x="-86" y="1240" type="line"/>
-      <point x="-86" y="1451" type="line" smooth="yes"/>
-      <point x="-86" y="1546"/>
-      <point x="-62" y="1599"/>
-      <point x="19" y="1599" type="curve" smooth="yes"/>
-      <point x="71" y="1599"/>
-      <point x="97" y="1566"/>
-      <point x="97" y="1501" type="curve" smooth="yes"/>
-      <point x="97" y="1240" type="line"/>
-      <point x="233" y="1240" type="line"/>
-      <point x="233" y="1524" type="line" smooth="yes"/>
-      <point x="233" y="1634"/>
-      <point x="162" y="1682"/>
-      <point x="56" y="1682" type="curve" smooth="yes"/>
-      <point x="-5" y="1682"/>
-      <point x="-54" y="1663"/>
-      <point x="-86" y="1618" type="curve"/>
-      <point x="-93" y="1618" type="line"/>
-      <point x="-91" y="1637"/>
-      <point x="-86" y="1668"/>
-      <point x="-86" y="1708" type="curve" smooth="yes"/>
+      <point x="-122" y="1848" type="line"/>
+      <point x="-267" y="1848" type="line"/>
+      <point x="-267" y="1240" type="line" name=".hr01"/>
+      <point x="-122" y="1240" type="line"/>
+      <point x="-122" y="1444" type="line" smooth="yes"/>
+      <point x="-122" y="1536"/>
+      <point x="-84" y="1586"/>
+      <point x="47" y="1586" type="curve" smooth="yes"/>
+      <point x="132" y="1586"/>
+      <point x="174" y="1555"/>
+      <point x="174" y="1493" type="curve" smooth="yes"/>
+      <point x="174" y="1240" type="line"/>
+      <point x="317" y="1240" type="line"/>
+      <point x="317" y="1526" type="line" smooth="yes"/>
+      <point x="317" y="1638"/>
+      <point x="229" y="1686"/>
+      <point x="76" y="1686" type="curve" smooth="yes"/>
+      <point x="-7" y="1686"/>
+      <point x="-78" y="1668"/>
+      <point x="-122" y="1622" type="curve"/>
+      <point x="-129" y="1622" type="line"/>
+      <point x="-126" y="1644"/>
+      <point x="-122" y="1680"/>
+      <point x="-122" y="1732" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>50775bc72107fe8c81344ea28fc8fae06942a32a2cb6d8b6454f1a49a7f3b7a44edd8261b8b2d898253459c8c1ddc42b49eaffe27b69d0c4ddcdeb06586674ce</string>
+    <string>fde58961281497b62155085da71fee4611303cc32ff02c4214eb697dc54ed67ec53b03d0b795b24cec3addf1d4ea16fe5608eee1f07f7017b7c3269e052e4282</string>
     <key>hintSetList</key>
     <array>
       <dict>

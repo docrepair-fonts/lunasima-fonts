@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lcaron" format="2">
   <advance width="1191"/>
   <unicode hex="013D"/>
-  <anchor x="662" y="0" name="bottom"/>
+  <anchor x="661" y="0" name="bottom"/>
   <anchor x="337" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="1139" y="0" type="line"/>
-      <point x="1139" y="239" type="line"/>
+      <point x="1138" y="0" type="line"/>
+      <point x="1138" y="239" type="line"/>
       <point x="503" y="239" type="line"/>
       <point x="503" y="1428" type="line"/>
       <point x="184" y="1428" type="line"/>
       <point x="184" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1175" y="1428" type="line"/>
-      <point x="883" y="1428" type="line"/>
-      <point x="872" y="1342"/>
-      <point x="842" y="1212"/>
+      <point x="1174" y="1428" type="line"/>
+      <point x="882" y="1428" type="line"/>
+      <point x="871" y="1342"/>
+      <point x="841" y="1212"/>
       <point x="817" y="1135" type="curve"/>
       <point x="817" y="1108" type="line"/>
-      <point x="1001" y="1108" type="line"/>
-      <point x="1074" y="1212"/>
-      <point x="1133" y="1323"/>
-      <point x="1175" y="1408" type="curve"/>
+      <point x="1000" y="1108" type="line"/>
+      <point x="1073" y="1212"/>
+      <point x="1132" y="1323"/>
+      <point x="1174" y="1408" type="curve"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.727,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>61b57f3d81415f1444bcbb2ec443147658a4c1fa7bd1403b485aa4c484be0ea3c9f06cba8463828d2bffb4b784c606a9974762a0688e5790b697167c50565c5d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 312</string>
-          <string>hstem 1108 320</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 312</string>
+              <string>hstem 1108 320</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>4d2fdc154ca8b7dcd0c022c380d4b2aa9cf7f2fad68cbbd828ab9d6696bc56f4fdac3a6561d7a3a6ecd463df554969b98a45fd11066b8c90f2f47cbc61bdfd82</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

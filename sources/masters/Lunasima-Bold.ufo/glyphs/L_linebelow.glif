@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Llinebelow" format="2">
   <advance width="1190"/>
   <unicode hex="1E3A"/>
   <anchor x="590" y="714" name="center"/>
   <anchor x="337" y="1428" name="top"/>
   <anchor x="764" y="1428" name="topright"/>
-  <anchor x="648" y="-336" name="bottom"/>
+  <anchor x="651" y="-363" name="bottom"/>
   <outline>
     <component base="L"/>
-    <component base="macronbelowcomb" xOffset="667"/>
+    <component base="macronbelowcomb" xOffset="645"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
-      <key>com.fontlab.recipe</key>
-      <string>L+macronbelowcomb</string>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+macronbelowcomb</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

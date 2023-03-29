@@ -1,40 +1,40 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="product" format="2">
   <advance width="1628"/>
   <unicode hex="220F"/>
   <outline>
     <contour>
-      <point x="342" y="1452" type="line"/>
-      <point x="342" y="-274" type="line"/>
-      <point x="700" y="-274" type="line"/>
-      <point x="700" y="1142" type="line"/>
-      <point x="1302" y="1142" type="line"/>
-      <point x="1302" y="-274" type="line"/>
-      <point x="1660" y="-274" type="line"/>
-      <point x="1660" y="1452" type="line"/>
+      <point x="279" y="1452" type="line"/>
+      <point x="279" y="-274" type="line"/>
+      <point x="570" y="-274" type="line"/>
+      <point x="570" y="1142" type="line"/>
+      <point x="1060" y="1142" type="line"/>
+      <point x="1060" y="-274" type="line"/>
+      <point x="1352" y="-274" type="line"/>
+      <point x="1352" y="1452" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.863,1,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.863,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1628m279,1452l279,-274l570,-274l570,1142l1060,1142l1060,-274l1352,-274l1352,1452</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -274 21</string>
-              <string>hstem 1142 310</string>
-            </array>
-          </dict>
+          <string>hstem -274 21</string>
+          <string>hstem 1142 310</string>
         </array>
-        <key>id</key>
-        <string>w2000m342,1452l342,-274l700,-274l700,1142l1302,1142l1302,-274l1660,-274l1660,1452</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

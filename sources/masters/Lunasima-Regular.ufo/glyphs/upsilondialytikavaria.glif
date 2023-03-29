@@ -5,14 +5,14 @@
   <anchor x="594" y="0" name="bottom"/>
   <outline>
     <component base="upsilon"/>
-    <component base="uni1FED" xOffset="-267"/>
+    <component base="dialytikavaria" xOffset="-177"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>upsilon+uni1FED</string>
+  <string>upsilon+dialytikavaria</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

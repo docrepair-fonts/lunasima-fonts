@@ -2,31 +2,31 @@
 <glyph name="Nlongrightleg" format="2">
   <advance width="1500"/>
   <unicode hex="0220"/>
-  <anchor x="749" y="-480" name="bottom"/>
-  <anchor x="749" y="1428" name="top"/>
+  <anchor x="752" y="-480" name="bottom"/>
+  <anchor x="752" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="824" y="1450" type="curve" smooth="yes"/>
-      <point x="662" y="1450"/>
-      <point x="485" y="1367"/>
-      <point x="394" y="1241" type="curve"/>
-      <point x="384" y="1241" type="line"/>
-      <point x="351" y="1430" type="line" name=".hr01"/>
-      <point x="194" y="1430" type="line"/>
-      <point x="194" y="0" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="395" y="853" type="line" smooth="yes"/>
-      <point x="395" y="1131"/>
-      <point x="504" y="1302"/>
-      <point x="791" y="1302" type="curve" smooth="yes"/>
-      <point x="1020" y="1302"/>
-      <point x="1114" y="1178"/>
-      <point x="1114" y="925" type="curve" smooth="yes"/>
-      <point x="1114" y="-480" type="line"/>
-      <point x="1315" y="-480" type="line"/>
-      <point x="1315" y="926" type="line" smooth="yes"/>
-      <point x="1315" y="1293"/>
-      <point x="1126" y="1450" name=".hr02"/>
+      <point x="817" y="1450" type="curve" smooth="yes"/>
+      <point x="658" y="1450"/>
+      <point x="484" y="1370"/>
+      <point x="395" y="1246" type="curve"/>
+      <point x="385" y="1246" type="line"/>
+      <point x="355" y="1430" type="line" name=".hr01"/>
+      <point x="213" y="1430" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="393" y="846" type="line" smooth="yes"/>
+      <point x="393" y="1122"/>
+      <point x="506" y="1294" name=".hr02"/>
+      <point x="793" y="1294" type="curve" smooth="yes"/>
+      <point x="1027" y="1294"/>
+      <point x="1120" y="1170"/>
+      <point x="1120" y="922" type="curve" smooth="yes"/>
+      <point x="1120" y="-480" type="line"/>
+      <point x="1300" y="-480" type="line"/>
+      <point x="1300" y="922" type="line" smooth="yes"/>
+      <point x="1300" y="1292"/>
+      <point x="1118" y="1450"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f1235b8334d0832f6fdae911b747a3384b16b7d3588ce866eb2a5af5797f19134cccbe8f08c3fcda7db546170be70ff6850201ee17a7fc8feec0e7a6db8279fc</string>
+    <string>d73566c517f6c18bd6175c1603dea58adc9844532c18b3a24535ccd81a9d9a0d0797985d44c8f57f3c58144e5dfbab6615746d9c5a47b215ca0a3f6c42f7ca61</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -69,8 +69,8 @@
           <string>hstem 1294 156</string>
           <string>vstem 224 180</string>
           <string>vstem 1150 180</string>
-          <string>hstem 0 21</string>
           <string>hstem -480 21</string>
+          <string>hstem 0 21</string>
         </array>
         <key>pointTag</key>
         <string>.hr02</string>

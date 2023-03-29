@@ -5,7 +5,7 @@
   <anchor x="659" y="0" name="bottom"/>
   <outline>
     <component base="alpha"/>
-    <component base="dasiaperispomeni" xOffset="213"/>
+    <component base="dasiaperispomeni" xOffset="31"/>
   </outline>
   <lib>
   <dict>

@@ -2,16 +2,16 @@
 <glyph name="Lsmall" format="2">
   <advance width="981"/>
   <unicode hex="029F"/>
-  <anchor x="469" y="0" name="bottom"/>
-  <anchor x="469" y="1086" name="top"/>
+  <anchor x="493" y="0" name="bottom"/>
+  <anchor x="493" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="883" y="0" type="line"/>
-      <point x="883" y="200" type="line"/>
-      <point x="445" y="200" type="line"/>
-      <point x="445" y="1084" type="line"/>
-      <point x="160" y="1084" type="line"/>
-      <point x="160" y="0" type="line"/>
+      <point x="885" y="0" type="line"/>
+      <point x="885" y="237" type="line"/>
+      <point x="492" y="237" type="line"/>
+      <point x="492" y="1095" type="line"/>
+      <point x="192" y="1095" type="line"/>
+      <point x="192" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w981m883,0l883,200l445,200l445,1084l160,1084l160,0</string>
+    <string>w981m885,0l885,237l492,237l492,1095l192,1095l192,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

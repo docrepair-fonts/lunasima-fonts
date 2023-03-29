@@ -2,38 +2,38 @@
 <glyph name="bilabialpercussive" format="2">
   <advance width="1268"/>
   <unicode hex="02AC"/>
-  <anchor x="517" y="0" name="bottom"/>
-  <anchor x="517" y="1428" name="top"/>
+  <anchor x="636" y="0" name="bottom"/>
+  <anchor x="636" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="881" y="1428" type="line"/>
-      <point x="744" y="929" type="line"/>
-      <point x="593" y="1428" type="line"/>
-      <point x="440" y="1428" type="line"/>
-      <point x="280" y="931" type="line"/>
-      <point x="151" y="1428" type="line"/>
+      <point x="1116" y="1428" type="line"/>
+      <point x="932" y="920" type="line"/>
+      <point x="711" y="1428" type="line"/>
+      <point x="560" y="1428" type="line"/>
+      <point x="330" y="922" type="line"/>
+      <point x="157" y="1428" type="line"/>
       <point x="0" y="1428" type="line"/>
-      <point x="197" y="756" type="line"/>
-      <point x="357" y="756" type="line"/>
-      <point x="514" y="1253" type="line"/>
-      <point x="668" y="756" type="line"/>
-      <point x="831" y="756" type="line"/>
-      <point x="1031" y="1428" type="line"/>
+      <point x="248" y="756" type="line"/>
+      <point x="406" y="756" type="line"/>
+      <point x="634" y="1258" type="line"/>
+      <point x="857" y="756" type="line"/>
+      <point x="1020" y="756" type="line"/>
+      <point x="1268" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="881" y="672" type="line"/>
-      <point x="744" y="173" type="line"/>
-      <point x="593" y="672" type="line"/>
-      <point x="440" y="672" type="line"/>
-      <point x="280" y="175" type="line"/>
-      <point x="151" y="672" type="line"/>
+      <point x="1116" y="672" type="line"/>
+      <point x="932" y="164" type="line"/>
+      <point x="711" y="672" type="line"/>
+      <point x="560" y="672" type="line"/>
+      <point x="330" y="166" type="line"/>
+      <point x="157" y="672" type="line"/>
       <point x="0" y="672" type="line"/>
-      <point x="197" y="0" type="line"/>
-      <point x="357" y="0" type="line"/>
-      <point x="514" y="498" type="line"/>
-      <point x="668" y="0" type="line"/>
-      <point x="831" y="0" type="line"/>
-      <point x="1031" y="672" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="634" y="502" type="line"/>
+      <point x="857" y="0" type="line"/>
+      <point x="1020" y="0" type="line"/>
+      <point x="1268" y="672" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>82e025b39fb7b3bd2dbeb86c3d85c40da407d3b862720ee5db73f3807bf73736843e8c8eae69b52cbe1825e7f0e9b3191ebec185d6bfc2967c7a775a3fb43b5f</string>
+    <string>31edb27811bad4f7c0218a485078609a9a5e470cec41630982b0bbd74ef32f8c6ae6e760341a9bd541d252711a4ede59cddded0adebb45e751b7e0c48dacc62e</string>
     <key>hintSetList</key>
     <array>
       <dict>

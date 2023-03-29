@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilonperispomeni" format="2">
   <advance width="1247"/>
   <unicode hex="1FE6"/>
   <anchor x="608" y="0" name="bottom"/>
   <outline>
     <component base="upsilon"/>
-    <component base="perispomeni" xOffset="105" yOffset="-11"/>
+    <component base="perispomeni" xOffset="-59"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
-      <key>com.fontlab.recipe</key>
-      <string>upsilon+perispomeni</string>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>upsilon+perispomeni</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

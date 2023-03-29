@@ -2,33 +2,33 @@
 <glyph name="glottalstop" format="2">
   <advance width="987"/>
   <unicode hex="0294"/>
-  <anchor x="385" y="0" name="bottom"/>
-  <anchor x="467" y="1530" name="top"/>
-  <anchor x="879" y="1534" name="topright"/>
+  <anchor x="404" y="0" name="bottom"/>
+  <anchor x="489" y="1530" name="top"/>
+  <anchor x="918" y="1532" name="topright"/>
   <outline>
     <contour>
-      <point x="426" y="1530" type="curve" smooth="yes"/>
-      <point x="263" y="1530"/>
-      <point x="123" y="1483"/>
-      <point x="-2" y="1410" type="curve"/>
-      <point x="107" y="1219" type="line"/>
-      <point x="169" y="1266"/>
-      <point x="290" y="1317"/>
-      <point x="398" y="1317" type="curve" smooth="yes"/>
-      <point x="523" y="1317"/>
-      <point x="589" y="1242"/>
-      <point x="589" y="1119" type="curve" smooth="yes"/>
-      <point x="589" y="980"/>
-      <point x="511" y="826"/>
-      <point x="227" y="737" type="curve"/>
-      <point x="227" y="0" type="line"/>
-      <point x="534" y="0" type="line"/>
-      <point x="534" y="617" type="line"/>
-      <point x="808" y="754"/>
-      <point x="898" y="939"/>
-      <point x="898" y="1129" type="curve" smooth="yes"/>
-      <point x="898" y="1365"/>
-      <point x="724" y="1530"/>
+      <point x="445" y="1530" type="curve" smooth="yes"/>
+      <point x="276" y="1530"/>
+      <point x="130" y="1481"/>
+      <point x="-3" y="1405" type="curve"/>
+      <point x="115" y="1177" type="line"/>
+      <point x="177" y="1216"/>
+      <point x="302" y="1275"/>
+      <point x="416" y="1275" type="curve" smooth="yes"/>
+      <point x="541" y="1275"/>
+      <point x="609" y="1206"/>
+      <point x="609" y="1104" type="curve" smooth="yes"/>
+      <point x="609" y="996"/>
+      <point x="532" y="842"/>
+      <point x="235" y="744" type="curve"/>
+      <point x="235" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="606" type="line"/>
+      <point x="846" y="747"/>
+      <point x="937" y="920"/>
+      <point x="937" y="1116" type="curve" smooth="yes"/>
+      <point x="937" y="1352"/>
+      <point x="755" y="1530"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5152dd9888bbb85a3115f10909dd570bab1a036fbb1a47f011c719688d0a89adb725d05c551d25a5679925f16789d60254e37a8c209430682a9cb012bf6de9a6</string>
+    <string>6070e0411bae0f6ecc0c6ecad2b546a4960d6b338478f89fa4310bee60a4337e5679ef7a897704a8e311d99ed2910fd70bd97ab20580f15c8ac58b86b011d085</string>
     <key>hintSetList</key>
     <array>
       <dict>

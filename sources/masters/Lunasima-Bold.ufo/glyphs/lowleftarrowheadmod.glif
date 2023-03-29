@@ -4,13 +4,13 @@
   <unicode hex="02F1"/>
   <outline>
     <contour>
-      <point x="582" y="-342" type="line"/>
-      <point x="256" y="-216" type="line"/>
-      <point x="582" y="-92" type="line"/>
-      <point x="582" y="46" type="line"/>
-      <point x="80" y="-168" type="line"/>
-      <point x="80" y="-266" type="line"/>
-      <point x="582" y="-480" type="line"/>
+      <point x="456" y="-342" type="line"/>
+      <point x="223" y="-216" type="line"/>
+      <point x="456" y="-92" type="line"/>
+      <point x="456" y="46" type="line"/>
+      <point x="96" y="-168" type="line"/>
+      <point x="96" y="-266" type="line"/>
+      <point x="456" y="-480" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w552m582,-342l256,-216l582,-92l582,46l80,-168l80,-266l582,-480</string>
+    <string>w552m456,-342l223,-216l456,-92l456,46l96,-168l96,-266l456,-480</string>
     <key>hintSetList</key>
     <array>
       <dict>

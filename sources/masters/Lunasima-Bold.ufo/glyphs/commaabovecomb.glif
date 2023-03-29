@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaabovecomb" format="2">
   <unicode hex="0313"/>
-  <anchor x="-12" y="768" name="_top"/>
-  <anchor x="-9" y="1428" name="top"/>
+  <anchor x="19" y="747" name="_top"/>
+  <anchor x="20" y="1427" name="top"/>
   <outline>
     <contour>
-      <point x="167" y="1428" type="line"/>
-      <point x="-108" y="1428" type="line"/>
-      <point x="-127" y="1279"/>
-      <point x="-168" y="1068"/>
-      <point x="-206" y="905" type="curve"/>
-      <point x="9" y="905" type="line"/>
-      <point x="75" y="1049"/>
-      <point x="145" y="1264"/>
-      <point x="181" y="1406" type="curve"/>
+      <point x="235" y="1427" type="line"/>
+      <point x="-80" y="1427" type="line"/>
+      <point x="-108" y="1274"/>
+      <point x="-167" y="1055"/>
+      <point x="-220" y="884" type="curve"/>
+      <point x="12" y="884" type="line"/>
+      <point x="104" y="1030"/>
+      <point x="204" y="1262"/>
+      <point x="255" y="1405" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m167,1428l-108,1428c-127,1279 -168,1068 -206,905l9,905c75,1049 145,1264 181,1406</string>
+    <string>w0m235,1427l-80,1427c-108,1274 -167,1055 -220,884l12,884c104,1030 204,1262 255,1405</string>
     <key>hintSetList</key>
     <array>
       <dict>

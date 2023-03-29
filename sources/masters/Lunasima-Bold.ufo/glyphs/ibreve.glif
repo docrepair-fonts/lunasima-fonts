@@ -2,11 +2,11 @@
 <glyph name="ibreve" format="2">
   <advance width="666"/>
   <unicode hex="012D"/>
-  <anchor x="286" y="0" name="bottom"/>
-  <anchor x="284" y="1512" name="top"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="333" y="1536" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="brevecomb" xOffset="316"/>
+    <component base="brevecomb" xOffset="330"/>
   </outline>
   <lib>
   <dict>

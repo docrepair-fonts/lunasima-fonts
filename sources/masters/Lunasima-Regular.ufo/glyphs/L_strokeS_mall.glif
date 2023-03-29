@@ -2,24 +2,24 @@
 <glyph name="LstrokeSmall" format="2">
   <advance width="976"/>
   <unicode hex="1D0C"/>
-  <anchor x="453" y="0" name="bottom"/>
-  <anchor x="453" y="1076" name="top"/>
+  <anchor x="487" y="0" name="bottom"/>
+  <anchor x="487" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="834" y="0" type="line"/>
-      <point x="834" y="155" type="line"/>
-      <point x="371" y="155" type="line"/>
-      <point x="371" y="455" type="line"/>
-      <point x="636" y="605" type="line"/>
-      <point x="559" y="731" type="line"/>
-      <point x="371" y="622" type="line"/>
-      <point x="371" y="1075" type="line"/>
-      <point x="178" y="1075" type="line"/>
-      <point x="178" y="513" type="line"/>
-      <point x="42" y="434" type="line"/>
-      <point x="116" y="311" type="line"/>
-      <point x="178" y="346" type="line"/>
-      <point x="178" y="0" type="line"/>
+      <point x="906" y="0" type="line"/>
+      <point x="906" y="146" type="line"/>
+      <point x="374" y="146" type="line"/>
+      <point x="374" y="446" type="line"/>
+      <point x="671" y="594" type="line"/>
+      <point x="594" y="714" type="line"/>
+      <point x="374" y="604" type="line"/>
+      <point x="374" y="1072" type="line"/>
+      <point x="187" y="1072" type="line"/>
+      <point x="187" y="502" type="line"/>
+      <point x="46" y="426" type="line"/>
+      <point x="121" y="310" type="line"/>
+      <point x="187" y="344" type="line"/>
+      <point x="187" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w976m834,0l834,155l371,155l371,455l636,605l559,731l371,622l371,1075l178,1075l178,513l42,434l116,311l178,346l178,0</string>
+    <string>w976m906,0l906,146l374,146l374,446l671,594l594,714l374,604l374,1072l187,1072l187,502l46,426l121,310l187,344l187,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

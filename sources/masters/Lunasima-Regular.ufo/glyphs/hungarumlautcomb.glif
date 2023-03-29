@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
-  <anchor x="126" y="1076" name="_top"/>
-  <anchor x="126" y="1532" name="top"/>
+  <anchor x="119" y="1072" name="_top"/>
+  <anchor x="119" y="1532" name="top"/>
   <outline>
     <contour>
-      <point x="501" y="1532" type="line"/>
-      <point x="289" y="1532" type="line"/>
-      <point x="247" y="1442"/>
-      <point x="168" y="1313"/>
-      <point x="112" y="1237" type="curve"/>
-      <point x="112" y="1212" type="line"/>
-      <point x="224" y="1212" type="line"/>
-      <point x="315" y="1284"/>
-      <point x="459" y="1442"/>
-      <point x="501" y="1512" type="curve"/>
+      <point x="513" y="1532" type="line"/>
+      <point x="315" y="1532" type="line"/>
+      <point x="267" y="1442"/>
+      <point x="182" y="1312"/>
+      <point x="117" y="1236" type="curve"/>
+      <point x="117" y="1212" type="line"/>
+      <point x="219" y="1212" type="line"/>
+      <point x="322" y="1284"/>
+      <point x="465" y="1442"/>
+      <point x="513" y="1512" type="curve"/>
     </contour>
     <contour>
-      <point x="138" y="1532" type="line"/>
-      <point x="-74" y="1532" type="line"/>
-      <point x="-119" y="1442"/>
-      <point x="-196" y="1313"/>
-      <point x="-252" y="1237" type="curve"/>
-      <point x="-252" y="1212" type="line"/>
-      <point x="-140" y="1212" type="line"/>
-      <point x="-49" y="1284"/>
-      <point x="96" y="1442"/>
-      <point x="138" y="1512" type="curve"/>
+      <point x="120" y="1532" type="line"/>
+      <point x="-80" y="1532" type="line"/>
+      <point x="-129" y="1442"/>
+      <point x="-213" y="1312"/>
+      <point x="-278" y="1236" type="curve"/>
+      <point x="-278" y="1212" type="line"/>
+      <point x="-175" y="1212" type="line"/>
+      <point x="-72" y="1284"/>
+      <point x="71" y="1442"/>
+      <point x="120" y="1512" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>31eb06d9bc1007daa9561b392d35cd33eecf7bf38c7d9de32561719f407b5b0375e80829e301da1054ef12468c870fd258c0883da636f4624526893105287edf</string>
+    <string>3706223a1bee2fc74e8f57895c985bfef8f3b549d9a4e54ecb2b56272396d29f22b1ff6484de78b4fbf932d38285d06217ec08194f65c4bf87bbb143c991a916</string>
     <key>hintSetList</key>
     <array>
       <dict>

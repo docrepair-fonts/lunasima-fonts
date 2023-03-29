@@ -2,32 +2,32 @@
 <glyph name="Aie-cy" format="2">
   <advance width="1961"/>
   <unicode hex="04D4"/>
-  <anchor x="915" y="0" name="bottom"/>
-  <anchor x="915" y="1428" name="top"/>
+  <anchor x="979" y="0" name="bottom"/>
+  <anchor x="979" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="1727" y="200" type="line"/>
-      <point x="1222" y="200" type="line"/>
-      <point x="1222" y="643" type="line"/>
-      <point x="1692" y="643" type="line"/>
-      <point x="1692" y="843" type="line"/>
-      <point x="1222" y="843" type="line"/>
-      <point x="1222" y="1228" type="line"/>
-      <point x="1727" y="1228" type="line"/>
-      <point x="1727" y="1428" type="line"/>
-      <point x="631" y="1428" type="line"/>
-      <point x="-10" y="0" type="line" name=".hr01"/>
-      <point x="318" y="0" type="line"/>
-      <point x="465" y="396" type="line"/>
-      <point x="922" y="396" type="line"/>
-      <point x="922" y="0" type="line"/>
-      <point x="1727" y="0" type="line"/>
+      <point x="1846" y="239" type="line"/>
+      <point x="1306" y="239" type="line"/>
+      <point x="1306" y="625" type="line"/>
+      <point x="1808" y="625" type="line"/>
+      <point x="1808" y="861" type="line"/>
+      <point x="1306" y="861" type="line"/>
+      <point x="1306" y="1192" type="line"/>
+      <point x="1846" y="1192" type="line"/>
+      <point x="1846" y="1428" type="line"/>
+      <point x="675" y="1428" type="line"/>
+      <point x="-12" y="0" type="line" name=".hr01"/>
+      <point x="339" y="0" type="line"/>
+      <point x="496" y="352" type="line"/>
+      <point x="986" y="352" type="line"/>
+      <point x="986" y="0" type="line"/>
+      <point x="1846" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="811" y="1228" type="line"/>
-      <point x="922" y="1228" type="line"/>
-      <point x="922" y="596" type="line"/>
-      <point x="563" y="596" type="line"/>
+      <point x="866" y="1182" type="line"/>
+      <point x="986" y="1182" type="line"/>
+      <point x="986" y="595" type="line"/>
+      <point x="600" y="595" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bc6b630e2ed03d19a9673edc4d68896e7ee78a0c60510cb54edeb8e82af948ef776696a16d77967e3256f8e4fb070e2f3802a6cc50aa221adae77946d650a32a</string>
+    <string>a90d56c41a7aa56fb28b0ee8d800385ba2dc6b058e2dcc886ba1df5959ff14e89b7a3c6ee9fb0fe3d5e17025e36aea969f950b8b4c8cfedc8764105f94a89416</string>
     <key>hintSetList</key>
     <array>
       <dict>

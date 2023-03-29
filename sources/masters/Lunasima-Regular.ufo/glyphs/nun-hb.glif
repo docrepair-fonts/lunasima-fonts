@@ -2,27 +2,27 @@
 <glyph name="nun-hb" format="2">
   <advance width="846"/>
   <unicode hex="05E0"/>
-  <anchor x="376" y="0" name="bottom"/>
-  <anchor x="12" y="0" name="bottomleft"/>
-  <anchor x="248" y="602" name="center"/>
-  <anchor x="380" y="1076" name="top"/>
-  <anchor x="3" y="1076" name="topleft"/>
+  <anchor x="392" y="0" name="bottom"/>
+  <anchor x="18" y="0" name="bottomleft"/>
+  <anchor x="268" y="600" name="center"/>
+  <anchor x="390" y="1072" name="top"/>
+  <anchor x="0" y="1072" name="topleft"/>
   <outline>
     <contour>
-      <point x="655" y="0" type="line"/>
-      <point x="655" y="909" type="line" smooth="yes"/>
-      <point x="655" y="1108"/>
-      <point x="551" y="1188"/>
-      <point x="400" y="1188" type="curve" smooth="yes"/>
-      <point x="126" y="1188" type="line"/>
-      <point x="126" y="1008" type="line"/>
-      <point x="341" y="1008" type="line" smooth="yes"/>
-      <point x="414" y="1008"/>
-      <point x="452" y="975"/>
-      <point x="452" y="885" type="curve" smooth="yes"/>
-      <point x="452" y="180" type="line"/>
-      <point x="60" y="180" type="line"/>
-      <point x="60" y="0" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="912" type="line" smooth="yes"/>
+      <point x="670" y="1110"/>
+      <point x="559" y="1184"/>
+      <point x="415" y="1184" type="curve" smooth="yes"/>
+      <point x="137" y="1184" type="line"/>
+      <point x="137" y="1018" type="line"/>
+      <point x="363" y="1018" type="line" smooth="yes"/>
+      <point x="446" y="1018"/>
+      <point x="490" y="984"/>
+      <point x="490" y="890" type="curve" smooth="yes"/>
+      <point x="490" y="166" type="line"/>
+      <point x="66" y="166" type="line"/>
+      <point x="66" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w846m655,0l655,909c655,1108 551,1188 400,1188l126,1188l126,1008l341,1008c414,1008 452,975 452,885l452,180l60,180l60,0</string>
+    <string>w846m670,0l670,912c670,1110 559,1184 415,1184l137,1184l137,1018l363,1018c446,1018 490,984 490,890l490,166l66,166l66,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

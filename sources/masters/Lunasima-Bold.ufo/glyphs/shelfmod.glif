@@ -4,14 +4,14 @@
   <unicode hex="02FD"/>
   <outline>
     <contour>
-      <point x="972" y="-86" type="line"/>
-      <point x="858" y="-86" type="line"/>
-      <point x="858" y="-284" type="line" name=".hr01"/>
-      <point x="194" y="-284" type="line"/>
-      <point x="194" y="-86" type="line" name=".hr02"/>
-      <point x="80" y="-86" type="line"/>
-      <point x="80" y="-416" type="line"/>
-      <point x="972" y="-416" type="line"/>
+      <point x="707" y="-86" type="line"/>
+      <point x="627" y="-86" type="line"/>
+      <point x="627" y="-284" type="line" name=".hr01"/>
+      <point x="161" y="-284" type="line"/>
+      <point x="161" y="-86" type="line" name=".hr02"/>
+      <point x="83" y="-86" type="line"/>
+      <point x="83" y="-416" type="line"/>
+      <point x="707" y="-416" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,23 +23,23 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w790m972,-86l858,-86l858,-284l194,-284l194,-86l80,-86l80,-416l972,-416</string>
+    <string>w790m707,-86l627,-86l627,-284l161,-284l161,-86l83,-86l83,-416l707,-416</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -416 330</string>
-          <string>vstem 858 114</string>
           <string>vstem 80 112</string>
+          <string>vstem 858 114</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -416 132</string>
-          <string>vstem 858 114</string>
           <string>vstem 80 112</string>
+          <string>vstem 858 114</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>

@@ -2,18 +2,18 @@
 <glyph name="Tmod" format="2">
   <advance width="619"/>
   <unicode hex="1D40"/>
-  <anchor x="362" y="574" name="bottom"/>
-  <anchor x="362" y="1430" name="top"/>
+  <anchor x="311" y="574" name="bottom"/>
+  <anchor x="311" y="1430" name="top"/>
   <outline>
     <contour>
-      <point x="428" y="1328" type="line"/>
-      <point x="709" y="1328" type="line"/>
-      <point x="709" y="1430" type="line"/>
-      <point x="14" y="1430" type="line"/>
-      <point x="14" y="1328" type="line"/>
-      <point x="294" y="1328" type="line"/>
-      <point x="294" y="574" type="line"/>
-      <point x="428" y="574" type="line"/>
+      <point x="369" y="1336" type="line"/>
+      <point x="604" y="1336" type="line"/>
+      <point x="604" y="1430" type="line"/>
+      <point x="15" y="1430" type="line"/>
+      <point x="15" y="1336" type="line"/>
+      <point x="251" y="1336" type="line"/>
+      <point x="251" y="574" type="line"/>
+      <point x="369" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w619m428,1328l709,1328l709,1430l14,1430l14,1328l294,1328l294,574l428,574</string>
+    <string>w619m369,1336l604,1336l604,1430l15,1430l15,1336l251,1336l251,574l369,574</string>
     <key>hintSetList</key>
     <array>
       <dict>

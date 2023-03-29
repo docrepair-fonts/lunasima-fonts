@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eight-roman" format="2">
   <advance width="2940"/>
   <unicode hex="2177"/>
@@ -6,23 +6,111 @@
   <anchor x="2881" y="1526" name="top"/>
   <anchor x="3226" y="1526" name="topright"/>
   <outline>
-    <component base="v"/>
-    <component base="i" xOffset="1215"/>
-    <component base="i" xOffset="1881"/>
-    <component base="i" xOffset="2547"/>
+    <contour>
+      <point x="704" y="0" type="line"/>
+      <point x="1086" y="1095" type="line"/>
+      <point x="753" y="1095" type="line"/>
+      <point x="569" y="447" type="line"/>
+      <point x="561" y="404"/>
+      <point x="547" y="329"/>
+      <point x="543" y="279" type="curve"/>
+      <point x="538" y="279" type="line"/>
+      <point x="536" y="329"/>
+      <point x="520" y="411"/>
+      <point x="512" y="448" type="curve"/>
+      <point x="335" y="1095" type="line"/>
+      <point x="0" y="1095" type="line"/>
+      <point x="384" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1234" y="1095" type="line"/>
+      <point x="1234" y="0" type="line"/>
+      <point x="1554" y="0" type="line"/>
+      <point x="1554" y="1095" type="line"/>
+    </contour>
+    <contour>
+      <point x="1396" y="1519" type="curve" smooth="yes"/>
+      <point x="1301" y="1519"/>
+      <point x="1224" y="1485"/>
+      <point x="1224" y="1368" type="curve" smooth="yes"/>
+      <point x="1224" y="1255"/>
+      <point x="1301" y="1219"/>
+      <point x="1396" y="1219" type="curve" smooth="yes"/>
+      <point x="1488" y="1219"/>
+      <point x="1567" y="1255"/>
+      <point x="1567" y="1368" type="curve" smooth="yes"/>
+      <point x="1567" y="1485"/>
+      <point x="1488" y="1519"/>
+    </contour>
+    <contour>
+      <point x="1849" y="1095" type="line"/>
+      <point x="1849" y="0" type="line"/>
+      <point x="2168" y="0" type="line"/>
+      <point x="2168" y="1095" type="line"/>
+    </contour>
+    <contour>
+      <point x="2010" y="1519" type="curve" smooth="yes"/>
+      <point x="1916" y="1519"/>
+      <point x="1839" y="1485"/>
+      <point x="1839" y="1368" type="curve" smooth="yes"/>
+      <point x="1839" y="1255"/>
+      <point x="1916" y="1219"/>
+      <point x="2010" y="1219" type="curve" smooth="yes"/>
+      <point x="2102" y="1219"/>
+      <point x="2182" y="1255"/>
+      <point x="2182" y="1368" type="curve" smooth="yes"/>
+      <point x="2182" y="1485"/>
+      <point x="2102" y="1519"/>
+    </contour>
+    <contour>
+      <point x="2463" y="1095" type="line"/>
+      <point x="2463" y="0" type="line"/>
+      <point x="2783" y="0" type="line"/>
+      <point x="2783" y="1095" type="line"/>
+    </contour>
+    <contour>
+      <point x="2624" y="1519" type="curve" smooth="yes"/>
+      <point x="2530" y="1519"/>
+      <point x="2454" y="1485"/>
+      <point x="2454" y="1368" type="curve" smooth="yes"/>
+      <point x="2454" y="1255"/>
+      <point x="2530" y="1219"/>
+      <point x="2624" y="1219" type="curve" smooth="yes"/>
+      <point x="2717" y="1219"/>
+      <point x="2796" y="1255"/>
+      <point x="2796" y="1368" type="curve" smooth="yes"/>
+      <point x="2796" y="1485"/>
+      <point x="2717" y="1519"/>
+    </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>five-roman</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>one-roman</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/13 22:16:41</string>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <string>five-roman</string>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <string>one-roman</string>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c0960817a25f41bb032d572055e31f5605fdf378f35a060752e7a407ae58bcb4bb25358b60d3f04d8b5b6af2a651bb23b96344ea8823aa1f414499d7594b5b64</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1086 20</string>
+          <string>hstem 1214 338</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

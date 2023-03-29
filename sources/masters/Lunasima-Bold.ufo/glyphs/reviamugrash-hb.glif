@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="reviamugrash-hb" format="2">
   <unicode hex="0597"/>
-  <anchor x="394" y="1106" name="_topleft"/>
+  <anchor x="237" y="1095" name="_topleft"/>
   <outline>
     <contour>
-      <point x="397" y="1461" type="line"/>
-      <point x="249" y="1623" type="line"/>
-      <point x="100" y="1461" type="line"/>
-      <point x="249" y="1300" type="line"/>
+      <point x="232" y="1465" type="line"/>
+      <point x="121" y="1630" type="line"/>
+      <point x="10" y="1465" type="line"/>
+      <point x="121" y="1300" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m397,1461l249,1623l100,1461l249,1300</string>
+    <string>w0m232,1465l121,1630l10,1465l121,1300</string>
     <key>hintSetList</key>
     <array>
       <dict>

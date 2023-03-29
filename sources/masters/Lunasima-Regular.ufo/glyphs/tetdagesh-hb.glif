@@ -2,20 +2,20 @@
 <glyph name="tetdagesh-hb" format="2">
   <advance width="1319"/>
   <unicode hex="FB38"/>
-  <anchor x="712" y="0" name="bottom"/>
-  <anchor x="170" y="0" name="bottomleft"/>
-  <anchor x="706" y="1076" name="top"/>
-  <anchor x="3" y="1076" name="topleft"/>
+  <anchor x="688" y="0" name="bottom"/>
+  <anchor x="184" y="0" name="bottomleft"/>
+  <anchor x="683" y="1072" name="top"/>
+  <anchor x="26" y="1072" name="topleft"/>
   <outline>
     <component base="tet-hb"/>
-    <component base="dagesh-hb" xOffset="538" yOffset="2"/>
+    <component base="dagesh-hb" xOffset="612"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>tet-hb+dagesh-hb</string>
+  <string>'tet-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

@@ -2,20 +2,20 @@
 <glyph name="vavyod-hb" format="2">
   <advance width="1486"/>
   <unicode hex="05F1"/>
-  <anchor x="533" y="0" name="caret_1"/>
+  <anchor x="760" y="0" name="caret_1"/>
   <outline>
     <contour>
-      <point x="1000" y="0" type="line"/>
-      <point x="1000" y="1198" type="line"/>
-      <point x="697" y="1198" type="line"/>
-      <point x="697" y="0" type="line"/>
+      <point x="1282" y="0" type="line"/>
+      <point x="1282" y="1207" type="line"/>
+      <point x="956" y="1207" type="line"/>
+      <point x="956" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="272" y="426" type="line"/>
-      <point x="423" y="642" type="line"/>
-      <point x="423" y="1198" type="line"/>
-      <point x="120" y="1198" type="line"/>
-      <point x="120" y="426" type="line"/>
+      <point x="345" y="426" type="line"/>
+      <point x="508" y="664" type="line"/>
+      <point x="508" y="1207" type="line"/>
+      <point x="182" y="1207" type="line"/>
+      <point x="182" y="426" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1486m1000,0l1000,1198l697,1198l697,0m272,426l423,642l423,1198l120,1198l120,426</string>
+    <string>w1486m1282,0l1282,1207l956,1207l956,0m345,426l508,664l508,1207l182,1207l182,426</string>
     <key>hintSetList</key>
     <array>
       <dict>

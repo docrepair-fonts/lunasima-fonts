@@ -4,24 +4,22 @@
   <unicode hex="2179"/>
   <outline>
     <contour>
-      <point x="36" y="0" type="line"/>
-      <point x="262" y="0" type="line"/>
-      <point x="545" y="420" type="line"/>
-      <point x="825" y="0" type="line"/>
-      <point x="1052" y="0" type="line"/>
-      <point x="666" y="550" type="line"/>
-      <point x="1033" y="1076" type="line"/>
-      <point x="807" y="1076" type="line"/>
-      <point x="545" y="680" type="line"/>
-      <point x="282" y="1076" type="line"/>
-      <point x="54" y="1076" type="line"/>
-      <point x="421" y="550" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="630" y="428" type="line"/>
+      <point x="1017" y="0" type="line"/>
+      <point x="1217" y="0" type="line"/>
+      <point x="723" y="548" type="line"/>
+      <point x="1191" y="1072" type="line"/>
+      <point x="994" y="1072" type="line"/>
+      <point x="630" y="668" type="line"/>
+      <point x="262" y="1072" type="line"/>
+      <point x="62" y="1072" type="line"/>
+      <point x="531" y="548" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.schriftgestaltung.Glyphs.lastChange</key>
   <string>2019/11/13 22:16:41</string>
   <key>public.markColor</key>
@@ -31,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1256m36,0l262,0l545,420l825,0l1052,0l666,550l1033,1076l807,1076l545,680l282,1076l54,1076l421,550</string>
+    <string>w1256m39,0l236,0l630,428l1017,0l1217,0l723,548l1191,1072l994,1072l630,668l262,1072l62,1072l531,548</string>
     <key>hintSetList</key>
     <array>
       <dict>

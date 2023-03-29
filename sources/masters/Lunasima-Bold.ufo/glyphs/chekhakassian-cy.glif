@@ -2,34 +2,34 @@
 <glyph name="chekhakassian-cy" format="2">
   <advance width="1206"/>
   <unicode hex="04CC"/>
-  <anchor x="623" y="-385" name="bottom"/>
-  <anchor x="623" y="1086" name="top"/>
+  <anchor x="595" y="-394" name="bottom"/>
+  <anchor x="595" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="823" y="1085" type="line"/>
-      <point x="823" y="648" type="line"/>
-      <point x="724" y="595"/>
-      <point x="629" y="561"/>
-      <point x="529" y="561" type="curve" smooth="yes"/>
-      <point x="432" y="561"/>
-      <point x="384" y="612"/>
-      <point x="384" y="717" type="curve" smooth="yes"/>
-      <point x="384" y="1085" type="line"/>
-      <point x="84" y="1085" type="line"/>
-      <point x="84" y="701" type="line" smooth="yes"/>
-      <point x="84" y="482"/>
-      <point x="210" y="361"/>
-      <point x="459" y="361" type="curve" smooth="yes"/>
-      <point x="610" y="361"/>
-      <point x="728" y="407"/>
-      <point x="823" y="467" type="curve"/>
-      <point x="823" y="197" type="line"/>
-      <point x="613" y="197" type="line"/>
-      <point x="613" y="-385" type="line"/>
-      <point x="882" y="-385" type="line"/>
-      <point x="882" y="0" type="line"/>
-      <point x="1123" y="0" type="line"/>
-      <point x="1123" y="1085" type="line"/>
+      <point x="728" y="1095" type="line"/>
+      <point x="728" y="672" type="line"/>
+      <point x="652" y="629"/>
+      <point x="576" y="602"/>
+      <point x="509" y="602" type="curve" smooth="yes"/>
+      <point x="448" y="602"/>
+      <point x="420" y="648"/>
+      <point x="420" y="740" type="curve" smooth="yes"/>
+      <point x="420" y="1095" type="line"/>
+      <point x="100" y="1095" type="line"/>
+      <point x="100" y="722" type="line" smooth="yes"/>
+      <point x="100" y="486"/>
+      <point x="207" y="365"/>
+      <point x="432" y="365" type="curve" smooth="yes"/>
+      <point x="554" y="365"/>
+      <point x="662" y="412"/>
+      <point x="728" y="461" type="curve"/>
+      <point x="728" y="227" type="line"/>
+      <point x="520" y="227" type="line"/>
+      <point x="520" y="-394" type="line"/>
+      <point x="800" y="-394" type="line"/>
+      <point x="800" y="0" type="line"/>
+      <point x="1048" y="0" type="line"/>
+      <point x="1048" y="1095" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a92e561c3461713cf006d24c384df0dcd7c9d6aa138823b5977f1aadffba9b8747b769dc6ec907bdeb78f917003243b2a1738342ae4e64f9da21f86cdfecd833</string>
+    <string>bdd1d5a86f5af805b7f5a84924597b324d0ea71f444f52f6f1ac6abc4fca5f8f9deef97acd798008cee9621bca7de7558660e604c4f7c0c82d10c8801b73901c</string>
     <key>hintSetList</key>
     <array>
       <dict>

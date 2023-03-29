@@ -2,53 +2,53 @@
 <glyph name="Ecircumflexacute" format="2">
   <advance width="1230"/>
   <unicode hex="1EBE"/>
-  <anchor x="578" y="0" name="bottom"/>
-  <anchor x="575" y="1954" name="top"/>
+  <anchor x="724" y="0" name="bottom"/>
+  <anchor x="728" y="1954" name="top"/>
   <outline>
     <contour>
-      <point x="981" y="200" type="line"/>
-      <point x="453" y="200" type="line"/>
-      <point x="453" y="643" type="line"/>
-      <point x="946" y="643" type="line"/>
-      <point x="946" y="843" type="line"/>
-      <point x="453" y="843" type="line"/>
-      <point x="453" y="1228" type="line"/>
-      <point x="981" y="1228" type="line"/>
-      <point x="981" y="1428" type="line"/>
-      <point x="154" y="1428" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="981" y="0" type="line"/>
+      <point x="1241" y="239" type="line"/>
+      <point x="503" y="239" type="line"/>
+      <point x="503" y="625" type="line"/>
+      <point x="1195" y="625" type="line"/>
+      <point x="1195" y="861" type="line"/>
+      <point x="503" y="861" type="line"/>
+      <point x="503" y="1192" type="line"/>
+      <point x="1241" y="1192" type="line"/>
+      <point x="1241" y="1428" type="line"/>
+      <point x="184" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="1241" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="929" y="1542" type="line"/>
-      <point x="929" y="1568" type="line"/>
-      <point x="862" y="1644"/>
-      <point x="779" y="1742"/>
-      <point x="718" y="1832" type="curve"/>
-      <point x="414" y="1832" type="line"/>
-      <point x="353" y="1742"/>
-      <point x="269" y="1644"/>
-      <point x="203" y="1568" type="curve"/>
-      <point x="203" y="1542" type="line"/>
-      <point x="360" y="1542" type="line"/>
-      <point x="426" y="1586"/>
-      <point x="496" y="1642"/>
-      <point x="566" y="1704" type="curve"/>
-      <point x="634" y="1642"/>
-      <point x="706" y="1586"/>
-      <point x="772" y="1542" type="curve"/>
+      <point x="1149" y="1542" type="line"/>
+      <point x="1149" y="1569" type="line"/>
+      <point x="1062" y="1645"/>
+      <point x="954" y="1750"/>
+      <point x="875" y="1840" type="curve"/>
+      <point x="550" y="1840" type="line"/>
+      <point x="469" y="1750"/>
+      <point x="360" y="1645"/>
+      <point x="275" y="1569" type="curve"/>
+      <point x="275" y="1542" type="line"/>
+      <point x="445" y="1542" type="line"/>
+      <point x="530" y="1586"/>
+      <point x="621" y="1642"/>
+      <point x="712" y="1704" type="curve"/>
+      <point x="800" y="1642"/>
+      <point x="894" y="1586"/>
+      <point x="980" y="1542" type="curve"/>
     </contour>
     <contour>
-      <point x="843" y="1732" type="line"/>
-      <point x="990" y="1732" type="line"/>
-      <point x="1066" y="1788"/>
-      <point x="1153" y="1856"/>
-      <point x="1211" y="1934" type="curve"/>
-      <point x="1211" y="1954" type="line"/>
-      <point x="976" y="1954" type="line"/>
-      <point x="934" y="1868"/>
-      <point x="895" y="1819"/>
-      <point x="843" y="1758" type="curve"/>
+      <point x="1042" y="1732" type="line"/>
+      <point x="1206" y="1732" type="line"/>
+      <point x="1301" y="1788"/>
+      <point x="1405" y="1856"/>
+      <point x="1480" y="1934" type="curve"/>
+      <point x="1480" y="1954" type="line"/>
+      <point x="1210" y="1954" type="line"/>
+      <point x="1155" y="1868"/>
+      <point x="1109" y="1816"/>
+      <point x="1042" y="1759" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -60,7 +60,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>47f928484494129b10e44fcffb3b558cc4e857f13c2b2f1cd7b73c3f79b4f69ba49304198a6dd8ed4c62c64cb0b32dac454907c33035b50d6c7ccddbe56c511d</string>
+    <string>a51c1ee8453466d1b7877e4cffba56774a57da4b3b9c3371f07ea3231c3c4e2f1ae014083ca2a9d33f9353d0c8f348ea13461c14c3196c74cc83b20db10019c0</string>
     <key>hintSetList</key>
     <array>
       <dict>

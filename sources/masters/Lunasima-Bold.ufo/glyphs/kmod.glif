@@ -2,29 +2,29 @@
 <glyph name="kmod" format="2">
   <advance width="770"/>
   <unicode hex="1D4F"/>
-  <anchor x="387" y="574" name="bottom"/>
-  <anchor x="387" y="1486" name="top"/>
+  <anchor x="398" y="574" name="bottom"/>
+  <anchor x="398" y="1486" name="top"/>
   <outline>
     <contour>
-      <point x="280" y="1486" type="line"/>
-      <point x="86" y="1486" type="line"/>
-      <point x="86" y="574" type="line"/>
-      <point x="280" y="574" type="line"/>
-      <point x="280" y="788" type="line"/>
-      <point x="359" y="849" type="line"/>
-      <point x="551" y="574" type="line"/>
-      <point x="775" y="574" type="line"/>
-      <point x="496" y="948" type="line"/>
-      <point x="760" y="1227" type="line"/>
-      <point x="539" y="1227" type="line"/>
-      <point x="353" y="1021" type="line" smooth="yes"/>
-      <point x="330" y="995"/>
-      <point x="292" y="945"/>
-      <point x="274" y="924" type="curve"/>
-      <point x="269" y="924" type="line"/>
-      <point x="275" y="964"/>
-      <point x="280" y="1021"/>
-      <point x="280" y="1059" type="curve" smooth="yes"/>
+      <point x="312" y="1486" type="line"/>
+      <point x="103" y="1486" type="line"/>
+      <point x="103" y="574" type="line"/>
+      <point x="312" y="574" type="line"/>
+      <point x="312" y="774" type="line"/>
+      <point x="384" y="833" type="line"/>
+      <point x="533" y="574" type="line"/>
+      <point x="770" y="574" type="line"/>
+      <point x="531" y="952" type="line"/>
+      <point x="758" y="1232" type="line"/>
+      <point x="524" y="1232" type="line"/>
+      <point x="375" y="1034" type="line"/>
+      <point x="354" y="1007"/>
+      <point x="322" y="958"/>
+      <point x="305" y="934" type="curve"/>
+      <point x="300" y="934" type="line"/>
+      <point x="307" y="980"/>
+      <point x="312" y="1044"/>
+      <point x="312" y="1089" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3be5c95c4822910e97c2c3ae88eebaa7ee908a220cc59d3bcf714a26829950a87d48eb01cbf3431fb1cb2003c7ad7fe61a1737a715540549373c833d0fba0b0e</string>
+    <string>0c267de8a7ad971c668429d7ea061bebde1cbd4c49932dc62d323cd8c1092e06315531a993b700b4acada495126fe6c6e89d3bb0dd7e9498a91e80abc5167d39</string>
     <key>hintSetList</key>
     <array>
       <dict>

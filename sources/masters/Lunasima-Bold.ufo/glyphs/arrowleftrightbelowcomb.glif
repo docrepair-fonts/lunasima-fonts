@@ -2,19 +2,19 @@
 <glyph name="arrowleftrightbelowcomb" format="2">
   <unicode hex="034D"/>
   <anchor x="0" y="0" name="_bottom"/>
-  <anchor x="4" y="-438" name="bottom"/>
+  <anchor x="5" y="-438" name="bottom"/>
   <outline>
     <contour>
-      <point x="-100" y="-438" type="line"/>
-      <point x="-100" y="-314" type="line"/>
-      <point x="100" y="-314" type="line"/>
-      <point x="100" y="-438" type="line"/>
-      <point x="350" y="-254" type="line"/>
-      <point x="100" y="-70" type="line"/>
-      <point x="100" y="-194" type="line"/>
-      <point x="-100" y="-194" type="line"/>
-      <point x="-100" y="-70" type="line"/>
-      <point x="-350" y="-254" type="line"/>
+      <point x="-120" y="-438" type="line"/>
+      <point x="-120" y="-314" type="line"/>
+      <point x="121" y="-314" type="line"/>
+      <point x="121" y="-438" type="line"/>
+      <point x="420" y="-254" type="line"/>
+      <point x="121" y="-70" type="line"/>
+      <point x="121" y="-194" type="line"/>
+      <point x="-120" y="-194" type="line"/>
+      <point x="-120" y="-70" type="line"/>
+      <point x="-420" y="-254" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-100,-438l-100,-314l100,-314l100,-438l350,-254l100,-70l100,-194l-100,-194l-100,-70l-350,-254</string>
+    <string>w0m-120,-438l-120,-314l121,-314l121,-438l420,-254l121,-70l121,-194l-120,-194l-120,-70l-420,-254</string>
     <key>hintSetList</key>
     <array>
       <dict>

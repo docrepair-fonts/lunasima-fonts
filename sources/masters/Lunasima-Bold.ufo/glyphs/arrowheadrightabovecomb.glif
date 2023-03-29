@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowheadrightabovecomb" format="2">
   <unicode hex="0350"/>
-  <anchor x="-4" y="1086" name="_top"/>
+  <anchor x="-5" y="1095" name="_top"/>
   <anchor x="0" y="1580" name="top"/>
   <outline>
     <contour>
-      <point x="-168" y="1580" type="line"/>
-      <point x="-168" y="1480" type="line"/>
-      <point x="-114" y="1446"/>
-      <point x="-58" y="1416"/>
-      <point x="16" y="1380" type="curve"/>
-      <point x="-58" y="1344"/>
-      <point x="-120" y="1314"/>
-      <point x="-168" y="1282" type="curve"/>
-      <point x="-168" y="1180" type="line"/>
-      <point x="-146" y="1180" type="line"/>
-      <point x="-68" y="1222"/>
-      <point x="66" y="1286"/>
-      <point x="160" y="1310" type="curve"/>
-      <point x="160" y="1446" type="line"/>
-      <point x="66" y="1474"/>
-      <point x="-68" y="1540"/>
-      <point x="-146" y="1580" type="curve"/>
+      <point x="-202" y="1580" type="line"/>
+      <point x="-202" y="1480" type="line"/>
+      <point x="-137" y="1446"/>
+      <point x="-69" y="1416"/>
+      <point x="20" y="1380" type="curve"/>
+      <point x="-69" y="1344"/>
+      <point x="-144" y="1314"/>
+      <point x="-202" y="1282" type="curve"/>
+      <point x="-202" y="1180" type="line"/>
+      <point x="-175" y="1180" type="line"/>
+      <point x="-81" y="1222"/>
+      <point x="80" y="1286"/>
+      <point x="192" y="1310" type="curve"/>
+      <point x="192" y="1446" type="line"/>
+      <point x="80" y="1474"/>
+      <point x="-81" y="1540"/>
+      <point x="-175" y="1580" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>234c282115c209908cd97bb730ce7b98a30fef9d7da497cc0c58f940b97e8382f8c399f213a9170445a1608bbaf302486227d7f49e132a7ff68891e423b2f98d</string>
+    <string>9e99ff69b632fc14aa076f843d1909eff0b03d34bd8e94c226221c9d5e5b16e4040e7bb54669a2adabc01e932222634063c6ef55c73249012b8d2016ee7e112b</string>
     <key>hintSetList</key>
     <array>
       <dict>

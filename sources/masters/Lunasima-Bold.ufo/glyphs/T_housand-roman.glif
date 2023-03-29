@@ -4,34 +4,32 @@
   <unicode hex="216F"/>
   <outline>
     <contour>
-      <point x="154" y="0" type="line"/>
-      <point x="426" y="0" type="line"/>
-      <point x="426" y="766" type="line" smooth="yes"/>
-      <point x="426" y="915"/>
-      <point x="416" y="1079"/>
-      <point x="409" y="1161" type="curve"/>
-      <point x="417" y="1161" type="line"/>
-      <point x="780" y="0" type="line"/>
-      <point x="1060" y="0" type="line"/>
-      <point x="1423" y="1159" type="line"/>
-      <point x="1431" y="1159" type="line"/>
-      <point x="1425" y="1075"/>
-      <point x="1417" y="911"/>
-      <point x="1417" y="775" type="curve" smooth="yes"/>
-      <point x="1417" y="0" type="line"/>
-      <point x="1701" y="0" type="line"/>
-      <point x="1701" y="1428" type="line"/>
-      <point x="1286" y="1428" type="line"/>
-      <point x="932" y="322" type="line"/>
-      <point x="924" y="322" type="line"/>
-      <point x="570" y="1428" type="line"/>
-      <point x="154" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="473" y="702" type="line" smooth="yes"/>
+      <point x="473" y="850"/>
+      <point x="461" y="1022"/>
+      <point x="454" y="1103" type="curve"/>
+      <point x="462" y="1103" type="line"/>
+      <point x="771" y="0" type="line"/>
+      <point x="1075" y="0" type="line"/>
+      <point x="1382" y="1101" type="line"/>
+      <point x="1389" y="1101" type="line"/>
+      <point x="1384" y="1019"/>
+      <point x="1376" y="846"/>
+      <point x="1376" y="710" type="curve" smooth="yes"/>
+      <point x="1376" y="0" type="line"/>
+      <point x="1675" y="0" type="line"/>
+      <point x="1675" y="1428" type="line"/>
+      <point x="1240" y="1428" type="line"/>
+      <point x="936" y="362" type="line"/>
+      <point x="928" y="362" type="line"/>
+      <point x="620" y="1428" type="line"/>
+      <point x="184" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.schriftgestaltung.Glyphs.lastChange</key>
   <string>2019/11/13 22:16:41</string>
   <key>public.markColor</key>
@@ -41,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>db87cef4c0c8c8c9481b9c5f0577cd14a992f7d02262c856a8fc83cb6875af251104925c91d54a230b49a8be7310c17249f8c6f06e5df75e805861b60dccc887</string>
+    <string>186a4f65b2fea12406048b34545e7e2e9f119bdb301d0bfd3856cb5a7a5e97c65dbed9e09ea27fd7d291191487b3068e96fa97b71605baa874b764d80ae573c6</string>
     <key>hintSetList</key>
     <array>
       <dict>

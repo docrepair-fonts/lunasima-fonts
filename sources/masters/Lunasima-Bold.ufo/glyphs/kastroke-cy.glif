@@ -2,29 +2,29 @@
 <glyph name="kastroke-cy" format="2">
   <advance width="1231"/>
   <unicode hex="049F"/>
-  <anchor x="618" y="0" name="bottom"/>
-  <anchor x="303" y="1520" name="top"/>
+  <anchor x="619" y="0" name="bottom"/>
+  <anchor x="308" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="152" y="1520" type="line"/>
-      <point x="152" y="1355" type="line"/>
-      <point x="0" y="1355" type="line"/>
-      <point x="0" y="1182" type="line"/>
-      <point x="152" y="1182" type="line"/>
-      <point x="152" y="0" type="line"/>
-      <point x="452" y="0" type="line"/>
-      <point x="452" y="552" type="line"/>
-      <point x="891" y="0" type="line"/>
-      <point x="1235" y="0" type="line"/>
-      <point x="769" y="565" type="line"/>
-      <point x="1200" y="1086" type="line"/>
-      <point x="870" y="1086" type="line"/>
-      <point x="452" y="560" type="line"/>
-      <point x="452" y="1182" type="line"/>
-      <point x="734" y="1182" type="line"/>
-      <point x="734" y="1355" type="line"/>
-      <point x="452" y="1355" type="line"/>
-      <point x="452" y="1520" type="line"/>
+      <point x="146" y="1520" type="line"/>
+      <point x="146" y="1364" type="line"/>
+      <point x="1" y="1364" type="line"/>
+      <point x="1" y="1164" type="line"/>
+      <point x="146" y="1164" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="466" y="556" type="line"/>
+      <point x="874" y="0" type="line"/>
+      <point x="1240" y="0" type="line"/>
+      <point x="802" y="570" type="line"/>
+      <point x="1209" y="1095" type="line"/>
+      <point x="855" y="1095" type="line"/>
+      <point x="466" y="564" type="line"/>
+      <point x="466" y="1164" type="line"/>
+      <point x="714" y="1164" type="line"/>
+      <point x="714" y="1364" type="line"/>
+      <point x="466" y="1364" type="line"/>
+      <point x="466" y="1520" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f8e2f39f526f0eb75d3d8137264e415f9c6d36f16757815563a62fc9ba7c7e5b497a2fa15a06f7751f28f2cadbe2681d941391480d213164709f591e3840906f</string>
+    <string>ffa56013516082ee277a31c04bba8958f07db9d5aa884527976c81e7a4b6acfdb350e61694110c5127851566a8ec7ca343421cd4fa7298fed485a95f7b8c958a</string>
     <key>hintSetList</key>
     <array>
       <dict>

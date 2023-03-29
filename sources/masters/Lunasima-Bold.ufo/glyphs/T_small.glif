@@ -2,18 +2,18 @@
 <glyph name="Tsmall" format="2">
   <advance width="1135"/>
   <unicode hex="1D1B"/>
-  <anchor x="479" y="0" name="bottom"/>
-  <anchor x="479" y="1086" name="top"/>
+  <anchor x="541" y="0" name="bottom"/>
+  <anchor x="541" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="649" y="884" type="line"/>
-      <point x="932" y="884" type="line"/>
-      <point x="932" y="1084" type="line"/>
-      <point x="82" y="1084" type="line"/>
-      <point x="82" y="884" type="line"/>
-      <point x="366" y="884" type="line"/>
-      <point x="366" y="1" type="line"/>
-      <point x="649" y="1" type="line"/>
+      <point x="721" y="854" type="line"/>
+      <point x="1037" y="854" type="line"/>
+      <point x="1037" y="1091" type="line"/>
+      <point x="98" y="1091" type="line"/>
+      <point x="98" y="854" type="line"/>
+      <point x="418" y="854" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1135m649,884l932,884l932,1084l82,1084l82,884l366,884l366,1l649,1</string>
+    <string>w1135m721,854l1037,854l1037,1091l98,1091l98,854l418,854l418,0l721,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

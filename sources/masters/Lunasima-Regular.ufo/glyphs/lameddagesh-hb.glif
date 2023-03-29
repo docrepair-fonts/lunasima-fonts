@@ -2,20 +2,20 @@
 <glyph name="lameddagesh-hb" format="2">
   <advance width="1092"/>
   <unicode hex="FB3C"/>
-  <anchor x="491" y="0" name="bottom"/>
-  <anchor x="457" y="0" name="bottomleft"/>
-  <anchor x="604" y="1076" name="top"/>
-  <anchor x="-78" y="1076" name="topleft"/>
+  <anchor x="518" y="0" name="bottom"/>
+  <anchor x="484" y="0" name="bottomleft"/>
+  <anchor x="615" y="1072" name="top"/>
+  <anchor x="-76" y="1072" name="topleft"/>
   <outline>
     <component base="lamed-hb"/>
-    <component base="dagesh-hb" xOffset="159" yOffset="2"/>
+    <component base="dagesh-hb" xOffset="290"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>lamed-hb+dagesh-hb</string>
+  <string>'lamed-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

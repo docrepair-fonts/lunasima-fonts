@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="squarebelowcomb" format="2">
   <unicode hex="033B"/>
-  <anchor x="2" y="0" name="_bottom"/>
-  <anchor x="6" y="-456" name="bottom"/>
+  <anchor x="3" y="0" name="_bottom"/>
+  <anchor x="8" y="-456" name="bottom"/>
   <outline>
     <contour>
-      <point x="378" y="-56" type="line"/>
-      <point x="-378" y="-56" type="line"/>
-      <point x="-378" y="-456" type="line"/>
-      <point x="378" y="-456" type="line"/>
+      <point x="454" y="-56" type="line"/>
+      <point x="-454" y="-56" type="line"/>
+      <point x="-454" y="-456" type="line"/>
+      <point x="454" y="-456" type="line"/>
     </contour>
     <contour>
-      <point x="-266" y="-162" type="line"/>
-      <point x="266" y="-162" type="line"/>
-      <point x="266" y="-350" type="line"/>
-      <point x="-266" y="-350" type="line"/>
+      <point x="-319" y="-162" type="line"/>
+      <point x="320" y="-162" type="line"/>
+      <point x="320" y="-350" type="line"/>
+      <point x="-319" y="-350" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m378,-56l-378,-56l-378,-456l378,-456m-266,-162l266,-162l266,-350l-266,-350</string>
+    <string>w0m454,-56l-454,-56l-454,-456l454,-456m-319,-162l320,-162l320,-350l-319,-350</string>
     <key>hintSetList</key>
     <array>
       <dict>

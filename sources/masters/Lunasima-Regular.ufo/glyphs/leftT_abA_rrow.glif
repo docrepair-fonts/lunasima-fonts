@@ -6,34 +6,34 @@
 uni21E4</note>
   <outline>
     <contour>
-      <point x="596" y="394" type="curve"/>
-      <point x="684" y="394" type="line"/>
-      <point x="630" y="510"/>
-      <point x="576" y="598"/>
-      <point x="524" y="650" type="curve"/>
-      <point x="524" y="730" type="line"/>
-      <point x="576" y="782"/>
-      <point x="630" y="870"/>
-      <point x="684" y="986" type="curve" name=".hr01"/>
-      <point x="596" y="986" type="line"/>
-      <point x="490" y="862"/>
-      <point x="378" y="770"/>
-      <point x="262" y="712" type="curve"/>
-      <point x="262" y="668" type="line"/>
-      <point x="378" y="610"/>
-      <point x="490" y="518"/>
+      <point x="764" y="394" type="curve"/>
+      <point x="880" y="394" type="line"/>
+      <point x="808" y="510"/>
+      <point x="737" y="598"/>
+      <point x="669" y="650" type="curve"/>
+      <point x="669" y="730" type="line"/>
+      <point x="737" y="782"/>
+      <point x="808" y="870"/>
+      <point x="880" y="986" type="curve" name=".hr01"/>
+      <point x="764" y="986" type="line"/>
+      <point x="624" y="862"/>
+      <point x="476" y="770"/>
+      <point x="323" y="712" type="curve"/>
+      <point x="323" y="668" type="line"/>
+      <point x="476" y="610"/>
+      <point x="624" y="518"/>
     </contour>
     <contour>
-      <point x="102" y="394" type="line" name=".hr02"/>
-      <point x="210" y="394" type="line" name=".hr04"/>
-      <point x="210" y="986" type="line"/>
-      <point x="102" y="986" type="line" name=".hr03"/>
+      <point x="112" y="394" type="line" name=".hr02"/>
+      <point x="255" y="394" type="line" name=".hr04"/>
+      <point x="255" y="986" type="line"/>
+      <point x="112" y="986" type="line" name=".hr03"/>
     </contour>
     <contour>
-      <point x="464" y="636" type="line"/>
-      <point x="1486" y="636" type="line" name=".hr05"/>
-      <point x="1486" y="744" type="line"/>
-      <point x="464" y="744" type="line"/>
+      <point x="590" y="636" type="line"/>
+      <point x="1936" y="636" type="line" name=".hr05"/>
+      <point x="1936" y="744" type="line"/>
+      <point x="590" y="744" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@ uni21E4</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8554327eabb7520ff270c6620667aa5c83525894410c62aba11496899835b22e1cacf7ee66441c858cd6400c932292b032c4151d7b2b0069019f2798e136c64a</string>
+    <string>d41753ba15e10486dbfe4183b23934aa38cf81ddba27d84856f08dfde051ada8f7ce840c8fbbb2dba440a4c0a9235f241efad0ea862783efcc042e8569333557</string>
     <key>hintSetList</key>
     <array>
       <dict>

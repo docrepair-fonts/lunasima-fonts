@@ -4,16 +4,16 @@
   <unicode hex="02CB"/>
   <outline>
     <contour>
-      <point x="80" y="1532" type="line"/>
-      <point x="80" y="1512" type="line"/>
-      <point x="132" y="1438"/>
-      <point x="287" y="1284"/>
-      <point x="381" y="1212" type="curve"/>
-      <point x="514" y="1212" type="line"/>
-      <point x="514" y="1237" type="line"/>
-      <point x="452" y="1311"/>
-      <point x="362" y="1442"/>
-      <point x="315" y="1532" type="curve"/>
+      <point x="88" y="1532" type="line"/>
+      <point x="88" y="1512" type="line"/>
+      <point x="134" y="1438"/>
+      <point x="275" y="1284"/>
+      <point x="362" y="1212" type="curve"/>
+      <point x="480" y="1212" type="line"/>
+      <point x="480" y="1236" type="line"/>
+      <point x="422" y="1310"/>
+      <point x="339" y="1442"/>
+      <point x="297" y="1532" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w568m80,1532l80,1512c132,1438 287,1284 381,1212l514,1212l514,1237c452,1311 362,1442 315,1532</string>
+    <string>w568m88,1532l88,1512c134,1438 275,1284 362,1212l480,1212l480,1236c422,1310 339,1442 297,1532</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,18 +2,18 @@
 <glyph name="yod-hb" format="2">
   <advance width="742"/>
   <unicode hex="05D9"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="-68" y="0" name="bottomleft"/>
-  <anchor x="-22" y="813" name="center"/>
-  <anchor x="272" y="1086" name="top"/>
-  <anchor x="-12" y="1086" name="topleft"/>
+  <anchor x="377" y="0" name="bottom"/>
+  <anchor x="-51" y="0" name="bottomleft"/>
+  <anchor x="11" y="811" name="center"/>
+  <anchor x="377" y="1095" name="top"/>
+  <anchor x="-3" y="1095" name="topleft"/>
   <outline>
     <contour>
-      <point x="272" y="426" type="line"/>
-      <point x="423" y="642" type="line"/>
-      <point x="423" y="1198" type="line"/>
-      <point x="120" y="1198" type="line"/>
-      <point x="120" y="426" type="line"/>
+      <point x="377" y="426" type="line"/>
+      <point x="540" y="664" type="line"/>
+      <point x="540" y="1207" type="line"/>
+      <point x="214" y="1207" type="line"/>
+      <point x="214" y="426" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w742m272,426l423,642l423,1198l120,1198l120,426</string>
+    <string>w742m377,426l540,664l540,1207l214,1207l214,426</string>
     <key>hintSetList</key>
     <array>
       <dict>

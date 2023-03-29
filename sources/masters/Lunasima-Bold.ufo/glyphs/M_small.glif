@@ -2,32 +2,32 @@
 <glyph name="Msmall" format="2">
   <advance width="1560"/>
   <unicode hex="1D0D"/>
-  <anchor x="741" y="0" name="bottom"/>
-  <anchor x="741" y="1086" name="top"/>
+  <anchor x="720" y="0" name="bottom"/>
+  <anchor x="720" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="422" y="0" type="line"/>
-      <point x="422" y="545" type="line" smooth="yes"/>
-      <point x="422" y="625"/>
-      <point x="418" y="706"/>
-      <point x="411" y="768" type="curve"/>
-      <point x="419" y="768" type="line"/>
-      <point x="649" y="0" type="line"/>
-      <point x="914" y="0" type="line"/>
-      <point x="1143" y="768" type="line"/>
-      <point x="1152" y="768" type="line"/>
-      <point x="1149" y="706"/>
-      <point x="1145" y="624"/>
-      <point x="1145" y="551" type="curve" smooth="yes"/>
-      <point x="1145" y="0" type="line"/>
-      <point x="1409" y="0" type="line"/>
-      <point x="1409" y="1086" type="line"/>
-      <point x="1032" y="1086" type="line"/>
-      <point x="791" y="298" type="line"/>
-      <point x="785" y="298" type="line"/>
-      <point x="544" y="1086" type="line"/>
-      <point x="166" y="1086" type="line"/>
-      <point x="166" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="481" type="line" smooth="yes"/>
+      <point x="465" y="580"/>
+      <point x="460" y="684"/>
+      <point x="452" y="757" type="curve"/>
+      <point x="458" y="757" type="line"/>
+      <point x="631" y="0" type="line"/>
+      <point x="919" y="0" type="line"/>
+      <point x="1090" y="757" type="line"/>
+      <point x="1097" y="757" type="line"/>
+      <point x="1094" y="682"/>
+      <point x="1089" y="576"/>
+      <point x="1089" y="486" type="curve" smooth="yes"/>
+      <point x="1089" y="0" type="line"/>
+      <point x="1361" y="0" type="line"/>
+      <point x="1361" y="1095" type="line"/>
+      <point x="966" y="1095" type="line"/>
+      <point x="784" y="327" type="line"/>
+      <point x="780" y="327" type="line"/>
+      <point x="595" y="1095" type="line"/>
+      <point x="199" y="1095" type="line"/>
+      <point x="199" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fc6265980043b94428fea9d15d54fd9a78ea7ccbe2b8dc505525d5b879cb71acbca1271d2f5b545bce2fb253bfcbf806e60475a19ab36fd09d1f8b3ae1c8b8a3</string>
+    <string>b41ae86fee09df6d71e2ff3a890c7bac3ad9326f58ce48fc97c1adbbf829766abee748edc15e2f893a84fa85611831035411d21f6950581a56361c399920491a</string>
     <key>hintSetList</key>
     <array>
       <dict>

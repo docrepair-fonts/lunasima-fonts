@@ -2,26 +2,26 @@
 <glyph name="lhookretroflex" format="2">
   <advance width="703"/>
   <unicode hex="026D"/>
-  <anchor x="299" y="-480" name="bottom"/>
-  <anchor x="299" y="1520" name="top"/>
+  <anchor x="338" y="-480" name="bottom"/>
+  <anchor x="338" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="489" y="-480" type="curve" smooth="yes"/>
-      <point x="563" y="-480"/>
-      <point x="635" y="-468"/>
-      <point x="679" y="-446" type="curve"/>
-      <point x="679" y="-248" type="line"/>
-      <point x="641" y="-260"/>
-      <point x="604" y="-269"/>
-      <point x="558" y="-269" type="curve" smooth="yes"/>
-      <point x="486" y="-269"/>
-      <point x="449" y="-217"/>
-      <point x="449" y="-125" type="curve" smooth="yes"/>
-      <point x="449" y="1520" type="line"/>
-      <point x="146" y="1520" type="line"/>
-      <point x="146" y="-127" type="line" smooth="yes"/>
-      <point x="146" y="-371"/>
-      <point x="249" y="-480"/>
+      <point x="548" y="-480" type="curve" smooth="yes"/>
+      <point x="630" y="-480"/>
+      <point x="707" y="-470"/>
+      <point x="754" y="-445" type="curve"/>
+      <point x="754" y="-207" type="line"/>
+      <point x="714" y="-219"/>
+      <point x="672" y="-228"/>
+      <point x="622" y="-228" type="curve" smooth="yes"/>
+      <point x="540" y="-228"/>
+      <point x="498" y="-184"/>
+      <point x="498" y="-113" type="curve" smooth="yes"/>
+      <point x="498" y="1520" type="line"/>
+      <point x="175" y="1520" type="line"/>
+      <point x="175" y="-116" type="line" smooth="yes"/>
+      <point x="175" y="-349"/>
+      <point x="290" y="-480"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ba33d7be07ef9749d80380fef736cffe435e1ef7d00601fba1ae228d7ed483b7d0b0bfbf3ad6ff3556e6f94cc1b11e2d88693a085a287b0a18bf58040ee19d0c</string>
+    <string>96c5715bbaa6a6d0a968eeec7a3e34552d3b88ae357bfa4e0936cdbdaf7c54e95e302a450ddd3acf8e61a7c201ddb1dc4f3c5b129b736dbfab0839d4846d041d</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -7,10 +7,10 @@ uni2758
 </note>
   <outline>
     <contour>
-      <point x="102" y="-184" type="line"/>
-      <point x="318" y="-184" type="line"/>
-      <point x="318" y="1584" type="line"/>
-      <point x="102" y="1584" type="line"/>
+      <point x="112" y="-184" type="line"/>
+      <point x="328" y="-184" type="line"/>
+      <point x="328" y="1584" type="line"/>
+      <point x="112" y="1584" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@ uni2758
           </dict>
         </array>
         <key>id</key>
-        <string>w420m102,-184l318,-184l318,1584l102,1584</string>
+        <string>w440m112,-184l328,-184l328,1584l112,1584</string>
       </dict>
       <key>public.verticalOrigin</key>
       <real>1069.0</real>

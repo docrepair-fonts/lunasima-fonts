@@ -2,33 +2,33 @@
 <glyph name="icaron" format="2">
   <advance width="592"/>
   <unicode hex="01D0"/>
-  <anchor x="276" y="0" name="bottom"/>
-  <anchor x="269" y="1532" name="top"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="297" y="1532" name="top"/>
   <outline>
     <contour>
-      <point x="369" y="1076" type="line"/>
-      <point x="169" y="1076" type="line"/>
-      <point x="169" y="0" type="line"/>
-      <point x="369" y="0" type="line"/>
+      <point x="384" y="1072" type="line"/>
+      <point x="208" y="1072" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="384" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="370" y="1212" type="line"/>
-      <point x="420" y="1303"/>
-      <point x="545" y="1431"/>
-      <point x="620" y="1506" type="curve"/>
-      <point x="620" y="1532" type="line"/>
-      <point x="482" y="1532" type="line"/>
-      <point x="412" y="1487"/>
-      <point x="338" y="1423"/>
-      <point x="266" y="1352" type="curve"/>
-      <point x="200" y="1423"/>
-      <point x="125" y="1487"/>
-      <point x="55" y="1532" type="curve"/>
-      <point x="-80" y="1532" type="line"/>
-      <point x="-80" y="1506" type="line"/>
-      <point x="-8" y="1431"/>
-      <point x="113" y="1303"/>
-      <point x="166" y="1212" type="curve"/>
+      <point x="384" y="1212" type="line"/>
+      <point x="428" y="1302"/>
+      <point x="536" y="1430"/>
+      <point x="601" y="1506" type="curve"/>
+      <point x="601" y="1532" type="line"/>
+      <point x="479" y="1532" type="line"/>
+      <point x="419" y="1486"/>
+      <point x="356" y="1420"/>
+      <point x="293" y="1348" type="curve"/>
+      <point x="236" y="1420"/>
+      <point x="171" y="1486"/>
+      <point x="111" y="1532" type="curve"/>
+      <point x="-8" y="1532" type="line"/>
+      <point x="-8" y="1506" type="line"/>
+      <point x="55" y="1430"/>
+      <point x="160" y="1302"/>
+      <point x="206" y="1212" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5d1b8025d737f6c53111ea053e11faec3c514f586a154175ed911eeb52fedd2545dd2382946530518195b0015fa39a5026115d113afe1c278c69139a7c75fa45</string>
+    <string>8141460cd3430075732b90b87b05ac7d0e0ed84ff87bb2c5c6695473cd22ccb24a426806bb29d07b04577a761289a37de91f13c6b221f2f3276f8f3d9f8b777f</string>
     <key>hintSetList</key>
     <array>
       <dict>

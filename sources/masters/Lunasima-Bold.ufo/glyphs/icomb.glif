@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icomb" format="2">
   <unicode hex="0365"/>
-  <anchor x="3" y="1106" name="_top"/>
+  <anchor x="-8" y="1095" name="_top"/>
   <outline>
     <contour>
-      <point x="-65" y="1674" type="line"/>
-      <point x="-65" y="1240" type="line"/>
-      <point x="70" y="1240" type="line"/>
-      <point x="70" y="1674" type="line"/>
+      <point x="-54" y="1678" type="line"/>
+      <point x="-54" y="1240" type="line"/>
+      <point x="91" y="1240" type="line"/>
+      <point x="91" y="1678" type="line"/>
     </contour>
     <contour>
-      <point x="3" y="1843" type="curve" smooth="yes"/>
-      <point x="-38" y="1843"/>
-      <point x="-70" y="1830"/>
-      <point x="-70" y="1788" type="curve" smooth="yes"/>
-      <point x="-70" y="1749"/>
-      <point x="-38" y="1735"/>
-      <point x="3" y="1735" type="curve" smooth="yes"/>
-      <point x="43" y="1735"/>
-      <point x="76" y="1749"/>
-      <point x="76" y="1788" type="curve" smooth="yes"/>
-      <point x="76" y="1830"/>
-      <point x="43" y="1843"/>
+      <point x="20" y="1850" type="curve" smooth="yes"/>
+      <point x="-26" y="1850"/>
+      <point x="-60" y="1838"/>
+      <point x="-60" y="1790" type="curve" smooth="yes"/>
+      <point x="-60" y="1745"/>
+      <point x="-26" y="1731"/>
+      <point x="20" y="1731" type="curve" smooth="yes"/>
+      <point x="63" y="1731"/>
+      <point x="99" y="1745"/>
+      <point x="99" y="1790" type="curve" smooth="yes"/>
+      <point x="99" y="1838"/>
+      <point x="63" y="1850"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bccf3f03ebda20acc9c7fb92a28dc9c15611619bf3f0e5d7a5a1f9ff8bab6ea1a74b2e23e9eeaa65785af58e923c4f736c98735823c1881f542abd31b0f9cfec</string>
+    <string>37a0069311fcc28306d4fd2e6e5925f506e74a0ad5c48f4d439d3741c7c5d333a9e3da6c4ea51ff9c48f4bebeb0b85f66b19be802d093977d61b426d3c34314b</string>
     <key>hintSetList</key>
     <array>
       <dict>

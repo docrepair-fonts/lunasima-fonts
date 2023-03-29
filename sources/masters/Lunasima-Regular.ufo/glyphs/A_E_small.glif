@@ -3,31 +3,31 @@
   <advance width="1439"/>
   <unicode hex="1D01"/>
   <anchor x="716" y="0" name="bottom"/>
-  <anchor x="716" y="1076" name="top"/>
+  <anchor x="716" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="1314" y="153" type="line"/>
-      <point x="899" y="153" type="line"/>
-      <point x="899" y="485" type="line"/>
-      <point x="1286" y="485" type="line"/>
-      <point x="1286" y="636" type="line"/>
-      <point x="899" y="636" type="line"/>
-      <point x="899" y="923" type="line"/>
-      <point x="1314" y="923" type="line"/>
-      <point x="1314" y="1075" type="line"/>
-      <point x="535" y="1075" type="line"/>
-      <point x="16" y="0" type="line"/>
-      <point x="219" y="0" type="line"/>
-      <point x="370" y="312" type="line"/>
-      <point x="707" y="312" type="line"/>
-      <point x="707" y="0" type="line"/>
-      <point x="1314" y="0" type="line"/>
+      <point x="1310" y="144" type="line"/>
+      <point x="885" y="144" type="line"/>
+      <point x="885" y="488" type="line"/>
+      <point x="1282" y="488" type="line"/>
+      <point x="1282" y="630" type="line"/>
+      <point x="885" y="630" type="line"/>
+      <point x="885" y="928" type="line"/>
+      <point x="1310" y="928" type="line"/>
+      <point x="1310" y="1072" type="line"/>
+      <point x="546" y="1072" type="line"/>
+      <point x="17" y="0" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="366" y="322" type="line"/>
+      <point x="706" y="322" type="line"/>
+      <point x="706" y="0" type="line"/>
+      <point x="1310" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="653" y="919" type="line"/>
-      <point x="707" y="919" type="line"/>
-      <point x="707" y="467" type="line"/>
-      <point x="440" y="467" type="line"/>
+      <point x="656" y="926" type="line"/>
+      <point x="706" y="926" type="line"/>
+      <point x="706" y="468" type="line"/>
+      <point x="434" y="468" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3d1d9dbf18a217b13f8f62306b0f8d0b9d8aefa1591aa8512d32107654c37e964c462a637091ac156d9a0db92a2bd59f93272f9b522daa23af7f7eb0798c8726</string>
+    <string>f6fd18953ffc5429ddbd37b1c95c3f7b49a75d7370324c5ba9238ddff78d6278fb2a8f2e71ff4e55ae1306133df780ed19770650f320198ab2253b4dddf87efc</string>
     <key>hintSetList</key>
     <array>
       <dict>

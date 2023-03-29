@@ -2,35 +2,35 @@
 <glyph name="Koppa-cy" format="2">
   <advance width="1372"/>
   <unicode hex="0480"/>
-  <anchor x="647" y="-480" name="bottom"/>
-  <anchor x="647" y="1428" name="top"/>
+  <anchor x="688" y="-480" name="bottom"/>
+  <anchor x="688" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="823" y="1448" type="curve" smooth="yes"/>
-      <point x="377" y="1448"/>
-      <point x="120" y="1146"/>
-      <point x="120" y="715" type="curve" smooth="yes"/>
-      <point x="120" y="288"/>
-      <point x="334" y="-19"/>
-      <point x="814" y="-19" type="curve"/>
-      <point x="814" y="-480" type="line"/>
-      <point x="1014" y="-480" type="line"/>
-      <point x="1014" y="157" type="line"/>
-      <point x="956" y="140"/>
-      <point x="889" y="134"/>
-      <point x="815" y="134" type="curve" smooth="yes"/>
-      <point x="475" y="134"/>
-      <point x="331" y="357"/>
-      <point x="331" y="713" type="curve" smooth="yes"/>
-      <point x="331" y="1073"/>
-      <point x="517" y="1297"/>
-      <point x="819" y="1297" type="curve" smooth="yes"/>
-      <point x="951" y="1297"/>
-      <point x="1061" y="1262"/>
-      <point x="1152" y="1219" type="curve"/>
-      <point x="1230" y="1365" type="line"/>
-      <point x="1117" y="1417"/>
-      <point x="971" y="1448"/>
+      <point x="882" y="1448" type="curve" smooth="yes"/>
+      <point x="408" y="1448"/>
+      <point x="132" y="1146"/>
+      <point x="132" y="714" type="curve" smooth="yes"/>
+      <point x="132" y="288"/>
+      <point x="331" y="-20"/>
+      <point x="867" y="-20" type="curve"/>
+      <point x="867" y="-480" type="line"/>
+      <point x="1047" y="-480" type="line"/>
+      <point x="1047" y="166" type="line"/>
+      <point x="995" y="148"/>
+      <point x="935" y="142"/>
+      <point x="870" y="142" type="curve" smooth="yes"/>
+      <point x="485" y="142"/>
+      <point x="326" y="362"/>
+      <point x="326" y="712" type="curve" smooth="yes"/>
+      <point x="326" y="1070"/>
+      <point x="536" y="1288"/>
+      <point x="878" y="1288" type="curve" smooth="yes"/>
+      <point x="1021" y="1288"/>
+      <point x="1138" y="1252"/>
+      <point x="1233" y="1210" type="curve"/>
+      <point x="1309" y="1364" type="line"/>
+      <point x="1195" y="1416"/>
+      <point x="1042" y="1448"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c8eb3f1879a60bf8e2d5de7f5a138038d73c9402ef9fdbb3dbfd612409f423a12ef4b791b21d5d3fc890a993c6a04bd49a1c2de9dc63c9355fda39eea8d123b3</string>
+    <string>ee90dbba7a98fe69548dc7697ffe6c00e42b911e20e627679f0ecb538bea95944de58dd6ba3dd58c8add8b69e941eae8bfc56e37b65588794dfe9a283c5ff5da</string>
     <key>hintSetList</key>
     <array>
       <dict>

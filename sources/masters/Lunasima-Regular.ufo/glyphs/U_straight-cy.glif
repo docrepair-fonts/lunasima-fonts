@@ -2,19 +2,19 @@
 <glyph name="Ustraight-cy" format="2">
   <advance width="1269"/>
   <unicode hex="04AE"/>
-  <anchor x="576" y="0" name="bottom"/>
-  <anchor x="576" y="1428" name="top"/>
+  <anchor x="635" y="0" name="bottom"/>
+  <anchor x="635" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="218" y="1428" type="line"/>
+      <point x="197" y="1428" type="line"/>
       <point x="0" y="1428" type="line"/>
-      <point x="476" y="546" type="line"/>
-      <point x="476" y="0" type="line"/>
-      <point x="676" y="0" type="line"/>
-      <point x="676" y="554" type="line"/>
-      <point x="1151" y="1428" type="line"/>
-      <point x="936" y="1428" type="line"/>
-      <point x="576" y="717" type="line"/>
+      <point x="545" y="546" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="725" y="554" type="line"/>
+      <point x="1269" y="1428" type="line"/>
+      <point x="1075" y="1428" type="line"/>
+      <point x="635" y="726" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1269m218,1428l0,1428l476,546l476,0l676,0l676,554l1151,1428l936,1428l576,717</string>
+    <string>w1269m197,1428l0,1428l545,546l545,0l725,0l725,554l1269,1428l1075,1428l635,726</string>
     <key>hintSetList</key>
     <array>
       <dict>

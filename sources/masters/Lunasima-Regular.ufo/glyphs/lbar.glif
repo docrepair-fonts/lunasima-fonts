@@ -2,22 +2,22 @@
 <glyph name="lbar" format="2">
   <advance width="789"/>
   <unicode hex="019A"/>
-  <anchor x="267" y="0" name="bottom"/>
-  <anchor x="267" y="1520" name="top"/>
+  <anchor x="395" y="0" name="bottom"/>
+  <anchor x="395" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="367" y="0" type="line"/>
-      <point x="367" y="698" type="line"/>
-      <point x="505" y="698" type="line"/>
-      <point x="505" y="842" type="line"/>
-      <point x="367" y="842" type="line"/>
-      <point x="367" y="1520" type="line"/>
-      <point x="167" y="1520" type="line"/>
-      <point x="167" y="842" type="line"/>
-      <point x="30" y="842" type="line"/>
-      <point x="30" y="698" type="line"/>
-      <point x="167" y="698" type="line"/>
-      <point x="167" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="484" y="708" type="line"/>
+      <point x="702" y="708" type="line"/>
+      <point x="702" y="840" type="line"/>
+      <point x="484" y="840" type="line"/>
+      <point x="484" y="1520" type="line"/>
+      <point x="308" y="1520" type="line"/>
+      <point x="308" y="840" type="line"/>
+      <point x="88" y="840" type="line"/>
+      <point x="88" y="708" type="line"/>
+      <point x="308" y="708" type="line"/>
+      <point x="308" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w789m367,0l367,698l505,698l505,842l367,842l367,1520l167,1520l167,842l30,842l30,698l167,698l167,0</string>
+    <string>w789m484,0l484,708l702,708l702,840l484,840l484,1520l308,1520l308,840l88,840l88,708l308,708l308,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,48 +2,48 @@
 <glyph name="kcaron" format="2">
   <advance width="1197"/>
   <unicode hex="01E9"/>
-  <anchor x="552" y="0" name="bottom"/>
-  <anchor x="269" y="1977" name="top"/>
+  <anchor x="601" y="0" name="bottom"/>
+  <anchor x="289" y="1980" name="top"/>
   <outline>
     <contour>
-      <point x="368" y="1520" type="line"/>
-      <point x="169" y="1520" type="line"/>
-      <point x="169" y="0" type="line"/>
-      <point x="368" y="0" type="line"/>
-      <point x="368" y="386" type="line"/>
-      <point x="490" y="491" type="line"/>
-      <point x="847" y="0" type="line"/>
-      <point x="1085" y="0" type="line"/>
-      <point x="627" y="616" type="line"/>
-      <point x="1055" y="1076" type="line"/>
-      <point x="824" y="1076" type="line"/>
-      <point x="493" y="718" type="line" smooth="yes"/>
-      <point x="456" y="678"/>
-      <point x="391" y="592"/>
-      <point x="366" y="559" type="curve"/>
-      <point x="358" y="559" type="line"/>
-      <point x="361" y="612"/>
-      <point x="368" y="698"/>
-      <point x="368" y="744" type="curve" smooth="yes"/>
+      <point x="375" y="1520" type="line"/>
+      <point x="202" y="1520" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="375" y="394" type="line"/>
+      <point x="516" y="500" type="line"/>
+      <point x="963" y="0" type="line"/>
+      <point x="1178" y="0" type="line"/>
+      <point x="635" y="614" type="line"/>
+      <point x="1143" y="1072" type="line"/>
+      <point x="934" y="1072" type="line"/>
+      <point x="526" y="710" type="line"/>
+      <point x="484" y="670"/>
+      <point x="404" y="584"/>
+      <point x="377" y="552" type="curve"/>
+      <point x="368" y="552" type="line"/>
+      <point x="369" y="602"/>
+      <point x="375" y="684"/>
+      <point x="375" y="726" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="370" y="1657" type="line"/>
-      <point x="420" y="1748"/>
-      <point x="545" y="1876"/>
-      <point x="620" y="1951" type="curve"/>
-      <point x="620" y="1977" type="line"/>
-      <point x="482" y="1977" type="line"/>
-      <point x="412" y="1932"/>
-      <point x="338" y="1868"/>
-      <point x="266" y="1797" type="curve"/>
-      <point x="200" y="1868"/>
-      <point x="125" y="1932"/>
-      <point x="55" y="1977" type="curve"/>
-      <point x="-80" y="1977" type="line"/>
-      <point x="-80" y="1951" type="line"/>
-      <point x="-8" y="1876"/>
-      <point x="113" y="1748"/>
-      <point x="166" y="1657" type="curve"/>
+      <point x="377" y="1660" type="line"/>
+      <point x="430" y="1750"/>
+      <point x="577" y="1878"/>
+      <point x="666" y="1954" type="curve"/>
+      <point x="666" y="1980" type="line"/>
+      <point x="539" y="1980" type="line"/>
+      <point x="458" y="1934"/>
+      <point x="368" y="1868"/>
+      <point x="284" y="1796" type="curve"/>
+      <point x="209" y="1868"/>
+      <point x="115" y="1934"/>
+      <point x="34" y="1980" type="curve"/>
+      <point x="-88" y="1980" type="line"/>
+      <point x="-88" y="1954" type="line"/>
+      <point x="-5" y="1878"/>
+      <point x="137" y="1750"/>
+      <point x="196" y="1660" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +55,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2c59acb19abf386abf3ad2f8492d08ee93e5a412b4f4543a4d7dd720aa647208d7d9cc87ee740338ab4e14d32b8c092b58ecbdc2e3726c5b0090104298f785b5</string>
+    <string>73462c19f42f5d3d2d86939e19b4468a54aa9fb921b627f119f07745d4b894e368a360086b55fb85bbe3e3b6949be9f142c43155257da29d1aecf0db43fd73bf</string>
     <key>hintSetList</key>
     <array>
       <dict>

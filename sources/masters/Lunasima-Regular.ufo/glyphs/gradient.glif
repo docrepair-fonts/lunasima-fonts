@@ -1,46 +1,46 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gradient" format="2">
   <advance width="1434"/>
   <unicode hex="2207"/>
   <outline>
     <contour>
-      <point x="302" y="1322" type="line"/>
-      <point x="894" y="-32" type="line"/>
-      <point x="1106" y="-32" type="line"/>
-      <point x="1694" y="1322" type="line"/>
-      <point x="1694" y="1434" type="line"/>
-      <point x="302" y="1434" type="line"/>
+      <point x="217" y="1322" type="line"/>
+      <point x="642" y="-32" type="line"/>
+      <point x="793" y="-32" type="line"/>
+      <point x="1215" y="1322" type="line"/>
+      <point x="1215" y="1434" type="line"/>
+      <point x="217" y="1434" type="line"/>
     </contour>
     <contour>
-      <point x="1480" y="1276" type="line"/>
-      <point x="1192" y="604" type="line"/>
-      <point x="1002" y="132" type="line"/>
-      <point x="992" y="132" type="line"/>
-      <point x="800" y="604" type="line"/>
-      <point x="514" y="1276" type="line"/>
+      <point x="1062" y="1276" type="line"/>
+      <point x="855" y="604" type="line"/>
+      <point x="719" y="132" type="line"/>
+      <point x="712" y="132" type="line"/>
+      <point x="574" y="604" type="line"/>
+      <point x="369" y="1276" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.863,1,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.863,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1434m217,1322l642,-32l793,-32l1215,1322l1215,1434l217,1434m1062,1276l855,604l719,132l712,132l574,604l369,1276</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -32 21</string>
-              <string>hstem 1276 158</string>
-            </array>
-          </dict>
+          <string>hstem -32 21</string>
+          <string>hstem 1276 158</string>
         </array>
-        <key>id</key>
-        <string>w2000m302,1322l894,-32l1106,-32l1694,1322l1694,1434l302,1434m1480,1276l1192,604l1002,132l992,132l800,604l514,1276</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

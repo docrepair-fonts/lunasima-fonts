@@ -2,22 +2,22 @@
 <glyph name="Emod" format="2">
   <advance width="578"/>
   <unicode hex="1D31"/>
-  <anchor x="365" y="574" name="bottom"/>
-  <anchor x="365" y="1430" name="top"/>
+  <anchor x="289" y="574" name="bottom"/>
+  <anchor x="289" y="1430" name="top"/>
   <outline>
     <contour>
-      <point x="648" y="677" type="line"/>
-      <point x="260" y="677" type="line"/>
-      <point x="260" y="970" type="line"/>
-      <point x="626" y="970" type="line"/>
-      <point x="626" y="1072" type="line"/>
-      <point x="260" y="1072" type="line"/>
-      <point x="260" y="1328" type="line"/>
-      <point x="648" y="1328" type="line"/>
-      <point x="648" y="1430" type="line"/>
-      <point x="126" y="1430" type="line"/>
-      <point x="126" y="574" type="line"/>
-      <point x="648" y="574" type="line"/>
+      <point x="517" y="668" type="line"/>
+      <point x="214" y="668" type="line"/>
+      <point x="214" y="974" type="line"/>
+      <point x="499" y="974" type="line"/>
+      <point x="499" y="1068" type="line"/>
+      <point x="214" y="1068" type="line"/>
+      <point x="214" y="1336" type="line"/>
+      <point x="517" y="1336" type="line"/>
+      <point x="517" y="1430" type="line"/>
+      <point x="97" y="1430" type="line"/>
+      <point x="97" y="574" type="line"/>
+      <point x="517" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w578m648,677l260,677l260,970l626,970l626,1072l260,1072l260,1328l648,1328l648,1430l126,1430l126,574l648,574</string>
+    <string>w578m517,668l214,668l214,974l499,974l499,1068l214,1068l214,1336l517,1336l517,1430l97,1430l97,574l517,574</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="merkhaleft-hb" format="2">
   <unicode hex="05A5"/>
-  <anchor x="428" y="0" name="_bottomleft"/>
+  <anchor x="246" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="100" y="-448" type="line"/>
-      <point x="303" y="-448"/>
-      <point x="417" y="-339"/>
-      <point x="417" y="-156" type="curve"/>
-      <point x="311" y="-156" type="line"/>
-      <point x="311" y="-273"/>
-      <point x="232" y="-345"/>
-      <point x="100" y="-345" type="curve"/>
+      <point x="10" y="-448" type="line"/>
+      <point x="161" y="-448"/>
+      <point x="246" y="-337"/>
+      <point x="246" y="-149" type="curve"/>
+      <point x="167" y="-149" type="line"/>
+      <point x="167" y="-269"/>
+      <point x="108" y="-343"/>
+      <point x="10" y="-343" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m100,-448c303,-448 417,-339 417,-156l311,-156c311,-273 232,-345 100,-345</string>
+    <string>w0m10,-448c161,-448 246,-337 246,-149l167,-149c167,-269 108,-343 10,-343</string>
     <key>hintSetList</key>
     <array>
       <dict>

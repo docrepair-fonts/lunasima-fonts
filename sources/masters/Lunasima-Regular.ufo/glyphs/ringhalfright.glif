@@ -4,20 +4,20 @@
   <unicode hex="02BE"/>
   <outline>
     <contour>
-      <point x="60" y="1470" type="line"/>
-      <point x="128" y="1470"/>
-      <point x="167" y="1431"/>
-      <point x="167" y="1363" type="curve" smooth="yes"/>
-      <point x="167" y="1296"/>
-      <point x="122" y="1257"/>
-      <point x="60" y="1257" type="curve"/>
-      <point x="60" y="1150" type="line"/>
-      <point x="192" y="1150"/>
-      <point x="284" y="1230"/>
-      <point x="284" y="1364" type="curve" smooth="yes"/>
-      <point x="284" y="1499"/>
-      <point x="192" y="1578"/>
-      <point x="60" y="1578" type="curve"/>
+      <point x="117" y="1470" type="line"/>
+      <point x="242" y="1470"/>
+      <point x="304" y="1430"/>
+      <point x="304" y="1360" type="curve" smooth="yes"/>
+      <point x="304" y="1290"/>
+      <point x="224" y="1250"/>
+      <point x="117" y="1250" type="curve"/>
+      <point x="117" y="1150" type="line"/>
+      <point x="307" y="1150"/>
+      <point x="426" y="1228"/>
+      <point x="426" y="1360" type="curve" smooth="yes"/>
+      <point x="426" y="1494"/>
+      <point x="307" y="1572"/>
+      <point x="117" y="1572" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w543m60,1470c128,1470 167,1431 167,1363c167,1296 122,1257 60,1257l60,1150c192,1150 284,1230 284,1364c284,1499 192,1578 60,1578</string>
+    <string>be96c9fd8ed752cd3ae6deca46eb65733ec6d05688e221027fe5fe48e41f33c352fe64550270ca31123d4f902044a364f357ef89169f19d79afff2ea52b903c1</string>
     <key>hintSetList</key>
     <array>
       <dict>

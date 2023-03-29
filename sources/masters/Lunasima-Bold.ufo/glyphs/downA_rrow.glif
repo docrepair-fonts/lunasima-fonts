@@ -6,24 +6,24 @@
 arrowdown</note>
   <outline>
     <contour>
-      <point x="437" y="0" type="curve"/>
-      <point x="523" y="0" type="line"/>
-      <point x="572" y="98"/>
-      <point x="645" y="187"/>
-      <point x="743" y="269" type="curve"/>
-      <point x="743" y="395" type="line"/>
-      <point x="675" y="364"/>
-      <point x="615" y="330"/>
-      <point x="562" y="292" type="curve"/>
-      <point x="562" y="1394" type="line"/>
-      <point x="399" y="1394" type="line"/>
-      <point x="399" y="292" type="line"/>
-      <point x="346" y="330"/>
-      <point x="286" y="365"/>
-      <point x="218" y="396" type="curve"/>
-      <point x="218" y="269" type="line"/>
-      <point x="316" y="187"/>
-      <point x="389" y="97"/>
+      <point x="702" y="0" type="curve"/>
+      <point x="778" y="0" type="line"/>
+      <point x="849" y="100"/>
+      <point x="958" y="189"/>
+      <point x="1105" y="272" type="curve"/>
+      <point x="1105" y="433" type="line"/>
+      <point x="986" y="408"/>
+      <point x="891" y="375"/>
+      <point x="821" y="337" type="curve"/>
+      <point x="821" y="1400" type="line"/>
+      <point x="660" y="1400" type="line"/>
+      <point x="660" y="338" type="line"/>
+      <point x="590" y="376"/>
+      <point x="495" y="409"/>
+      <point x="376" y="434" type="curve"/>
+      <point x="376" y="272" type="line"/>
+      <point x="523" y="189"/>
+      <point x="632" y="98"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@ arrowdown</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0480a412b6f00616d61976c024d12bbec6a711afcf699897af171e91753a1dcb89ef1e615e5afe453411cee7da95d63e185b93704a5a880faf51413fe32ed8a1</string>
+    <string>0a3fa0e91da972e49d5501162708c328c29d7266fb5df87a64f774336eb835dfe07dbe507ddccf79acd5a6491d84c7613f0878e38ae34d553c984c67c14169b3</string>
     <key>hintSetList</key>
     <array>
       <dict>

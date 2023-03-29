@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shalshelet-hb" format="2">
   <unicode hex="0593"/>
-  <anchor x="244" y="1072" name="_top"/>
+  <anchor x="128" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="218" y="1318" type="line"/>
-      <point x="392" y="1403" type="line"/>
-      <point x="238" y="1488" type="line"/>
-      <point x="392" y="1573" type="line"/>
-      <point x="238" y="1658" type="line"/>
-      <point x="392" y="1742" type="line"/>
-      <point x="254" y="1742" type="line"/>
-      <point x="100" y="1658" type="line"/>
-      <point x="254" y="1573" type="line"/>
-      <point x="100" y="1488" type="line"/>
-      <point x="254" y="1403" type="line"/>
-      <point x="100" y="1318" type="line"/>
+      <point x="105" y="1318" type="line"/>
+      <point x="246" y="1402" type="line"/>
+      <point x="122" y="1486" type="line"/>
+      <point x="246" y="1570" type="line"/>
+      <point x="122" y="1654" type="line"/>
+      <point x="246" y="1738" type="line"/>
+      <point x="134" y="1738" type="line"/>
+      <point x="10" y="1654" type="line"/>
+      <point x="134" y="1570" type="line"/>
+      <point x="10" y="1486" type="line"/>
+      <point x="134" y="1402" type="line"/>
+      <point x="10" y="1318" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m218,1318l392,1403l238,1488l392,1573l238,1658l392,1742l254,1742l100,1658l254,1573l100,1488l254,1403l100,1318</string>
+    <string>w0m105,1318l246,1402l122,1486l246,1570l122,1654l246,1738l134,1738l10,1654l134,1570l10,1486l134,1402l10,1318</string>
     <key>hintSetList</key>
     <array>
       <dict>

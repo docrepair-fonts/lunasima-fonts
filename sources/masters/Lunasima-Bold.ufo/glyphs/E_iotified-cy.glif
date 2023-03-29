@@ -2,46 +2,46 @@
 <glyph name="Eiotified-cy" format="2">
   <advance width="1864"/>
   <unicode hex="0464"/>
-  <anchor x="1326" y="0" name="bottom"/>
-  <anchor x="1326" y="1428" name="top"/>
+  <anchor x="1346" y="0" name="bottom"/>
+  <anchor x="1346" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="1389" y="-20" type="curve" smooth="yes"/>
-      <point x="1553" y="-20"/>
-      <point x="1688" y="2"/>
-      <point x="1799" y="45" type="curve"/>
-      <point x="1799" y="244" type="line"/>
-      <point x="1671" y="207"/>
-      <point x="1559" y="180"/>
-      <point x="1416" y="180" type="curve" smooth="yes"/>
-      <point x="1164" y="180"/>
-      <point x="1035" y="347"/>
-      <point x="1023" y="634" type="curve"/>
-      <point x="1637" y="634" type="line"/>
-      <point x="1637" y="834" type="line"/>
-      <point x="1025" y="834" type="line"/>
-      <point x="1056" y="1106"/>
-      <point x="1192" y="1248"/>
-      <point x="1414" y="1248" type="curve" smooth="yes"/>
-      <point x="1550" y="1248"/>
-      <point x="1646" y="1206"/>
-      <point x="1745" y="1158" type="curve"/>
-      <point x="1847" y="1352" type="line"/>
-      <point x="1735" y="1406"/>
-      <point x="1586" y="1449"/>
-      <point x="1414" y="1448" type="curve" smooth="yes"/>
-      <point x="998" y="1447"/>
-      <point x="763" y="1202"/>
-      <point x="718" y="834" type="curve"/>
-      <point x="454" y="834" type="line"/>
-      <point x="454" y="1428" type="line" name=".hr01"/>
-      <point x="154" y="1428" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="454" y="0" type="line"/>
-      <point x="454" y="634" type="line"/>
-      <point x="714" y="634" type="line"/>
-      <point x="746" y="238"/>
-      <point x="957" y="-20" name=".hr02"/>
+      <point x="1413" y="-20" type="curve" smooth="yes"/>
+      <point x="1574" y="-20"/>
+      <point x="1713" y="8"/>
+      <point x="1823" y="53" type="curve"/>
+      <point x="1823" y="294" type="line"/>
+      <point x="1694" y="253"/>
+      <point x="1583" y="224"/>
+      <point x="1439" y="224" type="curve" smooth="yes"/>
+      <point x="1205" y="224"/>
+      <point x="1086" y="367"/>
+      <point x="1074" y="615" type="curve"/>
+      <point x="1664" y="615" type="line"/>
+      <point x="1664" y="842" type="line"/>
+      <point x="1075" y="842" type="line"/>
+      <point x="1104" y="1085"/>
+      <point x="1232" y="1206"/>
+      <point x="1436" y="1206" type="curve" smooth="yes"/>
+      <point x="1570" y="1206"/>
+      <point x="1663" y="1164"/>
+      <point x="1763" y="1112" type="curve"/>
+      <point x="1869" y="1348" type="line"/>
+      <point x="1757" y="1402"/>
+      <point x="1609" y="1447"/>
+      <point x="1435" y="1447" type="curve"/>
+      <point x="1026" y="1446"/>
+      <point x="795" y="1203"/>
+      <point x="748" y="842" type="curve"/>
+      <point x="504" y="842" type="line"/>
+      <point x="504" y="1428" type="line" name=".hr01"/>
+      <point x="184" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="614" type="line"/>
+      <point x="745" y="614" type="line"/>
+      <point x="780" y="229"/>
+      <point x="988" y="-20" name=".hr02"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>961260173101de42eec9b8314836a18c27e42b34b71e30514a01e44632d96dc10d00f618773a845d7cb79f890cb5a8bf9cffabb156d7f1c6b8a83f9b7aedc230</string>
+    <string>46d5f68ef9718ed8eb54e447c4a60394a2d3e148fe1146076d2246c8d7a3ba672b8f6e40d914490743fdb9f58e8f37008412aec015eb3ae8a5bd5fa7af4f6a51</string>
     <key>hintSetList</key>
     <array>
       <dict>

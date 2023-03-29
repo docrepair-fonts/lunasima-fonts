@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icomb" format="2">
   <unicode hex="0365"/>
-  <anchor x="65" y="1072" name="_top"/>
+  <anchor x="-8" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="-20" y="1670" type="line"/>
-      <point x="-20" y="1240" type="line"/>
-      <point x="71" y="1240" type="line"/>
-      <point x="71" y="1670" type="line"/>
+      <point x="-18" y="1668" type="line"/>
+      <point x="-18" y="1240" type="line"/>
+      <point x="63" y="1240" type="line"/>
+      <point x="63" y="1668" type="line"/>
     </contour>
     <contour>
-      <point x="27" y="1833" type="curve" smooth="yes"/>
-      <point x="-3" y="1833"/>
-      <point x="-26" y="1819"/>
-      <point x="-26" y="1785" type="curve" smooth="yes"/>
-      <point x="-26" y="1753"/>
-      <point x="-3" y="1739"/>
-      <point x="27" y="1739" type="curve" smooth="yes"/>
-      <point x="54" y="1739"/>
-      <point x="77" y="1753"/>
-      <point x="77" y="1785" type="curve" smooth="yes"/>
-      <point x="77" y="1819"/>
-      <point x="54" y="1833"/>
+      <point x="26" y="1830" type="curve" smooth="yes"/>
+      <point x="-6" y="1830"/>
+      <point x="-28" y="1816"/>
+      <point x="-28" y="1784" type="curve" smooth="yes"/>
+      <point x="-28" y="1754"/>
+      <point x="-6" y="1740"/>
+      <point x="26" y="1740" type="curve" smooth="yes"/>
+      <point x="51" y="1740"/>
+      <point x="72" y="1754"/>
+      <point x="72" y="1784" type="curve" smooth="yes"/>
+      <point x="72" y="1816"/>
+      <point x="51" y="1830"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>777d5072a2d4f7046c996b39af51b673328267441adac4f42c5fd51672dc65382a0b31fcad2c6f631301d8de9f17335d15746eab2d3fcdff8b3ddda765283575</string>
+    <string>491d833d7be872e48f93b7b224f23cc8731973eda7c64df0b3144db0a6529c355e0aa4a8407405aff427e72203c415c2f3754f513d363c4ef18da6b0e73a6809</string>
     <key>hintSetList</key>
     <array>
       <dict>

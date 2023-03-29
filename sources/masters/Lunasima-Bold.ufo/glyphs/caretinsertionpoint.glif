@@ -4,17 +4,17 @@
   <unicode hex="2041"/>
   <outline>
     <contour>
-      <point x="205" y="-480" type="line"/>
-      <point x="795" y="804" type="line"/>
-      <point x="628" y="804" type="line"/>
-      <point x="38" y="-480" type="line"/>
+      <point x="238" y="-480" type="line"/>
+      <point x="984" y="804" type="line"/>
+      <point x="792" y="804" type="line"/>
+      <point x="45" y="-480" type="line"/>
     </contour>
     <contour>
-      <point x="772" y="-480" type="line"/>
-      <point x="473" y="150" type="line"/>
-      <point x="352" y="111" type="line"/>
-      <point x="403" y="-10" type="line"/>
-      <point x="605" y="-480" type="line"/>
+      <point x="942" y="-480" type="line"/>
+      <point x="572" y="159" type="line"/>
+      <point x="436" y="115" type="line"/>
+      <point x="491" y="-21" type="line"/>
+      <point x="751" y="-480" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1024m205,-480l795,804l628,804l38,-480m772,-480l473,150l352,111l403,-10l605,-480</string>
+    <string>w1024m238,-480l984,804l792,804l45,-480m942,-480l572,159l436,115l491,-21l751,-480</string>
     <key>hintSetList</key>
     <array>
       <dict>

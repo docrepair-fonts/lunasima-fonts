@@ -6,46 +6,46 @@
 uni21E0</note>
   <outline>
     <contour>
-      <point x="436" y="394" type="curve"/>
-      <point x="524" y="394" type="line"/>
-      <point x="470" y="510"/>
-      <point x="416" y="598"/>
-      <point x="364" y="650" type="curve"/>
-      <point x="364" y="730" type="line"/>
-      <point x="416" y="782"/>
-      <point x="470" y="870"/>
-      <point x="524" y="986" type="curve"/>
-      <point x="436" y="986" type="line"/>
-      <point x="330" y="862"/>
-      <point x="218" y="770"/>
-      <point x="102" y="712" type="curve"/>
-      <point x="102" y="668" type="line"/>
-      <point x="218" y="610"/>
-      <point x="330" y="518"/>
+      <point x="533" y="394" type="curve"/>
+      <point x="642" y="394" type="line"/>
+      <point x="575" y="510"/>
+      <point x="509" y="598"/>
+      <point x="444" y="650" type="curve"/>
+      <point x="444" y="730" type="line"/>
+      <point x="509" y="782"/>
+      <point x="575" y="870"/>
+      <point x="642" y="986" type="curve"/>
+      <point x="533" y="986" type="line"/>
+      <point x="403" y="862"/>
+      <point x="265" y="770"/>
+      <point x="122" y="712" type="curve"/>
+      <point x="122" y="668" type="line"/>
+      <point x="265" y="610"/>
+      <point x="403" y="518"/>
     </contour>
     <contour>
-      <point x="304" y="636" type="line"/>
-      <point x="584" y="636" type="line"/>
-      <point x="584" y="744" type="line"/>
-      <point x="304" y="744" type="line"/>
+      <point x="371" y="636" type="line"/>
+      <point x="715" y="636" type="line"/>
+      <point x="715" y="744" type="line"/>
+      <point x="371" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="692" y="636" type="line"/>
-      <point x="912" y="636" type="line"/>
-      <point x="912" y="744" type="line"/>
-      <point x="692" y="744" type="line"/>
+      <point x="848" y="636" type="line"/>
+      <point x="1119" y="636" type="line"/>
+      <point x="1119" y="744" type="line"/>
+      <point x="848" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="1020" y="636" type="line"/>
-      <point x="1240" y="636" type="line"/>
-      <point x="1240" y="744" type="line"/>
-      <point x="1020" y="744" type="line"/>
+      <point x="1252" y="636" type="line"/>
+      <point x="1522" y="636" type="line"/>
+      <point x="1522" y="744" type="line"/>
+      <point x="1252" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="1348" y="636" type="line"/>
-      <point x="1568" y="636" type="line"/>
-      <point x="1568" y="744" type="line"/>
-      <point x="1348" y="744" type="line"/>
+      <point x="1655" y="636" type="line"/>
+      <point x="1926" y="636" type="line"/>
+      <point x="1926" y="744" type="line"/>
+      <point x="1655" y="744" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -63,7 +63,7 @@ uni21E0</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>13e8897d8fb09b3550ce65da49b1b360fcf5ec99f2774565a52471c26378c518b5c294ed45983e7b467690f7b82e1b5dbca47ebeb6744c4e6bea699444fc5c15</string>
+    <string>d89420e1f5a3d63b4277656664b8007fe7be289dfce69d64e7863923b5e83bb72c7d0b380e6721c7d866a788d32e74cc491ec2bfc3a546301f0b7082bf1359f9</string>
     <key>hintSetList</key>
     <array>
       <dict>

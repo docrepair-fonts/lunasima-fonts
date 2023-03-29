@@ -4,28 +4,28 @@
   <unicode hex="2057"/>
   <outline>
     <contour>
-      <point x="64" y="912" type="line"/>
-      <point x="270" y="912" type="line"/>
-      <point x="606" y="1428" type="line"/>
-      <point x="326" y="1428" type="line"/>
+      <point x="76" y="912" type="line"/>
+      <point x="296" y="912" type="line"/>
+      <point x="664" y="1428" type="line"/>
+      <point x="364" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="465" y="912" type="line"/>
-      <point x="672" y="912" type="line"/>
-      <point x="1007" y="1428" type="line"/>
-      <point x="727" y="1428" type="line"/>
+      <point x="513" y="912" type="line"/>
+      <point x="733" y="912" type="line"/>
+      <point x="1100" y="1428" type="line"/>
+      <point x="800" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="869" y="912" type="line"/>
-      <point x="1076" y="912" type="line"/>
-      <point x="1411" y="1428" type="line"/>
-      <point x="1131" y="1428" type="line"/>
+      <point x="952" y="912" type="line"/>
+      <point x="1172" y="912" type="line"/>
+      <point x="1539" y="1428" type="line"/>
+      <point x="1239" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="1271" y="912" type="line"/>
-      <point x="1477" y="912" type="line"/>
-      <point x="1812" y="1428" type="line"/>
-      <point x="1532" y="1428" type="line"/>
+      <point x="1388" y="912" type="line"/>
+      <point x="1608" y="912" type="line"/>
+      <point x="1976" y="1428" type="line"/>
+      <point x="1677" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>edebaf4e37b24fd1e3055571dbf4b4c7f9916b26236b43aa3e7e54a81514abc6e0223725e297b916581d596b7eed36f487030c94712b795190cc07b7b76123d6</string>
+    <string>a33a8a6a568c52450bc1392c9b5e66e0a3d773cd03323f3265a6b10d65815ed42090a87d685659a3a94f41eddde29fcb2c6d6c8e585164e0bfb2d0f8a4355ac6</string>
     <key>hintSetList</key>
     <array>
       <dict>

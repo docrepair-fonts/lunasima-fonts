@@ -2,21 +2,21 @@
 <glyph name="plusbelowcomb" format="2">
   <unicode hex="031F"/>
   <anchor x="0" y="0" name="_bottom"/>
-  <anchor x="4" y="-456" name="bottom"/>
+  <anchor x="5" y="-456" name="bottom"/>
   <outline>
     <contour>
-      <point x="-66" y="-316" type="line"/>
-      <point x="-66" y="-456" type="line"/>
-      <point x="66" y="-456" type="line"/>
-      <point x="66" y="-316" type="line"/>
-      <point x="210" y="-316" type="line"/>
-      <point x="210" y="-196" type="line"/>
-      <point x="66" y="-196" type="line"/>
-      <point x="66" y="-56" type="line"/>
-      <point x="-66" y="-56" type="line"/>
-      <point x="-66" y="-196" type="line"/>
-      <point x="-210" y="-196" type="line"/>
-      <point x="-210" y="-316" type="line"/>
+      <point x="-72" y="-316" type="line"/>
+      <point x="-72" y="-456" type="line"/>
+      <point x="73" y="-456" type="line"/>
+      <point x="73" y="-316" type="line"/>
+      <point x="231" y="-316" type="line"/>
+      <point x="231" y="-196" type="line"/>
+      <point x="73" y="-196" type="line"/>
+      <point x="73" y="-56" type="line"/>
+      <point x="-72" y="-56" type="line"/>
+      <point x="-72" y="-196" type="line"/>
+      <point x="-231" y="-196" type="line"/>
+      <point x="-231" y="-316" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-66,-316l-66,-456l66,-456l66,-316l210,-316l210,-196l66,-196l66,-56l-66,-56l-66,-196l-210,-196l-210,-316</string>
+    <string>w0m-72,-316l-72,-456l73,-456l73,-316l231,-316l231,-196l73,-196l73,-56l-72,-56l-72,-196l-231,-196l-231,-316</string>
     <key>hintSetList</key>
     <array>
       <dict>

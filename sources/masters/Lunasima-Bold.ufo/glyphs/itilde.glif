@@ -2,11 +2,11 @@
 <glyph name="itilde" format="2">
   <advance width="666"/>
   <unicode hex="0129"/>
-  <anchor x="286" y="0" name="bottom"/>
-  <anchor x="284" y="1494" name="top"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="333" y="1513" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="tildecomb" xOffset="1043"/>
+    <component base="tildecomb" xOffset="1224"/>
   </outline>
   <lib>
   <dict>

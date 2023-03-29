@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tipehaleft-hb" format="2">
   <unicode hex="0596"/>
-  <anchor x="156" y="0" name="_bottomleft"/>
+  <anchor x="50" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="417" y="-345" type="line"/>
-      <point x="286" y="-345"/>
-      <point x="207" y="-275"/>
-      <point x="207" y="-156" type="curve"/>
-      <point x="100" y="-156" type="line"/>
-      <point x="100" y="-339"/>
-      <point x="217" y="-448"/>
-      <point x="417" y="-448" type="curve"/>
+      <point x="246" y="-343" type="line"/>
+      <point x="148" y="-343"/>
+      <point x="89" y="-271"/>
+      <point x="89" y="-149" type="curve"/>
+      <point x="10" y="-149" type="line"/>
+      <point x="10" y="-337"/>
+      <point x="96" y="-448"/>
+      <point x="246" y="-448" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m417,-345c286,-345 207,-275 207,-156l100,-156c100,-339 217,-448 417,-448</string>
+    <string>w0m246,-343c148,-343 89,-271 89,-149l10,-149c10,-337 96,-448 246,-448</string>
     <key>hintSetList</key>
     <array>
       <dict>

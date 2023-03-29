@@ -4,29 +4,29 @@
   <unicode hex="03DA"/>
   <outline>
     <contour>
-      <point x="914" y="0" type="line"/>
-      <point x="914" y="476" type="line"/>
-      <point x="815" y="476" type="line" smooth="yes"/>
-      <point x="551" y="476"/>
-      <point x="408" y="622"/>
-      <point x="408" y="862" type="curve" smooth="yes"/>
-      <point x="408" y="1104"/>
-      <point x="553" y="1248"/>
-      <point x="789" y="1248" type="curve" smooth="yes"/>
-      <point x="914" y="1248"/>
-      <point x="1009" y="1214"/>
-      <point x="1115" y="1167" type="curve"/>
-      <point x="1213" y="1360" type="line"/>
-      <point x="1084" y="1416"/>
-      <point x="926" y="1448"/>
-      <point x="782" y="1448" type="curve" smooth="yes"/>
-      <point x="348" y="1448"/>
-      <point x="102" y="1210"/>
-      <point x="102" y="863" type="curve" smooth="yes"/>
-      <point x="102" y="532"/>
-      <point x="301" y="324"/>
-      <point x="617" y="288" type="curve"/>
-      <point x="617" y="0" type="line"/>
+      <point x="1008" y="0" type="line"/>
+      <point x="1008" y="501" type="line"/>
+      <point x="902" y="501" type="line" smooth="yes"/>
+      <point x="607" y="501"/>
+      <point x="450" y="632"/>
+      <point x="450" y="855" type="curve" smooth="yes"/>
+      <point x="450" y="1085"/>
+      <point x="609" y="1210"/>
+      <point x="874" y="1210" type="curve" smooth="yes"/>
+      <point x="1013" y="1210"/>
+      <point x="1117" y="1174"/>
+      <point x="1232" y="1125" type="curve"/>
+      <point x="1338" y="1356" type="line"/>
+      <point x="1198" y="1416"/>
+      <point x="1027" y="1448"/>
+      <point x="867" y="1448" type="curve" smooth="yes"/>
+      <point x="390" y="1448"/>
+      <point x="122" y="1210"/>
+      <point x="122" y="857" type="curve" smooth="yes"/>
+      <point x="122" y="525"/>
+      <point x="340" y="318"/>
+      <point x="691" y="277" type="curve"/>
+      <point x="691" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4f105bce1cc2019121ae0b9f141ec88594a96d2e8c5840c117f98fa2fd64d0c454c70947595df9c14f2ced736da715c68baea06e42ef8e1a69591a9f62b9e425</string>
+    <string>5ac5963ab871e463b3b79ea2838fa499e844cfa6b236dbfd0e6d3695c5f3e85e7e69a55befae8a9c7c35cd2185ace3b802bba7871cc40097f0de252244a95a99</string>
     <key>hintSetList</key>
     <array>
       <dict>

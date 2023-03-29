@@ -2,41 +2,41 @@
 <glyph name="Icaron" format="2">
   <advance width="682"/>
   <unicode hex="01CF"/>
-  <anchor x="397" y="0" name="bottom"/>
-  <anchor x="397" y="1879" name="top"/>
+  <anchor x="339" y="0" name="bottom"/>
+  <anchor x="339" y="1871" name="top"/>
   <outline>
     <contour>
-      <point x="720" y="135" type="line"/>
-      <point x="546" y="181" type="line"/>
-      <point x="546" y="1247" type="line"/>
-      <point x="720" y="1294" type="line"/>
-      <point x="720" y="1428" type="line"/>
-      <point x="73" y="1428" type="line"/>
-      <point x="73" y="1294" type="line"/>
-      <point x="246" y="1247" type="line"/>
-      <point x="246" y="181" type="line"/>
-      <point x="73" y="135" type="line"/>
-      <point x="73" y="0" type="line"/>
-      <point x="720" y="0" type="line"/>
+      <point x="630" y="165" type="line"/>
+      <point x="499" y="218" type="line"/>
+      <point x="499" y="1211" type="line"/>
+      <point x="630" y="1264" type="line"/>
+      <point x="630" y="1428" type="line"/>
+      <point x="48" y="1428" type="line"/>
+      <point x="48" y="1264" type="line"/>
+      <point x="179" y="1211" type="line"/>
+      <point x="179" y="218" type="line"/>
+      <point x="48" y="165" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="630" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="547" y="1559" type="line"/>
-      <point x="604" y="1650"/>
-      <point x="726" y="1779"/>
-      <point x="797" y="1853" type="curve"/>
-      <point x="797" y="1879" type="line"/>
-      <point x="602" y="1879" type="line"/>
-      <point x="532" y="1835"/>
-      <point x="467" y="1774"/>
-      <point x="397" y="1706" type="curve"/>
-      <point x="328" y="1774"/>
-      <point x="266" y="1834"/>
-      <point x="196" y="1879" type="curve"/>
-      <point x="0" y="1879" type="line"/>
-      <point x="0" y="1853" type="line"/>
-      <point x="75" y="1778"/>
-      <point x="193" y="1650"/>
-      <point x="250" y="1559" type="curve"/>
+      <point x="501" y="1551" type="line"/>
+      <point x="549" y="1642"/>
+      <point x="634" y="1772"/>
+      <point x="682" y="1844" type="curve"/>
+      <point x="682" y="1871" type="line"/>
+      <point x="480" y="1871" type="line"/>
+      <point x="429" y="1828"/>
+      <point x="392" y="1772"/>
+      <point x="342" y="1707" type="curve"/>
+      <point x="291" y="1772"/>
+      <point x="259" y="1826"/>
+      <point x="209" y="1871" type="curve"/>
+      <point x="1" y="1871" type="line"/>
+      <point x="1" y="1844" type="line"/>
+      <point x="57" y="1770"/>
+      <point x="140" y="1642"/>
+      <point x="185" y="1551" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2f5f340eec3f49c8e2ea1f472f659e31886773665cf0eb56c0aa0a0d6afa1e8c5c1b1369d28dde59e5f0321e166ce19950d7b34d2b3f9c49923fff12fad690a9</string>
+    <string>0b9bafec8e7292378e228b595f8fc767a24918de334a0d1f31b992a01f5df50cef651ed7256e9575835bbab305c11181a5369cfb743ce7cfcee45c2f8b1dbd16</string>
     <key>hintSetList</key>
     <array>
       <dict>

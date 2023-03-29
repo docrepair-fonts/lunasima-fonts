@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shindot-hb" format="2">
   <unicode hex="05C1"/>
-  <anchor x="168" y="1072" name="_topright"/>
+  <anchor x="71" y="1072" name="_topright"/>
   <outline>
     <contour>
-      <point x="171" y="1323" type="curve" smooth="yes"/>
-      <point x="213" y="1323"/>
-      <point x="243" y="1347"/>
-      <point x="243" y="1400" type="curve" smooth="yes"/>
-      <point x="243" y="1450"/>
-      <point x="213" y="1474"/>
-      <point x="171" y="1474" type="curve" smooth="yes"/>
-      <point x="129" y="1474"/>
-      <point x="100" y="1450"/>
-      <point x="100" y="1400" type="curve" smooth="yes"/>
-      <point x="100" y="1345"/>
-      <point x="129" y="1323"/>
+      <point x="69" y="1320" type="curve" smooth="yes"/>
+      <point x="104" y="1320"/>
+      <point x="130" y="1344"/>
+      <point x="130" y="1396" type="curve" smooth="yes"/>
+      <point x="130" y="1446"/>
+      <point x="104" y="1470"/>
+      <point x="69" y="1470" type="curve" smooth="yes"/>
+      <point x="35" y="1470"/>
+      <point x="10" y="1446"/>
+      <point x="10" y="1396" type="curve" smooth="yes"/>
+      <point x="10" y="1342"/>
+      <point x="35" y="1320"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m171,1323c213,1323 243,1347 243,1400c243,1450 213,1474 171,1474c129,1474 100,1450 100,1400c100,1345 129,1323 171,1323</string>
+    <string>w0m69,1320c104,1320 130,1344 130,1396c130,1446 104,1470 69,1470c35,1470 10,1446 10,1396c10,1342 35,1320 69,1320</string>
     <key>hintSetList</key>
     <array>
       <dict>

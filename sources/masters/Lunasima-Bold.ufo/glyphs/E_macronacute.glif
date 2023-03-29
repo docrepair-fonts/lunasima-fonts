@@ -2,40 +2,40 @@
 <glyph name="Emacronacute" format="2">
   <advance width="1230"/>
   <unicode hex="1E16"/>
-  <anchor x="578" y="0" name="bottom"/>
-  <anchor x="575" y="1842" name="top"/>
+  <anchor x="661" y="0" name="bottom"/>
+  <anchor x="660" y="1840" name="top"/>
   <outline>
     <contour>
-      <point x="981" y="200" type="line"/>
-      <point x="453" y="200" type="line"/>
-      <point x="453" y="643" type="line"/>
-      <point x="946" y="643" type="line"/>
-      <point x="946" y="843" type="line"/>
-      <point x="453" y="843" type="line"/>
-      <point x="453" y="1228" type="line"/>
-      <point x="981" y="1228" type="line"/>
-      <point x="981" y="1428" type="line"/>
-      <point x="154" y="1428" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="981" y="0" type="line"/>
+      <point x="1115" y="239" type="line"/>
+      <point x="503" y="239" type="line"/>
+      <point x="503" y="625" type="line"/>
+      <point x="1076" y="625" type="line"/>
+      <point x="1076" y="861" type="line"/>
+      <point x="503" y="861" type="line"/>
+      <point x="503" y="1192" type="line"/>
+      <point x="1115" y="1192" type="line"/>
+      <point x="1115" y="1428" type="line"/>
+      <point x="184" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="1115" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="416" y="1849" type="line"/>
-      <point x="612" y="1849" type="line"/>
-      <point x="703" y="1915"/>
-      <point x="852" y="2039"/>
-      <point x="912" y="2114" type="curve"/>
-      <point x="912" y="2138" type="line"/>
-      <point x="595" y="2138" type="line"/>
-      <point x="557" y="2053"/>
-      <point x="467" y="1943"/>
-      <point x="416" y="1875" type="curve"/>
+      <point x="486" y="1853" type="line"/>
+      <point x="694" y="1853" type="line"/>
+      <point x="798" y="1914"/>
+      <point x="966" y="2037"/>
+      <point x="1031" y="2114" type="curve"/>
+      <point x="1031" y="2142" type="line"/>
+      <point x="690" y="2142" type="line"/>
+      <point x="646" y="2061"/>
+      <point x="545" y="1944"/>
+      <point x="486" y="1881" type="curve"/>
     </contour>
     <contour>
-      <point x="896" y="1608" type="line"/>
-      <point x="896" y="1769" type="line"/>
-      <point x="263" y="1769" type="line"/>
-      <point x="263" y="1608" type="line"/>
+      <point x="1020" y="1599" type="line"/>
+      <point x="1020" y="1781" type="line"/>
+      <point x="310" y="1781" type="line"/>
+      <point x="310" y="1599" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>108d365355a3c6c94439db4085308fe3a1457be5ec3e35179618397b92e082c9ee9f2c12f3e9a4e3537546073df77b0998c34aacb15cb92a0e7eec0f37adf0bb</string>
+    <string>770e75710fe7f8e863901371bf27227b580b97944a58c3cf26276e3500a79a0e233df0e05764069c3414b155eda02329043c2f70ef0175bdd97fa94226f42d7c</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,50 +1,50 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lozenge" format="2">
   <advance width="1351"/>
   <unicode hex="25CA"/>
   <outline>
     <contour>
-      <point x="388" y="754" type="line"/>
-      <point x="840" y="-22" type="line"/>
-      <point x="1162" y="-22" type="line"/>
-      <point x="1614" y="754" type="line"/>
-      <point x="1162" y="1532" type="line"/>
-      <point x="840" y="1532" type="line"/>
+      <point x="263" y="754" type="line"/>
+      <point x="568" y="-22" type="line"/>
+      <point x="786" y="-22" type="line"/>
+      <point x="1091" y="754" type="line"/>
+      <point x="786" y="1532" type="line"/>
+      <point x="568" y="1532" type="line"/>
     </contour>
     <contour>
-      <point x="1006" y="276" type="line"/>
-      <point x="996" y="276" type="line"/>
-      <point x="844" y="546" type="line"/>
-      <point x="726" y="754" type="line"/>
-      <point x="844" y="960" type="line"/>
-      <point x="996" y="1234" type="line"/>
-      <point x="1006" y="1234" type="line"/>
-      <point x="1156" y="960" type="line"/>
-      <point x="1274" y="754" type="line"/>
-      <point x="1156" y="546" type="line"/>
+      <point x="680" y="276" type="line"/>
+      <point x="673" y="276" type="line"/>
+      <point x="570" y="546" type="line"/>
+      <point x="491" y="754" type="line"/>
+      <point x="570" y="960" type="line"/>
+      <point x="673" y="1234" type="line"/>
+      <point x="680" y="1234" type="line"/>
+      <point x="782" y="960" type="line"/>
+      <point x="861" y="754" type="line"/>
+      <point x="782" y="546" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.863,1,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.863,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f079a84fd65f22db09e7bfaba727551c3375afa9de9eed5b9e9bfe2f9c2a78a9a2f4be0c6eb8ba1276d2e4639bde8863847ff46784195ae6ddb4c13c7d915df3</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -22 21</string>
-              <string>hstem 1532 -20</string>
-            </array>
-          </dict>
+          <string>hstem -22 21</string>
+          <string>hstem 1532 -20</string>
         </array>
-        <key>id</key>
-        <string>5b2470c8195988ea2e187a4454f00475565fc038a6f8eb5fa8b5523d31e63b21c78b237c5f533322b61fb6ad5f19b02eb403c66f34f8c7872acff0bbbd0925f8</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

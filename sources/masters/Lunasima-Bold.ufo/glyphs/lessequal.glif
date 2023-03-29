@@ -1,46 +1,46 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="2">
   <advance width="1628"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="1756" y="124" type="line"/>
-      <point x="274" y="724" type="line"/>
-      <point x="192" y="520" type="line"/>
-      <point x="1674" y="-80" type="line"/>
+      <point x="1430" y="124" type="line"/>
+      <point x="224" y="724" type="line"/>
+      <point x="157" y="520" type="line"/>
+      <point x="1363" y="-80" type="line"/>
     </contour>
     <contour>
-      <point x="832" y="1008" type="line"/>
-      <point x="832" y="1014" type="line"/>
-      <point x="1766" y="1390" type="line"/>
-      <point x="1676" y="1614" type="line"/>
-      <point x="194" y="1014" type="line"/>
-      <point x="194" y="1008" type="line"/>
-      <point x="1676" y="408" type="line"/>
-      <point x="1766" y="632" type="line"/>
+      <point x="678" y="1008" type="line"/>
+      <point x="678" y="1014" type="line"/>
+      <point x="1438" y="1390" type="line"/>
+      <point x="1365" y="1614" type="line"/>
+      <point x="158" y="1014" type="line"/>
+      <point x="158" y="1008" type="line"/>
+      <point x="1365" y="408" type="line"/>
+      <point x="1438" y="632" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.863,1,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.863,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1628m1430,124l224,724l157,520l1363,-80m678,1008l678,1014l1438,1390l1365,1614l158,1014l158,1008l1365,408l1438,632</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -80 21</string>
-              <string>hstem 1614 -20</string>
-            </array>
-          </dict>
+          <string>hstem -80 21</string>
+          <string>hstem 1614 -20</string>
         </array>
-        <key>id</key>
-        <string>w2000m1756,124l274,724l192,520l1674,-80m832,1008l832,1014l1766,1390l1676,1614l194,1014l194,1008l1676,408l1766,632</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -2,31 +2,31 @@
 <glyph name="ayin-hb" format="2">
   <advance width="1283"/>
   <unicode hex="05E2"/>
-  <anchor x="602" y="0" name="bottom"/>
-  <anchor x="30" y="0" name="bottomleft"/>
-  <anchor x="723" y="762" name="center"/>
-  <anchor x="686" y="1086" name="top"/>
-  <anchor x="-8" y="1086" name="topleft"/>
+  <anchor x="599" y="0" name="bottom"/>
+  <anchor x="36" y="0" name="bottomleft"/>
+  <anchor x="709" y="792" name="center"/>
+  <anchor x="678" y="1095" name="top"/>
+  <anchor x="3" y="1095" name="topleft"/>
   <outline>
     <contour>
-      <point x="454" y="0" type="line" smooth="yes"/>
-      <point x="1074" y="0"/>
-      <point x="1187" y="434"/>
-      <point x="1218" y="739" type="curve" smooth="yes"/>
-      <point x="1264" y="1198" type="line"/>
-      <point x="961" y="1198" type="line"/>
-      <point x="916" y="745" type="line" smooth="yes"/>
-      <point x="878" y="362"/>
-      <point x="730" y="228"/>
-      <point x="454" y="228" type="curve" smooth="yes"/>
-      <point x="30" y="228" type="line"/>
-      <point x="30" y="0" type="line"/>
+      <point x="457" y="0" type="line" smooth="yes"/>
+      <point x="1060" y="0"/>
+      <point x="1172" y="449"/>
+      <point x="1203" y="757" type="curve" smooth="yes"/>
+      <point x="1247" y="1207" type="line"/>
+      <point x="925" y="1207" type="line"/>
+      <point x="882" y="766" type="line" smooth="yes"/>
+      <point x="846" y="391"/>
+      <point x="708" y="266"/>
+      <point x="457" y="266" type="curve" smooth="yes"/>
+      <point x="36" y="266" type="line"/>
+      <point x="36" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="654" y="134" type="line"/>
-      <point x="410" y="1198" type="line"/>
-      <point x="108" y="1198" type="line"/>
-      <point x="373" y="134" type="line"/>
+      <point x="663" y="134" type="line"/>
+      <point x="430" y="1207" type="line"/>
+      <point x="107" y="1207" type="line"/>
+      <point x="366" y="134" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4f9552f48ce5bb284cfa64a9c3f775621cd3c931f340e1c2a602cc5d54be85514e0cc214b3a117917a7b311351102c067539f424ae92b39d84b2ee7609c7d972</string>
+    <string>ef9e47c21fa53b45963b041c0f7b2f360cca8e3e37093f27e87831f9add1935cfc91c68b72a9040a9aeea5f720651bcff691174239fc1a7651eb2feeae452f8f</string>
     <key>hintSetList</key>
     <array>
       <dict>

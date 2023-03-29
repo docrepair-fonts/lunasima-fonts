@@ -2,27 +2,27 @@
 <glyph name="Ustraightstroke-cy" format="2">
   <advance width="1406"/>
   <unicode hex="04B0"/>
-  <anchor x="623" y="0" name="bottom"/>
-  <anchor x="623" y="1428" name="top"/>
+  <anchor x="703" y="0" name="bottom"/>
+  <anchor x="703" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="773" y="0" type="line"/>
-      <point x="773" y="306" type="line"/>
-      <point x="1082" y="306" type="line"/>
-      <point x="1082" y="506" type="line"/>
-      <point x="773" y="506" type="line"/>
-      <point x="773" y="556" type="line"/>
-      <point x="1246" y="1428" type="line"/>
-      <point x="922" y="1428" type="line"/>
-      <point x="623" y="772" type="line"/>
-      <point x="326" y="1428" type="line"/>
+      <point x="863" y="0" type="line"/>
+      <point x="863" y="274" type="line"/>
+      <point x="1215" y="274" type="line"/>
+      <point x="1215" y="514" type="line"/>
+      <point x="863" y="514" type="line"/>
+      <point x="863" y="557" type="line"/>
+      <point x="1406" y="1428" type="line"/>
+      <point x="1062" y="1428" type="line"/>
+      <point x="703" y="816" type="line"/>
+      <point x="348" y="1428" type="line"/>
       <point x="0" y="1428" type="line"/>
-      <point x="473" y="546" type="line"/>
-      <point x="473" y="506" type="line"/>
-      <point x="163" y="506" type="line"/>
-      <point x="163" y="306" type="line"/>
-      <point x="473" y="306" type="line"/>
-      <point x="473" y="0" type="line"/>
+      <point x="543" y="546" type="line"/>
+      <point x="543" y="514" type="line"/>
+      <point x="191" y="514" type="line"/>
+      <point x="191" y="274" type="line"/>
+      <point x="543" y="274" type="line"/>
+      <point x="543" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d39ff1c4ed0f0e74a6512f46d5b01acb3a8f49f09647d1fd823c6dde0d1da00659a8a363cd67c4c53ca536a0e813a7bae8ce2683eef9bbfc144d0fc5a6de7967</string>
+    <string>3ac6686d8780c037b7a5885db6d57c23564c5daa6fb8bca63387dd94c003a090bb372d87018e68b022c89db68f5c09c85a190b9a38a8966181a6388c3b66dea4</string>
     <key>hintSetList</key>
     <array>
       <dict>

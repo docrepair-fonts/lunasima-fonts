@@ -2,20 +2,20 @@
 <glyph name="vavholam-hb" format="2">
   <advance width="655"/>
   <unicode hex="FB4B"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="36" y="0" name="bottomleft"/>
-  <anchor x="26" y="602" name="center"/>
-  <anchor x="272" y="1076" name="top"/>
+  <anchor x="328" y="0" name="bottom"/>
+  <anchor x="-5" y="0" name="bottomleft"/>
+  <anchor x="32" y="600" name="center"/>
+  <anchor x="328" y="1072" name="top"/>
   <outline>
     <component base="vav-hb"/>
-    <component base="holam-hb" xOffset="218" yOffset="4"/>
+    <component base="holam-hb" xOffset="328"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>vav-hb+holam-hb</string>
+  <string>'vav-hb'+'holam-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

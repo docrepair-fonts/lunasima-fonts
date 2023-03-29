@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dasiavaria.case" format="2">
-  <advance width="985"/>
-  <anchor x="1050" y="1428" name="_topleft"/>
+  <advance width="1048"/>
+  <anchor x="992" y="1428" name="_topleft"/>
   <outline>
     <contour>
-      <point x="375" y="1131" type="line"/>
-      <point x="343" y="1158"/>
-      <point x="321" y="1194"/>
-      <point x="321" y="1232" type="curve" smooth="yes"/>
-      <point x="321" y="1277"/>
-      <point x="347" y="1296"/>
-      <point x="387" y="1296" type="curve" smooth="yes"/>
-      <point x="411" y="1296"/>
-      <point x="429" y="1289"/>
-      <point x="440" y="1284" type="curve"/>
-      <point x="440" y="1416" type="line"/>
-      <point x="409" y="1425"/>
-      <point x="372" y="1436"/>
-      <point x="312" y="1436" type="curve" smooth="yes"/>
-      <point x="196" y="1436"/>
-      <point x="118" y="1386"/>
-      <point x="118" y="1280" type="curve" smooth="yes"/>
-      <point x="118" y="1190"/>
-      <point x="171" y="1125"/>
-      <point x="267" y="1075" type="curve"/>
+      <point x="408" y="1133" type="line"/>
+      <point x="377" y="1160"/>
+      <point x="357" y="1190"/>
+      <point x="357" y="1224" type="curve" smooth="yes"/>
+      <point x="357" y="1261"/>
+      <point x="381" y="1283"/>
+      <point x="422" y="1283" type="curve" smooth="yes"/>
+      <point x="445" y="1283"/>
+      <point x="462" y="1276"/>
+      <point x="474" y="1271" type="curve"/>
+      <point x="474" y="1415" type="line"/>
+      <point x="440" y="1426"/>
+      <point x="402" y="1437"/>
+      <point x="341" y="1437" type="curve" smooth="yes"/>
+      <point x="222" y="1437"/>
+      <point x="141" y="1384"/>
+      <point x="141" y="1278" type="curve" smooth="yes"/>
+      <point x="141" y="1191"/>
+      <point x="193" y="1124"/>
+      <point x="295" y="1070" type="curve"/>
     </contour>
     <contour>
-      <point x="901" y="1088" type="line" name=".hr01"/>
-      <point x="901" y="1114" type="line"/>
-      <point x="806" y="1428" type="line"/>
-      <point x="482" y="1428" type="line"/>
-      <point x="482" y="1408" type="line"/>
-      <point x="713" y="1088" type="line"/>
+      <point x="952" y="1088" type="line" name=".hr01"/>
+      <point x="952" y="1115" type="line"/>
+      <point x="858" y="1428" type="line"/>
+      <point x="516" y="1428" type="line"/>
+      <point x="516" y="1408" type="line"/>
+      <point x="753" y="1088" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3dc63e3e88c9c2c34b29ce713388c4e29c93221ca11dcc3245758e4f6c43fdd1abdf13c24a167e334673100df871c81b97745bbee9a4e77fbca4d1f064098ee9</string>
+    <string>2d074a14f6c2238e1581ea9e9c5cd92eda8be1426017202727bfc1f82449b677be527d4697468009b5489c8f98b16b26e191bf394d3bd8dff12081b7946881cb</string>
     <key>hintSetList</key>
     <array>
       <dict>

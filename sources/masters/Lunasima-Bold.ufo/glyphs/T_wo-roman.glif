@@ -6,13 +6,37 @@
   <anchor x="1019" y="1428" name="top"/>
   <anchor x="1323" y="1428" name="topright"/>
   <outline>
-    <component base="I"/>
-    <component base="I" xOffset="679"/>
+    <contour>
+      <point x="308" y="165" type="line"/>
+      <point x="559" y="218" type="line"/>
+      <point x="559" y="1211" type="line"/>
+      <point x="550" y="1264" type="line"/>
+      <point x="550" y="1428" type="line"/>
+      <point x="351" y="1428" type="line"/>
+      <point x="351" y="1264" type="line"/>
+      <point x="100" y="1211" type="line"/>
+      <point x="100" y="218" type="line"/>
+      <point x="109" y="165" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="308" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1008" y="165" type="line"/>
+      <point x="1259" y="218" type="line"/>
+      <point x="1259" y="1211" type="line"/>
+      <point x="1249" y="1264" type="line"/>
+      <point x="1249" y="1428" type="line"/>
+      <point x="1051" y="1428" type="line"/>
+      <point x="1051" y="1264" type="line"/>
+      <point x="800" y="1211" type="line"/>
+      <point x="800" y="218" type="line"/>
+      <point x="809" y="165" type="line"/>
+      <point x="809" y="0" type="line"/>
+      <point x="1008" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>One-roman</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
@@ -21,6 +45,23 @@
       <string>2019/11/13 22:16:41</string>
       <key>public.markColor</key>
       <string>1,0.727,0.6,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 21</string>
+              <string>hstem 1408 20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c41bbf666baa21be072e0896210f3a8770202384f3abedba5cdd9b71a0a675419c7db78716972a1f90249b70b4c82ec22c637b82bbca3dbf7322ef400785694d</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

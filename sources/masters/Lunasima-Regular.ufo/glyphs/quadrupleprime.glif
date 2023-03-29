@@ -4,28 +4,28 @@
   <unicode hex="2057"/>
   <outline>
     <contour>
-      <point x="78" y="912" type="line"/>
-      <point x="211" y="912" type="line"/>
-      <point x="536" y="1428" type="line"/>
-      <point x="337" y="1428" type="line"/>
+      <point x="85" y="912" type="line"/>
+      <point x="197" y="912" type="line"/>
+      <point x="637" y="1428" type="line"/>
+      <point x="442" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="430" y="912" type="line"/>
-      <point x="563" y="912" type="line"/>
-      <point x="888" y="1428" type="line"/>
-      <point x="688" y="1428" type="line"/>
+      <point x="524" y="912" type="line"/>
+      <point x="636" y="912" type="line"/>
+      <point x="1075" y="1428" type="line"/>
+      <point x="880" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="782" y="912" type="line"/>
-      <point x="916" y="912" type="line"/>
-      <point x="1240" y="1428" type="line"/>
-      <point x="1041" y="1428" type="line"/>
+      <point x="962" y="912" type="line"/>
+      <point x="1073" y="912" type="line"/>
+      <point x="1513" y="1428" type="line"/>
+      <point x="1318" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="1134" y="912" type="line"/>
-      <point x="1267" y="912" type="line"/>
-      <point x="1592" y="1428" type="line"/>
-      <point x="1393" y="1428" type="line"/>
+      <point x="1400" y="912" type="line"/>
+      <point x="1511" y="912" type="line"/>
+      <point x="1951" y="1428" type="line"/>
+      <point x="1756" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7637ce78b51a4f5a93212185fbf79eb274b69da3d83832bcb9baa68e28448483bce47beeeea4ea9283a99b49a5df8d2aa485a81e64040b1f780c74ef5424ec93</string>
+    <string>fb613a91ca86e046bb228c3524144fe4f174b7b292f1f82ba7cbd407acfa95b0ded3dfcf4e18c59bbf5e8a3a6498329a7675e8af32fa97f232df47e4ca166c22</string>
     <key>hintSetList</key>
     <array>
       <dict>

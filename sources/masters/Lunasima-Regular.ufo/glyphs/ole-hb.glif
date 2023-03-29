@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ole-hb" format="2">
   <unicode hex="05AB"/>
-  <anchor x="250" y="1072" name="_top"/>
+  <anchor x="133" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="404" y="1297" type="line"/>
-      <point x="236" y="1465" type="line"/>
-      <point x="404" y="1632" type="line"/>
-      <point x="268" y="1632" type="line"/>
-      <point x="100" y="1465" type="line"/>
-      <point x="268" y="1297" type="line"/>
+      <point x="255" y="1300" type="line"/>
+      <point x="120" y="1466" type="line"/>
+      <point x="255" y="1632" type="line"/>
+      <point x="146" y="1632" type="line"/>
+      <point x="10" y="1466" type="line"/>
+      <point x="146" y="1300" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m404,1297l236,1465l404,1632l268,1632l100,1465l268,1297</string>
+    <string>w0m255,1300l120,1466l255,1632l146,1632l10,1466l146,1300</string>
     <key>hintSetList</key>
     <array>
       <dict>

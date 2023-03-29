@@ -6,32 +6,32 @@
 uni232B</note>
   <outline>
     <contour>
-      <point x="706" y="0" type="line"/>
-      <point x="2292" y="0" type="line"/>
-      <point x="2292" y="1388" type="line"/>
-      <point x="706" y="1388" type="line"/>
-      <point x="102" y="694" type="line"/>
+      <point x="736" y="0" type="line"/>
+      <point x="2374" y="0" type="line"/>
+      <point x="2374" y="1388" type="line"/>
+      <point x="736" y="1388" type="line"/>
+      <point x="112" y="694" type="line"/>
     </contour>
     <contour>
-      <point x="780" y="142" type="line"/>
-      <point x="296" y="694" type="line"/>
-      <point x="780" y="1246" type="line"/>
-      <point x="2148" y="1246" type="line"/>
-      <point x="2148" y="142" type="line"/>
+      <point x="813" y="142" type="line"/>
+      <point x="313" y="694" type="line"/>
+      <point x="813" y="1246" type="line"/>
+      <point x="2226" y="1246" type="line"/>
+      <point x="2226" y="142" type="line"/>
     </contour>
     <contour>
-      <point x="1070" y="220" type="line"/>
-      <point x="1420" y="588" type="line"/>
-      <point x="1770" y="220" type="line"/>
-      <point x="1876" y="320" type="line"/>
-      <point x="1520" y="694" type="line"/>
-      <point x="1876" y="1068" type="line"/>
-      <point x="1772" y="1168" type="line"/>
-      <point x="1420" y="798" type="line"/>
-      <point x="1068" y="1168" type="line"/>
-      <point x="964" y="1068" type="line"/>
-      <point x="1320" y="694" type="line"/>
-      <point x="964" y="320" type="line"/>
+      <point x="1112" y="220" type="line"/>
+      <point x="1474" y="588" type="line"/>
+      <point x="1835" y="220" type="line"/>
+      <point x="1945" y="320" type="line"/>
+      <point x="1577" y="694" type="line"/>
+      <point x="1945" y="1068" type="line"/>
+      <point x="1837" y="1168" type="line"/>
+      <point x="1474" y="798" type="line"/>
+      <point x="1110" y="1168" type="line"/>
+      <point x="1003" y="1068" type="line"/>
+      <point x="1371" y="694" type="line"/>
+      <point x="1003" y="320" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@ uni232B</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cad33c7deecb7c61eeaab507eb11444d01c6291496bc1b61178520a1b1294fe2cde51ce35528550c83bed18e4aabc7645d044090d1513275f8904782fc877b24</string>
+    <string>4eef0bab8c77d55f773f10f0b5009fb7d00e33107b8414f3224bf971187abec85b06dc1b0ff59248adf902f66db0038dc75a6643cfd454bf8d4fcacf53acb42b</string>
     <key>hintSetList</key>
     <array>
       <dict>

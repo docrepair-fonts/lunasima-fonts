@@ -1,26 +1,68 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nine-roman" format="2">
   <advance width="1785"/>
   <unicode hex="2168"/>
-  <anchor x="1231" y="0" name="bottom"/>
-  <anchor x="1230" y="1428" name="top"/>
-  <anchor x="1829" y="1428" name="topright"/>
+  <anchor x="1230" y="0" name="bottom"/>
+  <anchor x="1227" y="1428" name="top"/>
+  <anchor x="1748" y="1428" name="topright"/>
   <outline>
-    <component base="I"/>
-    <component base="X" xOffset="590"/>
+    <contour>
+      <point x="584" y="104" type="line"/>
+      <point x="426" y="142" type="line"/>
+      <point x="426" y="1284" type="line"/>
+      <point x="584" y="1324" type="line"/>
+      <point x="584" y="1428" type="line"/>
+      <point x="88" y="1428" type="line"/>
+      <point x="88" y="1324" type="line"/>
+      <point x="246" y="1284" type="line"/>
+      <point x="246" y="142" type="line"/>
+      <point x="88" y="104" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="584" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1332" y="748" type="line"/>
+      <point x="1746" y="1428" type="line"/>
+      <point x="1554" y="1428" type="line"/>
+      <point x="1231" y="868" type="line"/>
+      <point x="909" y="1428" type="line"/>
+      <point x="710" y="1428" type="line"/>
+      <point x="1124" y="744" type="line"/>
+      <point x="682" y="0" type="line"/>
+      <point x="873" y="0" type="line"/>
+      <point x="1226" y="620" type="line"/>
+      <point x="1573" y="0" type="line"/>
+      <point x="1777" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>One-roman</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>Ten-roman</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/13 22:16:41</string>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <string>One-roman</string>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <string>Ten-roman</string>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>11c234ab96eb80979fc9e6d86cd86714bb9fc0912cbc998f52ecc2aadeba74d509d801fba572c150da3fcd0bee7ca0d2b81927f276885392e56a92e37ce49c82</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1408 20</string>
+          <string>vstem 262 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

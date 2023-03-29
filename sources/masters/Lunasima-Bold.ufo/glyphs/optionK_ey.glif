@@ -6,20 +6,20 @@
 uni2325</note>
   <outline>
     <contour>
-      <point x="1180" y="258" type="line"/>
-      <point x="1674" y="258" type="line"/>
-      <point x="1674" y="400" type="line"/>
-      <point x="1234" y="400" type="line"/>
-      <point x="596" y="1074" type="line"/>
-      <point x="102" y="1074" type="line"/>
-      <point x="102" y="932" type="line"/>
-      <point x="542" y="932" type="line"/>
+      <point x="1360" y="258" type="line"/>
+      <point x="1926" y="258" type="line"/>
+      <point x="1926" y="400" type="line"/>
+      <point x="1421" y="400" type="line"/>
+      <point x="689" y="1074" type="line"/>
+      <point x="122" y="1074" type="line"/>
+      <point x="122" y="932" type="line"/>
+      <point x="627" y="932" type="line"/>
     </contour>
     <contour>
-      <point x="1180" y="932" type="line"/>
-      <point x="1674" y="932" type="line"/>
-      <point x="1674" y="1074" type="line"/>
-      <point x="1180" y="1074" type="line"/>
+      <point x="1360" y="932" type="line"/>
+      <point x="1926" y="932" type="line"/>
+      <point x="1926" y="1074" type="line"/>
+      <point x="1360" y="1074" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@ uni2325</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w2048m1180,258l1674,258l1674,400l1234,400l596,1074l102,1074l102,932l542,932m1180,932l1674,932l1674,1074l1180,1074</string>
+    <string>w2048m1360,258l1926,258l1926,400l1421,400l689,1074l122,1074l122,932l627,932m1360,932l1926,932l1926,1074l1360,1074</string>
     <key>hintSetList</key>
     <array>
       <dict>

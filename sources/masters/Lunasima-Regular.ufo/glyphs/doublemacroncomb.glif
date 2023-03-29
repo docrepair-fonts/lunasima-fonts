@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="doublemacroncomb" format="2">
   <unicode hex="035E"/>
-  <anchor x="-400" y="1076" name="_top"/>
-  <anchor x="4" y="1352" name="top"/>
+  <anchor x="-440" y="1072" name="_top"/>
+  <anchor x="5" y="1352" name="top"/>
   <outline>
     <contour>
-      <point x="600" y="1352" type="line"/>
-      <point x="-600" y="1352" type="line"/>
-      <point x="-600" y="1247" type="line"/>
-      <point x="600" y="1247" type="line"/>
+      <point x="660" y="1352" type="line"/>
+      <point x="-660" y="1352" type="line"/>
+      <point x="-660" y="1250" type="line"/>
+      <point x="660" y="1250" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m600,1352l-600,1352l-600,1247l600,1247</string>
+    <string>w0m660,1352l-660,1352l-660,1250l660,1250</string>
     <key>hintSetList</key>
     <array>
       <dict>

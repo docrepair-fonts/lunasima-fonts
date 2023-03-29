@@ -2,19 +2,70 @@
 <glyph name="Eight-roman" format="2">
   <advance width="3211"/>
   <unicode hex="2167"/>
-  <anchor x="3129" y="0" name="bottom"/>
-  <anchor x="3129" y="1428" name="top"/>
-  <anchor x="3433" y="1428" name="topright"/>
+  <anchor x="3081" y="0" name="bottom"/>
+  <anchor x="3081" y="1428" name="top"/>
+  <anchor x="3411" y="1428" name="topright"/>
   <outline>
-    <component base="V"/>
-    <component base="I" xOffset="1431"/>
-    <component base="I" xOffset="2110"/>
-    <component base="I" xOffset="2789"/>
+    <contour>
+      <point x="787" y="1428" type="line"/>
+      <point x="624" y="612" type="line" smooth="yes"/>
+      <point x="605" y="512"/>
+      <point x="578" y="374"/>
+      <point x="572" y="288" type="curve"/>
+      <point x="567" y="374"/>
+      <point x="535" y="513"/>
+      <point x="518" y="612" type="curve"/>
+      <point x="359" y="1428" type="line"/>
+      <point x="0" y="1428" type="line"/>
+      <point x="384" y="0" type="line"/>
+      <point x="758" y="0" type="line"/>
+      <point x="1143" y="1428" type="line"/>
+    </contour>
+    <contour>
+      <point x="1837" y="165" type="line"/>
+      <point x="1691" y="218" type="line"/>
+      <point x="1691" y="1211" type="line"/>
+      <point x="1837" y="1264" type="line"/>
+      <point x="1837" y="1428" type="line"/>
+      <point x="1224" y="1428" type="line"/>
+      <point x="1224" y="1264" type="line"/>
+      <point x="1371" y="1211" type="line"/>
+      <point x="1371" y="218" type="line"/>
+      <point x="1224" y="165" type="line"/>
+      <point x="1224" y="0" type="line"/>
+      <point x="1837" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2612" y="165" type="line"/>
+      <point x="2466" y="218" type="line"/>
+      <point x="2466" y="1211" type="line"/>
+      <point x="2612" y="1264" type="line"/>
+      <point x="2612" y="1428" type="line"/>
+      <point x="1999" y="1428" type="line"/>
+      <point x="1999" y="1264" type="line"/>
+      <point x="2146" y="1211" type="line"/>
+      <point x="2146" y="218" type="line"/>
+      <point x="1999" y="165" type="line"/>
+      <point x="1999" y="0" type="line"/>
+      <point x="2612" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="3387" y="165" type="line"/>
+      <point x="3241" y="218" type="line"/>
+      <point x="3241" y="1211" type="line"/>
+      <point x="3387" y="1264" type="line"/>
+      <point x="3387" y="1428" type="line"/>
+      <point x="2774" y="1428" type="line"/>
+      <point x="2774" y="1264" type="line"/>
+      <point x="2921" y="1211" type="line"/>
+      <point x="2921" y="218" type="line"/>
+      <point x="2774" y="165" type="line"/>
+      <point x="2774" y="0" type="line"/>
+      <point x="3387" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>Five-roman</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
@@ -23,6 +74,23 @@
       <string>2019/11/13 22:16:41</string>
       <key>public.markColor</key>
       <string>1,0.727,0.6,1</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 21</string>
+              <string>hstem 1408 20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b5b3724610024d87b7419b51fc0053b9309532a3e59c17ce8bde4aa816af940544f5c4e9bf4a1485589fccf64e6eb00a218565515efa040c7dc3f1612c0c5233</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

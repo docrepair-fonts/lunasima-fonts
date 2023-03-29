@@ -7,14 +7,14 @@
   <outline>
     <contour>
       <point x="811" y="1072" type="line"/>
-      <point x="603" y="498" type="line" smooth="yes"/>
-      <point x="557" y="372"/>
+      <point x="603" y="498" type="line"/>
+      <point x="558" y="372"/>
       <point x="520" y="264"/>
       <point x="501" y="176" type="curve"/>
       <point x="494" y="176" type="line"/>
       <point x="476" y="264"/>
       <point x="442" y="368"/>
-      <point x="398" y="490" type="curve" smooth="yes"/>
+      <point x="398" y="490" type="curve"/>
       <point x="184" y="1072" type="line"/>
       <point x="0" y="1072" type="line"/>
       <point x="408" y="0" type="line"/>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b6c8cee7388328eafab9de68252f8833e3715cd65d224131fe1a3b04add9bde28770b9f49f68232cbcb097e75c290a9ebb007d5baae45b88977fa54ab875b090</string>
+    <string>d1adf7b0aafa0e1aac9cf1e0d74fbd11f18156a3b0d7f39f8989720d49650289c5942b38f05618e9101e7d8aece7b8fe6486fb5b981c31d6ae2932958696ea81</string>
     <key>hintSetList</key>
     <array>
       <dict>

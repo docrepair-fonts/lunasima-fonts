@@ -1,46 +1,46 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="summation" format="2">
   <advance width="1314"/>
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="652" y="150" type="line"/>
-      <point x="652" y="158" type="line"/>
-      <point x="1182" y="728" type="line"/>
-      <point x="684" y="1296" type="line"/>
-      <point x="684" y="1304" type="line"/>
-      <point x="1524" y="1304" type="line"/>
-      <point x="1524" y="1452" type="line"/>
-      <point x="434" y="1452" type="line"/>
-      <point x="434" y="1340" type="line"/>
-      <point x="976" y="724" type="line"/>
-      <point x="402" y="106" type="line"/>
-      <point x="402" y="0" type="line"/>
-      <point x="1598" y="0" type="line"/>
-      <point x="1598" y="150" type="line"/>
+      <point x="429" y="150" type="line"/>
+      <point x="429" y="158" type="line"/>
+      <point x="777" y="728" type="line"/>
+      <point x="450" y="1296" type="line"/>
+      <point x="450" y="1304" type="line"/>
+      <point x="1002" y="1304" type="line"/>
+      <point x="1002" y="1452" type="line"/>
+      <point x="286" y="1452" type="line"/>
+      <point x="286" y="1340" type="line"/>
+      <point x="642" y="724" type="line"/>
+      <point x="265" y="106" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="1050" y="0" type="line"/>
+      <point x="1050" y="150" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.863,1,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.863,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1314m429,150l429,158l777,728l450,1296l450,1304l1002,1304l1002,1452l286,1452l286,1340l642,724l265,106l265,0l1050,0l1050,150</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 150</string>
-              <string>hstem 1304 148</string>
-            </array>
-          </dict>
+          <string>hstem 0 150</string>
+          <string>hstem 1304 148</string>
         </array>
-        <key>id</key>
-        <string>w2000m652,150l652,158l1182,728l684,1296l684,1304l1524,1304l1524,1452l434,1452l434,1340l976,724l402,106l402,0l1598,0l1598,150</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

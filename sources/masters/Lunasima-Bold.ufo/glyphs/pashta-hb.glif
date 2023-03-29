@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pashta-hb" format="2">
   <unicode hex="0599"/>
-  <anchor x="428" y="1106" name="_topleft"/>
+  <anchor x="246" y="1095" name="_topleft"/>
   <outline>
     <contour>
-      <point x="417" y="1300" type="line"/>
-      <point x="417" y="1488"/>
-      <point x="299" y="1594"/>
-      <point x="100" y="1594" type="curve"/>
-      <point x="100" y="1490" type="line"/>
-      <point x="236" y="1490"/>
-      <point x="311" y="1419"/>
-      <point x="311" y="1300" type="curve"/>
+      <point x="246" y="1300" type="line"/>
+      <point x="246" y="1492"/>
+      <point x="158" y="1601"/>
+      <point x="10" y="1601" type="curve"/>
+      <point x="10" y="1494" type="line"/>
+      <point x="111" y="1494"/>
+      <point x="167" y="1422"/>
+      <point x="167" y="1300" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m417,1300c417,1488 299,1594 100,1594l100,1490c236,1490 311,1419 311,1300</string>
+    <string>w0m246,1300c246,1492 158,1601 10,1601l10,1494c111,1494 167,1422 167,1300</string>
     <key>hintSetList</key>
     <array>
       <dict>

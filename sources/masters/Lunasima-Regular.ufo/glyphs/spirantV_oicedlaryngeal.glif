@@ -2,50 +2,50 @@
 <glyph name="spirantVoicedlaryngeal" format="2">
   <advance width="888"/>
   <unicode hex="1D24"/>
-  <anchor x="470" y="0" name="bottom"/>
-  <anchor x="467" y="1520" name="top"/>
+  <anchor x="481" y="0" name="bottom"/>
+  <anchor x="482" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="452" y="-20" type="curve" smooth="yes"/>
-      <point x="608" y="-20"/>
-      <point x="742" y="25"/>
-      <point x="848" y="94" type="curve"/>
-      <point x="773" y="239" type="line"/>
-      <point x="692" y="182"/>
-      <point x="571" y="141"/>
-      <point x="468" y="141" type="curve" smooth="yes"/>
-      <point x="310" y="141"/>
-      <point x="235" y="214"/>
-      <point x="235" y="340" type="curve" smooth="yes"/>
-      <point x="235" y="474"/>
-      <point x="340" y="581"/>
-      <point x="545" y="640" type="curve"/>
-      <point x="545" y="773" type="line"/>
-      <point x="757" y="877"/>
-      <point x="830" y="1034"/>
-      <point x="830" y="1179" type="curve" smooth="yes"/>
-      <point x="830" y="1393"/>
-      <point x="687" y="1530"/>
-      <point x="422" y="1530" type="curve" smooth="yes"/>
-      <point x="276" y="1530"/>
-      <point x="149" y="1488"/>
-      <point x="48" y="1420" type="curve"/>
-      <point x="122" y="1275" type="line"/>
-      <point x="193" y="1331"/>
-      <point x="300" y="1370"/>
-      <point x="406" y="1370" type="curve" smooth="yes"/>
-      <point x="550" y="1370"/>
-      <point x="625" y="1295"/>
-      <point x="625" y="1169" type="curve" smooth="yes"/>
-      <point x="625" y="1035"/>
-      <point x="531" y="930"/>
-      <point x="344" y="871" type="curve"/>
-      <point x="344" y="738" type="line"/>
-      <point x="111" y="634"/>
-      <point x="30" y="476"/>
-      <point x="30" y="330" type="curve" smooth="yes"/>
-      <point x="30" y="117"/>
-      <point x="176" y="-20"/>
+      <point x="465" y="-20" type="curve" smooth="yes"/>
+      <point x="623" y="-20"/>
+      <point x="758" y="24"/>
+      <point x="860" y="92" type="curve"/>
+      <point x="794" y="224" type="line"/>
+      <point x="703" y="164"/>
+      <point x="577" y="126"/>
+      <point x="476" y="126" type="curve" smooth="yes"/>
+      <point x="296" y="126"/>
+      <point x="213" y="202"/>
+      <point x="213" y="334" type="curve" smooth="yes"/>
+      <point x="213" y="476"/>
+      <point x="336" y="586"/>
+      <point x="541" y="644" type="curve"/>
+      <point x="541" y="774" type="line"/>
+      <point x="761" y="878"/>
+      <point x="839" y="1036"/>
+      <point x="839" y="1180" type="curve" smooth="yes"/>
+      <point x="839" y="1394"/>
+      <point x="696" y="1530"/>
+      <point x="425" y="1530" type="curve" smooth="yes"/>
+      <point x="280" y="1530"/>
+      <point x="151" y="1488"/>
+      <point x="55" y="1422" type="curve"/>
+      <point x="121" y="1290" type="line"/>
+      <point x="200" y="1348"/>
+      <point x="308" y="1384"/>
+      <point x="414" y="1384" type="curve" smooth="yes"/>
+      <point x="576" y="1384"/>
+      <point x="659" y="1306"/>
+      <point x="659" y="1174" type="curve" smooth="yes"/>
+      <point x="659" y="1032"/>
+      <point x="549" y="924"/>
+      <point x="366" y="866" type="curve"/>
+      <point x="366" y="736" type="line"/>
+      <point x="120" y="632"/>
+      <point x="33" y="472"/>
+      <point x="33" y="328" type="curve" smooth="yes"/>
+      <point x="33" y="114"/>
+      <point x="184" y="-20"/>
     </contour>
   </outline>
   <lib>
@@ -57,7 +57,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>002cf0ebea8b6fce946c64d896ce67f34b9606d7af6f3658ec74108c6e07b9562351e31f3b677dca4be11b8957dfd7e86097078db36215f75d41d9ed43ce1811</string>
+    <string>997e5f88bc45905ca63c0b1e4ec453ea96a59933576da0d8dbc5bf22a9d87655e90e251d2e6eb1beeb7d11eb96e11b4ad277881f1d268a74aaf26ce5ca70f126</string>
     <key>hintSetList</key>
     <array>
       <dict>

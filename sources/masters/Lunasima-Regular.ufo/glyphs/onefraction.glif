@@ -4,25 +4,25 @@
   <unicode hex="215F"/>
   <outline>
     <contour>
-      <point x="343" y="1428" type="line"/>
-      <point x="74" y="1237" type="line"/>
-      <point x="153" y="1133" type="line"/>
-      <point x="257" y="1210" type="line"/>
-      <point x="290" y="1233"/>
-      <point x="323" y="1263"/>
-      <point x="347" y="1287" type="curve"/>
-      <point x="343" y="1234"/>
-      <point x="339" y="1172"/>
-      <point x="339" y="1106" type="curve" smooth="yes"/>
-      <point x="339" y="572" type="line"/>
-      <point x="497" y="572" type="line"/>
-      <point x="497" y="1428" type="line"/>
+      <point x="332" y="1428" type="line"/>
+      <point x="81" y="1244" type="line"/>
+      <point x="151" y="1146" type="line"/>
+      <point x="253" y="1224" type="line" smooth="yes"/>
+      <point x="285" y="1248"/>
+      <point x="317" y="1278"/>
+      <point x="341" y="1302" type="curve"/>
+      <point x="337" y="1246"/>
+      <point x="334" y="1192"/>
+      <point x="334" y="1124" type="curve" smooth="yes"/>
+      <point x="334" y="572" type="line"/>
+      <point x="474" y="572" type="line"/>
+      <point x="474" y="1428" type="line"/>
     </contour>
     <contour>
-      <point x="1095" y="1428" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="406" y="0" type="line"/>
-      <point x="1262" y="1428" type="line"/>
+      <point x="1049" y="1428" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="371" y="0" type="line"/>
+      <point x="1197" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a7e965fdb32991683e1de3671a05c54b0ff75d6285206d3afc84f953fbea9afc3db0f7ccf9bf55786ee6565ec0be2bc73e385a2291512d2202172cffae942ec2</string>
+    <string>ee37de4b677df5dd9b74e2dc88c37b3589d757e9f398a0e6c0df27a7a531fba1f572859b389c841bb5b8147ce804a27e3862c8279099734f1ff6b2e559e51dc7</string>
     <key>hintSetList</key>
     <array>
       <dict>

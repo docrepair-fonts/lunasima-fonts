@@ -2,58 +2,58 @@
 <glyph name="oslashSideways" format="2">
   <advance width="1345"/>
   <unicode hex="1D13"/>
-  <anchor x="640" y="0" name="bottom"/>
-  <anchor x="640" y="1086" name="top"/>
+  <anchor x="674" y="0" name="bottom"/>
+  <anchor x="674" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="650" y="13" type="curve" smooth="yes"/>
-      <point x="832" y="13"/>
-      <point x="974" y="69"/>
-      <point x="1069" y="161" type="curve"/>
-      <point x="1180" y="81" type="line"/>
-      <point x="1272" y="218" type="line"/>
-      <point x="1162" y="293" type="line"/>
-      <point x="1195" y="364"/>
-      <point x="1214" y="449"/>
-      <point x="1214" y="541" type="curve" smooth="yes"/>
-      <point x="1214" y="872"/>
-      <point x="1011" y="1074"/>
-      <point x="650" y="1074" type="curve" smooth="yes"/>
-      <point x="463" y="1074"/>
-      <point x="320" y="1019"/>
-      <point x="223" y="923" type="curve"/>
-      <point x="100" y="1008" type="line"/>
-      <point x="6" y="872" type="line"/>
-      <point x="128" y="791" type="line"/>
-      <point x="97" y="719"/>
-      <point x="81" y="637"/>
-      <point x="81" y="547" type="curve" smooth="yes"/>
-      <point x="81" y="218"/>
-      <point x="286" y="13"/>
+      <point x="685" y="-3" type="curve" smooth="yes"/>
+      <point x="876" y="-3"/>
+      <point x="1025" y="59"/>
+      <point x="1125" y="159" type="curve"/>
+      <point x="1242" y="85" type="line"/>
+      <point x="1338" y="234" type="line"/>
+      <point x="1224" y="306" type="line"/>
+      <point x="1257" y="376"/>
+      <point x="1277" y="458"/>
+      <point x="1277" y="546" type="curve" smooth="yes"/>
+      <point x="1277" y="891"/>
+      <point x="1064" y="1101"/>
+      <point x="685" y="1101" type="curve" smooth="yes"/>
+      <point x="487" y="1101"/>
+      <point x="336" y="1040"/>
+      <point x="234" y="936" type="curve"/>
+      <point x="107" y="1018" type="line"/>
+      <point x="7" y="868" type="line"/>
+      <point x="136" y="787" type="line"/>
+      <point x="104" y="717"/>
+      <point x="88" y="638"/>
+      <point x="88" y="552" type="curve" smooth="yes"/>
+      <point x="88" y="208"/>
+      <point x="302" y="-3"/>
     </contour>
     <contour>
-      <point x="650" y="816" type="curve" smooth="yes"/>
-      <point x="873" y="816"/>
-      <point x="996" y="738"/>
-      <point x="996" y="545" type="curve" smooth="yes"/>
-      <point x="996" y="491"/>
-      <point x="986" y="445"/>
-      <point x="969" y="408" type="curve"/>
-      <point x="463" y="783" type="line"/>
-      <point x="514" y="807"/>
-      <point x="576" y="816"/>
+      <point x="685" y="796" type="curve" smooth="yes"/>
+      <point x="917" y="796"/>
+      <point x="1045" y="728"/>
+      <point x="1045" y="550" type="curve" smooth="yes"/>
+      <point x="1045" y="506"/>
+      <point x="1036" y="469"/>
+      <point x="1017" y="438" type="curve"/>
+      <point x="490" y="772" type="line"/>
+      <point x="543" y="790"/>
+      <point x="608" y="796"/>
     </contour>
     <contour>
-      <point x="650" y="271" type="curve" smooth="yes"/>
-      <point x="426" y="271"/>
-      <point x="299" y="349"/>
-      <point x="299" y="543" type="curve" smooth="yes"/>
-      <point x="299" y="594"/>
-      <point x="307" y="640"/>
-      <point x="323" y="674" type="curve"/>
-      <point x="825" y="302" type="line"/>
-      <point x="778" y="281"/>
-      <point x="718" y="271"/>
+      <point x="685" y="302" type="curve" smooth="yes"/>
+      <point x="452" y="302"/>
+      <point x="319" y="368"/>
+      <point x="319" y="548" type="curve" smooth="yes"/>
+      <point x="319" y="589"/>
+      <point x="326" y="625"/>
+      <point x="342" y="654" type="curve"/>
+      <point x="865" y="324" type="line"/>
+      <point x="817" y="308"/>
+      <point x="755" y="302"/>
     </contour>
   </outline>
   <lib>
@@ -65,7 +65,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d954dcd2c7c94bbe279db9846963b30762a85b1fdffbb784f441959dc2e2b0b8f5fc6e33dfcf137f311adcfe8d38dbc58517addccc8bec4aa1dec82f04bf970d</string>
+    <string>ad53b7732a1d05e4dcd69173019ea8864246d4627f47cf2438c3a966190a2d5c7d3fb6ba1b416f50501cb9c392c471a600b1405fe8df0997f0445c5da79252b8</string>
     <key>hintSetList</key>
     <array>
       <dict>

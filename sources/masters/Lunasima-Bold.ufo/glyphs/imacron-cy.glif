@@ -2,32 +2,32 @@
 <glyph name="imacron-cy" format="2">
   <advance width="1382"/>
   <unicode hex="04E3"/>
-  <anchor x="672" y="0" name="bottom"/>
-  <anchor x="672" y="1391" name="top"/>
+  <anchor x="692" y="0" name="bottom"/>
+  <anchor x="692" y="1413" name="top"/>
   <outline>
     <contour>
-      <point x="407" y="1086" type="line"/>
-      <point x="132" y="1086" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="466" y="0" type="line"/>
-      <point x="947" y="821" type="line"/>
-      <point x="940" y="755"/>
-      <point x="936" y="617"/>
-      <point x="936" y="537" type="curve" smooth="yes"/>
-      <point x="936" y="0" type="line"/>
-      <point x="1210" y="0" type="line"/>
-      <point x="1210" y="1086" type="line"/>
-      <point x="874" y="1086" type="line"/>
-      <point x="394" y="266" type="line"/>
-      <point x="399" y="331"/>
-      <point x="407" y="457"/>
-      <point x="407" y="524" type="curve" smooth="yes"/>
+      <point x="451" y="1095" type="line"/>
+      <point x="158" y="1095" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="944" y="774" type="line"/>
+      <point x="936" y="699"/>
+      <point x="932" y="568"/>
+      <point x="932" y="478" type="curve" smooth="yes"/>
+      <point x="932" y="0" type="line"/>
+      <point x="1224" y="0" type="line"/>
+      <point x="1224" y="1095" type="line"/>
+      <point x="871" y="1095" type="line"/>
+      <point x="438" y="324" type="line"/>
+      <point x="443" y="395"/>
+      <point x="451" y="512"/>
+      <point x="451" y="590" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="354" y="1391" type="line"/>
-      <point x="354" y="1212" type="line"/>
-      <point x="1018" y="1212" type="line"/>
-      <point x="1018" y="1391" type="line"/>
+      <point x="379" y="1413" type="line"/>
+      <point x="379" y="1212" type="line"/>
+      <point x="1031" y="1212" type="line"/>
+      <point x="1031" y="1413" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0dc83212724f852c7fc3e574c503a9b1ed39ebb9befef37ead9c7b61e632e4fc2d8e85c575a45fba58a81103f51f9d655c488e5b8ce3de20f5deec75a1b4f188</string>
+    <string>164483c3b2ca5967e1d96959c3aca743a4bfad904308413fdc80b8c1be93c9f8f207b001095cafc9018963dd494ca5007c80a621d84d6b288d62c44998a04925</string>
     <key>hintSetList</key>
     <array>
       <dict>

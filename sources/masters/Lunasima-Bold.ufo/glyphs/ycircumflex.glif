@@ -4,10 +4,10 @@
   <unicode hex="0177"/>
   <anchor x="252" y="-480" name="bottom"/>
   <anchor x="1153" y="1095" name="topright"/>
-  <anchor x="596" y="1539" name="top"/>
+  <anchor x="596" y="1530" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="circumflexcomb" xOffset="649" yOffset="9"/>
+    <component base="circumflexcomb" xOffset="609"/>
   </outline>
   <lib>
   <dict>

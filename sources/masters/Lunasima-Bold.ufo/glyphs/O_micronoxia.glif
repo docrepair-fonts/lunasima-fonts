@@ -4,40 +4,40 @@
   <unicode hex="1FF9"/>
   <outline>
     <contour>
-      <point x="1803" y="716" type="curve" smooth="yes"/>
-      <point x="1803" y="1160"/>
-      <point x="1589" y="1450"/>
-      <point x="1127" y="1450" type="curve" smooth="yes"/>
-      <point x="659" y="1450"/>
-      <point x="445" y="1158"/>
-      <point x="445" y="718" type="curve" smooth="yes"/>
-      <point x="445" y="275"/>
-      <point x="659" y="-20"/>
-      <point x="1125" y="-20" type="curve" smooth="yes"/>
-      <point x="1589" y="-20"/>
-      <point x="1803" y="274"/>
+      <point x="1818" y="716" type="curve" smooth="yes"/>
+      <point x="1818" y="1160"/>
+      <point x="1609" y="1450"/>
+      <point x="1144" y="1450" type="curve" smooth="yes"/>
+      <point x="676" y="1450"/>
+      <point x="464" y="1160"/>
+      <point x="464" y="718" type="curve" smooth="yes"/>
+      <point x="464" y="274"/>
+      <point x="676" y="-20"/>
+      <point x="1142" y="-20" type="curve" smooth="yes"/>
+      <point x="1609" y="-20"/>
+      <point x="1818" y="274"/>
     </contour>
     <contour>
-      <point x="760" y="716" type="curve" smooth="yes"/>
-      <point x="760" y="1049"/>
-      <point x="868" y="1250"/>
-      <point x="1127" y="1250" type="curve" smooth="yes"/>
-      <point x="1384" y="1250"/>
-      <point x="1489" y="1049"/>
-      <point x="1489" y="716" type="curve" smooth="yes"/>
-      <point x="1489" y="384"/>
-      <point x="1384" y="180"/>
-      <point x="1125" y="180" type="curve" smooth="yes"/>
-      <point x="870" y="180"/>
-      <point x="760" y="384"/>
+      <point x="799" y="716" type="curve" smooth="yes"/>
+      <point x="799" y="1024"/>
+      <point x="899" y="1210"/>
+      <point x="1144" y="1210" type="curve" smooth="yes"/>
+      <point x="1386" y="1210"/>
+      <point x="1484" y="1024"/>
+      <point x="1484" y="716" type="curve" smooth="yes"/>
+      <point x="1484" y="409"/>
+      <point x="1386" y="223"/>
+      <point x="1142" y="223" type="curve" smooth="yes"/>
+      <point x="901" y="223"/>
+      <point x="799" y="409"/>
     </contour>
     <contour>
-      <point x="205" y="1088" type="line"/>
-      <point x="435" y="1408" type="line"/>
-      <point x="435" y="1428" type="line" name=".hr01"/>
-      <point x="115" y="1428" type="line"/>
-      <point x="20" y="1114" type="line"/>
-      <point x="20" y="1088" type="line"/>
+      <point x="221" y="1088" type="line"/>
+      <point x="455" y="1408" type="line"/>
+      <point x="455" y="1428" type="line" name=".hr01"/>
+      <point x="119" y="1428" type="line"/>
+      <point x="24" y="1115" type="line"/>
+      <point x="24" y="1088" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>984e69df3efa5e1ea03de9a770e8c51088a3247368232b30c9e239320dc71e64d3d37264809d59422aa7c19a6371771da8438c2f91fe15e4d003760dfb002457</string>
+    <string>c4506b957417d8b4a8fe9ce8775c95447baa082b83c7b23f2e491c1cdd8edccb7d4e0de0b03da2ab5d94b2f4bd2dd5cc3172cc722c0a1fb1982ad43c3a851330</string>
     <key>hintSetList</key>
     <array>
       <dict>

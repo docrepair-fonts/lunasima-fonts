@@ -2,21 +2,21 @@
 <glyph name="shinsindot-hb" format="2">
   <advance width="1473"/>
   <unicode hex="FB2B"/>
-  <anchor x="697" y="0" name="bottom"/>
-  <anchor x="163" y="0" name="bottomleft"/>
-  <anchor x="859" y="458" name="center"/>
-  <anchor x="785" y="1086" name="top"/>
-  <anchor x="1322" y="1086" name="topright"/>
+  <anchor x="679" y="0" name="bottom"/>
+  <anchor x="167" y="0" name="bottomleft"/>
+  <anchor x="836" y="473" name="center"/>
+  <anchor x="769" y="1095" name="top"/>
+  <anchor x="1277" y="1095" name="topright"/>
   <outline>
     <component base="shin-hb"/>
-    <component base="sindot-hb" xOffset="221" yOffset="-20"/>
+    <component base="sindot-hb" xOffset="287"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>shin-hb+sindot-hb</string>
+  <string>'shin-hb'+'sindot-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

@@ -4,21 +4,21 @@
   <unicode hex="212A"/>
   <outline>
     <contour>
-      <point x="796" y="802" type="line"/>
-      <point x="1295" y="1428" type="line"/>
-      <point x="963" y="1428" type="line"/>
-      <point x="627" y="995" type="line"/>
-      <point x="569" y="912"/>
-      <point x="507" y="829"/>
-      <point x="454" y="747" type="curve"/>
-      <point x="454" y="1428" type="line"/>
-      <point x="154" y="1428" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="454" y="0" type="line"/>
-      <point x="454" y="534" type="line"/>
-      <point x="582" y="646" type="line"/>
-      <point x="959" y="0" type="line"/>
-      <point x="1300" y="0" type="line"/>
+      <point x="880" y="797" type="line"/>
+      <point x="1456" y="1428" type="line"/>
+      <point x="1100" y="1428" type="line"/>
+      <point x="711" y="993" type="line"/>
+      <point x="641" y="920"/>
+      <point x="568" y="844"/>
+      <point x="504" y="768" type="curve"/>
+      <point x="504" y="1428" type="line"/>
+      <point x="184" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="515" type="line"/>
+      <point x="652" y="612" type="line"/>
+      <point x="1099" y="0" type="line"/>
+      <point x="1464" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1454m796,802l1295,1428l963,1428l627,995c569,912 507,829 454,747l454,1428l154,1428l154,0l454,0l454,534l582,646l959,0l1300,0</string>
+    <string>w1454m880,797l1456,1428l1100,1428l711,993c641,920 568,844 504,768l504,1428l184,1428l184,0l504,0l504,515l652,612l1099,0l1464,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -4,32 +4,32 @@
   <unicode hex="2080"/>
   <outline>
     <contour>
-      <point x="375" y="-278" type="curve" smooth="yes"/>
-      <point x="614" y="-278"/>
-      <point x="719" y="-112"/>
-      <point x="719" y="170" type="curve" smooth="yes"/>
-      <point x="719" y="454"/>
-      <point x="600" y="615"/>
-      <point x="375" y="615" type="curve" smooth="yes"/>
-      <point x="142" y="615"/>
-      <point x="40" y="452"/>
-      <point x="40" y="170" type="curve" smooth="yes"/>
-      <point x="40" y="-113"/>
-      <point x="156" y="-278"/>
+      <point x="490" y="-280" type="curve" smooth="yes"/>
+      <point x="805" y="-280"/>
+      <point x="939" y="-112"/>
+      <point x="939" y="170" type="curve" smooth="yes"/>
+      <point x="939" y="452"/>
+      <point x="786" y="616"/>
+      <point x="490" y="616" type="curve" smooth="yes"/>
+      <point x="183" y="616"/>
+      <point x="48" y="452"/>
+      <point x="48" y="170" type="curve" smooth="yes"/>
+      <point x="48" y="-111"/>
+      <point x="199" y="-280"/>
     </contour>
     <contour>
-      <point x="379" y="-117" type="curve" smooth="yes"/>
-      <point x="301" y="-117"/>
-      <point x="266" y="-32"/>
-      <point x="266" y="169" type="curve" smooth="yes"/>
-      <point x="266" y="372"/>
-      <point x="301" y="454"/>
-      <point x="379" y="454" type="curve" smooth="yes"/>
-      <point x="455" y="454"/>
-      <point x="493" y="371"/>
-      <point x="493" y="169" type="curve" smooth="yes"/>
-      <point x="493" y="-35"/>
-      <point x="455" y="-117"/>
+      <point x="492" y="-98" type="curve" smooth="yes"/>
+      <point x="357" y="-98"/>
+      <point x="300" y="-26"/>
+      <point x="300" y="168" type="curve" smooth="yes"/>
+      <point x="300" y="363"/>
+      <point x="357" y="432"/>
+      <point x="492" y="432" type="curve" smooth="yes"/>
+      <point x="627" y="432"/>
+      <point x="690" y="363"/>
+      <point x="690" y="168" type="curve" smooth="yes"/>
+      <point x="690" y="-28"/>
+      <point x="627" y="-98"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>da84d7a3fb1b10d95ce57dd90e002c8fca86c68353259806f6196c940ddcfaacef46e22a326f8afd205196ab86781a3bdc1a6f20aba80916eb76178e149e42fb</string>
+    <string>391ab6288d151ce3ef2d48e8dd19904e9021391fc78fd3f0e481e51535b39aebb6618917de478d42705dc466c6a8bb1aca9ddc1f8cba659b3db06f9ad49fc100</string>
     <key>hintSetList</key>
     <array>
       <dict>

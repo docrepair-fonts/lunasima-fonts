@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresiscomb" format="2">
   <unicode hex="0308"/>
-  <anchor x="-51" y="1086" name="_top"/>
-  <anchor x="-51" y="1479" name="top"/>
+  <anchor x="-3" y="1095" name="_top"/>
+  <anchor x="-3" y="1497" name="top"/>
   <outline>
     <contour>
-      <point x="-404" y="1370" type="curve" smooth="yes"/>
-      <point x="-404" y="1287"/>
-      <point x="-344" y="1249"/>
-      <point x="-267" y="1249" type="curve" smooth="yes"/>
-      <point x="-193" y="1249"/>
-      <point x="-128" y="1287"/>
-      <point x="-128" y="1370" type="curve" smooth="yes"/>
-      <point x="-128" y="1455"/>
-      <point x="-193" y="1491"/>
-      <point x="-267" y="1491" type="curve" smooth="yes"/>
-      <point x="-344" y="1491"/>
-      <point x="-404" y="1455"/>
+      <point x="-445" y="1374" type="curve" smooth="yes"/>
+      <point x="-445" y="1282"/>
+      <point x="-375" y="1240"/>
+      <point x="-286" y="1240" type="curve" smooth="yes"/>
+      <point x="-201" y="1240"/>
+      <point x="-127" y="1282"/>
+      <point x="-127" y="1374" type="curve" smooth="yes"/>
+      <point x="-127" y="1468"/>
+      <point x="-201" y="1510"/>
+      <point x="-286" y="1510" type="curve" smooth="yes"/>
+      <point x="-375" y="1510"/>
+      <point x="-445" y="1468"/>
     </contour>
     <contour>
-      <point x="27" y="1370" type="curve" smooth="yes"/>
-      <point x="27" y="1287"/>
-      <point x="87" y="1249"/>
-      <point x="165" y="1249" type="curve" smooth="yes"/>
-      <point x="239" y="1249"/>
-      <point x="304" y="1287"/>
-      <point x="304" y="1370" type="curve" smooth="yes"/>
-      <point x="304" y="1455"/>
-      <point x="239" y="1491"/>
-      <point x="165" y="1491" type="curve" smooth="yes"/>
-      <point x="87" y="1491"/>
-      <point x="27" y="1455"/>
+      <point x="125" y="1374" type="curve" smooth="yes"/>
+      <point x="125" y="1282"/>
+      <point x="195" y="1240"/>
+      <point x="282" y="1240" type="curve" smooth="yes"/>
+      <point x="367" y="1240"/>
+      <point x="441" y="1282"/>
+      <point x="441" y="1374" type="curve" smooth="yes"/>
+      <point x="441" y="1468"/>
+      <point x="367" y="1510"/>
+      <point x="282" y="1510" type="curve" smooth="yes"/>
+      <point x="195" y="1510"/>
+      <point x="125" y="1468"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>13de5826528f9bf9913bdb1186d6f9ccbc10b8cfad4a46b5d8b1b21629dadf11e9bd1cdf21611baf22d514e9b66952ef9975fe614f77a2968c151ecfa9598b48</string>
+    <string>d6d4eabd6c17621c191a9fa0883aa77de46559b51ce2c2d6ea869f98305268e3e324a8db05798021347dbab8753206798a41dccb3baab241a6fee5a1689b6bef</string>
     <key>hintSetList</key>
     <array>
       <dict>

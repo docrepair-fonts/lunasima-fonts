@@ -4,10 +4,10 @@
   <unicode hex="1E86"/>
   <anchor x="864" y="0" name="bottom"/>
   <anchor x="1712" y="1428" name="topright"/>
-  <anchor x="876" y="1833" name="top"/>
+  <anchor x="876" y="1830" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="dotaccentcomb" xOffset="865" yOffset="352"/>
+    <component base="dotaccentcomb" xOffset="877" yOffset="356"/>
   </outline>
   <lib>
   <dict>

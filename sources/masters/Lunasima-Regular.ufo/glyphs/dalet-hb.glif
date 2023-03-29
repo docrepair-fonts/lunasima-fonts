@@ -2,23 +2,23 @@
 <glyph name="dalet-hb" format="2">
   <advance width="1026"/>
   <unicode hex="05D3"/>
-  <anchor x="736" y="0" name="bottom"/>
-  <anchor x="294" y="0" name="bottomleft"/>
-  <anchor x="328" y="602" name="center"/>
-  <anchor x="522" y="1076" name="top"/>
-  <anchor x="-27" y="1076" name="topleft"/>
+  <anchor x="706" y="0" name="bottom"/>
+  <anchor x="312" y="0" name="bottomleft"/>
+  <anchor x="320" y="600" name="center"/>
+  <anchor x="498" y="1072" name="top"/>
+  <anchor x="-21" y="1072" name="topleft"/>
   <outline>
     <contour>
-      <point x="837" y="0" type="line"/>
-      <point x="837" y="1093" type="line"/>
-      <point x="634" y="1093" type="line"/>
-      <point x="634" y="0" type="line"/>
+      <point x="796" y="0" type="line"/>
+      <point x="796" y="1088" type="line"/>
+      <point x="616" y="1088" type="line"/>
+      <point x="616" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1019" y="1008" type="line"/>
-      <point x="1019" y="1188" type="line"/>
-      <point x="20" y="1188" type="line"/>
-      <point x="20" y="1008" type="line"/>
+      <point x="971" y="1018" type="line"/>
+      <point x="971" y="1184" type="line"/>
+      <point x="22" y="1184" type="line"/>
+      <point x="22" y="1018" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1026m837,0l837,1093l634,1093l634,0m1019,1008l1019,1188l20,1188l20,1008</string>
+    <string>w1026m796,0l796,1088l616,1088l616,0m971,1018l971,1184l22,1184l22,1018</string>
     <key>hintSetList</key>
     <array>
       <dict>

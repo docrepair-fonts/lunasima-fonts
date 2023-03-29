@@ -2,71 +2,71 @@
 <glyph name="udieresisgrave" format="2">
   <advance width="1271"/>
   <unicode hex="01DC"/>
-  <anchor x="600" y="0" name="bottom"/>
-  <anchor x="628" y="1745" name="top"/>
+  <anchor x="605" y="0" name="bottom"/>
+  <anchor x="635" y="1742" name="top"/>
   <outline>
     <contour>
-      <point x="886" y="1076" type="line"/>
-      <point x="886" y="524" type="line" smooth="yes"/>
-      <point x="886" y="277"/>
-      <point x="813" y="140"/>
-      <point x="586" y="140" type="curve" smooth="yes"/>
-      <point x="432" y="140"/>
-      <point x="360" y="224"/>
-      <point x="360" y="393" type="curve" smooth="yes"/>
-      <point x="360" y="1076" type="line"/>
-      <point x="158" y="1076" type="line"/>
-      <point x="158" y="372" type="line" smooth="yes"/>
-      <point x="158" y="99"/>
-      <point x="294" y="-20"/>
-      <point x="548" y="-20" type="curve" smooth="yes"/>
-      <point x="686" y="-20"/>
-      <point x="817" y="30"/>
-      <point x="887" y="142" type="curve"/>
-      <point x="897" y="142" type="line"/>
-      <point x="925" y="0" type="line" name=".hr01"/>
-      <point x="1086" y="0" type="line"/>
-      <point x="1086" y="1076" type="line"/>
+      <point x="908" y="1072" type="line"/>
+      <point x="908" y="514" type="line" smooth="yes"/>
+      <point x="908" y="264"/>
+      <point x="830" y="126"/>
+      <point x="591" y="126" type="curve" smooth="yes"/>
+      <point x="428" y="126"/>
+      <point x="352" y="210"/>
+      <point x="352" y="382" type="curve" smooth="yes"/>
+      <point x="352" y="1072" type="line"/>
+      <point x="173" y="1072" type="line"/>
+      <point x="173" y="370" type="line" smooth="yes"/>
+      <point x="173" y="98"/>
+      <point x="306" y="-20"/>
+      <point x="565" y="-20" type="curve" smooth="yes"/>
+      <point x="704" y="-20"/>
+      <point x="836" y="30"/>
+      <point x="906" y="142" type="curve"/>
+      <point x="914" y="142" type="line"/>
+      <point x="940" y="0" type="line" name=".hr01"/>
+      <point x="1084" y="0" type="line"/>
+      <point x="1084" y="1072" type="line"/>
     </contour>
     <contour>
-      <point x="317" y="1745" type="line"/>
-      <point x="317" y="1725" type="line"/>
-      <point x="368" y="1651"/>
-      <point x="513" y="1527"/>
-      <point x="606" y="1455" type="curve"/>
-      <point x="740" y="1455" type="line"/>
-      <point x="740" y="1480" type="line"/>
-      <point x="677" y="1554"/>
-      <point x="595" y="1655"/>
-      <point x="549" y="1745" type="curve"/>
+      <point x="340" y="1742" type="line"/>
+      <point x="340" y="1722" type="line"/>
+      <point x="386" y="1648"/>
+      <point x="533" y="1524"/>
+      <point x="625" y="1452" type="curve"/>
+      <point x="743" y="1452" type="line"/>
+      <point x="743" y="1476" type="line"/>
+      <point x="681" y="1550"/>
+      <point x="595" y="1652"/>
+      <point x="551" y="1742" type="curve"/>
     </contour>
     <contour>
-      <point x="438" y="1406" type="curve" smooth="yes"/>
-      <point x="383" y="1406"/>
-      <point x="337" y="1373"/>
-      <point x="337" y="1303" type="curve" smooth="yes"/>
-      <point x="337" y="1232"/>
-      <point x="383" y="1202"/>
-      <point x="438" y="1202" type="curve" smooth="yes"/>
-      <point x="492" y="1202"/>
-      <point x="536" y="1232"/>
-      <point x="536" y="1303" type="curve" smooth="yes"/>
-      <point x="536" y="1373"/>
-      <point x="492" y="1406"/>
+      <point x="446" y="1400" type="curve" smooth="yes"/>
+      <point x="396" y="1400"/>
+      <point x="352" y="1368"/>
+      <point x="352" y="1300" type="curve" smooth="yes"/>
+      <point x="352" y="1230"/>
+      <point x="396" y="1202"/>
+      <point x="446" y="1202" type="curve" smooth="yes"/>
+      <point x="496" y="1202"/>
+      <point x="539" y="1230"/>
+      <point x="539" y="1300" type="curve" smooth="yes"/>
+      <point x="539" y="1368"/>
+      <point x="496" y="1400"/>
     </contour>
     <contour>
-      <point x="815" y="1406" type="curve" smooth="yes"/>
-      <point x="761" y="1406"/>
-      <point x="715" y="1373"/>
-      <point x="715" y="1303" type="curve" smooth="yes"/>
-      <point x="715" y="1232"/>
-      <point x="761" y="1202"/>
-      <point x="815" y="1202" type="curve" smooth="yes"/>
-      <point x="872" y="1202"/>
-      <point x="916" y="1232"/>
-      <point x="916" y="1303" type="curve" smooth="yes"/>
-      <point x="916" y="1373"/>
-      <point x="872" y="1406"/>
+      <point x="822" y="1400" type="curve" smooth="yes"/>
+      <point x="772" y="1400"/>
+      <point x="728" y="1368"/>
+      <point x="728" y="1300" type="curve" smooth="yes"/>
+      <point x="728" y="1230"/>
+      <point x="772" y="1202"/>
+      <point x="822" y="1202" type="curve" smooth="yes"/>
+      <point x="874" y="1202"/>
+      <point x="916" y="1230"/>
+      <point x="916" y="1300" type="curve" smooth="yes"/>
+      <point x="916" y="1368"/>
+      <point x="874" y="1400"/>
     </contour>
   </outline>
   <lib>
@@ -78,26 +78,26 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ff109895f1238f51d83feb9b4defc6b242c309118b26aa2e8b62f00503ba0301abc9b49aaf05d13c6b30e478c2e88761c3bee68f487df99311f0f7d9279385f4</string>
+    <string>4716509f45860e8913733fb645c14de2a9433e8c9ab8ebea887e9ea5767a8caa0182c459a7f1de70a603b3d752e9b0add602f7f566a9ffbd318839aca97876a4</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 1742 -20</string>
           <string>vstem 199 178</string>
           <string>vstem 751 188</string>
           <string>hstem -20 146</string>
           <string>hstem 1202 198</string>
+          <string>hstem 1742 -20</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 21</string>
-          <string>hstem 1742 -20</string>
           <string>vstem 199 178</string>
           <string>vstem 751 188</string>
+          <string>hstem 1742 -20</string>
           <string>hstem 1202 198</string>
         </array>
         <key>pointTag</key>

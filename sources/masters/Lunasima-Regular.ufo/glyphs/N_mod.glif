@@ -2,28 +2,28 @@
 <glyph name="Nmod" format="2">
   <advance width="713"/>
   <unicode hex="1D3A"/>
-  <anchor x="503" y="574" name="bottom"/>
-  <anchor x="503" y="1430" name="top"/>
+  <anchor x="357" y="574" name="bottom"/>
+  <anchor x="357" y="1430" name="top"/>
   <outline>
     <contour>
-      <point x="880" y="1430" type="line"/>
-      <point x="756" y="1430" type="line"/>
-      <point x="756" y="957" type="line" smooth="yes"/>
-      <point x="756" y="881"/>
-      <point x="764" y="772"/>
-      <point x="766" y="733" type="curve"/>
-      <point x="761" y="733" type="line"/>
-      <point x="285" y="1430" type="line"/>
-      <point x="126" y="1430" type="line"/>
-      <point x="126" y="574" type="line"/>
-      <point x="248" y="574" type="line"/>
-      <point x="248" y="1044" type="line" smooth="yes"/>
-      <point x="248" y="1130"/>
-      <point x="242" y="1221"/>
-      <point x="238" y="1277" type="curve"/>
-      <point x="242" y="1277" type="line"/>
-      <point x="721" y="574" type="line"/>
-      <point x="880" y="574" type="line"/>
+      <point x="664" y="1430" type="line"/>
+      <point x="556" y="1430" type="line"/>
+      <point x="556" y="948" type="line" smooth="yes"/>
+      <point x="556" y="870"/>
+      <point x="563" y="760"/>
+      <point x="564" y="722" type="curve"/>
+      <point x="560" y="722" type="line"/>
+      <point x="191" y="1430" type="line"/>
+      <point x="50" y="1430" type="line"/>
+      <point x="50" y="574" type="line"/>
+      <point x="156" y="574" type="line"/>
+      <point x="156" y="1052" type="line" smooth="yes"/>
+      <point x="156" y="1140"/>
+      <point x="151" y="1230"/>
+      <point x="147" y="1286" type="curve"/>
+      <point x="151" y="1286" type="line"/>
+      <point x="522" y="574" type="line"/>
+      <point x="664" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>756edc6546be743c3bc8b2a7d33a4d4fafe43a9551c260c6b2092daf0f95bdea922cfc766dc323476743203c27ff1a6443f6af60c3942f1062a1e3261b625fc9</string>
+    <string>b1e4e63eb78c332c61bd99c42a7329f6eb7a9b73d292e83ec5eb7f8fec26a85c1e67d89a9f89c1503f46c142b625168cb2a8c5701c7d34fe9405021096c90074</string>
     <key>hintSetList</key>
     <array>
       <dict>

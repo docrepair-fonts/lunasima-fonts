@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
-  <anchor x="12" y="1076" name="_top"/>
-  <anchor x="16" y="1532" name="top"/>
+  <anchor x="1" y="1072" name="_top"/>
+  <anchor x="5" y="1532" name="top"/>
   <outline>
     <contour>
-      <point x="112" y="1212" type="line"/>
-      <point x="162" y="1303"/>
-      <point x="287" y="1431"/>
-      <point x="362" y="1506" type="curve"/>
-      <point x="362" y="1532" type="line"/>
-      <point x="224" y="1532" type="line"/>
-      <point x="154" y="1487"/>
-      <point x="80" y="1423"/>
-      <point x="9" y="1352" type="curve"/>
-      <point x="-58" y="1423"/>
-      <point x="-133" y="1487"/>
-      <point x="-203" y="1532" type="curve"/>
-      <point x="-338" y="1532" type="line"/>
-      <point x="-338" y="1506" type="line"/>
-      <point x="-266" y="1431"/>
-      <point x="-144" y="1303"/>
-      <point x="-91" y="1212" type="curve"/>
+      <point x="88" y="1212" type="line"/>
+      <point x="141" y="1302"/>
+      <point x="285" y="1430"/>
+      <point x="372" y="1506" type="curve"/>
+      <point x="372" y="1532" type="line"/>
+      <point x="246" y="1532" type="line"/>
+      <point x="166" y="1486"/>
+      <point x="78" y="1420"/>
+      <point x="-4" y="1348" type="curve"/>
+      <point x="-79" y="1420"/>
+      <point x="-171" y="1486"/>
+      <point x="-250" y="1532" type="curve"/>
+      <point x="-372" y="1532" type="line"/>
+      <point x="-372" y="1506" type="line"/>
+      <point x="-290" y="1430"/>
+      <point x="-151" y="1302"/>
+      <point x="-93" y="1212" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cddff35c23636b7fe6175e82d4e5ed07779a688549f5abff0b24b90ce6a09148a8123db45c91561a6e126d68bb247dd88863b9ce18baa54de561e040d9a7acd4</string>
+    <string>b623cfe8c010e7f5d0b00de783886d4a43c5f5d6d59bf8ffa9d4f683a402ff0cbdb14b5856a49e1ab9caff60d958440f0faa021af397b3568a9b7e0e17edec38</string>
     <key>hintSetList</key>
     <array>
       <dict>

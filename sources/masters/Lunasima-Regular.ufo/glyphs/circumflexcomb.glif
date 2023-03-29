@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb" format="2">
   <unicode hex="0302"/>
-  <anchor x="16" y="1076" name="_top"/>
-  <anchor x="16" y="1530" name="top"/>
+  <anchor x="5" y="1072" name="_top"/>
+  <anchor x="5" y="1530" name="top"/>
   <outline>
     <contour>
       <point x="-88" y="1532" type="line"/>
-      <point x="-141" y="1442"/>
-      <point x="-260" y="1312"/>
-      <point x="-334" y="1235" type="curve"/>
-      <point x="-334" y="1212" type="line"/>
-      <point x="-199" y="1212" type="line"/>
-      <point x="-129" y="1256"/>
-      <point x="-60" y="1319"/>
-      <point x="12" y="1389" type="curve"/>
-      <point x="84" y="1319"/>
-      <point x="158" y="1254"/>
-      <point x="228" y="1212" type="curve"/>
-      <point x="366" y="1212" type="line"/>
-      <point x="366" y="1235" type="line"/>
-      <point x="291" y="1310"/>
-      <point x="166" y="1442"/>
-      <point x="116" y="1532" type="curve"/>
+      <point x="-146" y="1442"/>
+      <point x="-283" y="1312"/>
+      <point x="-368" y="1234" type="curve"/>
+      <point x="-368" y="1212" type="line"/>
+      <point x="-247" y="1212" type="line"/>
+      <point x="-167" y="1256"/>
+      <point x="-82" y="1320"/>
+      <point x="0" y="1392" type="curve"/>
+      <point x="82" y="1320"/>
+      <point x="171" y="1254"/>
+      <point x="251" y="1212" type="curve"/>
+      <point x="377" y="1212" type="line"/>
+      <point x="377" y="1234" type="line"/>
+      <point x="290" y="1310"/>
+      <point x="146" y="1442"/>
+      <point x="93" y="1532" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ab5fb201fcf71e02292622d44929e31c354c122a9419f87fdcae572452d2b1254e036540d44797b3fd45398c20c335e4fc8a04a4c42b73a28ab291d90f897cbb</string>
+    <string>112f3597bed61eccdeaee629ec5a2f5e1aa18a5b4f51edfb46296e8c0f24252c44046e475fa3cfa7850ad7605fde626bfc80c7f2ffd48e3bcfa4d161ca96e1e9</string>
     <key>hintSetList</key>
     <array>
       <dict>

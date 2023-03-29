@@ -2,28 +2,28 @@
 <glyph name="zstroke" format="2">
   <advance width="1210"/>
   <unicode hex="01B6"/>
-  <anchor x="481" y="0" name="bottom"/>
-  <anchor x="481" y="1086" name="top"/>
+  <anchor x="605" y="0" name="bottom"/>
+  <anchor x="605" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="78" y="1086" type="line"/>
-      <point x="78" y="886" type="line"/>
-      <point x="553" y="886" type="line"/>
-      <point x="403" y="647" type="line"/>
-      <point x="83" y="647" type="line"/>
-      <point x="83" y="464" type="line"/>
-      <point x="251" y="464" type="line"/>
-      <point x="48" y="158" type="line"/>
-      <point x="48" y="0" type="line"/>
-      <point x="912" y="0" type="line"/>
-      <point x="912" y="200" type="line"/>
-      <point x="403" y="200" type="line"/>
-      <point x="565" y="464" type="line"/>
-      <point x="880" y="464" type="line"/>
-      <point x="880" y="647" type="line"/>
-      <point x="716" y="647" type="line"/>
-      <point x="893" y="912" type="line"/>
-      <point x="893" y="1086" type="line"/>
+      <point x="99" y="1095" type="line"/>
+      <point x="99" y="855" type="line"/>
+      <point x="769" y="855" type="line"/>
+      <point x="529" y="660" type="line"/>
+      <point x="104" y="660" type="line"/>
+      <point x="104" y="450" type="line"/>
+      <point x="361" y="450" type="line"/>
+      <point x="57" y="184" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="1150" y="0" type="line"/>
+      <point x="1150" y="240" type="line"/>
+      <point x="432" y="240" type="line"/>
+      <point x="698" y="450" type="line"/>
+      <point x="1107" y="450" type="line"/>
+      <point x="1107" y="660" type="line"/>
+      <point x="866" y="660" type="line"/>
+      <point x="1129" y="894" type="line"/>
+      <point x="1129" y="1095" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>25366ab090d901e259425e93a4f9fc1e535785d30f2181cbb333dbc4f002acbe3548b7da7ba6edc3d4205f42678220367a219c156e878dcd7e57f1688e61cf14</string>
+    <string>c92a52bdd5d5d73dae8ca0d66bf492c85e1e906ab9e1e3656e5e2d496ce735d36d381c418189ee0e268adb4f4a0cad3646dc1936d67ab5890644b7c43273a3a2</string>
     <key>hintSetList</key>
     <array>
       <dict>

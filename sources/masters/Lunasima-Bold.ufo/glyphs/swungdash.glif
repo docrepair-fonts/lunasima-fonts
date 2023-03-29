@@ -4,26 +4,26 @@
   <unicode hex="2053"/>
   <outline>
     <contour>
-      <point x="1468" y="603" type="curve" smooth="yes"/>
-      <point x="1212" y="603"/>
-      <point x="785" y="765"/>
-      <point x="493" y="765" type="curve" smooth="yes"/>
-      <point x="247" y="765"/>
-      <point x="64" y="640"/>
-      <point x="42" y="414" type="curve"/>
-      <point x="206" y="414" type="line"/>
-      <point x="231" y="500"/>
-      <point x="316" y="565"/>
-      <point x="451" y="565" type="curve" smooth="yes"/>
-      <point x="700" y="565"/>
-      <point x="1143" y="403"/>
-      <point x="1428" y="403" type="curve" smooth="yes"/>
-      <point x="1673" y="403"/>
-      <point x="1857" y="526"/>
-      <point x="1879" y="752" type="curve"/>
-      <point x="1714" y="752" type="line"/>
-      <point x="1688" y="665"/>
-      <point x="1604" y="603"/>
+      <point x="1580" y="620" type="curve" smooth="yes"/>
+      <point x="1306" y="620"/>
+      <point x="848" y="776"/>
+      <point x="534" y="776" type="curve" smooth="yes"/>
+      <point x="271" y="776"/>
+      <point x="74" y="634"/>
+      <point x="50" y="401" type="curve"/>
+      <point x="226" y="401" type="line"/>
+      <point x="253" y="484"/>
+      <point x="345" y="543"/>
+      <point x="490" y="543" type="curve" smooth="yes"/>
+      <point x="757" y="543"/>
+      <point x="1232" y="387"/>
+      <point x="1537" y="387" type="curve" smooth="yes"/>
+      <point x="1801" y="387"/>
+      <point x="1997" y="528"/>
+      <point x="2020" y="761" type="curve"/>
+      <point x="1845" y="761" type="line"/>
+      <point x="1817" y="677"/>
+      <point x="1726" y="620"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a76b8ce8a54846899ba3260e05dfae66aa925925b0cd99e11d21dd112a409b50a03b9cd2792256569b6548760308dbcff684cd9ceffee43c879118b6617e49c2</string>
+    <string>3e2eab5dc63bc9da86c1e22a5523cbd7f6bada66bf8fb80c0212c8cb63d56cfd2df4310b377421677f5ebe266b3531786f75e55941ce09ebbedc06137363412f</string>
     <key>hintSetList</key>
     <array>
       <dict>

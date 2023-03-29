@@ -2,20 +2,20 @@
 <glyph name="kafdagesh-hb" format="2">
   <advance width="1158"/>
   <unicode hex="FB3B"/>
-  <anchor x="430" y="0" name="bottom"/>
-  <anchor x="38" y="0" name="bottomleft"/>
-  <anchor x="412" y="1086" name="top"/>
-  <anchor x="-45" y="1086" name="topleft"/>
+  <anchor x="434" y="0" name="bottom"/>
+  <anchor x="42" y="0" name="bottomleft"/>
+  <anchor x="421" y="1095" name="top"/>
+  <anchor x="-38" y="1095" name="topleft"/>
   <outline>
     <component base="kaf-hb"/>
-    <component base="dagesh-hb" xOffset="204" yOffset="-7"/>
+    <component base="dagesh-hb" xOffset="321"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>kaf-hb+dagesh-hb</string>
+  <string>'kaf-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

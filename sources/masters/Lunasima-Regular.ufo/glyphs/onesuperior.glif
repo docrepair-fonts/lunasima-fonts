@@ -8,7 +8,7 @@
       <point x="81" y="1504" type="line"/>
       <point x="155" y="1406" type="line"/>
       <point x="327" y="1484" type="line" smooth="yes"/>
-      <point x="382" y="1509"/>
+      <point x="381" y="1509"/>
       <point x="435" y="1538"/>
       <point x="479" y="1562" type="curve"/>
       <point x="473" y="1506"/>
@@ -28,7 +28,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w864m435,1688l81,1504l155,1406l327,1484c382,1509 435,1538 479,1562c473,1506 468,1452 468,1384l468,832l622,832l622,1688</string>
+    <string>w864m435,1688l81,1504l155,1406l327,1484c381,1509 435,1538 479,1562c473,1506 468,1452 468,1384l468,832l622,832l622,1688</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb" format="2">
   <unicode hex="0309"/>
-  <anchor x="-575" y="1076" name="_top"/>
-  <anchor x="-571" y="1645" name="top"/>
+  <anchor x="-648" y="1072" name="_top"/>
+  <anchor x="-643" y="1642" name="top"/>
   <outline>
     <contour>
-      <point x="-368" y="1459" type="curve" smooth="yes"/>
-      <point x="-368" y="1584"/>
-      <point x="-460" y="1645"/>
-      <point x="-624" y="1645" type="curve" smooth="yes"/>
-      <point x="-677" y="1645"/>
-      <point x="-719" y="1640"/>
-      <point x="-746" y="1632" type="curve"/>
-      <point x="-746" y="1519" type="line"/>
-      <point x="-720" y="1524"/>
-      <point x="-683" y="1529"/>
-      <point x="-646" y="1529" type="curve" smooth="yes"/>
-      <point x="-576" y="1529"/>
-      <point x="-523" y="1512"/>
-      <point x="-523" y="1450" type="curve" smooth="yes"/>
-      <point x="-523" y="1390"/>
-      <point x="-580" y="1363"/>
-      <point x="-675" y="1348" type="curve"/>
-      <point x="-659" y="1182" type="line"/>
-      <point x="-540" y="1182" type="line"/>
-      <point x="-530" y="1283" type="line"/>
-      <point x="-436" y="1305"/>
-      <point x="-368" y="1358"/>
+      <point x="-422" y="1460" type="curve" smooth="yes"/>
+      <point x="-422" y="1584"/>
+      <point x="-527" y="1642"/>
+      <point x="-707" y="1642" type="curve" smooth="yes"/>
+      <point x="-762" y="1642"/>
+      <point x="-796" y="1638"/>
+      <point x="-821" y="1630" type="curve"/>
+      <point x="-821" y="1526" type="line"/>
+      <point x="-799" y="1530"/>
+      <point x="-755" y="1534" name=".hr01"/>
+      <point x="-715" y="1534" type="curve" smooth="yes"/>
+      <point x="-625" y="1534"/>
+      <point x="-558" y="1518"/>
+      <point x="-558" y="1454" type="curve" smooth="yes"/>
+      <point x="-558" y="1392"/>
+      <point x="-634" y="1366"/>
+      <point x="-746" y="1350" type="curve"/>
+      <point x="-732" y="1180" type="line" name=".hr02"/>
+      <point x="-619" y="1180" type="line"/>
+      <point x="-608" y="1286" type="line"/>
+      <point x="-504" y="1308"/>
+      <point x="-422" y="1358"/>
     </contour>
   </outline>
   <lib>
@@ -38,16 +38,33 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3984ea21136150d1f71c452c9eacea878532effd237aa4dee8adbdae13cd763c6a0ae7c711245551e06c5285107b4779cd19aff46d4dd2b97fc07f6ef2e2544c</string>
+    <string>fead47ef97da89c8e3e31e32d9504d58f3a8ac30aa7074eae601373b5e871092a48420b768658b50fd62fdf28f4f1fc8a118ef5727e1175b49cf412926574c27</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>vstem -293 136</string>
           <string>hstem 1180 462</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
           <string>hstem 1534 108</string>
           <string>vstem -293 136</string>
         </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1180 462</string>
+          <string>vstem -293 136</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

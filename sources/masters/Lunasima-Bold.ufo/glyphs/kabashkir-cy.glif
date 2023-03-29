@@ -2,23 +2,23 @@
 <glyph name="kabashkir-cy" format="2">
   <advance width="1379"/>
   <unicode hex="04A1"/>
-  <anchor x="740" y="0" name="bottom"/>
-  <anchor x="740" y="1086" name="top"/>
+  <anchor x="701" y="0" name="bottom"/>
+  <anchor x="701" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="1112" y="1086" type="line"/>
-      <point x="693" y="561" type="line"/>
-      <point x="693" y="1086" type="line"/>
-      <point x="48" y="1086" type="line"/>
-      <point x="48" y="886" type="line"/>
-      <point x="395" y="886" type="line"/>
-      <point x="395" y="1" type="line"/>
-      <point x="693" y="1" type="line"/>
-      <point x="693" y="553" type="line"/>
-      <point x="1133" y="1" type="line"/>
-      <point x="1476" y="1" type="line"/>
-      <point x="1010" y="565" type="line"/>
-      <point x="1442" y="1086" type="line"/>
+      <point x="1009" y="1095" type="line"/>
+      <point x="674" y="564" type="line"/>
+      <point x="674" y="1095" type="line"/>
+      <point x="57" y="1095" type="line"/>
+      <point x="57" y="858" type="line"/>
+      <point x="354" y="858" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="674" y="0" type="line"/>
+      <point x="674" y="556" type="line"/>
+      <point x="1024" y="0" type="line"/>
+      <point x="1389" y="0" type="line"/>
+      <point x="1010" y="569" type="line"/>
+      <point x="1362" y="1095" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1379m1112,1086l693,561l693,1086l48,1086l48,886l395,886l395,1l693,1l693,553l1133,1l1476,1l1010,565l1442,1086</string>
+    <string>w1379m1009,1095l674,564l674,1095l57,1095l57,858l354,858l354,0l674,0l674,556l1024,0l1389,0l1010,569l1362,1095</string>
     <key>hintSetList</key>
     <array>
       <dict>

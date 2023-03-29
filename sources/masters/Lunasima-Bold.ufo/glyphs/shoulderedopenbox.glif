@@ -6,26 +6,26 @@
 uni237D</note>
   <outline>
     <contour>
-      <point x="342" y="-418" type="line"/>
-      <point x="1528" y="-418" type="line"/>
-      <point x="1528" y="80" type="line"/>
-      <point x="1384" y="80" type="line"/>
-      <point x="1384" y="-276" type="line"/>
-      <point x="486" y="-276" type="line"/>
-      <point x="486" y="80" type="line"/>
-      <point x="342" y="80" type="line"/>
+      <point x="117" y="-418" type="line"/>
+      <point x="538" y="-418" type="line"/>
+      <point x="538" y="80" type="line"/>
+      <point x="487" y="80" type="line"/>
+      <point x="487" y="-276" type="line"/>
+      <point x="169" y="-276" type="line"/>
+      <point x="169" y="80" type="line"/>
+      <point x="117" y="80" type="line"/>
     </contour>
     <contour>
-      <point x="102" y="0" type="line"/>
-      <point x="486" y="0" type="line"/>
-      <point x="486" y="142" type="line"/>
-      <point x="102" y="142" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="142" type="line"/>
+      <point x="33" y="142" type="line"/>
     </contour>
     <contour>
-      <point x="1384" y="0" type="line"/>
-      <point x="1768" y="0" type="line"/>
-      <point x="1768" y="142" type="line"/>
-      <point x="1384" y="142" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="623" y="0" type="line"/>
+      <point x="623" y="142" type="line"/>
+      <point x="487" y="142" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@ uni237D</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7430e0f429cea9cd2e540210ec76a0cb7dcfaa4bf6ac3d1ae35c7a1afd02b15d4b7eb43ee4d70c696988682ccca6cd5820ac8c5833df4e88d3237b557efc1ec5</string>
+    <string>w654m117,-418l538,-418l538,80l487,80l487,-276l169,-276l169,80l117,80m33,0l169,0l169,142l33,142m487,0l623,0l623,142l487,142</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="inverseWhiteCircle" format="2">
-  <advance width="1788"/>
+  <advance width="1828"/>
   <unicode hex="25D9"/>
   <note>
 invcircle</note>
   <outline>
     <contour>
-      <point x="102" y="-68" type="line"/>
-      <point x="1686" y="-68" type="line"/>
-      <point x="1686" y="1516" type="line"/>
-      <point x="102" y="1516" type="line"/>
+      <point x="122" y="-68" type="line"/>
+      <point x="1706" y="-68" type="line"/>
+      <point x="1706" y="1516" type="line"/>
+      <point x="122" y="1516" type="line"/>
     </contour>
     <contour>
-      <point x="894" y="34" type="curve" smooth="yes"/>
-      <point x="512" y="34"/>
-      <point x="204" y="342"/>
-      <point x="204" y="724" type="curve" smooth="yes"/>
-      <point x="204" y="1106"/>
-      <point x="512" y="1414"/>
-      <point x="894" y="1414" type="curve" smooth="yes"/>
-      <point x="1276" y="1414"/>
-      <point x="1584" y="1106"/>
-      <point x="1584" y="724" type="curve" smooth="yes"/>
-      <point x="1584" y="342"/>
-      <point x="1276" y="34"/>
+      <point x="914" y="34" type="curve" smooth="yes"/>
+      <point x="532" y="34"/>
+      <point x="224" y="342"/>
+      <point x="224" y="724" type="curve" smooth="yes"/>
+      <point x="224" y="1106"/>
+      <point x="532" y="1414"/>
+      <point x="914" y="1414" type="curve" smooth="yes"/>
+      <point x="1296" y="1414"/>
+      <point x="1604" y="1106"/>
+      <point x="1604" y="724" type="curve" smooth="yes"/>
+      <point x="1604" y="342"/>
+      <point x="1296" y="34"/>
     </contour>
     <contour>
-      <point x="894" y="146" type="curve" smooth="yes"/>
-      <point x="1214" y="146"/>
-      <point x="1472" y="404"/>
-      <point x="1472" y="724" type="curve" smooth="yes"/>
-      <point x="1472" y="1044"/>
-      <point x="1214" y="1302"/>
-      <point x="894" y="1302" type="curve" smooth="yes"/>
-      <point x="574" y="1302"/>
-      <point x="316" y="1044"/>
-      <point x="316" y="724" type="curve" smooth="yes"/>
-      <point x="316" y="404"/>
-      <point x="574" y="146"/>
+      <point x="914" y="146" type="curve" smooth="yes"/>
+      <point x="1234" y="146"/>
+      <point x="1492" y="404"/>
+      <point x="1492" y="724" type="curve" smooth="yes"/>
+      <point x="1492" y="1044"/>
+      <point x="1234" y="1302"/>
+      <point x="914" y="1302" type="curve" smooth="yes"/>
+      <point x="594" y="1302"/>
+      <point x="336" y="1044"/>
+      <point x="336" y="724" type="curve" smooth="yes"/>
+      <point x="336" y="404"/>
+      <point x="594" y="146"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@ invcircle</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>84f0fb82c916eea5759cb949243b8f8b3c6ace6a8339793724117f35e56641f60d3651ce04e0e3eb8e9350a5f9dc7fe257f100e2b1165f9a7eb9afbd622b8be4</string>
+    <string>ed8399668eae4afbf55614bd09b7217c54145507032b2fdaffb5bebfc60bf780777c31c3f4da731bb8453617140fa40e771d9e131a07e48ad40829b5e48ae6ad</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,26 +2,26 @@
 <glyph name="rfishhookreversed" format="2">
   <advance width="842"/>
   <unicode hex="027F"/>
-  <anchor x="354" y="-480" name="bottom"/>
-  <anchor x="354" y="1076" name="top"/>
+  <anchor x="444" y="-480" name="bottom"/>
+  <anchor x="444" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="218" y="1096" type="curve" smooth="yes"/>
-      <point x="158" y="1096"/>
-      <point x="88" y="1081"/>
-      <point x="36" y="1064" type="curve"/>
-      <point x="60" y="900" type="line"/>
-      <point x="95" y="910"/>
-      <point x="142" y="928"/>
-      <point x="211" y="928" type="curve" smooth="yes"/>
-      <point x="306" y="928"/>
-      <point x="349" y="871"/>
-      <point x="349" y="750" type="curve" smooth="yes"/>
-      <point x="349" y="-480" type="line"/>
-      <point x="548" y="-480" type="line"/>
-      <point x="548" y="754" type="line" smooth="yes"/>
-      <point x="548" y="1019"/>
-      <point x="418" y="1096"/>
+      <point x="249" y="1092" type="curve" smooth="yes"/>
+      <point x="191" y="1092"/>
+      <point x="94" y="1076"/>
+      <point x="39" y="1060" type="curve"/>
+      <point x="63" y="910" type="line"/>
+      <point x="108" y="920"/>
+      <point x="185" y="940"/>
+      <point x="292" y="940" type="curve" smooth="yes"/>
+      <point x="419" y="940"/>
+      <point x="492" y="884"/>
+      <point x="492" y="756" type="curve" smooth="yes"/>
+      <point x="492" y="-480" type="line"/>
+      <point x="662" y="-480" type="line"/>
+      <point x="662" y="758" type="line" smooth="yes"/>
+      <point x="662" y="1020"/>
+      <point x="491" y="1092"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>62b38a403e60aca3548d8f1f6e7143a1ac627763be8d9165a86b08a9f2bf3790317260fe086fc07bac786f46ab4af8b916be359750e803a666257de4ca87c914</string>
+    <string>1bbf0cec8c77829aac1754eb31767d0513756ed3efad2eb74ec103313f44c5a84482312877c21e724c7fae95595717c1c47143dad41cf282fc82f3c06d53e1cf</string>
     <key>hintSetList</key>
     <array>
       <dict>

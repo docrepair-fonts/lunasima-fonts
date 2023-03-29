@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="verticallineabovecomb" format="2">
   <unicode hex="030D"/>
-  <anchor x="-15" y="1086" name="_top"/>
-  <anchor x="-10" y="1534" name="top"/>
+  <anchor x="0" y="1095" name="_top"/>
+  <anchor x="5" y="1542" name="top"/>
   <outline>
     <contour>
-      <point x="-114" y="1534" type="line"/>
-      <point x="-114" y="1192" type="line"/>
-      <point x="86" y="1192" type="line"/>
-      <point x="86" y="1534" type="line"/>
+      <point x="-126" y="1542" type="line"/>
+      <point x="-126" y="1192" type="line"/>
+      <point x="126" y="1192" type="line"/>
+      <point x="126" y="1542" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-114,1534l-114,1192l86,1192l86,1534</string>
+    <string>w0m-126,1542l-126,1192l126,1192l126,1542</string>
     <key>hintSetList</key>
     <array>
       <dict>

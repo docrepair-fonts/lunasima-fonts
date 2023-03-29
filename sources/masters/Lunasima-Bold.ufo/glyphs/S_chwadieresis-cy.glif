@@ -2,18 +2,18 @@
 <glyph name="Schwadieresis-cy" format="2">
   <advance width="1472"/>
   <unicode hex="04DA"/>
-  <anchor x="761" y="0" name="bottom"/>
-  <anchor x="742" y="1821" name="top"/>
+  <anchor x="737" y="0" name="bottom"/>
+  <anchor x="729" y="1830" name="top"/>
   <outline>
     <component base="Schwa-cy"/>
-    <component base="dieresiscomb" xOffset="793" yOffset="342"/>
+    <component base="dieresiscomb" xOffset="732" yOffset="333"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Schwa-cy+dieresiscomb</string>
+  <string>'Schwa-cy'+dieresiscomb</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

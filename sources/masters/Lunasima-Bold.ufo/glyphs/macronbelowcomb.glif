@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macronbelowcomb" format="2">
   <unicode hex="0331"/>
-  <anchor x="-24" y="0" name="_bottom"/>
-  <anchor x="-19" y="-336" name="bottom"/>
+  <anchor x="-2" y="0" name="_bottom"/>
+  <anchor x="6" y="-363" name="bottom"/>
   <outline>
     <contour>
-      <point x="-356" y="-158" type="line"/>
-      <point x="-356" y="-336" type="line"/>
-      <point x="308" y="-336" type="line"/>
-      <point x="308" y="-158" type="line"/>
+      <point x="-428" y="-162" type="line"/>
+      <point x="-428" y="-363" type="line"/>
+      <point x="425" y="-363" type="line"/>
+      <point x="425" y="-162" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-356,-158l-356,-336l308,-336l308,-158</string>
+    <string>w0m-428,-162l-428,-363l425,-363l425,-162</string>
     <key>hintSetList</key>
     <array>
       <dict>

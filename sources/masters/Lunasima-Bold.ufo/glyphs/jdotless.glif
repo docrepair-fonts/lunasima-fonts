@@ -2,26 +2,26 @@
 <glyph name="jdotless" format="2">
   <advance width="682"/>
   <unicode hex="0237"/>
-  <anchor x="84" y="-480" name="bottom"/>
-  <anchor x="301" y="1086" name="top"/>
+  <anchor x="94" y="-480" name="bottom"/>
+  <anchor x="363" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="84" y="-480" type="curve" smooth="yes"/>
-      <point x="350" y="-480"/>
-      <point x="451" y="-331"/>
-      <point x="451" y="-131" type="curve" smooth="yes"/>
-      <point x="451" y="1086" type="line"/>
-      <point x="151" y="1086" type="line"/>
-      <point x="151" y="-102" type="line" smooth="yes"/>
-      <point x="151" y="-233"/>
-      <point x="93" y="-269"/>
-      <point x="22" y="-269" type="curve" smooth="yes"/>
-      <point x="-25" y="-269"/>
-      <point x="-60" y="-262"/>
-      <point x="-102" y="-250" type="curve"/>
-      <point x="-102" y="-456" type="line"/>
-      <point x="-56" y="-470"/>
-      <point x="19" y="-480"/>
+      <point x="94" y="-480" type="curve" smooth="yes"/>
+      <point x="401" y="-480"/>
+      <point x="522" y="-313"/>
+      <point x="522" y="-113" type="curve" smooth="yes"/>
+      <point x="522" y="1095" type="line"/>
+      <point x="202" y="1095" type="line"/>
+      <point x="202" y="-62" type="line" smooth="yes"/>
+      <point x="202" y="-194"/>
+      <point x="130" y="-228"/>
+      <point x="34" y="-228" type="curve" smooth="yes"/>
+      <point x="-26" y="-228"/>
+      <point x="-72" y="-222"/>
+      <point x="-123" y="-210" type="curve"/>
+      <point x="-123" y="-456" type="line"/>
+      <point x="-70" y="-470"/>
+      <point x="13" y="-480"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3316ec9f2312c654540e51499bb603bbf8e58331175f923657f476876e495e8002210a5880a84b23aedc2a71eceb603bed0ae42154064fe173ec089db0d9aa42</string>
+    <string>8aa1ff07eb67196fb6c3724afe173b32f9e7ea541df815bb48579f8c132c66a5de521a2c4fcc4ffc1b585612867203f27e8f5f4e81371291ab037962ff827e59</string>
     <key>hintSetList</key>
     <array>
       <dict>

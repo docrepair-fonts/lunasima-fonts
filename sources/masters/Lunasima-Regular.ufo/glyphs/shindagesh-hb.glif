@@ -2,21 +2,21 @@
 <glyph name="shindagesh-hb" format="2">
   <advance width="1467"/>
   <unicode hex="FB49"/>
-  <anchor x="686" y="0" name="bottom"/>
-  <anchor x="186" y="0" name="bottomleft"/>
-  <anchor x="758" y="1076" name="top"/>
-  <anchor x="-26" y="1076" name="topleft"/>
-  <anchor x="1274" y="1076" name="topright"/>
+  <anchor x="708" y="0" name="bottom"/>
+  <anchor x="197" y="0" name="bottomleft"/>
+  <anchor x="778" y="1072" name="top"/>
+  <anchor x="-30" y="1072" name="topleft"/>
+  <anchor x="1311" y="1072" name="topright"/>
   <outline>
     <component base="shin-hb"/>
-    <component base="dagesh-hb" xOffset="669" yOffset="-160"/>
+    <component base="dagesh-hb" xOffset="791" yOffset="-166"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>shin-hb+dagesh-hb</string>
+  <string>'shin-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

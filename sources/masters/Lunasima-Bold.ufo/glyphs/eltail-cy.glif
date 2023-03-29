@@ -2,32 +2,32 @@
 <glyph name="eltail-cy" format="2">
   <advance width="1354"/>
   <unicode hex="04C6"/>
-  <anchor x="688" y="-384" name="bottom"/>
-  <anchor x="688" y="1086" name="top"/>
+  <anchor x="679" y="-394" name="bottom"/>
+  <anchor x="679" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="1140" y="1086" type="line"/>
-      <point x="311" y="1086" type="line"/>
-      <point x="263" y="397"/>
-      <point x="194" y="185"/>
-      <point x="89" y="185" type="curve" smooth="yes"/>
-      <point x="61" y="185"/>
-      <point x="38" y="188"/>
-      <point x="16" y="196" type="curve"/>
-      <point x="16" y="5" type="line"/>
-      <point x="51" y="-8"/>
-      <point x="105" y="-15"/>
-      <point x="156" y="-15" type="curve" smooth="yes"/>
-      <point x="430" y="-15"/>
-      <point x="526" y="229"/>
-      <point x="578" y="886" type="curve"/>
-      <point x="840" y="886" type="line"/>
-      <point x="840" y="0" type="line" name=".hr01"/>
-      <point x="1071" y="0" type="line"/>
-      <point x="937" y="-384" type="line"/>
-      <point x="1222" y="-384" type="line"/>
-      <point x="1365" y="193" type="line"/>
-      <point x="1140" y="193" type="line"/>
+      <point x="1118" y="1095" type="line"/>
+      <point x="285" y="1095" type="line"/>
+      <point x="240" y="383"/>
+      <point x="180" y="227"/>
+      <point x="94" y="227" type="curve" smooth="yes"/>
+      <point x="65" y="227"/>
+      <point x="42" y="230"/>
+      <point x="19" y="241" type="curve"/>
+      <point x="19" y="7" type="line"/>
+      <point x="56" y="-8"/>
+      <point x="114" y="-17"/>
+      <point x="166" y="-17" type="curve" smooth="yes"/>
+      <point x="436" y="-17"/>
+      <point x="523" y="222"/>
+      <point x="573" y="857" type="curve"/>
+      <point x="798" y="857" type="line"/>
+      <point x="798" y="0" type="line" name=".hr01"/>
+      <point x="1031" y="0" type="line"/>
+      <point x="902" y="-394" type="line"/>
+      <point x="1203" y="-394" type="line"/>
+      <point x="1340" y="227" type="line"/>
+      <point x="1118" y="227" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b3d2599a57aadff50bf2067d37415d506028c61deb259a639411846713d114e5137ae2d49eba8d4210a483e8b8f8b11773dce78eaa7b98f2a8a27d6253e56f05</string>
+    <string>733b863e16c0850d7147fa203539d0739ee770c49c5b764b163bb7b8774c563bd4d48b9ffb218dedc86325cc72f3669b656bc409595c83a67b40fbb40772ff59</string>
     <key>hintSetList</key>
     <array>
       <dict>

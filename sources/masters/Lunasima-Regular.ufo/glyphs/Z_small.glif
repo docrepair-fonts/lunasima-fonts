@@ -2,20 +2,20 @@
 <glyph name="Zsmall" format="2">
   <advance width="1174"/>
   <unicode hex="1D22"/>
-  <anchor x="476" y="0" name="bottom"/>
-  <anchor x="476" y="1076" name="top"/>
+  <anchor x="587" y="0" name="bottom"/>
+  <anchor x="587" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="874" y="0" type="line"/>
-      <point x="874" y="150" type="line"/>
-      <point x="307" y="150" type="line"/>
-      <point x="861" y="936" type="line"/>
-      <point x="861" y="1076" type="line"/>
-      <point x="108" y="1076" type="line"/>
-      <point x="108" y="926" type="line"/>
-      <point x="638" y="926" type="line"/>
-      <point x="78" y="125" type="line"/>
-      <point x="78" y="0" type="line"/>
+      <point x="1089" y="0" type="line"/>
+      <point x="1089" y="136" type="line"/>
+      <point x="288" y="136" type="line"/>
+      <point x="1070" y="940" type="line"/>
+      <point x="1070" y="1072" type="line"/>
+      <point x="138" y="1072" type="line"/>
+      <point x="138" y="936" type="line"/>
+      <point x="881" y="936" type="line"/>
+      <point x="85" y="116" type="line"/>
+      <point x="85" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1174m874,0l874,150l307,150l861,936l861,1076l108,1076l108,926l638,926l78,125l78,0</string>
+    <string>w1174m1089,0l1089,136l288,136l1070,940l1070,1072l138,1072l138,936l881,936l85,116l85,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

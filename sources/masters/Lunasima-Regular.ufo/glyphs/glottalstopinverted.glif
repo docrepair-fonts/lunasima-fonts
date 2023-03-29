@@ -2,32 +2,32 @@
 <glyph name="glottalstopinverted" format="2">
   <advance width="913"/>
   <unicode hex="0296"/>
-  <anchor x="440" y="0" name="bottom"/>
-  <anchor x="440" y="1520" name="top"/>
+  <anchor x="456" y="0" name="bottom"/>
+  <anchor x="456" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="392" y="-20" type="curve" smooth="yes"/>
-      <point x="673" y="-20"/>
-      <point x="824" y="130"/>
-      <point x="824" y="368" type="curve" smooth="yes"/>
-      <point x="824" y="550"/>
-      <point x="728" y="750"/>
-      <point x="451" y="880" type="curve"/>
-      <point x="451" y="1520" type="line"/>
-      <point x="249" y="1520" type="line"/>
-      <point x="249" y="782" type="line"/>
-      <point x="495" y="705"/>
-      <point x="620" y="551"/>
-      <point x="620" y="374" type="curve" smooth="yes"/>
-      <point x="620" y="223"/>
-      <point x="542" y="141"/>
-      <point x="384" y="141" type="curve" smooth="yes"/>
-      <point x="289" y="141"/>
-      <point x="175" y="182"/>
-      <point x="99" y="239" type="curve"/>
-      <point x="24" y="94" type="line"/>
-      <point x="123" y="25"/>
-      <point x="248" y="-20"/>
+      <point x="410" y="-20" type="curve" smooth="yes"/>
+      <point x="705" y="-20"/>
+      <point x="856" y="124"/>
+      <point x="856" y="362" type="curve" smooth="yes"/>
+      <point x="856" y="542"/>
+      <point x="749" y="746"/>
+      <point x="445" y="876" type="curve"/>
+      <point x="445" y="1520" type="line"/>
+      <point x="270" y="1520" type="line"/>
+      <point x="270" y="784" type="line"/>
+      <point x="521" y="710"/>
+      <point x="677" y="556"/>
+      <point x="677" y="368" type="curve" smooth="yes"/>
+      <point x="677" y="210"/>
+      <point x="592" y="126"/>
+      <point x="402" y="126" type="curve" smooth="yes"/>
+      <point x="303" y="126"/>
+      <point x="182" y="164"/>
+      <point x="93" y="224" type="curve"/>
+      <point x="26" y="92" type="line"/>
+      <point x="126" y="24"/>
+      <point x="260" y="-20"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5bbdcd244a4694522e24089c3837e911d92aace9282adb1ab355eeabc4e8a71aad6f619d1909c525e5193cdcdde92c95ddf9217c7b057c1ade61debbcb26befa</string>
+    <string>7db3f854298c2a6c4c72f69c527ce0aff3b7ae1030c9bcf8059d33221e72eb1760a274af3eae83576f92cb22027e771db6343fc5b1c4bcb473d112ead8534269</string>
     <key>hintSetList</key>
     <array>
       <dict>

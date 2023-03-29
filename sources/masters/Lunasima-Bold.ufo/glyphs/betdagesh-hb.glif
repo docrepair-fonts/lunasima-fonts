@@ -2,20 +2,20 @@
 <glyph name="betdagesh-hb" format="2">
   <advance width="1236"/>
   <unicode hex="FB31"/>
-  <anchor x="580" y="0" name="bottom"/>
-  <anchor x="30" y="0" name="bottomleft"/>
-  <anchor x="459" y="1086" name="top"/>
-  <anchor x="-12" y="1086" name="topleft"/>
+  <anchor x="626" y="0" name="bottom"/>
+  <anchor x="36" y="0" name="bottomleft"/>
+  <anchor x="495" y="1095" name="top"/>
+  <anchor x="-10" y="1095" name="topleft"/>
   <outline>
     <component base="bet-hb"/>
-    <component base="dagesh-hb" xOffset="148" yOffset="-7"/>
+    <component base="dagesh-hb" xOffset="290"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>bet-hb+dagesh-hb</string>
+  <string>'bet-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

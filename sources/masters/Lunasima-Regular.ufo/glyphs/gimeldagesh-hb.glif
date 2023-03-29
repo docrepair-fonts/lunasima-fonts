@@ -2,20 +2,20 @@
 <glyph name="gimeldagesh-hb" format="2">
   <advance width="875"/>
   <unicode hex="FB32"/>
-  <anchor x="361" y="0" name="bottom"/>
-  <anchor x="30" y="0" name="bottomleft"/>
-  <anchor x="362" y="1076" name="top"/>
-  <anchor x="0" y="1076" name="topleft"/>
+  <anchor x="461" y="0" name="bottom"/>
+  <anchor x="33" y="0" name="bottomleft"/>
+  <anchor x="449" y="1072" name="top"/>
+  <anchor x="-9" y="1072" name="topleft"/>
   <outline>
     <component base="gimel-hb"/>
-    <component base="dagesh-hb" xOffset="64" yOffset="78"/>
+    <component base="dagesh-hb" xOffset="249" yOffset="84"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>gimel-hb+dagesh-hb</string>
+  <string>'gimel-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedillacomb" format="2">
   <unicode hex="0327"/>
-  <anchor x="7" y="0" name="_bottom"/>
-  <anchor x="11" y="-480" name="bottom"/>
+  <anchor x="2" y="0" name="_bottom"/>
+  <anchor x="7" y="-480" name="bottom"/>
   <outline>
     <contour>
-      <point x="210" y="-275" type="curve" smooth="yes"/>
-      <point x="210" y="-170"/>
-      <point x="129" y="-123"/>
-      <point x="35" y="-101" type="curve"/>
-      <point x="83" y="0" type="line"/>
-      <point x="-41" y="0" type="line"/>
-      <point x="-124" y="-168" type="line"/>
-      <point x="-22" y="-183"/>
-      <point x="53" y="-208"/>
-      <point x="53" y="-276" type="curve" smooth="yes"/>
-      <point x="53" y="-339"/>
-      <point x="4" y="-361"/>
-      <point x="-87" y="-361" type="curve" smooth="yes"/>
-      <point x="-126" y="-361"/>
-      <point x="-170" y="-357"/>
-      <point x="-196" y="-350" type="curve"/>
-      <point x="-196" y="-467" type="line"/>
-      <point x="-171" y="-474"/>
-      <point x="-128" y="-480"/>
-      <point x="-82" y="-480" type="curve" smooth="yes"/>
-      <point x="110" y="-480"/>
-      <point x="210" y="-404"/>
+      <point x="220" y="-278" type="curve" smooth="yes"/>
+      <point x="220" y="-176"/>
+      <point x="136" y="-128"/>
+      <point x="26" y="-106" type="curve"/>
+      <point x="88" y="0" type="line"/>
+      <point x="-35" y="0" type="line"/>
+      <point x="-134" y="-172" type="line"/>
+      <point x="-19" y="-186"/>
+      <point x="75" y="-212"/>
+      <point x="75" y="-282" type="curve" smooth="yes"/>
+      <point x="75" y="-348"/>
+      <point x="14" y="-370"/>
+      <point x="-99" y="-370" type="curve" smooth="yes"/>
+      <point x="-141" y="-370"/>
+      <point x="-191" y="-366"/>
+      <point x="-216" y="-360" type="curve"/>
+      <point x="-216" y="-470" type="line"/>
+      <point x="-194" y="-476"/>
+      <point x="-155" y="-480"/>
+      <point x="-115" y="-480" type="curve" smooth="yes"/>
+      <point x="109" y="-480"/>
+      <point x="220" y="-406"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3e3e045eea7fee71483e03aa51e3954e8ec6916192c3b35fd7e7afc3097c77b8145837fbff849fbdbf66c7f0964878591a5e0743cda2f989bb5dcdcdce80ccbf</string>
+    <string>c8ce6664d448c45230ca28e682c6cd604889d1d6227f0073132df333d36fd929f8f26c67f3ed84441ae911ba77cf7a2f706b4adfd5f1e7bd3fa92c4568689057</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="merkhakefulaleft-hb" format="2">
   <unicode hex="05A6"/>
-  <anchor x="532" y="0" name="_bottomleft"/>
+  <anchor x="320" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="421" y="-448" type="line"/>
-      <point x="627" y="-448"/>
-      <point x="741" y="-337"/>
-      <point x="741" y="-156" type="curve"/>
-      <point x="633" y="-156" type="line"/>
-      <point x="633" y="-273"/>
-      <point x="554" y="-345"/>
-      <point x="421" y="-345" type="curve"/>
+      <point x="250" y="-448" type="line"/>
+      <point x="404" y="-448"/>
+      <point x="490" y="-335"/>
+      <point x="490" y="-149" type="curve"/>
+      <point x="409" y="-149" type="line"/>
+      <point x="409" y="-269"/>
+      <point x="349" y="-343"/>
+      <point x="250" y="-343" type="curve"/>
     </contour>
     <contour>
-      <point x="100" y="-448" type="line"/>
-      <point x="305" y="-448"/>
-      <point x="421" y="-339"/>
-      <point x="421" y="-156" type="curve"/>
-      <point x="313" y="-156" type="line"/>
-      <point x="313" y="-273"/>
-      <point x="234" y="-345"/>
-      <point x="100" y="-345" type="curve"/>
+      <point x="10" y="-448" type="line"/>
+      <point x="163" y="-448"/>
+      <point x="250" y="-337"/>
+      <point x="250" y="-149" type="curve"/>
+      <point x="169" y="-149" type="line"/>
+      <point x="169" y="-269"/>
+      <point x="109" y="-343"/>
+      <point x="10" y="-343" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0eb12f7c844b85d2e8c4ae0b21814df65004fa32c0c5f51e9d0848cac2a359f776760883dc88644fc849ea9714bbc6a19883bc5a44f5ce94916931bf403b5eae</string>
+    <string>192636267ff5bcd175d5358207beaa60cc67f06a9002a6c1fe8a23a01c785e8ab03538a510b16a4dea2c83788e5bbb69d88137e8e40e90235b3cf2b69ca15ff6</string>
     <key>hintSetList</key>
     <array>
       <dict>

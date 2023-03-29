@@ -2,17 +2,17 @@
 <glyph name="downtackbelowcomb" format="2">
   <unicode hex="031E"/>
   <anchor x="0" y="0" name="_bottom"/>
-  <anchor x="4" y="-416" name="bottom"/>
+  <anchor x="5" y="-416" name="bottom"/>
   <outline>
     <contour>
-      <point x="66" y="-416" type="line"/>
-      <point x="66" y="-216" type="line" name=".hr01"/>
-      <point x="210" y="-216" type="line"/>
-      <point x="210" y="-96" type="line"/>
-      <point x="-210" y="-96" type="line"/>
-      <point x="-210" y="-216" type="line"/>
-      <point x="-66" y="-216" type="line"/>
-      <point x="-66" y="-416" type="line" name=".hr02"/>
+      <point x="73" y="-416" type="line"/>
+      <point x="73" y="-216" type="line" name=".hr01"/>
+      <point x="231" y="-216" type="line"/>
+      <point x="231" y="-96" type="line"/>
+      <point x="-231" y="-96" type="line"/>
+      <point x="-231" y="-216" type="line"/>
+      <point x="-72" y="-216" type="line"/>
+      <point x="-72" y="-416" type="line" name=".hr02"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +24,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m66,-416l66,-216l210,-216l210,-96l-210,-96l-210,-216l-66,-216l-66,-416</string>
+    <string>w0m73,-416l73,-216l231,-216l231,-96l-231,-96l-231,-216l-72,-216l-72,-416</string>
     <key>hintSetList</key>
     <array>
       <dict>

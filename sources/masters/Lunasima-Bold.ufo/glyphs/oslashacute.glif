@@ -3,10 +3,10 @@
   <advance width="1308"/>
   <unicode hex="01FF"/>
   <anchor x="654" y="0" name="bottom"/>
-  <anchor x="656" y="1539" name="top"/>
+  <anchor x="656" y="1530" name="top"/>
   <outline>
     <component base="oslash"/>
-    <component base="acutecomb" xOffset="1272" yOffset="9"/>
+    <component base="acutecomb" xOffset="1224"/>
   </outline>
   <lib>
   <dict>

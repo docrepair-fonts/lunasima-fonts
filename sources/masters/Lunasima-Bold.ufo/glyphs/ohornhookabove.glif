@@ -2,11 +2,11 @@
 <glyph name="ohornhookabove" format="2">
   <advance width="1470"/>
   <unicode hex="1EDF"/>
-  <anchor x="612" y="0" name="bottom"/>
-  <anchor x="621" y="1655" name="top"/>
+  <anchor x="680" y="0" name="bottom"/>
+  <anchor x="691" y="1662" name="top"/>
   <outline>
     <component base="ohorn"/>
-    <component base="hookabovecomb" xOffset="1299"/>
+    <component base="hookabovecomb" xOffset="1445"/>
   </outline>
   <lib>
   <dict>

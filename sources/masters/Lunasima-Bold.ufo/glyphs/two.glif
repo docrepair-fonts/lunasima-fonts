@@ -25,7 +25,7 @@
       <point x="881" y="1130"/>
       <point x="881" y="1022" type="curve" smooth="yes"/>
       <point x="881" y="888"/>
-      <point x="769" y="797"/>
+      <point x="766" y="802"/>
       <point x="501" y="579" type="curve" smooth="yes"/>
       <point x="56" y="218" type="line"/>
       <point x="56" y="0" type="line"/>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8d1c1e345ccd4b2b6f1c151a13a22d6354f2e7af7c80eea89285be874e5e8e05b1b35cb6437cf5594eaf3655fa872cd687c2e82153c6bc6499efe7166c371024</string>
+    <string>bcb7de8427d7a6963bed692ddc8d58cd3ee64ab4f2e4986f8acefd1cc4f1e7b1fd7de19e3563b73be6dd72e3f3891b43a9abb1c0e7c0ffe431e83c6034da53c8</string>
     <key>hintSetList</key>
     <array>
       <dict>

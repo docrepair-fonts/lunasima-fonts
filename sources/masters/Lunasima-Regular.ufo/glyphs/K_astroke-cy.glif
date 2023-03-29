@@ -2,27 +2,27 @@
 <glyph name="Kastroke-cy" format="2">
   <advance width="1337"/>
   <unicode hex="049E"/>
-  <anchor x="627" y="0" name="bottom"/>
-  <anchor x="627" y="1428" name="top"/>
+  <anchor x="668" y="0" name="bottom"/>
+  <anchor x="668" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="575" y="1107" type="line"/>
-      <point x="575" y="1257" type="line"/>
-      <point x="26" y="1257" type="line"/>
-      <point x="26" y="1107" type="line"/>
+      <point x="604" y="1100" type="line"/>
+      <point x="604" y="1258" type="line"/>
+      <point x="28" y="1258" type="line"/>
+      <point x="28" y="1100" type="line"/>
     </contour>
     <contour>
-      <point x="623" y="734" type="line"/>
-      <point x="1225" y="1428" type="line"/>
-      <point x="1000" y="1428" type="line"/>
-      <point x="392" y="736" type="line"/>
-      <point x="392" y="1428" type="line"/>
-      <point x="192" y="1428" type="line"/>
-      <point x="192" y="0" type="line"/>
-      <point x="392" y="0" type="line"/>
-      <point x="392" y="725" type="line"/>
-      <point x="1016" y="0" type="line"/>
-      <point x="1253" y="0" type="line"/>
+      <point x="614" y="734" type="line"/>
+      <point x="1307" y="1428" type="line"/>
+      <point x="1102" y="1428" type="line"/>
+      <point x="394" y="736" type="line"/>
+      <point x="394" y="1428" type="line"/>
+      <point x="214" y="1428" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="394" y="724" type="line"/>
+      <point x="1119" y="0" type="line"/>
+      <point x="1337" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1337m575,1107l575,1257l26,1257l26,1107m623,734l1225,1428l1000,1428l392,736l392,1428l192,1428l192,0l392,0l392,725l1016,0l1253,0</string>
+    <string>w1337m604,1100l604,1258l28,1258l28,1100m614,734l1307,1428l1102,1428l394,736l394,1428l214,1428l214,0l394,0l394,724l1119,0l1337,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

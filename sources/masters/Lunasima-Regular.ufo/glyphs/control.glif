@@ -6,13 +6,13 @@
 uni2303</note>
   <outline>
     <contour>
-      <point x="102" y="811" type="line"/>
-      <point x="280" y="811" type="line"/>
-      <point x="520" y="1291" type="line"/>
-      <point x="761" y="811" type="line"/>
-      <point x="939" y="811" type="line"/>
-      <point x="545" y="1569" type="line"/>
-      <point x="496" y="1569" type="line"/>
+      <point x="232" y="818" type="line"/>
+      <point x="413" y="818" type="line"/>
+      <point x="814" y="1310" type="line"/>
+      <point x="1216" y="818" type="line"/>
+      <point x="1397" y="818" type="line"/>
+      <point x="827" y="1570" type="line"/>
+      <point x="802" y="1570" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@ uni2303</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1628m102,811l280,811l520,1291l761,811l939,811l545,1569l496,1569</string>
+    <string>w1628m232,818l413,818l814,1310l1216,818l1397,818l827,1570l802,1570</string>
     <key>hintSetList</key>
     <array>
       <dict>

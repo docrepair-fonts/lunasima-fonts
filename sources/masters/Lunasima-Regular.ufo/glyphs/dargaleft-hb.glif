@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dargaleft-hb" format="2">
   <unicode hex="05A7"/>
-  <anchor x="364" y="0" name="_bottomleft"/>
+  <anchor x="226" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="394" y="-433" type="line"/>
-      <point x="234" y="-226" type="line"/>
-      <point x="368" y="-201" type="line"/>
-      <point x="368" y="-131" type="line"/>
-      <point x="100" y="-179" type="line"/>
-      <point x="260" y="-387" type="line"/>
-      <point x="129" y="-407" type="line"/>
-      <point x="129" y="-482" type="line"/>
+      <point x="247" y="-432" type="line"/>
+      <point x="118" y="-226" type="line"/>
+      <point x="226" y="-202" type="line"/>
+      <point x="226" y="-132" type="line"/>
+      <point x="10" y="-180" type="line"/>
+      <point x="140" y="-386" type="line"/>
+      <point x="33" y="-406" type="line"/>
+      <point x="33" y="-480" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m394,-433l234,-226l368,-201l368,-131l100,-179l260,-387l129,-407l129,-482</string>
+    <string>w0m247,-432l118,-226l226,-202l226,-132l10,-180l140,-386l33,-406l33,-480</string>
     <key>hintSetList</key>
     <array>
       <dict>

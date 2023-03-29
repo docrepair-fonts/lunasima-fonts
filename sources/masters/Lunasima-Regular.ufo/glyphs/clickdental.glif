@@ -2,14 +2,14 @@
 <glyph name="clickdental" format="2">
   <advance width="531"/>
   <unicode hex="01C0"/>
-  <anchor x="344" y="0" name="bottom"/>
-  <anchor x="344" y="1520" name="top"/>
+  <anchor x="266" y="0" name="bottom"/>
+  <anchor x="266" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="430" y="0" type="line"/>
-      <point x="430" y="1520" type="line"/>
-      <point x="258" y="1520" type="line"/>
-      <point x="258" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="1520" type="line"/>
+      <point x="192" y="1520" type="line"/>
+      <point x="192" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w531m430,0l430,1520l258,1520l258,0</string>
+    <string>w531m340,0l340,1520l192,1520l192,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

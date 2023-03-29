@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
-  <anchor x="11" y="1076" name="_top"/>
-  <anchor x="11" y="1481" name="top"/>
+  <anchor x="-1" y="1072" name="_top"/>
+  <anchor x="-1" y="1474" name="top"/>
   <outline>
     <contour>
-      <point x="13" y="1481" type="curve" smooth="yes"/>
-      <point x="-51" y="1481"/>
-      <point x="-102" y="1447"/>
-      <point x="-102" y="1364" type="curve" smooth="yes"/>
-      <point x="-102" y="1283"/>
-      <point x="-51" y="1247"/>
-      <point x="13" y="1247" type="curve" smooth="yes"/>
-      <point x="74" y="1247"/>
-      <point x="127" y="1283"/>
-      <point x="127" y="1364" type="curve" smooth="yes"/>
-      <point x="127" y="1447"/>
-      <point x="74" y="1481"/>
+      <point x="3" y="1474" type="curve" smooth="yes"/>
+      <point x="-60" y="1474"/>
+      <point x="-110" y="1440"/>
+      <point x="-110" y="1362" type="curve" smooth="yes"/>
+      <point x="-110" y="1286"/>
+      <point x="-60" y="1250"/>
+      <point x="3" y="1250" type="curve" smooth="yes"/>
+      <point x="60" y="1250"/>
+      <point x="113" y="1286"/>
+      <point x="113" y="1362" type="curve" smooth="yes"/>
+      <point x="113" y="1440"/>
+      <point x="60" y="1474"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m13,1481c-51,1481 -102,1447 -102,1364c-102,1283 -51,1247 13,1247c74,1247 127,1283 127,1364c127,1447 74,1481 13,1481</string>
+    <string>w0m3,1474c-60,1474 -110,1440 -110,1362c-110,1286 -60,1250 3,1250c60,1250 113,1286 113,1362c113,1440 60,1474 3,1474</string>
     <key>hintSetList</key>
     <array>
       <dict>

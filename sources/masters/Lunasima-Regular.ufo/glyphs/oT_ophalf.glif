@@ -2,24 +2,24 @@
 <glyph name="oTophalf" format="2">
   <advance width="1234"/>
   <unicode hex="1D16"/>
-  <anchor x="638" y="539" name="bottom"/>
-  <anchor x="638" y="1076" name="top"/>
+  <anchor x="618" y="538" name="bottom"/>
+  <anchor x="618" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="640" y="1092" type="curve" smooth="yes"/>
-      <point x="292" y="1092"/>
-      <point x="118" y="874"/>
-      <point x="118" y="539" type="curve"/>
-      <point x="328" y="539" type="line"/>
-      <point x="328" y="788"/>
-      <point x="424" y="933"/>
-      <point x="640" y="933" type="curve" smooth="yes"/>
-      <point x="854" y="933"/>
-      <point x="949" y="788"/>
-      <point x="949" y="539" type="curve"/>
-      <point x="1159" y="539" type="line"/>
-      <point x="1159" y="877"/>
-      <point x="972" y="1092"/>
+      <point x="619" y="1088" type="curve" smooth="yes"/>
+      <point x="290" y="1088"/>
+      <point x="129" y="868"/>
+      <point x="129" y="538" type="curve"/>
+      <point x="315" y="538" type="line"/>
+      <point x="315" y="792"/>
+      <point x="410" y="944"/>
+      <point x="619" y="944" type="curve" smooth="yes"/>
+      <point x="827" y="944"/>
+      <point x="920" y="792"/>
+      <point x="920" y="538" type="curve"/>
+      <point x="1105" y="538" type="line"/>
+      <point x="1105" y="870"/>
+      <point x="933" y="1088"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7d7885fe5ba516c57c14023c57c4d8dd5484d4461112701cb44ac4d8d51365b74f4f6c4c15b9bc8b67a2a8719501b0caed25ffe74e2427515af344e96941e1ce</string>
+    <string>312d0127806ba1a33f123bb70ba8904767273320ddfdb84cc8cbfa11e9e28bb53326436830c5256d7f0b7eb366289a2ed66e739bba3a5709a2fb869739105bef</string>
     <key>hintSetList</key>
     <array>
       <dict>

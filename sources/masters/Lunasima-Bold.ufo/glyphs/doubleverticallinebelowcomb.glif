@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="doubleverticallinebelowcomb" format="2">
   <unicode hex="0348"/>
-  <anchor x="-20" y="0" name="_bottom"/>
-  <anchor x="-16" y="-416" name="bottom"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="5" y="-421" name="bottom"/>
   <outline>
     <contour>
-      <point x="-290" y="-75" type="line"/>
-      <point x="-290" y="-416" type="line"/>
-      <point x="-90" y="-416" type="line"/>
-      <point x="-90" y="-75" type="line"/>
+      <point x="-348" y="-72" type="line"/>
+      <point x="-348" y="-421" type="line"/>
+      <point x="-103" y="-421" type="line"/>
+      <point x="-103" y="-72" type="line"/>
     </contour>
     <contour>
-      <point x="51" y="-75" type="line"/>
-      <point x="51" y="-416" type="line"/>
-      <point x="251" y="-416" type="line"/>
-      <point x="251" y="-75" type="line"/>
+      <point x="104" y="-72" type="line"/>
+      <point x="104" y="-421" type="line"/>
+      <point x="348" y="-421" type="line"/>
+      <point x="348" y="-72" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-290,-75l-290,-416l-90,-416l-90,-75m51,-75l51,-416l251,-416l251,-75</string>
+    <string>w0m-348,-72l-348,-421l-103,-421l-103,-72m104,-72l104,-421l348,-421l348,-72</string>
     <key>hintSetList</key>
     <array>
       <dict>

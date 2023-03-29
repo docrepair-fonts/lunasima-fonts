@@ -2,17 +2,17 @@
 <glyph name="bridgebelowcomb" format="2">
   <unicode hex="032A"/>
   <anchor x="0" y="0" name="_bottom"/>
-  <anchor x="4" y="-436" name="bottom"/>
+  <anchor x="5" y="-436" name="bottom"/>
   <outline>
     <contour>
-      <point x="-356" y="-436" type="line"/>
-      <point x="-224" y="-436" type="line"/>
-      <point x="-224" y="-216" type="line" name=".hr01"/>
-      <point x="224" y="-216" type="line"/>
-      <point x="224" y="-436" type="line" name=".hr02"/>
-      <point x="356" y="-436" type="line"/>
-      <point x="356" y="-96" type="line"/>
-      <point x="-356" y="-96" type="line"/>
+      <point x="-428" y="-436" type="line"/>
+      <point x="-269" y="-436" type="line"/>
+      <point x="-269" y="-216" type="line" name=".hr01"/>
+      <point x="270" y="-216" type="line"/>
+      <point x="270" y="-436" type="line" name=".hr02"/>
+      <point x="428" y="-436" type="line"/>
+      <point x="428" y="-96" type="line"/>
+      <point x="-428" y="-96" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +24,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-356,-436l-224,-436l-224,-216l224,-216l224,-436l356,-436l356,-96l-356,-96</string>
+    <string>w0m-428,-436l-269,-436l-269,-216l270,-216l270,-436l428,-436l428,-96l-428,-96</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -49,8 +49,8 @@
         <key>stems</key>
         <array>
           <string>hstem -436 340</string>
-          <string>vstem 224 132</string>
           <string>vstem -356 132</string>
+          <string>vstem 224 132</string>
         </array>
         <key>pointTag</key>
         <string>.hr02</string>

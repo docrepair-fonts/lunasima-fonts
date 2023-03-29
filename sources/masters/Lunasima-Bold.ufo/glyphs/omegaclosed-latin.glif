@@ -2,52 +2,52 @@
 <glyph name="omegaclosed-latin" format="2">
   <advance width="1656"/>
   <unicode hex="0277"/>
-  <anchor x="810" y="0" name="bottom"/>
-  <anchor x="810" y="1086" name="top"/>
+  <anchor x="827" y="0" name="bottom"/>
+  <anchor x="827" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="814" y="1104" type="curve" smooth="yes"/>
-      <point x="343" y="1104"/>
-      <point x="76" y="848"/>
-      <point x="76" y="466" type="curve" smooth="yes"/>
-      <point x="76" y="173"/>
-      <point x="228" y="-20"/>
-      <point x="489" y="-20" type="curve" smooth="yes"/>
-      <point x="668" y="-20"/>
-      <point x="759" y="58"/>
-      <point x="802" y="175" type="curve"/>
-      <point x="814" y="175" type="line"/>
-      <point x="854" y="62"/>
-      <point x="944" y="-20"/>
-      <point x="1124" y="-20" type="curve" smooth="yes"/>
-      <point x="1394" y="-20"/>
-      <point x="1541" y="173"/>
-      <point x="1541" y="466" type="curve" smooth="yes"/>
-      <point x="1541" y="849"/>
-      <point x="1291" y="1104"/>
+      <point x="831" y="1111" type="curve" smooth="yes"/>
+      <point x="363" y="1111"/>
+      <point x="91" y="852"/>
+      <point x="91" y="469" type="curve" smooth="yes"/>
+      <point x="91" y="169"/>
+      <point x="245" y="-20"/>
+      <point x="506" y="-20" type="curve" smooth="yes"/>
+      <point x="688" y="-20"/>
+      <point x="778" y="65"/>
+      <point x="820" y="178" type="curve"/>
+      <point x="831" y="178" type="line"/>
+      <point x="870" y="70"/>
+      <point x="958" y="-20"/>
+      <point x="1142" y="-20" type="curve" smooth="yes"/>
+      <point x="1412" y="-20"/>
+      <point x="1560" y="169"/>
+      <point x="1560" y="469" type="curve" smooth="yes"/>
+      <point x="1560" y="850"/>
+      <point x="1312" y="1111"/>
     </contour>
     <contour>
-      <point x="809" y="890" type="curve" smooth="yes"/>
-      <point x="1124" y="890"/>
-      <point x="1254" y="716"/>
-      <point x="1254" y="465" type="curve" smooth="yes"/>
-      <point x="1254" y="290"/>
-      <point x="1194" y="194"/>
-      <point x="1091" y="194" type="curve" smooth="yes"/>
-      <point x="982" y="194"/>
-      <point x="945" y="279"/>
-      <point x="945" y="414" type="curve" smooth="yes"/>
-      <point x="945" y="649" type="line"/>
-      <point x="671" y="649" type="line"/>
-      <point x="671" y="417" type="line" smooth="yes"/>
-      <point x="671" y="288"/>
-      <point x="637" y="194"/>
-      <point x="522" y="194" type="curve" smooth="yes"/>
-      <point x="422" y="194"/>
-      <point x="363" y="290"/>
-      <point x="363" y="468" type="curve" smooth="yes"/>
-      <point x="363" y="717"/>
-      <point x="492" y="890"/>
+      <point x="826" y="854" type="curve" smooth="yes"/>
+      <point x="1134" y="854"/>
+      <point x="1256" y="685"/>
+      <point x="1256" y="466" type="curve" smooth="yes"/>
+      <point x="1256" y="316"/>
+      <point x="1201" y="229"/>
+      <point x="1106" y="229" type="curve" smooth="yes"/>
+      <point x="1000" y="229"/>
+      <point x="972" y="308"/>
+      <point x="972" y="426" type="curve" smooth="yes"/>
+      <point x="972" y="647" type="line"/>
+      <point x="681" y="647" type="line"/>
+      <point x="681" y="432" type="line" smooth="yes"/>
+      <point x="681" y="314"/>
+      <point x="652" y="229"/>
+      <point x="541" y="229" type="curve" smooth="yes"/>
+      <point x="449" y="229"/>
+      <point x="396" y="316"/>
+      <point x="396" y="470" type="curve" smooth="yes"/>
+      <point x="396" y="686"/>
+      <point x="515" y="854"/>
     </contour>
   </outline>
   <lib>
@@ -59,7 +59,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6abc069f1d0a57218c906112fb35b91e990e72593063900652f9caa6c8970eb5e1b136e41723ed9911c1f6dda9da6b474090f3e3b03ef7753f3f1282a610b1a2</string>
+    <string>9329ad1edfc376a36af0ac0b6d1c7d57f78ae68b6c51208897adc1b45292bdd2fbff9be78ae32fe7c948d4b183da1af8e7028db83f42f07f9a94966e67987938</string>
     <key>hintSetList</key>
     <array>
       <dict>

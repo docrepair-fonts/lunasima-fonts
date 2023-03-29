@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="munahleft-hb" format="2">
   <unicode hex="05A3"/>
-  <anchor x="428" y="0" name="_bottomleft"/>
+  <anchor x="246" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="417" y="-456" type="line"/>
-      <point x="417" y="-156" type="line"/>
-      <point x="311" y="-156" type="line"/>
-      <point x="311" y="-353" type="line"/>
-      <point x="100" y="-353" type="line"/>
-      <point x="100" y="-456" type="line"/>
+      <point x="246" y="-456" type="line"/>
+      <point x="246" y="-149" type="line"/>
+      <point x="167" y="-149" type="line"/>
+      <point x="167" y="-351" type="line"/>
+      <point x="10" y="-351" type="line"/>
+      <point x="10" y="-456" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m417,-456l417,-156l311,-156l311,-353l100,-353l100,-456</string>
+    <string>w0m246,-456l246,-149l167,-149l167,-351l10,-351l10,-456</string>
     <key>hintSetList</key>
     <array>
       <dict>

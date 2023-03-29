@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="telishagedola-hb" format="2">
   <unicode hex="05A0"/>
-  <anchor x="314" y="1072" name="_top"/>
+  <anchor x="185" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="250" y="1373" type="line"/>
-      <point x="279" y="1359"/>
-      <point x="309" y="1353"/>
-      <point x="343" y="1353" type="curve" smooth="yes"/>
-      <point x="451" y="1353"/>
-      <point x="534" y="1436"/>
-      <point x="534" y="1541" type="curve" smooth="yes"/>
-      <point x="534" y="1648"/>
-      <point x="448" y="1728"/>
-      <point x="343" y="1728" type="curve" smooth="yes"/>
-      <point x="238" y="1728"/>
-      <point x="153" y="1646"/>
-      <point x="153" y="1541" type="curve" smooth="yes"/>
-      <point x="153" y="1507"/>
-      <point x="163" y="1474"/>
-      <point x="179" y="1448" type="curve"/>
-      <point x="100" y="1369" type="line"/>
-      <point x="173" y="1297" type="line"/>
+      <point x="132" y="1376" type="line"/>
+      <point x="154" y="1362"/>
+      <point x="179" y="1356"/>
+      <point x="207" y="1356" type="curve" smooth="yes"/>
+      <point x="293" y="1356"/>
+      <point x="360" y="1438"/>
+      <point x="360" y="1542" type="curve" smooth="yes"/>
+      <point x="360" y="1648"/>
+      <point x="292" y="1728"/>
+      <point x="207" y="1728" type="curve" smooth="yes"/>
+      <point x="122" y="1728"/>
+      <point x="53" y="1646"/>
+      <point x="53" y="1542" type="curve" smooth="yes"/>
+      <point x="53" y="1508"/>
+      <point x="61" y="1476"/>
+      <point x="74" y="1450" type="curve"/>
+      <point x="10" y="1372" type="line"/>
+      <point x="69" y="1300" type="line"/>
     </contour>
     <contour>
-      <point x="341" y="1446" type="curve" smooth="yes"/>
-      <point x="291" y="1446"/>
-      <point x="248" y="1488"/>
-      <point x="248" y="1541" type="curve" smooth="yes"/>
-      <point x="248" y="1593"/>
-      <point x="293" y="1636"/>
-      <point x="341" y="1636" type="curve" smooth="yes"/>
-      <point x="392" y="1636"/>
-      <point x="438" y="1591"/>
-      <point x="438" y="1541" type="curve" smooth="yes"/>
-      <point x="438" y="1490"/>
-      <point x="394" y="1446"/>
+      <point x="205" y="1448" type="curve" smooth="yes"/>
+      <point x="164" y="1448"/>
+      <point x="130" y="1490"/>
+      <point x="130" y="1542" type="curve" smooth="yes"/>
+      <point x="130" y="1594"/>
+      <point x="166" y="1636"/>
+      <point x="205" y="1636" type="curve" smooth="yes"/>
+      <point x="246" y="1636"/>
+      <point x="284" y="1592"/>
+      <point x="284" y="1542" type="curve" smooth="yes"/>
+      <point x="284" y="1492"/>
+      <point x="248" y="1448"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>85a5f22b5c9397f0f50550e241db7a0d3d380438f25ebb14c39f25a192678cfc0983bd8262da7b594d590118f9d2749f4235863d7068a9d564b401078cae59db</string>
+    <string>b1bc66c6d6649574cf824266b457b3b0c107f748c30392484dfe3ff9088653dccd27b0f55b0bf89b3b7cb00108a418386724eca1a5d903acaf79309aa1076798</string>
     <key>hintSetList</key>
     <array>
       <dict>

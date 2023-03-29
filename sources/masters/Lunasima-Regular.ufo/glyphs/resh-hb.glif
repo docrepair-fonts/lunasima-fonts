@@ -2,25 +2,25 @@
 <glyph name="resh-hb" format="2">
   <advance width="1044"/>
   <unicode hex="05E8"/>
-  <anchor x="846" y="0" name="bottom"/>
-  <anchor x="388" y="0" name="bottomleft"/>
-  <anchor x="388" y="602" name="center"/>
-  <anchor x="482" y="1076" name="top"/>
-  <anchor x="-25" y="1076" name="topleft"/>
+  <anchor x="778" y="0" name="bottom"/>
+  <anchor x="362" y="0" name="bottomleft"/>
+  <anchor x="362" y="600" name="center"/>
+  <anchor x="443" y="1072" name="top"/>
+  <anchor x="-17" y="1072" name="topleft"/>
   <outline>
     <contour>
-      <point x="948" y="0" type="line"/>
-      <point x="948" y="803" type="line" smooth="yes"/>
-      <point x="948" y="1070"/>
-      <point x="814" y="1188"/>
-      <point x="534" y="1188" type="curve" smooth="yes"/>
-      <point x="30" y="1188" type="line"/>
-      <point x="30" y="1008" type="line"/>
-      <point x="522" y="1008" type="line" smooth="yes"/>
-      <point x="661" y="1008"/>
-      <point x="744" y="947"/>
-      <point x="744" y="769" type="curve" smooth="yes"/>
-      <point x="744" y="0" type="line"/>
+      <point x="868" y="0" type="line"/>
+      <point x="868" y="806" type="line" smooth="yes"/>
+      <point x="868" y="1070"/>
+      <point x="746" y="1184"/>
+      <point x="492" y="1184" type="curve" smooth="yes"/>
+      <point x="33" y="1184" type="line"/>
+      <point x="33" y="1018" type="line"/>
+      <point x="481" y="1018" type="line" smooth="yes"/>
+      <point x="610" y="1018"/>
+      <point x="689" y="956"/>
+      <point x="689" y="770" type="curve" smooth="yes"/>
+      <point x="689" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1044m948,0l948,803c948,1070 814,1188 534,1188l30,1188l30,1008l522,1008c661,1008 744,947 744,769l744,0</string>
+    <string>w1044m868,0l868,806c868,1070 746,1184 492,1184l33,1184l33,1018l481,1018c610,1018 689,956 689,770l689,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

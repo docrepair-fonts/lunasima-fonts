@@ -2,21 +2,21 @@
 <glyph name="yodyod-hb" format="2">
   <advance width="1225"/>
   <unicode hex="05F2"/>
-  <anchor x="543" y="0" name="caret_1"/>
+  <anchor x="718" y="0" name="caret_1"/>
   <outline>
     <contour>
-      <point x="739" y="426" type="line"/>
-      <point x="841" y="614" type="line"/>
-      <point x="841" y="1188" type="line"/>
-      <point x="637" y="1188" type="line"/>
-      <point x="637" y="426" type="line"/>
+      <point x="940" y="426" type="line"/>
+      <point x="1032" y="606" type="line"/>
+      <point x="1032" y="1184" type="line"/>
+      <point x="849" y="1184" type="line"/>
+      <point x="849" y="426" type="line"/>
     </contour>
     <contour>
-      <point x="252" y="426" type="line"/>
-      <point x="354" y="614" type="line"/>
-      <point x="354" y="1188" type="line"/>
-      <point x="150" y="1188" type="line"/>
-      <point x="150" y="426" type="line"/>
+      <point x="297" y="426" type="line"/>
+      <point x="388" y="606" type="line"/>
+      <point x="388" y="1184" type="line"/>
+      <point x="205" y="1184" type="line"/>
+      <point x="205" y="426" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1225m739,426l841,614l841,1188l637,1188l637,426m252,426l354,614l354,1188l150,1188l150,426</string>
+    <string>w1225m940,426l1032,606l1032,1184l849,1184l849,426m297,426l388,606l388,1184l205,1184l205,426</string>
     <key>hintSetList</key>
     <array>
       <dict>

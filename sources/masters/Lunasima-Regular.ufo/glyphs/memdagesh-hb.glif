@@ -2,20 +2,20 @@
 <glyph name="memdagesh-hb" format="2">
   <advance width="1417"/>
   <unicode hex="FB3E"/>
-  <anchor x="664" y="0" name="bottom"/>
-  <anchor x="202" y="0" name="bottomleft"/>
-  <anchor x="703" y="1076" name="top"/>
-  <anchor x="3" y="1076" name="topleft"/>
+  <anchor x="715" y="0" name="bottom"/>
+  <anchor x="201" y="0" name="bottomleft"/>
+  <anchor x="765" y="1072" name="top"/>
+  <anchor x="-5" y="1072" name="topleft"/>
   <outline>
     <component base="mem-hb"/>
-    <component base="dagesh-hb" xOffset="496" yOffset="2"/>
+    <component base="dagesh-hb" xOffset="644"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>mem-hb+dagesh-hb</string>
+  <string>'mem-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

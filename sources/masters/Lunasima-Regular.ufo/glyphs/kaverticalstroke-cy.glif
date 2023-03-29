@@ -2,29 +2,27 @@
 <glyph name="kaverticalstroke-cy" format="2">
   <advance width="1337"/>
   <unicode hex="049D"/>
-  <anchor x="552" y="0" name="bottom"/>
-  <anchor x="552" y="1076" name="top"/>
+  <anchor x="643" y="0" name="bottom"/>
+  <anchor x="643" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="420" y="992" type="line"/>
-      <point x="420" y="612" type="line"/>
-      <point x="370" y="554" type="line"/>
-      <point x="370" y="1076" type="line"/>
-      <point x="170" y="1076" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="370" y="0" type="line"/>
-      <point x="370" y="546" type="line"/>
-      <point x="420" y="489" type="line"/>
-      <point x="420" y="91" type="line"/>
-      <point x="550" y="91" type="line"/>
-      <point x="550" y="339" type="line"/>
-      <point x="845" y="0" type="line"/>
-      <point x="1076" y="0" type="line"/>
-      <point x="586" y="558" type="line"/>
-      <point x="1039" y="1076" type="line"/>
-      <point x="820" y="1076" type="line"/>
-      <point x="550" y="763" type="line"/>
-      <point x="550" y="992" type="line"/>
+      <point x="537" y="990" type="line"/>
+      <point x="537" y="90" type="line"/>
+      <point x="717" y="90" type="line"/>
+      <point x="717" y="990" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="552" type="line"/>
+      <point x="363" y="1072" type="line"/>
+      <point x="187" y="1072" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="363" y="0" type="line"/>
+      <point x="363" y="544" type="line"/>
+      <point x="1105" y="0" type="line"/>
+      <point x="1311" y="0" type="line"/>
+      <point x="562" y="556" type="line"/>
+      <point x="1254" y="1072" type="line"/>
+      <point x="1064" y="1072" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f8217f64c27f998506a5f105633fa145816b2e44b42f73f69300ed3014a9623c91cd28e219194bff5c76a8c07209d9c0c0b60833eee343fd1fc37cd88825549c</string>
+    <string>w1337m537,990l537,90l717,90l717,990m363,552l363,1072l187,1072l187,0l363,0l363,544l1105,0l1311,0l562,556l1254,1072l1064,1072</string>
     <key>hintSetList</key>
     <array>
       <dict>

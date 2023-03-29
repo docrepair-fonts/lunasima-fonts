@@ -2,42 +2,42 @@
 <glyph name="DZ" format="2">
   <advance width="2845"/>
   <unicode hex="01F1"/>
-  <anchor x="2044" y="0" name="bottom"/>
-  <anchor x="2037" y="1428" name="top"/>
+  <anchor x="2232" y="0" name="bottom"/>
+  <anchor x="2225" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="1338" y="733" type="curve" smooth="yes"/>
-      <point x="1338" y="1186"/>
-      <point x="1073" y="1428"/>
-      <point x="626" y="1428" type="curve" smooth="yes"/>
-      <point x="154" y="1428" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="589" y="0" type="line" smooth="yes"/>
-      <point x="1050" y="0"/>
-      <point x="1338" y="246"/>
+      <point x="1466" y="737" type="curve" smooth="yes"/>
+      <point x="1466" y="1186"/>
+      <point x="1179" y="1428"/>
+      <point x="694" y="1428" type="curve" smooth="yes"/>
+      <point x="184" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="655" y="0" type="line" smooth="yes"/>
+      <point x="1155" y="0"/>
+      <point x="1466" y="246"/>
     </contour>
     <contour>
-      <point x="1026" y="725" type="curve" smooth="yes"/>
-      <point x="1026" y="374"/>
-      <point x="883" y="200"/>
-      <point x="585" y="200" type="curve" smooth="yes"/>
-      <point x="453" y="200" type="line"/>
-      <point x="453" y="1228" type="line"/>
-      <point x="617" y="1228" type="line" smooth="yes"/>
-      <point x="884" y="1228"/>
-      <point x="1026" y="1073"/>
+      <point x="1134" y="727" type="curve" smooth="yes"/>
+      <point x="1134" y="400"/>
+      <point x="976" y="239"/>
+      <point x="649" y="239" type="curve" smooth="yes"/>
+      <point x="503" y="239" type="line"/>
+      <point x="503" y="1192" type="line"/>
+      <point x="684" y="1192" type="line" smooth="yes"/>
+      <point x="977" y="1192"/>
+      <point x="1134" y="1044"/>
     </contour>
     <contour>
-      <point x="2555" y="200" type="line"/>
-      <point x="1863" y="200" type="line"/>
-      <point x="2538" y="1262" type="line"/>
-      <point x="2538" y="1428" type="line"/>
-      <point x="1513" y="1428" type="line"/>
-      <point x="1513" y="1228" type="line"/>
-      <point x="2170" y="1228" type="line"/>
-      <point x="1495" y="166" type="line"/>
-      <point x="1495" y="0" type="line"/>
-      <point x="2555" y="0" type="line"/>
+      <point x="2785" y="239" type="line"/>
+      <point x="2030" y="239" type="line"/>
+      <point x="2766" y="1240" type="line"/>
+      <point x="2766" y="1428" type="line"/>
+      <point x="1658" y="1428" type="line"/>
+      <point x="1658" y="1190" type="line"/>
+      <point x="2374" y="1190" type="line"/>
+      <point x="1638" y="189" type="line"/>
+      <point x="1638" y="0" type="line"/>
+      <point x="2785" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>856440079eb52cc0686274ecefd28fb02160d0d8f2218b82973903709c3f737ab55f47dd987d444bf64265cd6c9d8812fd01a427b3c990b98075ef5e0839abc4</string>
+    <string>3c11b596c18efd9425b28cd89da4c4bbddb3f2ccb3fd350816dd2dc5d59e3daa249c7f98591ee3f675691782fc16e2efda32a87549206f7172b988b20033455e</string>
     <key>hintSetList</key>
     <array>
       <dict>

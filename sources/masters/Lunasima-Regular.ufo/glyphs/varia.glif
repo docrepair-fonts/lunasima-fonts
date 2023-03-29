@@ -2,15 +2,15 @@
 <glyph name="varia" format="2">
   <advance width="1258"/>
   <unicode hex="1FEF"/>
-  <anchor x="336" y="1072" name="_top"/>
+  <anchor x="770" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="410" y="1212" type="line"/>
-      <point x="410" y="1237" type="line"/>
-      <point x="314" y="1552" type="line"/>
-      <point x="80" y="1552" type="line"/>
-      <point x="80" y="1532" type="line"/>
-      <point x="278" y="1212" type="line"/>
+      <point x="821" y="1212" type="line"/>
+      <point x="821" y="1236" type="line"/>
+      <point x="676" y="1552" type="line"/>
+      <point x="437" y="1552" type="line"/>
+      <point x="437" y="1532" type="line"/>
+      <point x="693" y="1212" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1258m410,1212l410,1237l314,1552l80,1552l80,1532l278,1212</string>
+    <string>w1258m821,1212l821,1236l676,1552l437,1552l437,1532l693,1212</string>
     <key>hintSetList</key>
     <array>
       <dict>

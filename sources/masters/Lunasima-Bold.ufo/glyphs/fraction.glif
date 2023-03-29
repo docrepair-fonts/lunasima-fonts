@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fraction" format="2">
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="257" y="1428" type="line"/>
-      <point x="-509" y="0" type="line"/>
-      <point x="-258" y="0" type="line"/>
-      <point x="507" y="1428" type="line"/>
+      <point x="1190" y="1428" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="757" y="0" type="line"/>
+      <point x="1438" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.727,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w0m257,1428l-509,0l-258,0l507,1428</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 21</string>
-          <string>hstem 1428 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 21</string>
+              <string>hstem 1428 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w1946m1190,1428l509,0l757,0l1438,1428</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

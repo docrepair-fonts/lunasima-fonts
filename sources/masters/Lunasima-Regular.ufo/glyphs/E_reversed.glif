@@ -2,23 +2,23 @@
 <glyph name="Ereversed" format="2">
   <advance width="1110"/>
   <unicode hex="018E"/>
-  <anchor x="529" y="0" name="bottom"/>
-  <anchor x="537" y="1428" name="top"/>
-  <anchor x="1001" y="1428" name="topright"/>
+  <anchor x="522" y="0" name="bottom"/>
+  <anchor x="531" y="1428" name="top"/>
+  <anchor x="973" y="1428" name="topright"/>
   <outline>
     <contour>
-      <point x="923" y="0" type="line"/>
-      <point x="923" y="1428" type="line"/>
-      <point x="120" y="1428" type="line"/>
-      <point x="120" y="1278" type="line"/>
-      <point x="723" y="1278" type="line"/>
-      <point x="723" y="821" type="line"/>
-      <point x="156" y="821" type="line"/>
-      <point x="156" y="673" type="line"/>
-      <point x="723" y="673" type="line"/>
-      <point x="723" y="150" type="line"/>
-      <point x="120" y="150" type="line"/>
-      <point x="120" y="0" type="line"/>
+      <point x="897" y="0" type="line"/>
+      <point x="897" y="1428" type="line"/>
+      <point x="132" y="1428" type="line"/>
+      <point x="132" y="1270" type="line"/>
+      <point x="718" y="1270" type="line"/>
+      <point x="718" y="824" type="line"/>
+      <point x="167" y="824" type="line"/>
+      <point x="167" y="668" type="line"/>
+      <point x="718" y="668" type="line"/>
+      <point x="718" y="158" type="line"/>
+      <point x="132" y="158" type="line"/>
+      <point x="132" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1110m923,0l923,1428l120,1428l120,1278l723,1278l723,821l156,821l156,673l723,673l723,150l120,150l120,0</string>
+    <string>w1110m897,0l897,1428l132,1428l132,1270l718,1270l718,824l167,824l167,668l718,668l718,158l132,158l132,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

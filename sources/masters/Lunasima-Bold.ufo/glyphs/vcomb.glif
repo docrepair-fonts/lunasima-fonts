@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="vcomb" format="2">
   <unicode hex="036E"/>
-  <anchor x="-65" y="1095" name="_top"/>
+  <anchor x="-3" y="1095" name="_top"/>
   <outline>
     <contour>
-      <point x="29" y="1240" type="line"/>
-      <point x="218" y="1678" type="line"/>
-      <point x="66" y="1678" type="line"/>
-      <point x="-26" y="1419" type="line" smooth="yes"/>
-      <point x="-32" y="1402"/>
-      <point x="-42" y="1372"/>
-      <point x="-44" y="1352" type="curve"/>
-      <point x="-47" y="1352" type="line"/>
-      <point x="-48" y="1371"/>
-      <point x="-58" y="1404"/>
-      <point x="-64" y="1419" type="curve"/>
-      <point x="-154" y="1678" type="line"/>
+      <point x="103" y="1240" type="line"/>
+      <point x="356" y="1678" type="line"/>
+      <point x="202" y="1678" type="line"/>
+      <point x="69" y="1419" type="line"/>
+      <point x="55" y="1402"/>
+      <point x="32" y="1372"/>
+      <point x="27" y="1352" type="curve"/>
+      <point x="21" y="1352" type="line"/>
+      <point x="16" y="1371"/>
+      <point x="-4" y="1404"/>
+      <point x="-18" y="1419" type="curve"/>
+      <point x="-153" y="1678" type="line"/>
       <point x="-305" y="1678" type="line"/>
-      <point x="-117" y="1240" type="line"/>
+      <point x="-53" y="1240" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8a91dc136d45e63e91d2ca1a17b9bad5cb5e07ebfe38a9f29d6f96093076535ab519af09d58618760e5cf2867095a277f074f2ca4cd01b12267c439b33033c2b</string>
+    <string>w0m103,1240l356,1678l202,1678l69,1419c55,1402 32,1372 27,1352l21,1352c16,1371 -4,1404 -18,1419l-153,1678l-305,1678l-53,1240</string>
     <key>hintSetList</key>
     <array>
       <dict>

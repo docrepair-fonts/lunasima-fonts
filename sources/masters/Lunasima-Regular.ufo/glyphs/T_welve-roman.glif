@@ -1,27 +1,83 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Twelve-roman" format="2">
   <advance width="2350"/>
   <unicode hex="216B"/>
-  <anchor x="2168" y="0" name="bottom"/>
-  <anchor x="2168" y="1428" name="top"/>
-  <anchor x="2424" y="1428" name="topright"/>
+  <anchor x="2026" y="0" name="bottom"/>
+  <anchor x="2026" y="1428" name="top"/>
+  <anchor x="2295" y="1428" name="topright"/>
   <outline>
-    <component base="X"/>
-    <component base="I" xOffset="1282"/>
-    <component base="I" xOffset="1872"/>
+    <contour>
+      <point x="628" y="748" type="line"/>
+      <point x="1011" y="1428" type="line"/>
+      <point x="817" y="1428" type="line"/>
+      <point x="525" y="868" type="line"/>
+      <point x="234" y="1428" type="line"/>
+      <point x="34" y="1428" type="line"/>
+      <point x="418" y="744" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="521" y="620" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="1040" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1609" y="104" type="line"/>
+      <point x="1463" y="142" type="line"/>
+      <point x="1463" y="1284" type="line"/>
+      <point x="1609" y="1324" type="line"/>
+      <point x="1609" y="1428" type="line"/>
+      <point x="1136" y="1428" type="line"/>
+      <point x="1136" y="1324" type="line"/>
+      <point x="1283" y="1284" type="line"/>
+      <point x="1283" y="142" type="line"/>
+      <point x="1136" y="104" type="line"/>
+      <point x="1136" y="0" type="line"/>
+      <point x="1609" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2260" y="104" type="line"/>
+      <point x="2114" y="142" type="line"/>
+      <point x="2114" y="1284" type="line"/>
+      <point x="2260" y="1324" type="line"/>
+      <point x="2260" y="1428" type="line"/>
+      <point x="1787" y="1428" type="line"/>
+      <point x="1787" y="1324" type="line"/>
+      <point x="1934" y="1284" type="line"/>
+      <point x="1934" y="142" type="line"/>
+      <point x="1787" y="104" type="line"/>
+      <point x="1787" y="0" type="line"/>
+      <point x="2260" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>Ten-roman</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>One-roman</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/13 22:16:41</string>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <string>Ten-roman</string>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <string>One-roman</string>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a6d61637b4842d802eb219ddf59b7c60923e330ede59ddbca9b2bc7f1e82f23bb22ac139323d47090099c206b2c7e4f0e69fd43f3c63ae3b90c38b00ff8fd065</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1408 20</string>
+          <string>vstem 1544 180</string>
+          <string>vstem 2134 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

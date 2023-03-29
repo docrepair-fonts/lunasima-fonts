@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="psiliperispomeni.case" format="2">
-  <advance width="947"/>
-  <anchor x="940" y="1428" name="_topleft"/>
+  <advance width="988"/>
+  <anchor x="930" y="1428" name="_topleft"/>
   <outline>
     <contour>
-      <point x="488" y="727" type="line"/>
-      <point x="585" y="777"/>
-      <point x="638" y="842"/>
-      <point x="638" y="932" type="curve" smooth="yes"/>
-      <point x="638" y="1038"/>
-      <point x="560" y="1088"/>
-      <point x="443" y="1088" type="curve" smooth="yes"/>
-      <point x="384" y="1088"/>
-      <point x="347" y="1077"/>
-      <point x="316" y="1068" type="curve"/>
-      <point x="316" y="936" type="line"/>
-      <point x="327" y="941"/>
-      <point x="345" y="948"/>
-      <point x="368" y="948" type="curve" smooth="yes"/>
-      <point x="409" y="948"/>
-      <point x="435" y="929"/>
-      <point x="435" y="884" type="curve" smooth="yes"/>
-      <point x="435" y="846"/>
-      <point x="413" y="810"/>
-      <point x="381" y="783" type="curve"/>
+      <point x="508" y="702" type="line"/>
+      <point x="610" y="756"/>
+      <point x="662" y="823"/>
+      <point x="662" y="910" type="curve" smooth="yes"/>
+      <point x="662" y="1016"/>
+      <point x="581" y="1069"/>
+      <point x="462" y="1069" type="curve" smooth="yes"/>
+      <point x="401" y="1069"/>
+      <point x="362" y="1058"/>
+      <point x="329" y="1047" type="curve"/>
+      <point x="329" y="903" type="line"/>
+      <point x="340" y="908"/>
+      <point x="357" y="915"/>
+      <point x="380" y="915" type="curve" smooth="yes"/>
+      <point x="421" y="915"/>
+      <point x="445" y="893"/>
+      <point x="445" y="856" type="curve" smooth="yes"/>
+      <point x="445" y="822"/>
+      <point x="425" y="792"/>
+      <point x="394" y="765" type="curve"/>
     </contour>
     <contour>
-      <point x="231" y="1148" type="line"/>
-      <point x="248" y="1229"/>
-      <point x="277" y="1256"/>
-      <point x="317" y="1256" type="curve" smooth="yes"/>
-      <point x="411" y="1256"/>
-      <point x="523" y="1150"/>
-      <point x="636" y="1150" type="curve" smooth="yes"/>
-      <point x="763" y="1150"/>
-      <point x="851" y="1248"/>
-      <point x="867" y="1438" type="curve" name=".hr01"/>
-      <point x="721" y="1438" type="line"/>
-      <point x="704" y="1358"/>
-      <point x="674" y="1330"/>
-      <point x="635" y="1330" type="curve" smooth="yes"/>
-      <point x="543" y="1330"/>
-      <point x="427" y="1436"/>
-      <point x="320" y="1436" type="curve" smooth="yes"/>
-      <point x="183" y="1436"/>
-      <point x="100" y="1341"/>
-      <point x="84" y="1148" type="curve"/>
+      <point x="250" y="1129" type="line"/>
+      <point x="267" y="1212"/>
+      <point x="296" y="1232"/>
+      <point x="332" y="1232" type="curve" smooth="yes"/>
+      <point x="427" y="1232"/>
+      <point x="542" y="1131"/>
+      <point x="659" y="1131" type="curve" smooth="yes"/>
+      <point x="786" y="1131"/>
+      <point x="876" y="1227"/>
+      <point x="892" y="1439" type="curve"/>
+      <point x="737" y="1439" type="line"/>
+      <point x="722" y="1357"/>
+      <point x="691" y="1336"/>
+      <point x="655" y="1336" type="curve" smooth="yes"/>
+      <point x="560" y="1336"/>
+      <point x="440" y="1437"/>
+      <point x="335" y="1437" type="curve" smooth="yes"/>
+      <point x="196" y="1437"/>
+      <point x="112" y="1344" name=".hr01"/>
+      <point x="96" y="1129" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -55,14 +55,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>03fc8a09c3d3f3a2f82319ef4db9160911db7f340912d61151aa1bf9e1eb6825ce1c3502a264d775248b865c7dce21a4c8b323dec2a6e74605edf389d761f300</string>
+    <string>22589cd3fba49b7d664c8e74f5df780c464fd5472a377d3e42f29e847d41fd17911de0603ead758a53fa5264fc9029fc1edf933e3695d38fab2936626f36030e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 872 172</string>
-          <string>hstem 1106 238</string>
+          <string>hstem 1200 238</string>
           <string>hstem 670 21</string>
           <string>vstem 422 248</string>
         </array>
@@ -70,7 +70,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 1200 238</string>
+          <string>hstem 1106 238</string>
           <string>hstem 872 172</string>
           <string>hstem 670 21</string>
           <string>vstem 422 248</string>

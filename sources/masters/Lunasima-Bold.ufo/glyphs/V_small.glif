@@ -2,24 +2,24 @@
 <glyph name="Vsmall" format="2">
   <advance width="1302"/>
   <unicode hex="1D20"/>
-  <anchor x="570" y="0" name="bottom"/>
-  <anchor x="570" y="1086" name="top"/>
+  <anchor x="653" y="0" name="bottom"/>
+  <anchor x="653" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="734" y="0" type="line"/>
-      <point x="1101" y="1086" type="line"/>
-      <point x="792" y="1086" type="line"/>
-      <point x="625" y="471" type="line" smooth="yes"/>
-      <point x="605" y="398"/>
-      <point x="582" y="296"/>
-      <point x="571" y="228" type="curve"/>
-      <point x="567" y="228" type="line"/>
-      <point x="559" y="293"/>
-      <point x="536" y="399"/>
-      <point x="517" y="471" type="curve" smooth="yes"/>
-      <point x="351" y="1086" type="line"/>
-      <point x="40" y="1086" type="line"/>
-      <point x="404" y="0" type="line"/>
+      <point x="827" y="0" type="line"/>
+      <point x="1257" y="1095" type="line"/>
+      <point x="928" y="1095" type="line"/>
+      <point x="724" y="490" type="line"/>
+      <point x="699" y="425"/>
+      <point x="667" y="341"/>
+      <point x="655" y="272" type="curve"/>
+      <point x="648" y="272" type="line"/>
+      <point x="639" y="337"/>
+      <point x="608" y="428"/>
+      <point x="584" y="490" type="curve"/>
+      <point x="381" y="1095" type="line"/>
+      <point x="48" y="1095" type="line"/>
+      <point x="475" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1302m734,0l1101,1086l792,1086l625,471c605,398 582,296 571,228l567,228c559,293 536,399 517,471l351,1086l40,1086l404,0</string>
+    <string>w1302m827,0l1257,1095l928,1095l724,490c699,425 667,341 655,272l648,272c639,337 608,428 584,490l381,1095l48,1095l475,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

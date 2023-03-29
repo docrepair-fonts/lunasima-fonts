@@ -6,14 +6,14 @@
 uni25BF</note>
   <outline>
     <contour>
-      <point x="370" y="348" type="line"/>
-      <point x="666" y="942" type="line"/>
-      <point x="72" y="942" type="line"/>
+      <point x="655" y="348" type="line"/>
+      <point x="1099" y="942" type="line"/>
+      <point x="208" y="942" type="line"/>
     </contour>
     <contour>
-      <point x="370" y="508" type="line"/>
-      <point x="194" y="868" type="line"/>
-      <point x="544" y="868" type="line"/>
+      <point x="655" y="508" type="line"/>
+      <point x="391" y="868" type="line"/>
+      <point x="916" y="868" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@ uni25BF</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1308m370,348l666,942l72,942m370,508l194,868l544,868</string>
+    <string>w1308m655,348l1099,942l208,942m655,508l391,868l916,868</string>
     <key>hintSetList</key>
     <array>
       <dict>

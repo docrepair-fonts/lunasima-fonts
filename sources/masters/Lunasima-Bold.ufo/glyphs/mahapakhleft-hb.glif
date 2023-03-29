@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mahapakhleft-hb" format="2">
   <unicode hex="05A4"/>
-  <anchor x="264" y="0" name="_bottomleft"/>
+  <anchor x="106" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="417" y="-502" type="line"/>
-      <point x="242" y="-329" type="line"/>
-      <point x="417" y="-156" type="line"/>
-      <point x="276" y="-156" type="line"/>
-      <point x="100" y="-329" type="line"/>
-      <point x="276" y="-502" type="line"/>
+      <point x="246" y="-504" type="line"/>
+      <point x="115" y="-326" type="line"/>
+      <point x="246" y="-149" type="line"/>
+      <point x="141" y="-149" type="line"/>
+      <point x="10" y="-326" type="line"/>
+      <point x="141" y="-504" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m417,-502l242,-329l417,-156l276,-156l100,-329l276,-502</string>
+    <string>w0m246,-504l115,-326l246,-149l141,-149l10,-326l141,-504</string>
     <key>hintSetList</key>
     <array>
       <dict>

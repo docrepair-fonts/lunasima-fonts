@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="psilioxia.case" format="2">
-  <advance width="922"/>
-  <anchor x="945" y="1428" name="_topleft"/>
+  <advance width="975"/>
+  <anchor x="879" y="1428" name="_topleft"/>
   <outline>
     <contour>
-      <point x="228" y="1075" type="line"/>
-      <point x="325" y="1125"/>
-      <point x="378" y="1190"/>
-      <point x="378" y="1280" type="curve" smooth="yes"/>
-      <point x="378" y="1386"/>
-      <point x="300" y="1436"/>
-      <point x="183" y="1436" type="curve" smooth="yes"/>
-      <point x="124" y="1436"/>
-      <point x="87" y="1425"/>
-      <point x="56" y="1416" type="curve"/>
-      <point x="56" y="1284" type="line"/>
-      <point x="67" y="1289"/>
-      <point x="85" y="1296"/>
-      <point x="108" y="1296" type="curve" smooth="yes"/>
-      <point x="149" y="1296"/>
-      <point x="175" y="1277"/>
-      <point x="175" y="1232" type="curve" smooth="yes"/>
-      <point x="175" y="1194"/>
-      <point x="153" y="1158"/>
-      <point x="120" y="1131" type="curve"/>
+      <point x="247" y="1070" type="line"/>
+      <point x="348" y="1124"/>
+      <point x="400" y="1191"/>
+      <point x="400" y="1278" type="curve" smooth="yes"/>
+      <point x="400" y="1384"/>
+      <point x="319" y="1437"/>
+      <point x="201" y="1437" type="curve" smooth="yes"/>
+      <point x="139" y="1437"/>
+      <point x="101" y="1426"/>
+      <point x="67" y="1415" type="curve"/>
+      <point x="67" y="1271" type="line"/>
+      <point x="79" y="1276"/>
+      <point x="96" y="1283"/>
+      <point x="119" y="1283" type="curve" smooth="yes"/>
+      <point x="160" y="1283"/>
+      <point x="184" y="1261"/>
+      <point x="184" y="1224" type="curve" smooth="yes"/>
+      <point x="184" y="1190"/>
+      <point x="164" y="1160"/>
+      <point x="133" y="1133" type="curve"/>
     </contour>
     <contour>
-      <point x="607" y="1088" type="line" name=".hr01"/>
-      <point x="838" y="1408" type="line"/>
-      <point x="838" y="1428" type="line"/>
-      <point x="514" y="1428" type="line"/>
-      <point x="420" y="1114" type="line"/>
-      <point x="420" y="1088" type="line"/>
+      <point x="642" y="1088" type="line" name=".hr01"/>
+      <point x="879" y="1408" type="line"/>
+      <point x="879" y="1428" type="line"/>
+      <point x="537" y="1428" type="line"/>
+      <point x="442" y="1115" type="line"/>
+      <point x="442" y="1088" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>22c7dc1fc59617e08e6eb01274c57af556ef5f4fe8972dc7213274d03e3871728db005f2774cb77f5b669ea2fb546ab1422e6962c1efed65ace4a58cc77bb4a6</string>
+    <string>dd5de3ae6163355d39fc2601dd23721b619c0dc11a16e1a13424ff1371b8867acceac254ea61cf0669f9a158db567b8b2b73098335824cf8deb92f957526536f</string>
     <key>hintSetList</key>
     <array>
       <dict>

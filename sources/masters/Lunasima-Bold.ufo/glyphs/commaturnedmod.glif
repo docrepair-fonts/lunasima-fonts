@@ -4,38 +4,21 @@
   <unicode hex="02BB"/>
   <outline>
     <contour>
-      <point x="33" y="905" type="line"/>
-      <point x="310" y="905" type="line"/>
-      <point x="329" y="1052"/>
-      <point x="370" y="1263"/>
-      <point x="408" y="1428" type="curve"/>
-      <point x="192" y="1428" type="line"/>
-      <point x="127" y="1283"/>
-      <point x="56" y="1068"/>
-      <point x="20" y="927" type="curve"/>
+      <point x="37" y="884" type="line"/>
+      <point x="328" y="884" type="line"/>
+      <point x="346" y="1036"/>
+      <point x="387" y="1255"/>
+      <point x="425" y="1427" type="curve"/>
+      <point x="196" y="1427" type="line"/>
+      <point x="130" y="1281"/>
+      <point x="60" y="1048"/>
+      <point x="24" y="906" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
       <string>1,0.727,0.6,1</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 856 21</string>
-              <string>hstem 1426 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w442m33,905l310,905c329,1052 370,1263 408,1428l192,1428c127,1283 56,1068 20,927</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

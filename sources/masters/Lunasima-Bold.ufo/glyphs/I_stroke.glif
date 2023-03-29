@@ -2,30 +2,30 @@
 <glyph name="Istroke" format="2">
   <advance width="753"/>
   <unicode hex="0197"/>
-  <anchor x="381" y="0" name="bottom"/>
-  <anchor x="381" y="1428" name="top"/>
+  <anchor x="379" y="0" name="bottom"/>
+  <anchor x="379" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="51" y="1428" type="line"/>
-      <point x="51" y="1294" type="line"/>
-      <point x="228" y="1236" type="line"/>
-      <point x="228" y="825" type="line"/>
-      <point x="46" y="825" type="line"/>
-      <point x="46" y="625" type="line"/>
-      <point x="228" y="625" type="line"/>
-      <point x="228" y="193" type="line"/>
-      <point x="51" y="136" type="line"/>
-      <point x="51" y="1" type="line"/>
-      <point x="710" y="1" type="line"/>
-      <point x="710" y="136" type="line"/>
-      <point x="532" y="193" type="line"/>
-      <point x="532" y="625" type="line"/>
-      <point x="715" y="625" type="line"/>
-      <point x="715" y="825" type="line"/>
-      <point x="532" y="825" type="line"/>
-      <point x="532" y="1236" type="line"/>
-      <point x="710" y="1294" type="line"/>
-      <point x="710" y="1428" type="line"/>
+      <point x="58" y="1428" type="line"/>
+      <point x="58" y="1264" type="line"/>
+      <point x="215" y="1189" type="line"/>
+      <point x="215" y="839" type="line"/>
+      <point x="57" y="839" type="line"/>
+      <point x="57" y="595" type="line"/>
+      <point x="215" y="595" type="line"/>
+      <point x="215" y="239" type="line"/>
+      <point x="58" y="165" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="165" type="line"/>
+      <point x="540" y="239" type="line"/>
+      <point x="540" y="595" type="line"/>
+      <point x="701" y="595" type="line"/>
+      <point x="701" y="839" type="line"/>
+      <point x="540" y="839" type="line"/>
+      <point x="540" y="1189" type="line"/>
+      <point x="700" y="1264" type="line"/>
+      <point x="700" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1ac5fe40edb4376cd0e0e8a5f42cff81284633fc3b6b24964e972538f79d7f0f5fd131ee87762d5ff9b6b735ed8ad179b40b59be530cc9a1d0c7f046f9403210</string>
+    <string>7414bc9be5f8d8654e1afef69b72764124001911648e6bbcf35faa1112c990cb9a2c07a07ccf771cd8b1e3442222dbc5bc96f3fa5b7b040f544407d4bde5be97</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -4,10 +4,10 @@
   <unicode hex="1EBA"/>
   <anchor x="661" y="0" name="bottom"/>
   <anchor x="1193" y="1428" name="topright"/>
-  <anchor x="664" y="1997" name="top"/>
+  <anchor x="665" y="1995" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="hookabovecomb" xOffset="1342" yOffset="342"/>
+    <component base="hookabovecomb" xOffset="1419" yOffset="333"/>
   </outline>
   <lib>
   <dict>

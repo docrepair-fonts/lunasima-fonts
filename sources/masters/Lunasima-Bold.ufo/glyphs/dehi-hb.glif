@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dehi-hb" format="2">
   <unicode hex="05AD"/>
-  <anchor x="156" y="0" name="_bottomleft"/>
+  <anchor x="50" y="0" name="_bottomleft"/>
   <outline>
     <contour>
-      <point x="417" y="-364" type="line"/>
-      <point x="286" y="-364"/>
-      <point x="207" y="-294"/>
-      <point x="207" y="-175" type="curve"/>
-      <point x="100" y="-175" type="line"/>
-      <point x="100" y="-358"/>
-      <point x="217" y="-466"/>
-      <point x="417" y="-466" type="curve"/>
+      <point x="246" y="-354" type="line"/>
+      <point x="148" y="-354"/>
+      <point x="89" y="-282"/>
+      <point x="89" y="-160" type="curve"/>
+      <point x="10" y="-160" type="line"/>
+      <point x="10" y="-348"/>
+      <point x="96" y="-458"/>
+      <point x="246" y="-458" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m417,-364c286,-364 207,-294 207,-175l100,-175c100,-358 217,-466 417,-466</string>
+    <string>w0m246,-354c148,-354 89,-282 89,-160l10,-160c10,-348 96,-458 246,-458</string>
     <key>hintSetList</key>
     <array>
       <dict>

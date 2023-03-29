@@ -6,10 +6,10 @@
 uni2216</note>
   <outline>
     <contour>
-      <point x="562" y="-242" type="line"/>
-      <point x="704" y="-242" type="line"/>
-      <point x="244" y="1520" type="line"/>
-      <point x="102" y="1520" type="line"/>
+      <point x="1061" y="-242" type="line"/>
+      <point x="1274" y="-242" type="line"/>
+      <point x="584" y="1520" type="line"/>
+      <point x="372" y="1520" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@ uni2216</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1646m562,-242l704,-242l244,1520l102,1520</string>
+    <string>w1646m1061,-242l1274,-242l584,1520l372,1520</string>
     <key>hintSetList</key>
     <array>
       <dict>

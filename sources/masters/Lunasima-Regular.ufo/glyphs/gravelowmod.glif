@@ -4,16 +4,16 @@
   <unicode hex="02CE"/>
   <outline>
     <contour>
-      <point x="80" y="-88" type="line"/>
-      <point x="80" y="-108" type="line"/>
-      <point x="132" y="-182"/>
-      <point x="287" y="-336"/>
-      <point x="381" y="-408" type="curve"/>
-      <point x="514" y="-408" type="line"/>
-      <point x="514" y="-383" type="line"/>
-      <point x="452" y="-309"/>
-      <point x="362" y="-178"/>
-      <point x="315" y="-88" type="curve"/>
+      <point x="88" y="-88" type="line"/>
+      <point x="88" y="-108" type="line"/>
+      <point x="134" y="-182"/>
+      <point x="275" y="-336"/>
+      <point x="362" y="-408" type="curve"/>
+      <point x="480" y="-408" type="line"/>
+      <point x="480" y="-384" type="line"/>
+      <point x="422" y="-310"/>
+      <point x="339" y="-178"/>
+      <point x="297" y="-88" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w568m80,-88l80,-108c132,-182 287,-336 381,-408l514,-408l514,-383c452,-309 362,-178 315,-88</string>
+    <string>w568m88,-88l88,-108c134,-182 275,-336 362,-408l480,-408l480,-384c422,-310 339,-178 297,-88</string>
     <key>hintSetList</key>
     <array>
       <dict>

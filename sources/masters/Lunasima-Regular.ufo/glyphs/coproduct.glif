@@ -6,14 +6,14 @@
 uni2210</note>
   <outline>
     <contour>
-      <point x="102" y="-480" type="line"/>
-      <point x="1196" y="-480" type="line"/>
-      <point x="1196" y="1428" type="line"/>
-      <point x="1016" y="1428" type="line"/>
-      <point x="1016" y="-320" type="line"/>
-      <point x="282" y="-320" type="line"/>
-      <point x="282" y="1428" type="line"/>
-      <point x="102" y="1428" type="line"/>
+      <point x="112" y="-480" type="line"/>
+      <point x="1517" y="-480" type="line"/>
+      <point x="1517" y="1428" type="line"/>
+      <point x="1287" y="1428" type="line"/>
+      <point x="1287" y="-320" type="line"/>
+      <point x="344" y="-320" type="line"/>
+      <point x="344" y="1428" type="line"/>
+      <point x="112" y="1428" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@ uni2210</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1629m102,-480l1196,-480l1196,1428l1016,1428l1016,-320l282,-320l282,1428l102,1428</string>
+    <string>w1629m112,-480l1517,-480l1517,1428l1287,1428l1287,-320l344,-320l344,1428l112,1428</string>
     <key>hintSetList</key>
     <array>
       <dict>

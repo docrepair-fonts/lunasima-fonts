@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexbelowcomb" format="2">
   <unicode hex="032D"/>
-  <anchor x="13" y="0" name="_bottom"/>
-  <anchor x="17" y="-400" name="bottom"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="5" y="-400" name="bottom"/>
   <outline>
     <contour>
-      <point x="-91" y="-80" type="line"/>
-      <point x="-144" y="-170"/>
-      <point x="-263" y="-300"/>
-      <point x="-338" y="-377" type="curve"/>
-      <point x="-338" y="-400" type="line"/>
-      <point x="-202" y="-400" type="line"/>
-      <point x="-132" y="-356"/>
-      <point x="-63" y="-293"/>
-      <point x="9" y="-223" type="curve"/>
-      <point x="81" y="-293"/>
-      <point x="154" y="-358"/>
-      <point x="224" y="-400" type="curve"/>
-      <point x="363" y="-400" type="line"/>
-      <point x="363" y="-377" type="line"/>
-      <point x="288" y="-302"/>
-      <point x="163" y="-170"/>
-      <point x="113" y="-80" type="curve"/>
+      <point x="-92" y="-80" type="line"/>
+      <point x="-151" y="-170"/>
+      <point x="-288" y="-300"/>
+      <point x="-372" y="-378" type="curve"/>
+      <point x="-372" y="-400" type="line"/>
+      <point x="-250" y="-400" type="line"/>
+      <point x="-171" y="-356"/>
+      <point x="-87" y="-292"/>
+      <point x="-4" y="-220" type="curve"/>
+      <point x="78" y="-292"/>
+      <point x="166" y="-358"/>
+      <point x="246" y="-400" type="curve"/>
+      <point x="372" y="-400" type="line"/>
+      <point x="372" y="-378" type="line"/>
+      <point x="285" y="-302"/>
+      <point x="141" y="-170"/>
+      <point x="88" y="-80" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e816d4b0ad61ecfb210f8ef87988a3a593883e8bf04c3db0d9b603b387d03bd1c0b32989054c41d5f4afe9f27f93eda4bb69a8af34b6e7b694333183470a4845</string>
+    <string>73497ac497771d747043a88d55cae1e9b2aaf10d696d07954d396d9e42f78f80b074959b47321c001c461c3ae8dd0fc18fd23581d3cb40a0201e95bef5255d19</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,22 +2,22 @@
 <glyph name="EReversedmod" format="2">
   <advance width="658"/>
   <unicode hex="1D32"/>
-  <anchor x="359" y="574" name="bottom"/>
-  <anchor x="359" y="1430" name="top"/>
+  <anchor x="319" y="574" name="bottom"/>
+  <anchor x="319" y="1430" name="top"/>
   <outline>
     <contour>
-      <point x="600" y="574" type="line"/>
-      <point x="600" y="1430" type="line"/>
-      <point x="66" y="1430" type="line"/>
-      <point x="66" y="1297" type="line"/>
-      <point x="406" y="1297" type="line"/>
-      <point x="406" y="1086" type="line"/>
-      <point x="89" y="1086" type="line"/>
-      <point x="89" y="953" type="line"/>
-      <point x="406" y="953" type="line"/>
-      <point x="406" y="707" type="line"/>
-      <point x="66" y="707" type="line"/>
-      <point x="66" y="574" type="line"/>
+      <point x="514" y="574" type="line"/>
+      <point x="514" y="1430" type="line"/>
+      <point x="74" y="1430" type="line"/>
+      <point x="74" y="1275" type="line"/>
+      <point x="303" y="1275" type="line"/>
+      <point x="303" y="1096" type="line"/>
+      <point x="92" y="1096" type="line"/>
+      <point x="92" y="941" type="line"/>
+      <point x="303" y="941" type="line"/>
+      <point x="303" y="731" type="line"/>
+      <point x="74" y="731" type="line"/>
+      <point x="74" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w658m600,574l600,1430l66,1430l66,1297l406,1297l406,1086l89,1086l89,953l406,953l406,707l66,707l66,574</string>
+    <string>w658m514,574l514,1430l74,1430l74,1275l303,1275l303,1096l92,1096l92,941l303,941l303,731l74,731l74,574</string>
     <key>hintSetList</key>
     <array>
       <dict>

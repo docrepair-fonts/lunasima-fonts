@@ -2,17 +2,17 @@
 <glyph name="lefttackbelowcomb" format="2">
   <unicode hex="0318"/>
   <anchor x="0" y="0" name="_bottom"/>
-  <anchor x="4" y="-436" name="bottom"/>
+  <anchor x="5" y="-436" name="bottom"/>
   <outline>
     <contour>
-      <point x="-176" y="-306" type="line"/>
-      <point x="44" y="-306" type="line"/>
-      <point x="44" y="-436" type="line"/>
-      <point x="176" y="-436" type="line"/>
-      <point x="176" y="-56" type="line"/>
-      <point x="44" y="-56" type="line"/>
-      <point x="44" y="-186" type="line"/>
-      <point x="-176" y="-186" type="line"/>
+      <point x="-194" y="-306" type="line"/>
+      <point x="49" y="-306" type="line"/>
+      <point x="49" y="-436" type="line"/>
+      <point x="194" y="-436" type="line"/>
+      <point x="194" y="-56" type="line"/>
+      <point x="49" y="-56" type="line"/>
+      <point x="49" y="-186" type="line"/>
+      <point x="-194" y="-186" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +24,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-176,-306l44,-306l44,-436l176,-436l176,-56l44,-56l44,-186l-176,-186</string>
+    <string>w0m-194,-306l49,-306l49,-436l194,-436l194,-56l49,-56l49,-186l-194,-186</string>
     <key>hintSetList</key>
     <array>
       <dict>

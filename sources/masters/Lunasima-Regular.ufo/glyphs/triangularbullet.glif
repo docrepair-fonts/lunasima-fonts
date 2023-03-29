@@ -4,9 +4,9 @@
   <unicode hex="2023"/>
   <outline>
     <contour>
-      <point x="688" y="746" type="line"/>
-      <point x="136" y="1055" type="line"/>
-      <point x="136" y="436" type="line"/>
+      <point x="843" y="746" type="line"/>
+      <point x="180" y="1038" type="line"/>
+      <point x="180" y="452" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w962m688,746l136,1055l136,436</string>
+    <string>w962m843,746l180,1038l180,452</string>
     <key>hintSetList</key>
     <array>
       <dict>

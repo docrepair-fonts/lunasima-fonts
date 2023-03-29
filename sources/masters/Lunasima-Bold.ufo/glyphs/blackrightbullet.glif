@@ -4,21 +4,21 @@
   <unicode hex="204D"/>
   <outline>
     <contour>
-      <point x="727" y="81" type="line" smooth="yes"/>
-      <point x="994" y="81"/>
-      <point x="1160" y="210"/>
-      <point x="1160" y="582" type="curve" smooth="yes"/>
-      <point x="1160" y="937"/>
-      <point x="992" y="1086"/>
-      <point x="720" y="1086" type="curve" smooth="yes"/>
-      <point x="128" y="1086" type="line"/>
-      <point x="128" y="81" type="line"/>
+      <point x="780" y="83" type="line" smooth="yes"/>
+      <point x="1057" y="83"/>
+      <point x="1231" y="202"/>
+      <point x="1231" y="590" type="curve" smooth="yes"/>
+      <point x="1231" y="946"/>
+      <point x="1055" y="1095"/>
+      <point x="773" y="1095" type="curve" smooth="yes"/>
+      <point x="153" y="1095" type="line"/>
+      <point x="153" y="83" type="line"/>
     </contour>
     <contour>
-      <point x="288" y="915" type="line"/>
-      <point x="460" y="915" type="line"/>
-      <point x="460" y="252" type="line"/>
-      <point x="288" y="252" type="line"/>
+      <point x="323" y="902" type="line"/>
+      <point x="500" y="902" type="line"/>
+      <point x="500" y="277" type="line"/>
+      <point x="323" y="277" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1351m727,81c994,81 1160,210 1160,582c1160,937 992,1086 720,1086l128,1086l128,81m288,915l460,915l460,252l288,252</string>
+    <string>w1351m780,83c1057,83 1231,202 1231,590c1231,946 1055,1095 773,1095l153,1095l153,83m323,902l500,902l500,277l323,277</string>
     <key>hintSetList</key>
     <array>
       <dict>

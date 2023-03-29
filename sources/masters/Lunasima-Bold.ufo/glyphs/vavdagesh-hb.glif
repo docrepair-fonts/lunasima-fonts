@@ -2,20 +2,20 @@
 <glyph name="vavdagesh-hb" format="2">
   <advance width="763"/>
   <unicode hex="FB35"/>
-  <anchor x="292" y="0" name="bottom"/>
-  <anchor x="38" y="0" name="bottomleft"/>
-  <anchor x="292" y="1086" name="top"/>
-  <anchor x="292" y="1086" name="topleft"/>
+  <anchor x="382" y="0" name="bottom"/>
+  <anchor x="24" y="0" name="bottomleft"/>
+  <anchor x="382" y="1095" name="top"/>
+  <anchor x="382" y="1095" name="topleft"/>
   <outline>
     <component base="vav-hb"/>
-    <component base="dagesh-hb" xOffset="-216" yOffset="-7"/>
+    <component base="dagesh-hb" xOffset="-89"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>vav-hb+dagesh-hb</string>
+  <string>'vav-hb'+'dagesh-hb'</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

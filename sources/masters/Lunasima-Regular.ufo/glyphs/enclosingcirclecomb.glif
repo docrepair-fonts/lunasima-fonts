@@ -6,31 +6,31 @@ uni20DD</note>
   <outline>
     <contour>
       <point x="0" y="-584" type="curve" smooth="yes"/>
-      <point x="718" y="-584"/>
-      <point x="1300" y="-2"/>
-      <point x="1300" y="716" type="curve" smooth="yes"/>
-      <point x="1300" y="1434"/>
-      <point x="718" y="2016"/>
+      <point x="790" y="-584"/>
+      <point x="1430" y="-2"/>
+      <point x="1430" y="716" type="curve" smooth="yes"/>
+      <point x="1430" y="1434"/>
+      <point x="790" y="2016"/>
       <point x="0" y="2016" type="curve" smooth="yes"/>
-      <point x="-718" y="2016"/>
-      <point x="-1300" y="1434"/>
-      <point x="-1300" y="716" type="curve" smooth="yes"/>
-      <point x="-1300" y="-2"/>
-      <point x="-718" y="-584"/>
+      <point x="-789" y="2016"/>
+      <point x="-1430" y="1434"/>
+      <point x="-1430" y="716" type="curve" smooth="yes"/>
+      <point x="-1430" y="-2"/>
+      <point x="-789" y="-584"/>
     </contour>
     <contour>
-      <point x="0" y="-443" type="curve" smooth="yes"/>
-      <point x="-638" y="-443"/>
-      <point x="-1154" y="76"/>
-      <point x="-1154" y="716" type="curve" smooth="yes"/>
-      <point x="-1154" y="1357"/>
-      <point x="-638" y="1876"/>
-      <point x="0" y="1876" type="curve" smooth="yes"/>
-      <point x="639" y="1876"/>
-      <point x="1155" y="1357"/>
-      <point x="1155" y="716" type="curve" smooth="yes"/>
-      <point x="1155" y="76"/>
-      <point x="639" y="-443"/>
+      <point x="0" y="-460" type="curve" smooth="yes"/>
+      <point x="-723" y="-460"/>
+      <point x="-1309" y="66"/>
+      <point x="-1309" y="716" type="curve" smooth="yes"/>
+      <point x="-1309" y="1366"/>
+      <point x="-723" y="1892"/>
+      <point x="0" y="1892" type="curve" smooth="yes"/>
+      <point x="724" y="1892"/>
+      <point x="1310" y="1366"/>
+      <point x="1310" y="716" type="curve" smooth="yes"/>
+      <point x="1310" y="66"/>
+      <point x="724" y="-460"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,7 @@ uni20DD</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>537ccd28744b2cb90c2981f02d11c4bb052e0463c14eb64967ded7de5319ef53efea0811217628f7d4c9a4fce5f13d17fa2cc034fd0ddc0ffae2bf0ac3e0a1ad</string>
+    <string>a188549f74423e01263f63cef0a80114a44c53a25fc54db5a0ee6e11cb7199d1425bf5273e1d476e8a0387b896fc851b7ec268b19d6ac95d3b3337a99e8611b1</string>
     <key>hintSetList</key>
     <array>
       <dict>

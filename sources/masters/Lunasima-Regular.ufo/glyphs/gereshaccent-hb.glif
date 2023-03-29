@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gereshaccent-hb" format="2">
   <unicode hex="059C"/>
-  <anchor x="150" y="1072" name="_topleft"/>
+  <anchor x="52" y="1072" name="_topleft"/>
   <outline>
     <contour>
-      <point x="202" y="1298" type="line"/>
-      <point x="202" y="1415"/>
-      <point x="278" y="1482"/>
-      <point x="404" y="1482" type="curve"/>
-      <point x="404" y="1582" type="line"/>
-      <point x="214" y="1582"/>
-      <point x="100" y="1478"/>
-      <point x="100" y="1298" type="curve"/>
+      <point x="92" y="1300" type="line"/>
+      <point x="92" y="1416"/>
+      <point x="154" y="1482"/>
+      <point x="255" y="1482" type="curve"/>
+      <point x="255" y="1582" type="line"/>
+      <point x="102" y="1582"/>
+      <point x="10" y="1478"/>
+      <point x="10" y="1300" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m202,1298c202,1415 278,1482 404,1482l404,1582c214,1582 100,1478 100,1298</string>
+    <string>w0m92,1300c92,1416 154,1482 255,1482l255,1582c102,1582 10,1478 10,1300</string>
     <key>hintSetList</key>
     <array>
       <dict>

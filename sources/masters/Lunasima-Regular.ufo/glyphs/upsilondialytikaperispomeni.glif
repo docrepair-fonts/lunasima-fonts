@@ -5,7 +5,7 @@
   <anchor x="594" y="0" name="bottom"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dialytikaperispomeni" xOffset="136"/>
+    <component base="dialytikaperispomeni" xOffset="-47"/>
   </outline>
   <lib>
   <dict>

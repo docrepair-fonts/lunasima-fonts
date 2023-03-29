@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commareversedabovecomb" format="2">
   <unicode hex="0314"/>
-  <anchor x="-23" y="768" name="_top"/>
-  <anchor x="-19" y="1428" name="top"/>
+  <anchor x="5" y="747" name="_top"/>
+  <anchor x="11" y="1427" name="top"/>
   <outline>
     <contour>
-      <point x="-204" y="1428" type="line"/>
-      <point x="-218" y="1406" type="line"/>
-      <point x="-182" y="1264"/>
-      <point x="-111" y="1049"/>
-      <point x="-45" y="905" type="curve"/>
-      <point x="171" y="905" type="line"/>
-      <point x="133" y="1068"/>
-      <point x="92" y="1279"/>
-      <point x="73" y="1428" type="curve"/>
+      <point x="-215" y="1427" type="line"/>
+      <point x="-234" y="1405" type="line"/>
+      <point x="-183" y="1262"/>
+      <point x="-82" y="1030"/>
+      <point x="12" y="884" type="curve"/>
+      <point x="244" y="884" type="line"/>
+      <point x="191" y="1055"/>
+      <point x="132" y="1274"/>
+      <point x="104" y="1427" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-204,1428l-218,1406c-182,1264 -111,1049 -45,905l171,905c133,1068 92,1279 73,1428</string>
+    <string>w0m-215,1427l-234,1405c-183,1262 -82,1030 12,884l244,884c191,1055 132,1274 104,1427</string>
     <key>hintSetList</key>
     <array>
       <dict>

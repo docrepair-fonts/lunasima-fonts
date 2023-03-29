@@ -2,32 +2,32 @@
 <glyph name="Mmod" format="2">
   <advance width="928"/>
   <unicode hex="1D39"/>
-  <anchor x="604" y="574" name="bottom"/>
-  <anchor x="604" y="1430" name="top"/>
+  <anchor x="465" y="574" name="bottom"/>
+  <anchor x="465" y="1430" name="top"/>
   <outline>
     <contour>
-      <point x="686" y="574" type="line"/>
-      <point x="919" y="1270" type="line"/>
-      <point x="924" y="1270" type="line"/>
-      <point x="920" y="1219"/>
-      <point x="915" y="1121"/>
-      <point x="915" y="1039" type="curve" smooth="yes"/>
-      <point x="915" y="574" type="line"/>
-      <point x="1106" y="574" type="line"/>
-      <point x="1106" y="1430" type="line"/>
-      <point x="831" y="1430" type="line"/>
-      <point x="603" y="767" type="line"/>
-      <point x="598" y="767" type="line"/>
-      <point x="369" y="1430" type="line"/>
-      <point x="100" y="1430" type="line"/>
-      <point x="100" y="574" type="line"/>
-      <point x="276" y="574" type="line"/>
-      <point x="276" y="1034" type="line" smooth="yes"/>
-      <point x="276" y="1123"/>
-      <point x="270" y="1222"/>
-      <point x="265" y="1271" type="curve"/>
-      <point x="270" y="1271" type="line"/>
-      <point x="504" y="574" type="line"/>
+      <point x="563" y="574" type="line"/>
+      <point x="661" y="1235" type="line"/>
+      <point x="666" y="1235" type="line"/>
+      <point x="663" y="1186"/>
+      <point x="659" y="1082"/>
+      <point x="659" y="1000" type="curve" smooth="yes"/>
+      <point x="659" y="574" type="line"/>
+      <point x="851" y="574" type="line"/>
+      <point x="851" y="1430" type="line"/>
+      <point x="574" y="1430" type="line"/>
+      <point x="469" y="791" type="line"/>
+      <point x="464" y="791" type="line"/>
+      <point x="352" y="1430" type="line"/>
+      <point x="77" y="1430" type="line"/>
+      <point x="77" y="574" type="line"/>
+      <point x="261" y="574" type="line"/>
+      <point x="261" y="996" type="line" smooth="yes"/>
+      <point x="261" y="1084"/>
+      <point x="255" y="1187"/>
+      <point x="252" y="1236" type="curve"/>
+      <point x="255" y="1236" type="line"/>
+      <point x="358" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>942ab7e5bd16528918ce1d9dffc769932eba4a5a112767e54122a5aa10f2204d15c976159f83c14fee7d03cb696dc017cd0e12304805dd8fdc5fa15f9e3e1b48</string>
+    <string>c58f9ef1fecb51d353dcacc525364b573e4d7098baed69e612f9b2978ca9fae25b57403b9718735d42996820a3f79ba988d2fba4e9544930f4529abe31798b4a</string>
     <key>hintSetList</key>
     <array>
       <dict>

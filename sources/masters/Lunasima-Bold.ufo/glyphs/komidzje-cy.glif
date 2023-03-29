@@ -2,46 +2,46 @@
 <glyph name="komidzje-cy" format="2">
   <advance width="1168"/>
   <unicode hex="0507"/>
-  <anchor x="608" y="-384" name="bottom"/>
-  <anchor x="608" y="1086" name="top"/>
+  <anchor x="592" y="-394" name="bottom"/>
+  <anchor x="592" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="469" y="1105" type="curve" smooth="yes"/>
-      <point x="319" y="1105"/>
-      <point x="194" y="1079"/>
-      <point x="70" y="1025" type="curve"/>
-      <point x="160" y="836" type="line"/>
-      <point x="260" y="880"/>
-      <point x="353" y="905"/>
-      <point x="460" y="905" type="curve" smooth="yes"/>
-      <point x="582" y="905"/>
-      <point x="643" y="864"/>
-      <point x="643" y="786" type="curve" smooth="yes"/>
-      <point x="643" y="694"/>
-      <point x="561" y="658"/>
-      <point x="392" y="658" type="curve" smooth="yes"/>
-      <point x="273" y="658" type="line"/>
-      <point x="273" y="471" type="line"/>
-      <point x="419" y="471" type="line" smooth="yes"/>
-      <point x="619" y="471"/>
-      <point x="679" y="414"/>
-      <point x="679" y="275" type="curve" smooth="yes"/>
-      <point x="679" y="0" type="line"/>
-      <point x="920" y="0" type="line"/>
-      <point x="920" y="-384" type="line"/>
-      <point x="1190" y="-384" type="line"/>
-      <point x="1190" y="196" type="line"/>
-      <point x="975" y="196" type="line"/>
-      <point x="975" y="304" type="line" smooth="yes"/>
-      <point x="975" y="471"/>
-      <point x="881" y="542"/>
-      <point x="724" y="567" type="curve"/>
-      <point x="724" y="577" type="line"/>
-      <point x="844" y="611"/>
-      <point x="923" y="688"/>
-      <point x="923" y="812" type="curve" smooth="yes"/>
-      <point x="923" y="1009"/>
-      <point x="728" y="1105"/>
+      <point x="451" y="1114" type="curve" smooth="yes"/>
+      <point x="308" y="1114"/>
+      <point x="199" y="1088"/>
+      <point x="84" y="1034" type="curve"/>
+      <point x="176" y="815" type="line"/>
+      <point x="266" y="860"/>
+      <point x="344" y="885"/>
+      <point x="437" y="885" type="curve" smooth="yes"/>
+      <point x="533" y="885"/>
+      <point x="574" y="849"/>
+      <point x="574" y="784" type="curve" smooth="yes"/>
+      <point x="574" y="708"/>
+      <point x="519" y="676"/>
+      <point x="378" y="676" type="curve" smooth="yes"/>
+      <point x="272" y="676" type="line"/>
+      <point x="272" y="462" type="line"/>
+      <point x="400" y="462" type="line" smooth="yes"/>
+      <point x="573" y="462"/>
+      <point x="610" y="410"/>
+      <point x="610" y="262" type="curve" smooth="yes"/>
+      <point x="610" y="0" type="line"/>
+      <point x="859" y="0" type="line"/>
+      <point x="859" y="-394" type="line"/>
+      <point x="1140" y="-394" type="line"/>
+      <point x="1140" y="226" type="line"/>
+      <point x="929" y="226" type="line"/>
+      <point x="929" y="310" type="line" smooth="yes"/>
+      <point x="929" y="478"/>
+      <point x="851" y="552"/>
+      <point x="699" y="570" type="curve"/>
+      <point x="699" y="580" type="line"/>
+      <point x="805" y="613"/>
+      <point x="875" y="696"/>
+      <point x="875" y="820" type="curve" smooth="yes"/>
+      <point x="875" y="1026"/>
+      <point x="688" y="1114"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d56d6bf5b041775a678bcbdbf108a03d55a3bfcfa9639456b57d60d5db622ecb522c9edfb9f5f446242a7f6025affe9306acb0b88606646cffab84cd4976fd2d</string>
+    <string>059e6a1bddad21134f9301acba32352d4442c471ea7dca2936b57140fa02075246603f83cf070733b6fb1d83ca9d874bc33bfe1f6a6e43fc2878c01536e7e19b</string>
     <key>hintSetList</key>
     <array>
       <dict>

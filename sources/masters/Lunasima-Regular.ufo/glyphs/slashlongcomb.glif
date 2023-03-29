@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slashlongcomb" format="2">
   <unicode hex="0338"/>
-  <anchor x="46" y="700" name="_center"/>
+  <anchor x="0" y="700" name="_center"/>
   <outline>
     <contour>
-      <point x="244" y="1517" type="line"/>
-      <point x="-396" y="-116" type="line"/>
-      <point x="-237" y="-116" type="line"/>
-      <point x="404" y="1517" type="line"/>
+      <point x="274" y="1516" type="line"/>
+      <point x="-436" y="-116" type="line"/>
+      <point x="-273" y="-116" type="line"/>
+      <point x="436" y="1516" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m244,1517l-396,-116l-237,-116l404,1517</string>
+    <string>w0m274,1516l-436,-116l-273,-116l436,1516</string>
     <key>hintSetList</key>
     <array>
       <dict>

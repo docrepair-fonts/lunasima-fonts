@@ -2,34 +2,34 @@
 <glyph name="istroke" format="2">
   <advance width="789"/>
   <unicode hex="0268"/>
-  <anchor x="274" y="0" name="bottom"/>
-  <anchor x="269" y="1481" name="top"/>
+  <anchor x="400" y="0" name="bottom"/>
+  <anchor x="394" y="1474" name="top"/>
   <outline>
     <contour>
-      <point x="20" y="642" type="line"/>
-      <point x="20" y="491" type="line"/>
-      <point x="519" y="491" type="line"/>
-      <point x="519" y="642" type="line"/>
+      <point x="79" y="638" type="line"/>
+      <point x="79" y="496" type="line"/>
+      <point x="710" y="496" type="line"/>
+      <point x="710" y="638" type="line"/>
     </contour>
     <contour>
-      <point x="169" y="1076" type="line"/>
-      <point x="169" y="0" type="line"/>
-      <point x="369" y="0" type="line"/>
-      <point x="369" y="1076" type="line"/>
+      <point x="307" y="1072" type="line"/>
+      <point x="307" y="0" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="483" y="1072" type="line"/>
     </contour>
     <contour>
-      <point x="271" y="1481" type="curve" smooth="yes"/>
-      <point x="207" y="1481"/>
-      <point x="156" y="1447"/>
-      <point x="156" y="1364" type="curve" smooth="yes"/>
-      <point x="156" y="1283"/>
-      <point x="207" y="1247"/>
-      <point x="271" y="1247" type="curve" smooth="yes"/>
-      <point x="332" y="1247"/>
-      <point x="385" y="1283"/>
-      <point x="385" y="1364" type="curve" smooth="yes"/>
-      <point x="385" y="1447"/>
-      <point x="332" y="1481"/>
+      <point x="398" y="1474" type="curve" smooth="yes"/>
+      <point x="334" y="1474"/>
+      <point x="284" y="1440"/>
+      <point x="284" y="1362" type="curve" smooth="yes"/>
+      <point x="284" y="1286"/>
+      <point x="334" y="1250"/>
+      <point x="398" y="1250" type="curve" smooth="yes"/>
+      <point x="455" y="1250"/>
+      <point x="508" y="1286"/>
+      <point x="508" y="1362" type="curve" smooth="yes"/>
+      <point x="508" y="1440"/>
+      <point x="455" y="1474"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2e19fa50ec8eefa72f53c82e1e825386a3c892f6f537a8b6f2221646fecdf2486dcc24042711e98ac6e5048835c61b3b1c63f9449a9a4b15743559619653054b</string>
+    <string>2a12454bd74c71ea15f0877944c3e68ad0b8096ac7308a23662fc2c6bc6a86113d2de00b8c20a2df508dab23017acd25a8af131cde5e8388d09ce011e8421790</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,52 +2,52 @@
 <glyph name="eopen" format="2">
   <advance width="1028"/>
   <unicode hex="025B"/>
-  <anchor x="517" y="0" name="bottom"/>
-  <anchor x="573" y="1086" name="top"/>
+  <anchor x="511" y="0" name="bottom"/>
+  <anchor x="565" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="651" y="658" type="line" smooth="yes"/>
-      <point x="482" y="658"/>
-      <point x="400" y="695"/>
-      <point x="400" y="787" type="curve" smooth="yes"/>
-      <point x="400" y="864"/>
-      <point x="458" y="906"/>
-      <point x="585" y="906" type="curve" smooth="yes"/>
-      <point x="698" y="906"/>
-      <point x="785" y="878"/>
-      <point x="881" y="837" type="curve"/>
-      <point x="973" y="1026" type="line"/>
-      <point x="851" y="1078"/>
-      <point x="737" y="1106"/>
-      <point x="576" y="1106" type="curve" smooth="yes"/>
-      <point x="316" y="1106"/>
-      <point x="117" y="1009"/>
-      <point x="117" y="814" type="curve" smooth="yes"/>
-      <point x="117" y="690"/>
-      <point x="197" y="607"/>
-      <point x="317" y="573" type="curve"/>
-      <point x="317" y="563" type="line"/>
-      <point x="160" y="532"/>
-      <point x="62" y="448"/>
-      <point x="62" y="301" type="curve" smooth="yes"/>
-      <point x="62" y="108"/>
+      <point x="642" y="676" type="line" smooth="yes"/>
+      <point x="493" y="676"/>
+      <point x="433" y="708"/>
+      <point x="433" y="785" type="curve" smooth="yes"/>
+      <point x="433" y="849"/>
+      <point x="477" y="885"/>
+      <point x="580" y="885" type="curve" smooth="yes"/>
+      <point x="680" y="885"/>
+      <point x="760" y="859"/>
+      <point x="852" y="815" type="curve"/>
+      <point x="944" y="1034" type="line"/>
+      <point x="827" y="1087"/>
+      <point x="718" y="1115"/>
+      <point x="568" y="1115" type="curve" smooth="yes"/>
+      <point x="323" y="1115"/>
+      <point x="130" y="1026"/>
+      <point x="130" y="820" type="curve" smooth="yes"/>
+      <point x="130" y="697"/>
+      <point x="204" y="611"/>
+      <point x="314" y="578" type="curve"/>
+      <point x="314" y="568" type="line"/>
+      <point x="160" y="540"/>
+      <point x="74" y="446"/>
+      <point x="74" y="307" type="curve" smooth="yes"/>
+      <point x="74" y="105"/>
       <point x="206" y="-20"/>
-      <point x="559" y="-20" type="curve" smooth="yes"/>
-      <point x="753" y="-20"/>
-      <point x="871" y="9"/>
-      <point x="971" y="55" type="curve"/>
-      <point x="971" y="266" type="line"/>
-      <point x="881" y="224"/>
-      <point x="756" y="180"/>
-      <point x="597" y="180" type="curve" smooth="yes"/>
-      <point x="425" y="180"/>
-      <point x="362" y="231"/>
-      <point x="362" y="324" type="curve" smooth="yes"/>
-      <point x="362" y="422"/>
-      <point x="424" y="472"/>
-      <point x="623" y="472" type="curve" smooth="yes"/>
-      <point x="768" y="472" type="line"/>
-      <point x="768" y="658" type="line"/>
+      <point x="546" y="-20" type="curve" smooth="yes"/>
+      <point x="735" y="-20"/>
+      <point x="846" y="10"/>
+      <point x="944" y="57" type="curve"/>
+      <point x="944" y="303" type="line"/>
+      <point x="860" y="261"/>
+      <point x="741" y="218"/>
+      <point x="591" y="218" type="curve" smooth="yes"/>
+      <point x="429" y="218"/>
+      <point x="394" y="272"/>
+      <point x="394" y="340" type="curve" smooth="yes"/>
+      <point x="394" y="420"/>
+      <point x="438" y="462"/>
+      <point x="618" y="462" type="curve" smooth="yes"/>
+      <point x="751" y="462" type="line"/>
+      <point x="751" y="676" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -59,7 +59,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>51e6ff58ef7aa88cb3865735c3e377c4cc23215a1f3f7f2e9d4796358403792062c2f32af920a16afbb54f29982a11490267724cc764ec7a5a6df6b13a062ddc</string>
+    <string>bbbbd379f4f7a43eebec8d78257f3da928144454800af559d72157d5b9307464e812bed65afaf718aa67b98cadbbb364199f0645c8965751293eb09d1c5fc8db</string>
     <key>hintSetList</key>
     <array>
       <dict>

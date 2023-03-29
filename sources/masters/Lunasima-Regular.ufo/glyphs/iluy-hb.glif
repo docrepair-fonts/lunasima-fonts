@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iluy-hb" format="2">
   <unicode hex="05AC"/>
-  <anchor x="250" y="1072" name="_top"/>
+  <anchor x="133" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="404" y="1298" type="line"/>
-      <point x="404" y="1588" type="line" name=".hr01"/>
-      <point x="303" y="1588" type="line"/>
-      <point x="303" y="1397" type="line"/>
-      <point x="100" y="1397" type="line"/>
-      <point x="100" y="1298" type="line"/>
+      <point x="255" y="1300" type="line"/>
+      <point x="255" y="1588" type="line"/>
+      <point x="174" y="1588" type="line"/>
+      <point x="174" y="1398" type="line" name=".hr01"/>
+      <point x="10" y="1398" type="line"/>
+      <point x="10" y="1300" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,13 +21,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m404,1298l404,1588l303,1588l303,1397l100,1397l100,1298</string>
+    <string>w0m255,1300l255,1588l174,1588l174,1398l10,1398l10,1300</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 1300 98</string>
+          <string>hstem 1300 288</string>
           <string>vstem 300 100</string>
         </array>
       </dict>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four-roman" format="2">
   <advance width="1758"/>
   <unicode hex="2173"/>
@@ -6,21 +6,71 @@
   <anchor x="1271" y="1095" name="top"/>
   <anchor x="1839" y="1095" name="topright"/>
   <outline>
-    <component base="i"/>
-    <component base="v" xOffset="666"/>
+    <contour>
+      <point x="159" y="1095" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="479" y="1095" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="1519" type="curve" smooth="yes"/>
+      <point x="225" y="1519"/>
+      <point x="148" y="1485"/>
+      <point x="148" y="1368" type="curve" smooth="yes"/>
+      <point x="148" y="1255"/>
+      <point x="225" y="1219"/>
+      <point x="321" y="1219" type="curve" smooth="yes"/>
+      <point x="414" y="1219"/>
+      <point x="493" y="1255"/>
+      <point x="493" y="1368" type="curve" smooth="yes"/>
+      <point x="493" y="1485"/>
+      <point x="414" y="1519"/>
+    </contour>
+    <contour>
+      <point x="1353" y="0" type="line"/>
+      <point x="1758" y="1095" type="line"/>
+      <point x="1424" y="1095" type="line"/>
+      <point x="1227" y="447" type="line"/>
+      <point x="1215" y="404"/>
+      <point x="1195" y="330"/>
+      <point x="1191" y="279" type="curve"/>
+      <point x="1185" y="279" type="line"/>
+      <point x="1182" y="329"/>
+      <point x="1162" y="411"/>
+      <point x="1151" y="448" type="curve"/>
+      <point x="960" y="1095" type="line"/>
+      <point x="625" y="1095" type="line"/>
+      <point x="1030" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>one-roman</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>five-roman</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/13 22:16:41</string>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <string>one-roman</string>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <string>five-roman</string>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b9044f4280aea504cceeafb1f1abc52eea9f35c6da11f8982dcbf1fda641c0cdf61363f64088f9acfbfd8158c3a3f682130d813d4cd2563409bfc5014cf6bc14</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1086 20</string>
+          <string>hstem 1214 338</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

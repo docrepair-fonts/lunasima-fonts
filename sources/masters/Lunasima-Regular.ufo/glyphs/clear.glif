@@ -6,30 +6,30 @@
 uni2327</note>
   <outline>
     <contour>
-      <point x="102" y="0" type="line"/>
-      <point x="2050" y="0" type="line"/>
-      <point x="2050" y="1388" type="line"/>
-      <point x="102" y="1388" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="1936" y="0" type="line"/>
+      <point x="1936" y="1388" type="line"/>
+      <point x="112" y="1388" type="line"/>
     </contour>
     <contour>
-      <point x="246" y="142" type="line"/>
-      <point x="246" y="1246" type="line"/>
-      <point x="1906" y="1246" type="line"/>
-      <point x="1906" y="142" type="line"/>
+      <point x="247" y="142" type="line"/>
+      <point x="247" y="1246" type="line"/>
+      <point x="1802" y="1246" type="line"/>
+      <point x="1802" y="142" type="line"/>
     </contour>
     <contour>
-      <point x="726" y="220" type="line"/>
-      <point x="1076" y="588" type="line"/>
-      <point x="1426" y="220" type="line"/>
-      <point x="1532" y="320" type="line"/>
-      <point x="1176" y="694" type="line"/>
-      <point x="1532" y="1068" type="line"/>
-      <point x="1428" y="1168" type="line"/>
-      <point x="1076" y="798" type="line"/>
-      <point x="724" y="1168" type="line"/>
-      <point x="620" y="1068" type="line"/>
-      <point x="976" y="694" type="line"/>
-      <point x="620" y="320" type="line"/>
+      <point x="697" y="220" type="line"/>
+      <point x="1024" y="588" type="line"/>
+      <point x="1352" y="220" type="line"/>
+      <point x="1452" y="320" type="line"/>
+      <point x="1118" y="694" type="line"/>
+      <point x="1452" y="1068" type="line"/>
+      <point x="1354" y="1168" type="line"/>
+      <point x="1024" y="798" type="line"/>
+      <point x="695" y="1168" type="line"/>
+      <point x="597" y="1068" type="line"/>
+      <point x="931" y="694" type="line"/>
+      <point x="597" y="320" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@ uni2327</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2b80e65cc9666f17d42dce008d5f2108e5b6426de006fe93aa9b0bddc7496ddc7f07fccd9c31d950704ba81c71c00576b2d8ce0932a6364a1b3a266df0a70746</string>
+    <string>8db48f7a9ab34c74a4113e3ba7d8fc49e9dc10e79a6369e12cfdc3d67bf6e36a4fa2dca73b82284853140e089a531436f42c2d164c6d914ed3389b5d71ab9c1c</string>
     <key>hintSetList</key>
     <array>
       <dict>

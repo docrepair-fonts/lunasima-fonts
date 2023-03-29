@@ -2,16 +2,16 @@
 <glyph name="Lmod" format="2">
   <advance width="620"/>
   <unicode hex="1D38"/>
-  <anchor x="353" y="574" name="bottom"/>
-  <anchor x="353" y="1430" name="top"/>
+  <anchor x="328" y="574" name="bottom"/>
+  <anchor x="328" y="1430" name="top"/>
   <outline>
     <contour>
-      <point x="669" y="574" type="line"/>
-      <point x="669" y="708" type="line"/>
-      <point x="294" y="708" type="line"/>
-      <point x="294" y="1430" type="line"/>
-      <point x="100" y="1430" type="line"/>
-      <point x="100" y="574" type="line"/>
+      <point x="565" y="574" type="line"/>
+      <point x="565" y="732" type="line"/>
+      <point x="328" y="732" type="line"/>
+      <point x="328" y="1430" type="line"/>
+      <point x="118" y="1430" type="line"/>
+      <point x="118" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w620m669,574l669,708l294,708l294,1430l100,1430l100,574</string>
+    <string>w620m565,574l565,732l328,732l328,1430l118,1430l118,574</string>
     <key>hintSetList</key>
     <array>
       <dict>

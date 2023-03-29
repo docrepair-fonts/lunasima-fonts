@@ -2,22 +2,22 @@
 <glyph name="lamed-hb" format="2">
   <advance width="1140"/>
   <unicode hex="05DC"/>
-  <anchor x="527" y="0" name="bottom"/>
-  <anchor x="485" y="0" name="bottomleft"/>
-  <anchor x="312" y="605" name="center"/>
-  <anchor x="703" y="1086" name="top"/>
-  <anchor x="-99" y="1086" name="topleft"/>
+  <anchor x="537" y="0" name="bottom"/>
+  <anchor x="494" y="0" name="bottomleft"/>
+  <anchor x="313" y="608" name="center"/>
+  <anchor x="726" y="1095" name="top"/>
+  <anchor x="-96" y="1095" name="topleft"/>
   <outline>
     <contour>
-      <point x="333" y="1520" type="line"/>
-      <point x="30" y="1520" type="line"/>
-      <point x="30" y="971" type="line"/>
-      <point x="743" y="971" type="line"/>
+      <point x="359" y="1520" type="line"/>
+      <point x="36" y="1520" type="line"/>
+      <point x="36" y="941" type="line"/>
+      <point x="739" y="941" type="line"/>
       <point x="367" y="0" type="line"/>
-      <point x="685" y="0" type="line"/>
-      <point x="1073" y="1028" type="line"/>
-      <point x="1073" y="1198" type="line"/>
-      <point x="333" y="1198" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="1092" y="1015" type="line"/>
+      <point x="1092" y="1207" type="line"/>
+      <point x="359" y="1207" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1140m333,1520l30,1520l30,971l743,971l367,0l685,0l1073,1028l1073,1198l333,1198</string>
+    <string>w1140m359,1520l36,1520l36,941l739,941l367,0l705,0l1092,1015l1092,1207l359,1207</string>
     <key>hintSetList</key>
     <array>
       <dict>

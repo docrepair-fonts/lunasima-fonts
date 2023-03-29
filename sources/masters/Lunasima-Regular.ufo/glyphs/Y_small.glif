@@ -2,19 +2,19 @@
 <glyph name="Ysmall" format="2">
   <advance width="994"/>
   <unicode hex="028F"/>
-  <anchor x="487" y="0" name="bottom"/>
-  <anchor x="487" y="1076" name="top"/>
+  <anchor x="496" y="0" name="bottom"/>
+  <anchor x="496" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="745" y="1076" type="line"/>
-      <point x="484" y="602" type="line"/>
-      <point x="222" y="1076" type="line"/>
-      <point x="0" y="1076" type="line"/>
-      <point x="385" y="441" type="line"/>
-      <point x="385" y="0" type="line"/>
-      <point x="583" y="0" type="line"/>
-      <point x="583" y="442" type="line"/>
-      <point x="965" y="1076" type="line"/>
+      <point x="794" y="1072" type="line"/>
+      <point x="500" y="588" type="line"/>
+      <point x="203" y="1072" type="line"/>
+      <point x="0" y="1072" type="line"/>
+      <point x="411" y="442" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="588" y="442" type="line"/>
+      <point x="994" y="1072" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w994m745,1076l484,602l222,1076l0,1076l385,441l385,0l583,0l583,442l965,1076</string>
+    <string>w994m794,1072l500,588l203,1072l0,1072l411,442l411,0l588,0l588,442l994,1072</string>
     <key>hintSetList</key>
     <array>
       <dict>

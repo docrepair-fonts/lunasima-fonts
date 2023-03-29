@@ -2,18 +2,18 @@
 <glyph name="Tsmall" format="2">
   <advance width="1012"/>
   <unicode hex="1D1B"/>
-  <anchor x="461" y="0" name="bottom"/>
-  <anchor x="461" y="1076" name="top"/>
+  <anchor x="511" y="0" name="bottom"/>
+  <anchor x="511" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="565" y="918" type="line"/>
-      <point x="887" y="918" type="line"/>
-      <point x="887" y="1075" type="line"/>
-      <point x="42" y="1075" type="line"/>
-      <point x="42" y="918" type="line"/>
-      <point x="367" y="918" type="line"/>
-      <point x="367" y="0" type="line"/>
-      <point x="565" y="0" type="line"/>
+      <point x="597" y="928" type="line"/>
+      <point x="964" y="928" type="line"/>
+      <point x="964" y="1072" type="line"/>
+      <point x="46" y="1072" type="line"/>
+      <point x="46" y="928" type="line"/>
+      <point x="416" y="928" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1012m565,918l887,918l887,1075l42,1075l42,918l367,918l367,0l565,0</string>
+    <string>w1012m597,928l964,928l964,1072l46,1072l46,928l416,928l416,0l597,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

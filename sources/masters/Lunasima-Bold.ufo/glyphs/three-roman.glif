@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three-roman" format="2">
   <advance width="1851"/>
   <unicode hex="2172"/>
@@ -6,22 +6,95 @@
   <anchor x="1666" y="1526" name="top"/>
   <anchor x="2011" y="1526" name="topright"/>
   <outline>
-    <component base="i"/>
-    <component base="i" xOffset="666"/>
-    <component base="i" xOffset="1332"/>
+    <contour>
+      <point x="157" y="1095" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="477" y="1095" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="1519" type="curve" smooth="yes"/>
+      <point x="223" y="1519"/>
+      <point x="146" y="1485"/>
+      <point x="146" y="1368" type="curve" smooth="yes"/>
+      <point x="146" y="1255"/>
+      <point x="223" y="1219"/>
+      <point x="319" y="1219" type="curve" smooth="yes"/>
+      <point x="412" y="1219"/>
+      <point x="492" y="1255"/>
+      <point x="492" y="1368" type="curve" smooth="yes"/>
+      <point x="492" y="1485"/>
+      <point x="412" y="1519"/>
+    </contour>
+    <contour>
+      <point x="765" y="1095" type="line"/>
+      <point x="765" y="0" type="line"/>
+      <point x="1085" y="0" type="line"/>
+      <point x="1085" y="1095" type="line"/>
+    </contour>
+    <contour>
+      <point x="926" y="1519" type="curve" smooth="yes"/>
+      <point x="832" y="1519"/>
+      <point x="755" y="1485"/>
+      <point x="755" y="1368" type="curve" smooth="yes"/>
+      <point x="755" y="1255"/>
+      <point x="832" y="1219"/>
+      <point x="926" y="1219" type="curve" smooth="yes"/>
+      <point x="1019" y="1219"/>
+      <point x="1100" y="1255"/>
+      <point x="1100" y="1368" type="curve" smooth="yes"/>
+      <point x="1100" y="1485"/>
+      <point x="1019" y="1519"/>
+    </contour>
+    <contour>
+      <point x="1374" y="1095" type="line"/>
+      <point x="1374" y="0" type="line"/>
+      <point x="1693" y="0" type="line"/>
+      <point x="1693" y="1095" type="line"/>
+    </contour>
+    <contour>
+      <point x="1535" y="1519" type="curve" smooth="yes"/>
+      <point x="1439" y="1519"/>
+      <point x="1362" y="1485"/>
+      <point x="1362" y="1368" type="curve" smooth="yes"/>
+      <point x="1362" y="1255"/>
+      <point x="1439" y="1219"/>
+      <point x="1535" y="1219" type="curve" smooth="yes"/>
+      <point x="1628" y="1219"/>
+      <point x="1710" y="1255"/>
+      <point x="1710" y="1368" type="curve" smooth="yes"/>
+      <point x="1710" y="1485"/>
+      <point x="1628" y="1519"/>
+    </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.autolayer</key>
-      <true/>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>one-roman</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>one-roman</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/11/13 22:16:41</string>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+  <string>one-roman</string>
+  <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+  <string>one-roman</string>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2019/11/13 22:16:41</string>
+  <key>public.markColor</key>
+  <string>1,0.727,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>45601b72818530963458fd312963806b642b52cd29fc4715b0187b5c8d73c66c1805b791a2e512241da3d8bd046a4b36d6c8d455f2e82649176e429bbf22d17d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 1086 20</string>
+          <string>hstem 1214 338</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="overlinecomb" format="2">
   <unicode hex="0305"/>
-  <anchor x="2" y="1262" name="_top"/>
-  <anchor x="2" y="1684" name="top"/>
+  <anchor x="3" y="1255" name="_top"/>
+  <anchor x="3" y="1684" name="top"/>
   <outline>
     <contour>
-      <point x="-416" y="1499" type="line"/>
-      <point x="418" y="1499" type="line"/>
-      <point x="418" y="1684" type="line"/>
-      <point x="-416" y="1684" type="line"/>
+      <point x="-500" y="1472" type="line"/>
+      <point x="502" y="1472" type="line"/>
+      <point x="502" y="1684" type="line"/>
+      <point x="-500" y="1684" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-416,1499l418,1499l418,1684l-416,1684</string>
+    <string>w0m-500,1472l502,1472l502,1684l-500,1684</string>
     <key>hintSetList</key>
     <array>
       <dict>

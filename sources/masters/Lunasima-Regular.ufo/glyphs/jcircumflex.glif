@@ -2,11 +2,11 @@
 <glyph name="jcircumflex" format="2">
   <advance width="623"/>
   <unicode hex="0135"/>
-  <anchor x="50" y="-480" name="bottom"/>
-  <anchor x="265" y="1530" name="top"/>
+  <anchor x="68" y="-480" name="bottom"/>
+  <anchor x="348" y="1530" name="top"/>
   <outline>
     <component base="jdotless"/>
-    <component base="circumflexcomb" xOffset="249"/>
+    <component base="circumflexcomb" xOffset="343"/>
   </outline>
   <lib>
   <dict>

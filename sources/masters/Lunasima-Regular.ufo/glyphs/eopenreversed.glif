@@ -2,52 +2,52 @@
 <glyph name="eopenreversed" format="2">
   <advance width="950"/>
   <unicode hex="025C"/>
-  <anchor x="496" y="0" name="bottom"/>
-  <anchor x="496" y="1076" name="top"/>
+  <anchor x="472" y="0" name="bottom"/>
+  <anchor x="472" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="456" y="1096" type="curve" smooth="yes"/>
-      <point x="318" y="1096"/>
-      <point x="193" y="1071"/>
-      <point x="77" y="1021" type="curve"/>
-      <point x="144" y="870" type="line"/>
-      <point x="249" y="914"/>
-      <point x="329" y="938"/>
-      <point x="445" y="938" type="curve" smooth="yes"/>
-      <point x="595" y="938"/>
-      <point x="678" y="890"/>
-      <point x="678" y="793" type="curve" smooth="yes"/>
-      <point x="678" y="679"/>
-      <point x="565" y="637"/>
-      <point x="384" y="637" type="curve" smooth="yes"/>
-      <point x="268" y="637" type="line"/>
-      <point x="268" y="483" type="line"/>
-      <point x="412" y="483" type="line" smooth="yes"/>
-      <point x="615" y="483"/>
-      <point x="707" y="428"/>
-      <point x="707" y="311" type="curve" smooth="yes"/>
-      <point x="707" y="186"/>
-      <point x="593" y="137"/>
-      <point x="432" y="137" type="curve" smooth="yes"/>
-      <point x="283" y="137"/>
-      <point x="156" y="179"/>
-      <point x="66" y="220" type="curve"/>
-      <point x="66" y="50" type="line"/>
+      <point x="436" y="1092" type="curve" smooth="yes"/>
+      <point x="309" y="1092"/>
+      <point x="191" y="1068"/>
+      <point x="83" y="1018" type="curve"/>
+      <point x="144" y="878" type="line"/>
+      <point x="243" y="922"/>
+      <point x="316" y="946"/>
+      <point x="426" y="946" type="curve" smooth="yes"/>
+      <point x="569" y="946"/>
+      <point x="649" y="896"/>
+      <point x="649" y="794" type="curve" smooth="yes"/>
+      <point x="649" y="674"/>
+      <point x="540" y="630"/>
+      <point x="369" y="630" type="curve" smooth="yes"/>
+      <point x="261" y="630" type="line"/>
+      <point x="261" y="486" type="line"/>
+      <point x="396" y="486" type="line" smooth="yes"/>
+      <point x="587" y="486"/>
+      <point x="677" y="428"/>
+      <point x="677" y="306" type="curve" smooth="yes"/>
+      <point x="677" y="172"/>
+      <point x="565" y="124"/>
+      <point x="414" y="124" type="curve" smooth="yes"/>
+      <point x="277" y="124"/>
+      <point x="157" y="166"/>
+      <point x="72" y="208" type="curve"/>
+      <point x="72" y="50" type="line"/>
       <point x="151" y="6"/>
-      <point x="277" y="-20"/>
-      <point x="436" y="-20" type="curve" smooth="yes"/>
-      <point x="758" y="-20"/>
-      <point x="905" y="117"/>
-      <point x="905" y="298" type="curve" smooth="yes"/>
-      <point x="905" y="457"/>
-      <point x="800" y="530"/>
-      <point x="666" y="565" type="curve"/>
-      <point x="666" y="574" type="line"/>
-      <point x="790" y="607"/>
-      <point x="868" y="683"/>
-      <point x="868" y="812" type="curve" smooth="yes"/>
-      <point x="868" y="995"/>
-      <point x="703" y="1096"/>
+      <point x="271" y="-20"/>
+      <point x="417" y="-20" type="curve" smooth="yes"/>
+      <point x="715" y="-20"/>
+      <point x="851" y="118"/>
+      <point x="851" y="296" type="curve" smooth="yes"/>
+      <point x="851" y="458"/>
+      <point x="751" y="528"/>
+      <point x="628" y="564" type="curve"/>
+      <point x="628" y="572" type="line"/>
+      <point x="744" y="606"/>
+      <point x="817" y="680"/>
+      <point x="817" y="810" type="curve" smooth="yes"/>
+      <point x="817" y="990"/>
+      <point x="666" y="1092"/>
     </contour>
   </outline>
   <lib>
@@ -59,7 +59,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>548d28eca2b7dc08b0a2d53534fcbd14575682012e37dd19fed2b46622b93e5914e1caf7729be839e82fbd9e90b054557e136c634c0e978bc9c2384c8f835331</string>
+    <string>5c1f709963bab3b948d301a9ab72639cc84cf49a13765a9910284899b3521767d816eeb6fef60c072ff4a4840cad62e696e188f6aa6ade0790bc8b55000515cd</string>
     <key>hintSetList</key>
     <array>
       <dict>

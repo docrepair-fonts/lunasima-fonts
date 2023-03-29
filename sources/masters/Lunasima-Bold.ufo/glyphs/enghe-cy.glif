@@ -2,24 +2,24 @@
 <glyph name="enghe-cy" format="2">
   <advance width="1567"/>
   <unicode hex="04A5"/>
-  <anchor x="639" y="0" name="bottom"/>
-  <anchor x="639" y="1086" name="top"/>
+  <anchor x="671" y="0" name="bottom"/>
+  <anchor x="671" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="432" y="0" type="line"/>
-      <point x="432" y="456" type="line"/>
-      <point x="845" y="456" type="line"/>
-      <point x="845" y="0" type="line"/>
-      <point x="1145" y="0" type="line"/>
-      <point x="1145" y="886" type="line"/>
-      <point x="1476" y="886" type="line"/>
-      <point x="1476" y="1086" type="line"/>
-      <point x="845" y="1086" type="line"/>
-      <point x="845" y="656" type="line"/>
-      <point x="432" y="656" type="line"/>
-      <point x="432" y="1086" type="line"/>
-      <point x="132" y="1086" type="line"/>
-      <point x="132" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="478" y="442" type="line"/>
+      <point x="862" y="442" type="line"/>
+      <point x="862" y="0" type="line"/>
+      <point x="1182" y="0" type="line"/>
+      <point x="1182" y="858" type="line"/>
+      <point x="1510" y="858" type="line"/>
+      <point x="1510" y="1095" type="line"/>
+      <point x="862" y="1095" type="line"/>
+      <point x="862" y="681" type="line"/>
+      <point x="478" y="681" type="line"/>
+      <point x="478" y="1095" type="line"/>
+      <point x="158" y="1095" type="line"/>
+      <point x="158" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1567m432,0l432,456l845,456l845,0l1145,0l1145,886l1476,886l1476,1086l845,1086l845,656l432,656l432,1086l132,1086l132,0</string>
+    <string>w1567m478,0l478,442l862,442l862,0l1182,0l1182,858l1510,858l1510,1095l862,1095l862,681l478,681l478,1095l158,1095l158,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

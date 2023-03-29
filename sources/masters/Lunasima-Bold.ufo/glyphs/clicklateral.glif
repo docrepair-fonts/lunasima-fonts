@@ -2,20 +2,20 @@
 <glyph name="clicklateral" format="2">
   <advance width="926"/>
   <unicode hex="01C1"/>
-  <anchor x="753" y="0" name="bottom"/>
-  <anchor x="748" y="1520" name="top"/>
+  <anchor x="574" y="0" name="bottom"/>
+  <anchor x="566" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="449" y="0" type="line"/>
-      <point x="449" y="1520" type="line"/>
-      <point x="210" y="1520" type="line"/>
-      <point x="210" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="1520" type="line"/>
+      <point x="136" y="1520" type="line"/>
+      <point x="136" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="954" y="0" type="line"/>
-      <point x="954" y="1520" type="line"/>
-      <point x="715" y="1520" type="line"/>
-      <point x="715" y="0" type="line"/>
+      <point x="791" y="0" type="line"/>
+      <point x="791" y="1520" type="line"/>
+      <point x="550" y="1520" type="line"/>
+      <point x="550" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w926m449,0l449,1520l210,1520l210,0m954,0l954,1520l715,1520l715,0</string>
+    <string>w926m377,0l377,1520l136,1520l136,0m791,0l791,1520l550,1520l550,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

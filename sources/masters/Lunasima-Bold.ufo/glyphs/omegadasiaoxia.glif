@@ -5,7 +5,7 @@
   <anchor x="943" y="0" name="bottom"/>
   <outline>
     <component base="omega"/>
-    <component base="dasiaoxia" xOffset="425" yOffset="-11"/>
+    <component base="dasiaoxia" xOffset="271"/>
   </outline>
   <lib>
   <dict>

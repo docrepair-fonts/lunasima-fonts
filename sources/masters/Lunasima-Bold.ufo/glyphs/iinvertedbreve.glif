@@ -2,8 +2,8 @@
 <glyph name="iinvertedbreve" format="2">
   <advance width="666"/>
   <unicode hex="020B"/>
-  <anchor x="286" y="0" name="bottom"/>
-  <anchor x="290" y="1522" name="top"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="340" y="1548" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="breveinvertedcomb" xOffset="331"/>

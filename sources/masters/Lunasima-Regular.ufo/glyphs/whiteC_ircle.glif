@@ -1,44 +1,44 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whiteCircle" format="2">
   <advance width="1184"/>
   <unicode hex="25CB"/>
   <outline>
     <contour>
-      <point x="1000" y="-66" type="curve" smooth="yes"/>
-      <point x="544" y="-66"/>
-      <point x="174" y="304"/>
-      <point x="174" y="760" type="curve" smooth="yes"/>
-      <point x="174" y="1216"/>
-      <point x="544" y="1586"/>
-      <point x="1000" y="1586" type="curve" smooth="yes"/>
-      <point x="1456" y="1586"/>
-      <point x="1826" y="1216"/>
-      <point x="1826" y="760" type="curve" smooth="yes"/>
-      <point x="1826" y="304"/>
-      <point x="1456" y="-66"/>
+      <point x="592" y="-66" type="curve" smooth="yes"/>
+      <point x="323" y="-66"/>
+      <point x="104" y="304"/>
+      <point x="104" y="760" type="curve" smooth="yes"/>
+      <point x="104" y="1216"/>
+      <point x="323" y="1586"/>
+      <point x="592" y="1586" type="curve" smooth="yes"/>
+      <point x="862" y="1586"/>
+      <point x="1081" y="1216"/>
+      <point x="1081" y="760" type="curve" smooth="yes"/>
+      <point x="1081" y="304"/>
+      <point x="862" y="-66"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.863,1,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1184m592,-66c323,-66 104,304 104,760c104,1216 323,1586 592,1586c862,1586 1081,1216 1081,760c1081,304 862,-66 592,-66</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -66 21</string>
-              <string>hstem 1586 -20</string>
-            </array>
-          </dict>
+          <string>hstem -66 21</string>
+          <string>hstem 1586 -20</string>
         </array>
-        <key>id</key>
-        <string>w2000m1000,-66c544,-66 174,304 174,760c174,1216 544,1586 1000,1586c1456,1586 1826,1216 1826,760c1826,304 1456,-66 1000,-66</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

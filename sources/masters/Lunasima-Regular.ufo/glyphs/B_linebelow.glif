@@ -4,10 +4,10 @@
   <unicode hex="1E06"/>
   <anchor x="600" y="1428" name="top"/>
   <anchor x="1115" y="1428" name="topright"/>
-  <anchor x="596" y="-303" name="bottom"/>
+  <anchor x="597" y="-294" name="bottom"/>
   <outline>
     <component base="B"/>
-    <component base="macronbelowcomb" xOffset="584"/>
+    <component base="macronbelowcomb" xOffset="590"/>
   </outline>
   <lib>
   <dict>

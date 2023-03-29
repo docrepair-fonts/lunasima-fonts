@@ -1,36 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divisionslash" format="2">
   <advance width="1250"/>
   <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="1878" y="1710" type="line"/>
-      <point x="50" y="-118" type="line"/>
-      <point x="122" y="-190" type="line"/>
-      <point x="1950" y="1638" type="line"/>
+      <point x="1174" y="1710" type="line"/>
+      <point x="32" y="-118" type="line"/>
+      <point x="77" y="-190" type="line"/>
+      <point x="1219" y="1638" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.863,1,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1250m1174,1710l32,-118l77,-190l1219,1638</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -190 21</string>
-              <string>hstem 1710 -20</string>
-            </array>
-          </dict>
+          <string>hstem -190 21</string>
+          <string>hstem 1710 -20</string>
         </array>
-        <key>id</key>
-        <string>w2000m1878,1710l50,-118l122,-190l1950,1638</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

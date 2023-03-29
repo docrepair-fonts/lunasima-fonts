@@ -2,27 +2,27 @@
 <glyph name="zayin-hb" format="2">
   <advance width="866"/>
   <unicode hex="05D6"/>
-  <anchor x="320" y="0" name="bottom"/>
-  <anchor x="-25" y="0" name="bottomleft"/>
-  <anchor x="-25" y="605" name="center"/>
-  <anchor x="332" y="1086" name="top"/>
-  <anchor x="-45" y="1086" name="topleft"/>
+  <anchor x="415" y="0" name="bottom"/>
+  <anchor x="-64" y="0" name="bottomleft"/>
+  <anchor x="-64" y="608" name="center"/>
+  <anchor x="433" y="1095" name="top"/>
+  <anchor x="-77" y="1095" name="topleft"/>
   <outline>
     <contour>
-      <point x="471" y="0" type="line"/>
-      <point x="471" y="666" type="line" smooth="yes"/>
-      <point x="471" y="892"/>
-      <point x="592" y="977"/>
-      <point x="643" y="1010" type="curve"/>
-      <point x="643" y="1198" type="line"/>
-      <point x="20" y="1198" type="line"/>
-      <point x="20" y="971" type="line"/>
-      <point x="320" y="971" type="line"/>
-      <point x="320" y="964" type="line"/>
-      <point x="237" y="908"/>
-      <point x="168" y="810"/>
-      <point x="168" y="637" type="curve" smooth="yes"/>
-      <point x="168" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="578" y="631" type="line" smooth="yes"/>
+      <point x="578" y="868"/>
+      <point x="773" y="958"/>
+      <point x="836" y="996" type="curve"/>
+      <point x="836" y="1207" type="line"/>
+      <point x="30" y="1207" type="line"/>
+      <point x="30" y="941" type="line"/>
+      <point x="480" y="941" type="line"/>
+      <point x="480" y="934" type="line"/>
+      <point x="384" y="864"/>
+      <point x="252" y="760"/>
+      <point x="252" y="598" type="curve" smooth="yes"/>
+      <point x="252" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w866m471,0l471,666c471,892 592,977 643,1010l643,1198l20,1198l20,971l320,971l320,964c237,908 168,810 168,637l168,0</string>
+    <string>w866m578,0l578,631c578,868 773,958 836,996l836,1207l30,1207l30,941l480,941l480,934c384,864 252,760 252,598l252,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

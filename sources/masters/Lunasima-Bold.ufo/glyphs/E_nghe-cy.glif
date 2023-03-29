@@ -2,24 +2,24 @@
 <glyph name="Enghe-cy" format="2">
   <advance width="1857"/>
   <unicode hex="04A4"/>
-  <anchor x="738" y="0" name="bottom"/>
-  <anchor x="738" y="1428" name="top"/>
+  <anchor x="816" y="0" name="bottom"/>
+  <anchor x="816" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="454" y="0" type="line"/>
-      <point x="454" y="644" type="line"/>
-      <point x="1023" y="644" type="line"/>
-      <point x="1023" y="0" type="line"/>
-      <point x="1323" y="0" type="line"/>
-      <point x="1323" y="1228" type="line"/>
-      <point x="1645" y="1228" type="line"/>
-      <point x="1645" y="1428" type="line"/>
-      <point x="1023" y="1428" type="line"/>
-      <point x="1023" y="844" type="line"/>
-      <point x="454" y="844" type="line"/>
-      <point x="454" y="1428" type="line"/>
-      <point x="154" y="1428" type="line"/>
-      <point x="154" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="623" type="line"/>
+      <point x="1127" y="623" type="line"/>
+      <point x="1127" y="0" type="line"/>
+      <point x="1447" y="0" type="line"/>
+      <point x="1447" y="1188" type="line"/>
+      <point x="1797" y="1188" type="line"/>
+      <point x="1797" y="1428" type="line"/>
+      <point x="1127" y="1428" type="line"/>
+      <point x="1127" y="863" type="line"/>
+      <point x="504" y="863" type="line"/>
+      <point x="504" y="1428" type="line"/>
+      <point x="184" y="1428" type="line"/>
+      <point x="184" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1857m454,0l454,644l1023,644l1023,0l1323,0l1323,1228l1645,1228l1645,1428l1023,1428l1023,844l454,844l454,1428l154,1428l154,0</string>
+    <string>w1857m504,0l504,623l1127,623l1127,0l1447,0l1447,1188l1797,1188l1797,1428l1127,1428l1127,863l504,863l504,1428l184,1428l184,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

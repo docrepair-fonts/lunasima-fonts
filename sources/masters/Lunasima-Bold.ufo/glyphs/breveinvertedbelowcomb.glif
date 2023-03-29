@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinvertedbelowcomb" format="2">
   <unicode hex="032F"/>
-  <anchor x="-47" y="0" name="_bottom"/>
-  <anchor x="-41" y="-412" name="bottom"/>
+  <anchor x="2" y="0" name="_bottom"/>
+  <anchor x="9" y="-437" name="bottom"/>
   <outline>
     <contour>
-      <point x="-43" y="-102" type="curve" smooth="yes"/>
-      <point x="-265" y="-102"/>
-      <point x="-416" y="-229"/>
-      <point x="-430" y="-412" type="curve"/>
-      <point x="-261" y="-412" type="line"/>
-      <point x="-249" y="-308"/>
-      <point x="-138" y="-288"/>
-      <point x="-44" y="-288" type="curve" smooth="yes"/>
-      <point x="69" y="-288"/>
-      <point x="162" y="-300"/>
-      <point x="171" y="-412" type="curve"/>
-      <point x="337" y="-412" type="line"/>
-      <point x="327" y="-223"/>
-      <point x="187" y="-102"/>
+      <point x="8" y="-101" type="curve" smooth="yes"/>
+      <point x="-287" y="-101"/>
+      <point x="-469" y="-240"/>
+      <point x="-489" y="-437" type="curve"/>
+      <point x="-298" y="-437" type="line"/>
+      <point x="-279" y="-333"/>
+      <point x="-143" y="-315"/>
+      <point x="4" y="-315" type="curve" smooth="yes"/>
+      <point x="178" y="-315"/>
+      <point x="290" y="-324"/>
+      <point x="306" y="-437" type="curve"/>
+      <point x="493" y="-437" type="line"/>
+      <point x="478" y="-233"/>
+      <point x="314" y="-101"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8db88446135905f3c03ef3fa69b9b8e5d3511d114fdcfeefbf01f1f62f7ff8a8a1f7ef18ce336f504857e9a6acd6cf23755e8ed2b5555f777a6bbfcc57f13200</string>
+    <string>a6f6cbca599f27b4e01cac3f0ee64f49fda7956911f78d283ce402fdbf48ba3b5f2ed9ab7aabc3fe458c8d3a76db00cac732b1e08aa92d0cb56879c751a7227f</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,40 +2,40 @@
 <glyph name="Fita-cy" format="2">
   <advance width="1591"/>
   <unicode hex="0472"/>
-  <anchor x="785" y="0" name="bottom"/>
-  <anchor x="785" y="1428" name="top"/>
+  <anchor x="796" y="0" name="bottom"/>
+  <anchor x="796" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="1446" y="716" type="curve" smooth="yes"/>
-      <point x="1446" y="1162"/>
-      <point x="1221" y="1450"/>
-      <point x="787" y="1450" type="curve" smooth="yes"/>
-      <point x="336" y="1450"/>
-      <point x="122" y="1156"/>
-      <point x="122" y="718" type="curve" smooth="yes"/>
-      <point x="122" y="277"/>
-      <point x="336" y="-20"/>
-      <point x="785" y="-20" type="curve" smooth="yes"/>
-      <point x="1221" y="-20"/>
-      <point x="1446" y="275"/>
+      <point x="1455" y="716" type="curve" smooth="yes"/>
+      <point x="1455" y="1160"/>
+      <point x="1227" y="1450"/>
+      <point x="798" y="1450" type="curve" smooth="yes"/>
+      <point x="349" y="1450"/>
+      <point x="134" y="1156"/>
+      <point x="134" y="718" type="curve" smooth="yes"/>
+      <point x="134" y="276"/>
+      <point x="349" y="-20"/>
+      <point x="796" y="-20" type="curve" smooth="yes"/>
+      <point x="1227" y="-20"/>
+      <point x="1455" y="274"/>
     </contour>
     <contour>
-      <point x="785" y="129" type="curve" smooth="yes"/>
-      <point x="489" y="129"/>
-      <point x="347" y="327"/>
-      <point x="331" y="654" type="curve"/>
-      <point x="1237" y="654" type="line"/>
-      <point x="1221" y="327"/>
-      <point x="1080" y="129"/>
+      <point x="796" y="136" type="curve" smooth="yes"/>
+      <point x="489" y="136"/>
+      <point x="343" y="328"/>
+      <point x="327" y="650" type="curve"/>
+      <point x="1263" y="650" type="line"/>
+      <point x="1247" y="328"/>
+      <point x="1101" y="136"/>
     </contour>
     <contour>
-      <point x="787" y="1300" type="curve" smooth="yes"/>
-      <point x="1073" y="1300"/>
-      <point x="1211" y="1114"/>
-      <point x="1234" y="802" type="curve"/>
-      <point x="332" y="802" type="line"/>
-      <point x="356" y="1112"/>
-      <point x="497" y="1300"/>
+      <point x="798" y="1292" type="curve" smooth="yes"/>
+      <point x="1095" y="1292"/>
+      <point x="1237" y="1110"/>
+      <point x="1261" y="806" type="curve"/>
+      <point x="327" y="806" type="line"/>
+      <point x="351" y="1110"/>
+      <point x="497" y="1292"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e395476c52bd2945c8df77732e9ebf9a2a9c2d1a45e2d8a1cb2e722e57c0d6c8c2e43a8f19a682130a084b1e2226c8b34a78701a48f3d094c61c720681c173bf</string>
+    <string>a7a693839e3dee28540d8b8f7270c583737f50e7e1ee0201af9cb78f49aa5a6c7c49c6f3b49a8c127a280f7734607293acd57576908843492fd9abfddbdfb168</string>
     <key>hintSetList</key>
     <array>
       <dict>

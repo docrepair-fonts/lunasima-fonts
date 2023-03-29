@@ -2,25 +2,25 @@
 <glyph name="kadescender-cy" format="2">
   <advance width="1265"/>
   <unicode hex="049B"/>
-  <anchor x="642" y="-385" name="bottom"/>
-  <anchor x="642" y="1086" name="top"/>
+  <anchor x="654" y="-394" name="bottom"/>
+  <anchor x="654" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="1272" y="-385" type="line"/>
-      <point x="1272" y="204" type="line"/>
-      <point x="1031" y="204" type="line"/>
-      <point x="749" y="565" type="line"/>
-      <point x="1180" y="1086" type="line"/>
-      <point x="850" y="1086" type="line"/>
-      <point x="432" y="560" type="line"/>
-      <point x="432" y="1086" type="line"/>
-      <point x="132" y="1086" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="432" y="0" type="line"/>
-      <point x="432" y="552" type="line"/>
-      <point x="871" y="0" type="line"/>
-      <point x="1004" y="0" type="line"/>
-      <point x="1004" y="-385" type="line"/>
+      <point x="1237" y="-394" type="line"/>
+      <point x="1237" y="239" type="line"/>
+      <point x="1001" y="239" type="line"/>
+      <point x="813" y="570" type="line"/>
+      <point x="1159" y="1095" type="line"/>
+      <point x="806" y="1095" type="line"/>
+      <point x="478" y="564" type="line"/>
+      <point x="478" y="1095" type="line"/>
+      <point x="158" y="1095" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="478" y="556" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="958" y="0" type="line"/>
+      <point x="958" y="-394" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a1134cae03eed40d3536451be95c681162c988c9e8db2eb4ff1be8b1134dcce8ac8ab09892094d3bc75f350a02ae7af150173628f3c2528aaa33dd8adbb95c75</string>
+    <string>w1265m1237,-394l1237,239l1001,239l813,570l1159,1095l806,1095l478,564l478,1095l158,1095l158,0l478,0l478,556l820,0l958,0l958,-394</string>
     <key>hintSetList</key>
     <array>
       <dict>

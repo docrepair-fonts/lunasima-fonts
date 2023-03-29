@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialytikaoxia" format="2">
+  <advance width="1258"/>
+  <unicode hex="1FEE"/>
+  <anchor x="603" y="1072" name="_top"/>
+  <outline>
+    <contour>
+      <point x="671" y="1212" type="line"/>
+      <point x="841" y="1532" type="line"/>
+      <point x="841" y="1552" type="line"/>
+      <point x="629" y="1552" type="line"/>
+      <point x="553" y="1236" type="line"/>
+      <point x="553" y="1212" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="1262" type="curve" smooth="yes"/>
+      <point x="471" y="1262"/>
+      <point x="515" y="1294"/>
+      <point x="515" y="1362" type="curve" smooth="yes"/>
+      <point x="515" y="1432"/>
+      <point x="471" y="1460"/>
+      <point x="421" y="1460" type="curve" smooth="yes"/>
+      <point x="369" y="1460"/>
+      <point x="327" y="1432"/>
+      <point x="327" y="1362" type="curve" smooth="yes"/>
+      <point x="327" y="1294"/>
+      <point x="369" y="1262"/>
+    </contour>
+    <contour>
+      <point x="931" y="1262" type="curve" smooth="yes"/>
+      <point x="981" y="1262"/>
+      <point x="1025" y="1294"/>
+      <point x="1025" y="1362" type="curve" smooth="yes"/>
+      <point x="1025" y="1432"/>
+      <point x="981" y="1460"/>
+      <point x="931" y="1460" type="curve" smooth="yes"/>
+      <point x="881" y="1460"/>
+      <point x="839" y="1432"/>
+      <point x="839" y="1362" type="curve" smooth="yes"/>
+      <point x="839" y="1294"/>
+      <point x="881" y="1262"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.727,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>

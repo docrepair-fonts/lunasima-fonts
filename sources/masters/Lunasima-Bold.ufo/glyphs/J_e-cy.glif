@@ -2,26 +2,26 @@
 <glyph name="Je-cy" format="2">
   <advance width="857"/>
   <unicode hex="0408"/>
-  <anchor x="68" y="-415" name="bottom"/>
-  <anchor x="497" y="1428" name="top"/>
+  <anchor x="66" y="-415" name="bottom"/>
+  <anchor x="495" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="68" y="-415" type="curve" smooth="yes"/>
-      <point x="422" y="-415"/>
-      <point x="658" y="-272"/>
-      <point x="658" y="84" type="curve" smooth="yes"/>
-      <point x="658" y="1428" type="line"/>
-      <point x="338" y="1428" type="line"/>
-      <point x="338" y="59" type="line" smooth="yes"/>
-      <point x="338" y="-116"/>
-      <point x="208" y="-183"/>
-      <point x="49" y="-183" type="curve" smooth="yes"/>
-      <point x="-32" y="-183"/>
-      <point x="-104" y="-173"/>
-      <point x="-167" y="-163" type="curve"/>
-      <point x="-167" y="-392" type="line"/>
-      <point x="-110" y="-405"/>
-      <point x="-34" y="-415"/>
+      <point x="66" y="-415" type="curve" smooth="yes"/>
+      <point x="420" y="-415"/>
+      <point x="656" y="-272"/>
+      <point x="656" y="84" type="curve" smooth="yes"/>
+      <point x="656" y="1428" type="line"/>
+      <point x="336" y="1428" type="line"/>
+      <point x="336" y="59" type="line" smooth="yes"/>
+      <point x="336" y="-116"/>
+      <point x="206" y="-183"/>
+      <point x="47" y="-183" type="curve" smooth="yes"/>
+      <point x="-34" y="-183"/>
+      <point x="-106" y="-173"/>
+      <point x="-169" y="-163" type="curve"/>
+      <point x="-169" y="-392" type="line"/>
+      <point x="-112" y="-405"/>
+      <point x="-36" y="-415"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c75af57756bc249cf79976a5b8847a40745e984efd2c6a6ad547e9f658f506c988d7ac61cf15d941376af8884da17e91756a921852a29def3019f89adafd4d4f</string>
+    <string>a7c9bd2dc9fa100ee2c12daf4b1048eaccbf8d5acf5fc586a303c6592864774c9cb2c710025e3e67766422e0aad5a98612b2fa96b3609421c1668e90ac2a696b</string>
     <key>hintSetList</key>
     <array>
       <dict>

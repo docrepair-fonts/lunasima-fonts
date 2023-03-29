@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hiriq-hb" format="2">
   <unicode hex="05B4"/>
-  <anchor x="168" y="0" name="_bottom"/>
+  <anchor x="71" y="0" name="_bottom"/>
   <outline>
     <contour>
-      <point x="171" y="-290" type="curve" smooth="yes"/>
-      <point x="213" y="-290"/>
-      <point x="243" y="-266"/>
-      <point x="243" y="-213" type="curve" smooth="yes"/>
-      <point x="243" y="-162"/>
-      <point x="213" y="-138"/>
-      <point x="171" y="-138" type="curve" smooth="yes"/>
-      <point x="129" y="-138"/>
-      <point x="100" y="-162"/>
-      <point x="100" y="-213" type="curve" smooth="yes"/>
-      <point x="100" y="-267"/>
-      <point x="129" y="-290"/>
+      <point x="69" y="-290" type="curve" smooth="yes"/>
+      <point x="104" y="-290"/>
+      <point x="130" y="-266"/>
+      <point x="130" y="-214" type="curve" smooth="yes"/>
+      <point x="130" y="-164"/>
+      <point x="104" y="-140"/>
+      <point x="69" y="-140" type="curve" smooth="yes"/>
+      <point x="35" y="-140"/>
+      <point x="10" y="-164"/>
+      <point x="10" y="-214" type="curve" smooth="yes"/>
+      <point x="10" y="-268"/>
+      <point x="35" y="-290"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m171,-290c213,-290 243,-266 243,-213c243,-162 213,-138 171,-138c129,-138 100,-162 100,-213c100,-267 129,-290 171,-290</string>
+    <string>w0m69,-290c104,-290 130,-266 130,-214c130,-164 104,-140 69,-140c35,-140 10,-164 10,-214c10,-268 35,-290 69,-290</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,15 +2,15 @@
 <glyph name="oxia" format="2">
   <advance width="1258"/>
   <unicode hex="1FFD"/>
-  <anchor x="148" y="1072" name="_top"/>
+  <anchor x="517" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="212" y="1212" type="line"/>
-      <point x="410" y="1532" type="line"/>
-      <point x="410" y="1552" type="line"/>
-      <point x="176" y="1552" type="line"/>
-      <point x="80" y="1237" type="line"/>
-      <point x="80" y="1212" type="line"/>
+      <point x="565" y="1212" type="line"/>
+      <point x="821" y="1532" type="line"/>
+      <point x="821" y="1552" type="line"/>
+      <point x="582" y="1552" type="line"/>
+      <point x="437" y="1236" type="line"/>
+      <point x="437" y="1212" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1258m212,1212l410,1532l410,1552l176,1552l80,1237l80,1212</string>
+    <string>w1258m565,1212l821,1532l821,1552l582,1552l437,1236l437,1212</string>
     <key>hintSetList</key>
     <array>
       <dict>

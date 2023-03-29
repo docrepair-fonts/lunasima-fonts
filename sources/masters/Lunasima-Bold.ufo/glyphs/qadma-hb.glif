@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qadma-hb" format="2">
   <unicode hex="05A8"/>
-  <anchor x="374" y="1106" name="_topleft"/>
+  <anchor x="207" y="1095" name="_topleft"/>
   <outline>
     <contour>
-      <point x="417" y="1289" type="line"/>
-      <point x="417" y="1476"/>
-      <point x="299" y="1582"/>
-      <point x="100" y="1582" type="curve"/>
-      <point x="100" y="1478" type="line"/>
-      <point x="236" y="1478"/>
-      <point x="311" y="1408"/>
-      <point x="311" y="1289" type="curve"/>
+      <point x="246" y="1282" type="line"/>
+      <point x="246" y="1474"/>
+      <point x="158" y="1582"/>
+      <point x="10" y="1582" type="curve"/>
+      <point x="10" y="1476" type="line"/>
+      <point x="111" y="1476"/>
+      <point x="167" y="1404"/>
+      <point x="167" y="1282" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m417,1289c417,1476 299,1582 100,1582l100,1478c236,1478 311,1408 311,1289</string>
+    <string>w0m246,1282c246,1474 158,1582 10,1582l10,1476c111,1476 167,1404 167,1282</string>
     <key>hintSetList</key>
     <array>
       <dict>

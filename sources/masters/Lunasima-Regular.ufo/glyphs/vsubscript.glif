@@ -3,23 +3,23 @@
   <advance width="675"/>
   <unicode hex="1D65"/>
   <anchor x="338" y="-192" name="bottom"/>
-  <anchor x="338" y="454" name="top"/>
+  <anchor x="338" y="452" name="top"/>
   <outline>
     <contour>
-      <point x="411" y="-192" type="line"/>
-      <point x="676" y="454" type="line"/>
-      <point x="538" y="454" type="line"/>
-      <point x="393" y="73" type="line" smooth="yes"/>
-      <point x="374" y="24"/>
-      <point x="347" y="-49"/>
-      <point x="340" y="-88" type="curve"/>
-      <point x="334" y="-88" type="line"/>
-      <point x="327" y="-49"/>
-      <point x="303" y="25"/>
-      <point x="283" y="73" type="curve"/>
-      <point x="138" y="454" type="line"/>
-      <point x="0" y="454" type="line"/>
-      <point x="266" y="-192" type="line"/>
+      <point x="405" y="-192" type="line"/>
+      <point x="675" y="452" type="line"/>
+      <point x="553" y="452" type="line"/>
+      <point x="401" y="72" type="line"/>
+      <point x="380" y="20"/>
+      <point x="349" y="-58"/>
+      <point x="340" y="-98" type="curve"/>
+      <point x="334" y="-98" type="line"/>
+      <point x="326" y="-58"/>
+      <point x="298" y="20"/>
+      <point x="275" y="72" type="curve"/>
+      <point x="123" y="452" type="line"/>
+      <point x="0" y="452" type="line"/>
+      <point x="272" y="-192" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w675m411,-192l676,454l538,454l393,73c374,24 347,-49 340,-88l334,-88c327,-49 303,25 283,73l138,454l0,454l266,-192</string>
+    <string>w675m405,-192l675,452l553,452l401,72c380,20 349,-58 340,-98l334,-98c326,-58 298,20 275,72l123,452l0,452l272,-192</string>
     <key>hintSetList</key>
     <array>
       <dict>

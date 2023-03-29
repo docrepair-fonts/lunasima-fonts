@@ -2,28 +2,28 @@
 <glyph name="iTurnedmod" format="2">
   <advance width="395"/>
   <unicode hex="1D4E"/>
-  <anchor x="187" y="330" name="bottom"/>
-  <anchor x="187" y="1220" name="top"/>
+  <anchor x="199" y="332" name="bottom"/>
+  <anchor x="199" y="1218" name="top"/>
   <outline>
     <contour>
-      <point x="122" y="1220" type="line"/>
-      <point x="122" y="574" type="line"/>
-      <point x="251" y="574" type="line"/>
-      <point x="251" y="1220" type="line"/>
+      <point x="140" y="1218" type="line"/>
+      <point x="140" y="574" type="line"/>
+      <point x="254" y="574" type="line"/>
+      <point x="254" y="1218" type="line"/>
     </contour>
     <contour>
-      <point x="185" y="472" type="curve" smooth="yes"/>
-      <point x="147" y="472"/>
-      <point x="112" y="450"/>
-      <point x="112" y="401" type="curve" smooth="yes"/>
-      <point x="112" y="352"/>
-      <point x="147" y="330"/>
-      <point x="185" y="330" type="curve" smooth="yes"/>
-      <point x="227" y="330"/>
-      <point x="261" y="352"/>
-      <point x="261" y="401" type="curve" smooth="yes"/>
-      <point x="261" y="450"/>
-      <point x="227" y="472"/>
+      <point x="196" y="468" type="curve" smooth="yes"/>
+      <point x="160" y="468"/>
+      <point x="125" y="446"/>
+      <point x="125" y="400" type="curve" smooth="yes"/>
+      <point x="125" y="354"/>
+      <point x="160" y="332"/>
+      <point x="196" y="332" type="curve" smooth="yes"/>
+      <point x="237" y="332"/>
+      <point x="270" y="354"/>
+      <point x="270" y="400" type="curve" smooth="yes"/>
+      <point x="270" y="446"/>
+      <point x="237" y="468"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>26d0621400caf578626abc8636dd081d8322b4a5a71a556ca17c3a80101a559e5a8720465594373aa4d6195c73f2ce6af3c0c684f8df53c94be3530176b70cff</string>
+    <string>7e42a7aa7c24a8a61cfb69c5a61d4402bd73b1adea40cf3ebbc024db7f50a3686642f5c0a35c49d3250a3269c723c593e0dffd2c76a9759d0b0f2f4c0bae66d9</string>
     <key>hintSetList</key>
     <array>
       <dict>

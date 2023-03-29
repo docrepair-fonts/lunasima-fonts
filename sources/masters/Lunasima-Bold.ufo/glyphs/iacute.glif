@@ -2,11 +2,11 @@
 <glyph name="iacute" format="2">
   <advance width="666"/>
   <unicode hex="00ED"/>
-  <anchor x="286" y="0" name="bottom"/>
-  <anchor x="284" y="1530" name="top"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="333" y="1530" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="acutecomb" xOffset="900"/>
+    <component base="acutecomb" xOffset="901"/>
   </outline>
   <lib>
   <dict>

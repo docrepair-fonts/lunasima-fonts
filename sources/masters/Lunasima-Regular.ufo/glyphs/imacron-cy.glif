@@ -2,32 +2,32 @@
 <glyph name="imacron-cy" format="2">
   <advance width="1283"/>
   <unicode hex="04E3"/>
-  <anchor x="657" y="0" name="bottom"/>
-  <anchor x="657" y="1362" name="top"/>
+  <anchor x="643" y="0" name="bottom"/>
+  <anchor x="643" y="1354" name="top"/>
   <outline>
     <contour>
-      <point x="357" y="1076" type="line"/>
-      <point x="170" y="1076" type="line"/>
-      <point x="170" y="0" type="line"/>
-      <point x="411" y="0" type="line"/>
-      <point x="963" y="880" type="line"/>
-      <point x="959" y="825"/>
-      <point x="955" y="677"/>
-      <point x="955" y="612" type="curve" smooth="yes"/>
-      <point x="955" y="0" type="line"/>
-      <point x="1140" y="0" type="line"/>
-      <point x="1140" y="1076" type="line"/>
-      <point x="901" y="1076" type="line"/>
-      <point x="345" y="195" type="line"/>
-      <point x="349" y="251"/>
-      <point x="357" y="388"/>
-      <point x="357" y="442" type="curve" smooth="yes"/>
+      <point x="353" y="1072" type="line"/>
+      <point x="187" y="1072" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="939" y="896" type="line"/>
+      <point x="935" y="844"/>
+      <point x="931" y="694"/>
+      <point x="931" y="632" type="curve" smooth="yes"/>
+      <point x="931" y="0" type="line"/>
+      <point x="1094" y="0" type="line"/>
+      <point x="1094" y="1072" type="line"/>
+      <point x="881" y="1072" type="line"/>
+      <point x="341" y="174" type="line"/>
+      <point x="345" y="228"/>
+      <point x="353" y="368"/>
+      <point x="353" y="418" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="368" y="1362" type="line"/>
-      <point x="368" y="1212" type="line"/>
-      <point x="975" y="1212" type="line"/>
-      <point x="975" y="1362" type="line"/>
+      <point x="372" y="1354" type="line"/>
+      <point x="372" y="1212" type="line"/>
+      <point x="942" y="1212" type="line"/>
+      <point x="942" y="1354" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>de8b90c5f6e9e6a8fb714834e0e507e0001fcc29f075f71b10647729d3d0d94c5ec48b22585dab0c7cd6fecbef187a4d55a56a41699ce2607bc4ee55a24bdc1e</string>
+    <string>b7afd7e9a9daa0307e61275d794bb81d68c0a6a61bd003a00fcdd11d83f4eefb1d516cedbd25f2a0681ebc8245ea7a21165ae4abb262d6d7dd4afd0faf6cd5a5</string>
     <key>hintSetList</key>
     <array>
       <dict>

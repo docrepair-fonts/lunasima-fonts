@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="-811" y="1086" name="_top"/>
-  <anchor x="-811" y="1530" name="top"/>
+  <anchor x="-694" y="1095" name="_top"/>
+  <anchor x="-694" y="1530" name="top"/>
   <outline>
     <contour>
-      <point x="-1118" y="1532" type="line"/>
-      <point x="-1118" y="1512" type="line"/>
-      <point x="-1042" y="1438"/>
-      <point x="-853" y="1283"/>
-      <point x="-751" y="1212" type="curve"/>
-      <point x="-551" y="1212" type="line"/>
-      <point x="-551" y="1238" type="line"/>
-      <point x="-615" y="1312"/>
-      <point x="-723" y="1442"/>
-      <point x="-782" y="1532" type="curve"/>
+      <point x="-1075" y="1532" type="line"/>
+      <point x="-1075" y="1512" type="line"/>
+      <point x="-993" y="1437"/>
+      <point x="-768" y="1282"/>
+      <point x="-638" y="1212" type="curve"/>
+      <point x="-424" y="1212" type="line"/>
+      <point x="-424" y="1239" type="line"/>
+      <point x="-509" y="1313"/>
+      <point x="-639" y="1442"/>
+      <point x="-708" y="1532" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-1118,1532l-1118,1512c-1042,1438 -853,1283 -751,1212l-551,1212l-551,1238c-615,1312 -723,1442 -782,1532</string>
+    <string>w0m-1075,1532l-1075,1512c-993,1437 -768,1282 -638,1212l-424,1212l-424,1239c-509,1313 -639,1442 -708,1532</string>
     <key>hintSetList</key>
     <array>
       <dict>

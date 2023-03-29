@@ -2,24 +2,24 @@
 <glyph name="vmod" format="2">
   <advance width="737"/>
   <unicode hex="1D5B"/>
-  <anchor x="378" y="574" name="bottom"/>
-  <anchor x="378" y="1232" name="top"/>
+  <anchor x="370" y="574" name="bottom"/>
+  <anchor x="370" y="1232" name="top"/>
   <outline>
     <contour>
-      <point x="483" y="574" type="line"/>
-      <point x="754" y="1232" type="line"/>
-      <point x="537" y="1232" type="line"/>
-      <point x="403" y="842" type="line" smooth="yes"/>
-      <point x="394" y="816"/>
-      <point x="380" y="772"/>
-      <point x="377" y="742" type="curve"/>
-      <point x="373" y="742" type="line"/>
-      <point x="370" y="772"/>
-      <point x="357" y="821"/>
-      <point x="347" y="844" type="curve"/>
+      <point x="474" y="574" type="line"/>
+      <point x="737" y="1232" type="line"/>
+      <point x="520" y="1232" type="line"/>
+      <point x="392" y="842" type="line"/>
+      <point x="384" y="816"/>
+      <point x="371" y="772"/>
+      <point x="369" y="742" type="curve"/>
+      <point x="365" y="742" type="line"/>
+      <point x="363" y="772"/>
+      <point x="351" y="821"/>
+      <point x="342" y="844" type="curve"/>
       <point x="218" y="1232" type="line"/>
-      <point x="0" y="1232" type="line"/>
-      <point x="271" y="574" type="line"/>
+      <point x="1" y="1232" type="line"/>
+      <point x="264" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w737m483,574l754,1232l537,1232l403,842c394,816 380,772 377,742l373,742c370,772 357,821 347,844l218,1232l0,1232l271,574</string>
+    <string>w737m474,574l737,1232l520,1232l392,842c384,816 371,772 369,742l365,742c363,772 351,821 342,844l218,1232l1,1232l264,574</string>
     <key>hintSetList</key>
     <array>
       <dict>

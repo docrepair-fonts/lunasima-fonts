@@ -2,30 +2,30 @@
 <glyph name="rturned" format="2">
   <advance width="838"/>
   <unicode hex="0279"/>
-  <anchor x="421" y="-20" name="bottom"/>
-  <anchor x="421" y="1076" name="top"/>
-  <anchor x="674" y="1076" name="topright"/>
+  <anchor x="412" y="-20" name="bottom"/>
+  <anchor x="412" y="1072" name="top"/>
+  <anchor x="651" y="1072" name="topright"/>
   <outline>
     <contour>
-      <point x="154" y="-20" type="curve" smooth="yes"/>
-      <point x="302" y="-20"/>
+      <point x="157" y="-20" type="curve" smooth="yes"/>
+      <point x="305" y="-20"/>
       <point x="413" y="78"/>
-      <point x="480" y="195" type="curve"/>
-      <point x="489" y="195" type="line"/>
-      <point x="514" y="0" type="line" name=".hr01"/>
-      <point x="674" y="0" type="line"/>
-      <point x="674" y="1076" type="line"/>
-      <point x="474" y="1076" type="line"/>
-      <point x="474" y="506" type="line" smooth="yes"/>
-      <point x="474" y="291"/>
-      <point x="328" y="158"/>
-      <point x="171" y="158" type="curve" smooth="yes"/>
-      <point x="131" y="158"/>
-      <point x="86" y="164"/>
-      <point x="53" y="172" type="curve"/>
-      <point x="30" y="-8" type="line"/>
-      <point x="64" y="-15"/>
-      <point x="114" y="-20" name=".hr02"/>
+      <point x="480" y="196" type="curve"/>
+      <point x="488" y="196" type="line"/>
+      <point x="508" y="0" type="line" name=".hr01"/>
+      <point x="651" y="0" type="line"/>
+      <point x="651" y="1072" type="line"/>
+      <point x="475" y="1072" type="line"/>
+      <point x="475" y="500" type="line" smooth="yes"/>
+      <point x="475" y="284"/>
+      <point x="332" y="140" name=".hr02"/>
+      <point x="170" y="140" type="curve" smooth="yes"/>
+      <point x="134" y="140"/>
+      <point x="89" y="146"/>
+      <point x="55" y="154" type="curve"/>
+      <point x="33" y="-8" type="line"/>
+      <point x="69" y="-16"/>
+      <point x="118" y="-20"/>
     </contour>
   </outline>
   <lib>
@@ -37,23 +37,23 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>be33265d8d66d6f89aea2304a74276adf6004d36ea057c3df73969b10783042a1f994eeaa5d413803c7aa5dc74d02471c0099eb9cc21a873dbac8c8f8a1226c9</string>
+    <string>2d11dd7c3836b5ece5ba2ec0327effb7c4d2272fc368bc520f8a10d122e8e7cd6736b036f27bc1158856b7f244b8444d49f6181536c0ba66f2937c26fc8c8f5a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -20 160</string>
-          <string>hstem 1072 -20</string>
           <string>vstem 486 176</string>
+          <string>hstem 1072 -20</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 21</string>
-          <string>hstem 1072 -20</string>
           <string>vstem 486 176</string>
+          <string>hstem 1072 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>
@@ -62,8 +62,8 @@
         <key>stems</key>
         <array>
           <string>hstem -20 160</string>
-          <string>hstem 1072 -20</string>
           <string>vstem 486 176</string>
+          <string>hstem 1072 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr02</string>

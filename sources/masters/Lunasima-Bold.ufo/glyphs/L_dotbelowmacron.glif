@@ -2,36 +2,36 @@
 <glyph name="Ldotbelowmacron" format="2">
   <advance width="1190"/>
   <unicode hex="1E38"/>
-  <anchor x="612" y="-382" name="bottom"/>
-  <anchor x="316" y="1725" name="top"/>
+  <anchor x="640" y="-412" name="bottom"/>
+  <anchor x="331" y="1739" name="top"/>
   <outline>
     <contour>
-      <point x="1053" y="0" type="line"/>
-      <point x="1053" y="200" type="line"/>
-      <point x="471" y="200" type="line"/>
-      <point x="471" y="1432" type="line"/>
-      <point x="172" y="1432" type="line"/>
-      <point x="172" y="0" type="line"/>
+      <point x="1102" y="0" type="line"/>
+      <point x="1102" y="239" type="line"/>
+      <point x="496" y="239" type="line"/>
+      <point x="496" y="1428" type="line"/>
+      <point x="178" y="1428" type="line"/>
+      <point x="178" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="609" y="-382" type="curve" smooth="yes"/>
-      <point x="696" y="-382"/>
-      <point x="770" y="-346"/>
-      <point x="770" y="-255" type="curve" smooth="yes"/>
-      <point x="770" y="-162"/>
-      <point x="696" y="-128"/>
-      <point x="609" y="-128" type="curve" smooth="yes"/>
-      <point x="520" y="-128"/>
-      <point x="448" y="-162"/>
-      <point x="448" y="-255" type="curve" smooth="yes"/>
-      <point x="448" y="-346"/>
-      <point x="520" y="-382"/>
+      <point x="636" y="-412" type="curve" smooth="yes"/>
+      <point x="729" y="-412"/>
+      <point x="809" y="-376"/>
+      <point x="809" y="-271" type="curve" smooth="yes"/>
+      <point x="809" y="-163"/>
+      <point x="729" y="-129"/>
+      <point x="636" y="-129" type="curve" smooth="yes"/>
+      <point x="542" y="-129"/>
+      <point x="465" y="-163"/>
+      <point x="465" y="-271" type="curve" smooth="yes"/>
+      <point x="465" y="-376"/>
+      <point x="542" y="-412"/>
     </contour>
     <contour>
-      <point x="-14" y="1725" type="line"/>
-      <point x="-14" y="1564" type="line"/>
-      <point x="647" y="1564" type="line"/>
-      <point x="647" y="1725" type="line"/>
+      <point x="-17" y="1739" type="line"/>
+      <point x="-17" y="1551" type="line"/>
+      <point x="679" y="1551" type="line"/>
+      <point x="679" y="1739" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>55182496da5b00d546f1f2cb81e4122fe50e86c9792533cf1583dfb69d57b7c5de38f1abccdd745f198c80f42e53efcf3c5b2c232e895d23b99a3cab328f0b5f</string>
+    <string>f376f59fdc5875ccd72b5a50b360d0ebb2b54ff2c2cf45e4c35100f2e1284aa91d264cd38be329ef087c20407379e08a67c17028d8b6ecf222bcd0cabae325aa</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dasiapneumatacomb-cy" format="2">
   <unicode hex="0485"/>
-  <anchor x="-561" y="1076" name="_top"/>
-  <anchor x="-557" y="1561" name="top"/>
+  <anchor x="-626" y="1072" name="_top"/>
+  <anchor x="-621" y="1556" name="top"/>
   <outline>
     <contour>
-      <point x="-688" y="1430" type="curve" smooth="yes"/>
-      <point x="-688" y="1318"/>
-      <point x="-600" y="1240"/>
-      <point x="-435" y="1206" type="curve"/>
-      <point x="-435" y="1282" type="line"/>
-      <point x="-513" y="1304"/>
-      <point x="-551" y="1337"/>
-      <point x="-551" y="1373" type="curve" smooth="yes"/>
-      <point x="-551" y="1428"/>
-      <point x="-451" y="1407"/>
-      <point x="-451" y="1479" type="curve" smooth="yes"/>
-      <point x="-451" y="1531"/>
-      <point x="-490" y="1561"/>
-      <point x="-557" y="1561" type="curve" smooth="yes"/>
-      <point x="-636" y="1561"/>
-      <point x="-688" y="1507"/>
+      <point x="-757" y="1430" type="curve" smooth="yes"/>
+      <point x="-757" y="1322"/>
+      <point x="-668" y="1246"/>
+      <point x="-492" y="1208" type="curve"/>
+      <point x="-492" y="1282" type="line"/>
+      <point x="-583" y="1306"/>
+      <point x="-628" y="1338"/>
+      <point x="-628" y="1374" type="curve" smooth="yes"/>
+      <point x="-628" y="1426"/>
+      <point x="-521" y="1408"/>
+      <point x="-521" y="1478" type="curve" smooth="yes"/>
+      <point x="-521" y="1528"/>
+      <point x="-559" y="1556"/>
+      <point x="-620" y="1556" type="curve" smooth="yes"/>
+      <point x="-700" y="1556"/>
+      <point x="-757" y="1504"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b0847d3a8827dfc285748c60b2c49adafeae36af967eb549e8ff65773fcb4d3dc2f63ea974353fed9b55390945dcd6ca0744df37e83091c45808cb55f166d6d5</string>
+    <string>d90a9564b8f0fd0544e6c256ebbd3e4bf0e72e6398a5318183cc6754e4c0faba640f123f975e85dc6b2aea6ad6a62132f0b4595bf9adc0b5f73baebc41a9bfac</string>
     <key>hintSetList</key>
     <array>
       <dict>

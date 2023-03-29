@@ -2,28 +2,28 @@
 <glyph name="ldot" format="2">
   <advance width="962"/>
   <unicode hex="0140"/>
-  <anchor x="375" y="0" name="bottom"/>
-  <anchor x="375" y="1520" name="top"/>
+  <anchor x="378" y="0" name="bottom"/>
+  <anchor x="378" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="535" y="1520" type="line"/>
-      <point x="215" y="1520" type="line"/>
-      <point x="215" y="0" type="line"/>
-      <point x="535" y="0" type="line"/>
+      <point x="538" y="1520" type="line"/>
+      <point x="218" y="1520" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="821" y="909" type="curve" smooth="yes"/>
-      <point x="720" y="909"/>
-      <point x="639" y="875"/>
-      <point x="639" y="758" type="curve" smooth="yes"/>
-      <point x="639" y="645"/>
-      <point x="720" y="609"/>
-      <point x="821" y="609" type="curve" smooth="yes"/>
-      <point x="918" y="609"/>
-      <point x="1002" y="645"/>
-      <point x="1002" y="758" type="curve" smooth="yes"/>
-      <point x="1002" y="875"/>
-      <point x="918" y="909"/>
+      <point x="824" y="909" type="curve" smooth="yes"/>
+      <point x="723" y="909"/>
+      <point x="642" y="875"/>
+      <point x="642" y="758" type="curve" smooth="yes"/>
+      <point x="642" y="645"/>
+      <point x="723" y="609"/>
+      <point x="824" y="609" type="curve" smooth="yes"/>
+      <point x="921" y="609"/>
+      <point x="1005" y="645"/>
+      <point x="1005" y="758" type="curve" smooth="yes"/>
+      <point x="1005" y="875"/>
+      <point x="921" y="909"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c8e4c83beee2313fcabe5ee4f3af880c8148f61cb999a60f2e0d02ce27ce3dec57c77c19e257e60d7b6ae74f755499c9e33bbb21ea11173848b444d40633b2e7</string>
+    <string>c0412008e4c1d4ff87ba6de7afe5b199a054bd96d7b9002cb01aca0c8a85a229ef0bd747a91bcccbe6b669b330d1ef60a7deedb80c7b901adefae4a3420abb30</string>
     <key>hintSetList</key>
     <array>
       <dict>

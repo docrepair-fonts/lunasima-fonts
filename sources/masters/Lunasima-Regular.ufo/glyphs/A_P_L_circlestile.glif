@@ -7,38 +7,38 @@ uni233D
 </note>
   <outline>
     <contour>
-      <point x="672" y="144" type="curve" smooth="yes"/>
-      <point x="986" y="144"/>
-      <point x="1242" y="400"/>
-      <point x="1242" y="714" type="curve" smooth="yes"/>
-      <point x="1242" y="1028"/>
-      <point x="986" y="1284"/>
-      <point x="672" y="1284" type="curve" smooth="yes"/>
-      <point x="358" y="1284"/>
-      <point x="102" y="1028"/>
-      <point x="102" y="714" type="curve" smooth="yes"/>
-      <point x="102" y="400"/>
-      <point x="358" y="144"/>
+      <point x="682" y="144" type="curve" smooth="yes"/>
+      <point x="996" y="144"/>
+      <point x="1252" y="400"/>
+      <point x="1252" y="714" type="curve" smooth="yes"/>
+      <point x="1252" y="1028"/>
+      <point x="996" y="1284"/>
+      <point x="682" y="1284" type="curve" smooth="yes"/>
+      <point x="368" y="1284"/>
+      <point x="112" y="1028"/>
+      <point x="112" y="714" type="curve" smooth="yes"/>
+      <point x="112" y="400"/>
+      <point x="368" y="144"/>
     </contour>
     <contour>
-      <point x="600" y="-164" type="line"/>
-      <point x="742" y="-164" type="line"/>
-      <point x="742" y="1544" type="line"/>
-      <point x="600" y="1544" type="line"/>
+      <point x="610" y="-164" type="line"/>
+      <point x="752" y="-164" type="line"/>
+      <point x="752" y="1544" type="line"/>
+      <point x="610" y="1544" type="line"/>
     </contour>
     <contour>
-      <point x="672" y="286" type="curve" smooth="yes"/>
-      <point x="436" y="286"/>
-      <point x="244" y="478"/>
-      <point x="244" y="714" type="curve" smooth="yes"/>
-      <point x="244" y="950"/>
-      <point x="436" y="1142"/>
-      <point x="672" y="1142" type="curve" smooth="yes"/>
-      <point x="908" y="1142"/>
-      <point x="1100" y="950"/>
-      <point x="1100" y="714" type="curve" smooth="yes"/>
-      <point x="1100" y="480"/>
-      <point x="908" y="286"/>
+      <point x="682" y="286" type="curve" smooth="yes"/>
+      <point x="446" y="286"/>
+      <point x="254" y="478"/>
+      <point x="254" y="714" type="curve" smooth="yes"/>
+      <point x="254" y="950"/>
+      <point x="446" y="1142"/>
+      <point x="682" y="1142" type="curve" smooth="yes"/>
+      <point x="918" y="1142"/>
+      <point x="1110" y="950"/>
+      <point x="1110" y="714" type="curve" smooth="yes"/>
+      <point x="1110" y="480"/>
+      <point x="918" y="286"/>
     </contour>
   </outline>
   <lib>
@@ -69,7 +69,7 @@ uni233D
           </dict>
         </array>
         <key>id</key>
-        <string>d4547c27836c4fd0a5ccfe79838f8387dd7ca3888194b473349fa810a0e35796e3e00c118b0e473c807d402ae10212b4de41dc5135bc46b2f5ced943500b2694</string>
+        <string>a954a712efd49e37acf7a7425ed187d06c13f092f4c2416befbf94325582778db4d1ae2809b8e88b26f5cf79d6214499acffafb6ceec76bdf6514cbeddddef3c</string>
       </dict>
     </dict>
   </lib>

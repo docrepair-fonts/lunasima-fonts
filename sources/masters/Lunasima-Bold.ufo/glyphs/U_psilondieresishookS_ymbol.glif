@@ -2,11 +2,11 @@
 <glyph name="UpsilondieresishookSymbol" format="2">
   <advance width="1369"/>
   <unicode hex="03D4"/>
-  <anchor x="-117" y="1428" name="topleft"/>
-  <anchor x="623" y="1821" name="top"/>
+  <anchor x="-119" y="1428" name="topleft"/>
+  <anchor x="647" y="1830" name="top"/>
   <outline>
     <component base="UpsilonhookSymbol"/>
-    <component base="dieresiscomb" xOffset="674" yOffset="342"/>
+    <component base="dieresiscomb" xOffset="650" yOffset="333"/>
   </outline>
   <lib>
   <dict>

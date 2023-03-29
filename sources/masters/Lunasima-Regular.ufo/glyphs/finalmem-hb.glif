@@ -2,30 +2,30 @@
 <glyph name="finalmem-hb" format="2">
   <advance width="1435"/>
   <unicode hex="05DD"/>
-  <anchor x="654" y="0" name="bottom"/>
-  <anchor x="140" y="0" name="bottomleft"/>
-  <anchor x="654" y="594" name="center"/>
-  <anchor x="1080" y="0" name="hiriq"/>
-  <anchor x="654" y="1076" name="top"/>
-  <anchor x="3" y="1076" name="topleft"/>
+  <anchor x="707" y="0" name="bottom"/>
+  <anchor x="154" y="0" name="bottomleft"/>
+  <anchor x="707" y="592" name="center"/>
+  <anchor x="1169" y="0" name="hiriq"/>
+  <anchor x="707" y="1072" name="top"/>
+  <anchor x="-6" y="1072" name="topleft"/>
   <outline>
     <contour>
-      <point x="1168" y="0" type="line"/>
-      <point x="1168" y="803" type="line" smooth="yes"/>
-      <point x="1168" y="1070"/>
-      <point x="1033" y="1188"/>
-      <point x="754" y="1188" type="curve" smooth="yes"/>
-      <point x="140" y="1188" type="line"/>
-      <point x="140" y="0" type="line"/>
+      <point x="1259" y="0" type="line"/>
+      <point x="1259" y="806" type="line" smooth="yes"/>
+      <point x="1259" y="1070"/>
+      <point x="1118" y="1184"/>
+      <point x="819" y="1184" type="curve" smooth="yes"/>
+      <point x="154" y="1184" type="line"/>
+      <point x="154" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="344" y="1008" type="line"/>
-      <point x="741" y="1008" type="line" smooth="yes"/>
-      <point x="880" y="1008"/>
-      <point x="964" y="947"/>
-      <point x="964" y="769" type="curve" smooth="yes"/>
-      <point x="964" y="180" type="line"/>
-      <point x="344" y="180" type="line"/>
+      <point x="335" y="1018" type="line"/>
+      <point x="806" y="1018" type="line" smooth="yes"/>
+      <point x="976" y="1018"/>
+      <point x="1079" y="956"/>
+      <point x="1079" y="770" type="curve" smooth="yes"/>
+      <point x="1079" y="166" type="line"/>
+      <point x="335" y="166" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1435m1168,0l1168,803c1168,1070 1033,1188 754,1188l140,1188l140,0m344,1008l741,1008c880,1008 964,947 964,769l964,180l344,180</string>
+    <string>w1435m1259,0l1259,806c1259,1070 1118,1184 819,1184l154,1184l154,0m335,1018l806,1018c976,1018 1079,956 1079,770l1079,166l335,166</string>
     <key>hintSetList</key>
     <array>
       <dict>

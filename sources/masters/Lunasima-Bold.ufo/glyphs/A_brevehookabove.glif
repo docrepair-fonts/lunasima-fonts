@@ -2,69 +2,69 @@
 <glyph name="Abrevehookabove" format="2">
   <advance width="1508"/>
   <unicode hex="1EB2"/>
-  <anchor x="693" y="0" name="bottom"/>
-  <anchor x="688" y="2088" name="top"/>
+  <anchor x="760" y="0" name="bottom"/>
+  <anchor x="754" y="2089" name="top"/>
   <outline>
     <contour>
-      <point x="1378" y="0" type="line"/>
-      <point x="870" y="1434" type="line"/>
-      <point x="505" y="1434" type="line"/>
+      <point x="1508" y="0" type="line"/>
+      <point x="945" y="1434" type="line"/>
+      <point x="561" y="1434" type="line"/>
       <point x="0" y="0" type="line"/>
-      <point x="322" y="0" type="line"/>
-      <point x="436" y="396" type="line"/>
-      <point x="943" y="396" type="line"/>
-      <point x="1056" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="472" y="352" type="line"/>
+      <point x="1036" y="352" type="line"/>
+      <point x="1165" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="874" y="596" type="line"/>
-      <point x="507" y="596" type="line"/>
-      <point x="611" y="976" type="line"/>
-      <point x="632" y="1035"/>
-      <point x="670" y="1148"/>
-      <point x="688" y="1234" type="curve"/>
-      <point x="705" y="1171"/>
-      <point x="754" y="1020"/>
-      <point x="770" y="976" type="curve"/>
+      <point x="961" y="593" type="line"/>
+      <point x="551" y="593" type="line"/>
+      <point x="671" y="922" type="line"/>
+      <point x="693" y="993"/>
+      <point x="733" y="1132"/>
+      <point x="754" y="1223" type="curve"/>
+      <point x="772" y="1148"/>
+      <point x="826" y="977"/>
+      <point x="842" y="922" type="curve"/>
     </contour>
     <contour>
-      <point x="898" y="1823" type="line"/>
-      <point x="887" y="1719"/>
-      <point x="805" y="1687"/>
-      <point x="692" y="1687" type="curve" smooth="yes"/>
-      <point x="565" y="1687"/>
-      <point x="499" y="1718"/>
-      <point x="486" y="1823" type="curve"/>
-      <point x="336" y="1823" type="line"/>
-      <point x="351" y="1652"/>
-      <point x="472" y="1542"/>
-      <point x="693" y="1542" type="curve" smooth="yes"/>
-      <point x="923" y="1542"/>
-      <point x="1032" y="1651"/>
-      <point x="1042" y="1823" type="curve"/>
+      <point x="982" y="1841" type="line"/>
+      <point x="970" y="1741"/>
+      <point x="881" y="1699"/>
+      <point x="757" y="1699" type="curve" smooth="yes"/>
+      <point x="619" y="1699"/>
+      <point x="547" y="1742"/>
+      <point x="532" y="1841" type="curve"/>
+      <point x="371" y="1841" type="line"/>
+      <point x="387" y="1662"/>
+      <point x="518" y="1542"/>
+      <point x="758" y="1542" type="curve" smooth="yes"/>
+      <point x="1007" y="1542"/>
+      <point x="1127" y="1658"/>
+      <point x="1138" y="1841" type="curve"/>
     </contour>
     <contour>
-      <point x="656" y="2088" type="curve" smooth="yes"/>
-      <point x="616" y="2088"/>
-      <point x="581" y="2084"/>
-      <point x="561" y="2078" type="curve"/>
-      <point x="561" y="1987" type="line"/>
-      <point x="573" y="1989"/>
-      <point x="611" y="1994"/>
-      <point x="638" y="1994" type="curve" smooth="yes"/>
-      <point x="688" y="1994"/>
-      <point x="707" y="1977"/>
-      <point x="707" y="1940" type="curve" smooth="yes"/>
-      <point x="707" y="1900"/>
-      <point x="676" y="1882"/>
-      <point x="610" y="1874" type="curve"/>
-      <point x="619" y="1780" type="line"/>
-      <point x="721" y="1780" type="line"/>
-      <point x="727" y="1823" type="line"/>
-      <point x="796" y="1839"/>
-      <point x="839" y="1876"/>
-      <point x="839" y="1949" type="curve" smooth="yes"/>
-      <point x="839" y="2045"/>
-      <point x="766" y="2088"/>
+      <point x="717" y="2089" type="curve" smooth="yes"/>
+      <point x="674" y="2089"/>
+      <point x="636" y="2084"/>
+      <point x="614" y="2078" type="curve"/>
+      <point x="614" y="1974" type="line"/>
+      <point x="628" y="1977"/>
+      <point x="668" y="1983"/>
+      <point x="697" y="1983" type="curve" smooth="yes"/>
+      <point x="753" y="1983"/>
+      <point x="776" y="1962"/>
+      <point x="776" y="1933" type="curve" smooth="yes"/>
+      <point x="776" y="1900"/>
+      <point x="741" y="1880"/>
+      <point x="668" y="1875" type="curve"/>
+      <point x="677" y="1782" type="line"/>
+      <point x="789" y="1782" type="line"/>
+      <point x="796" y="1824" type="line"/>
+      <point x="870" y="1840"/>
+      <point x="919" y="1879"/>
+      <point x="919" y="1950" type="curve" smooth="yes"/>
+      <point x="919" y="2047"/>
+      <point x="839" y="2089"/>
     </contour>
   </outline>
   <lib>
@@ -76,7 +76,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>890a8a238d02b83647e519a8f6bd780f8ab9e592c782256969707c122e2175912bfb13af87df12d900ec4460ba8c1906ecc2340d86d828b7d7c35459e0d23c63</string>
+    <string>88a7312395dba9ee9ac54ba01a7636361d1faec282c4dfb9f455d55a19afd9b25ce408282d96ab62d8fd709642d72b5ceee8fc1273f8d37228b41afe38d8acca</string>
     <key>hintSetList</key>
     <array>
       <dict>

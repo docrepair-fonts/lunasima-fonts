@@ -2,27 +2,27 @@
 <glyph name="Nsmall" format="2">
   <advance width="1332"/>
   <unicode hex="0274"/>
-  <anchor x="696" y="0" name="bottom"/>
-  <anchor x="696" y="1086" name="top"/>
-  <anchor x="1259" y="1086" name="topright"/>
+  <anchor x="688" y="0" name="bottom"/>
+  <anchor x="688" y="1095" name="top"/>
+  <anchor x="1186" y="1095" name="topright"/>
   <outline>
     <contour>
-      <point x="411" y="0" type="line"/>
-      <point x="411" y="537" type="line" smooth="yes"/>
-      <point x="411" y="625"/>
-      <point x="406" y="747"/>
-      <point x="401" y="808" type="curve"/>
-      <point x="831" y="0" type="line"/>
-      <point x="1200" y="0" type="line"/>
-      <point x="1200" y="1086" type="line"/>
-      <point x="945" y="1086" type="line"/>
-      <point x="945" y="536" type="line" smooth="yes"/>
-      <point x="945" y="462"/>
-      <point x="950" y="354"/>
-      <point x="956" y="283" type="curve"/>
-      <point x="525" y="1086" type="line"/>
-      <point x="156" y="1086" type="line"/>
-      <point x="156" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="451" y="498" type="line" smooth="yes"/>
+      <point x="451" y="603"/>
+      <point x="446" y="708"/>
+      <point x="440" y="774" type="curve"/>
+      <point x="744" y="0" type="line"/>
+      <point x="1138" y="0" type="line"/>
+      <point x="1138" y="1095" type="line"/>
+      <point x="874" y="1095" type="line"/>
+      <point x="874" y="588" type="line" smooth="yes"/>
+      <point x="874" y="500"/>
+      <point x="876" y="412"/>
+      <point x="883" y="330" type="curve"/>
+      <point x="581" y="1095" type="line"/>
+      <point x="187" y="1095" type="line"/>
+      <point x="187" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3a2d3064b03946c7672a37f96599051123e02c6ab3dca4ff7521b6858ff359f9401f4a2fcc059fdd9f9dadcb9b59cc28c2277e85aee3ccbe52282d3852bb1236</string>
+    <string>752e7d960c1810a9d5d3c998aa8f0709e9dba9cb5ca0d99c1108b7f7fd72ce9a5fdccde655b283ee6cb8c1841e290f17d8484094c3f1979bc4e8ee29088f7d46</string>
     <key>hintSetList</key>
     <array>
       <dict>

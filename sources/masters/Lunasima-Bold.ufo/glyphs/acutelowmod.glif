@@ -4,16 +4,16 @@
   <unicode hex="02CF"/>
   <outline>
     <contour>
-      <point x="647" y="-88" type="line"/>
-      <point x="311" y="-88" type="line"/>
-      <point x="253" y="-178"/>
-      <point x="145" y="-308"/>
-      <point x="80" y="-382" type="curve"/>
-      <point x="80" y="-408" type="line"/>
-      <point x="280" y="-408" type="line"/>
-      <point x="382" y="-337"/>
-      <point x="571" y="-182"/>
-      <point x="647" y="-108" type="curve"/>
+      <point x="552" y="-88" type="line"/>
+      <point x="206" y="-88" type="line"/>
+      <point x="155" y="-178"/>
+      <point x="59" y="-307"/>
+      <point x="9" y="-381" type="curve"/>
+      <point x="9" y="-408" type="line"/>
+      <point x="222" y="-408" type="line"/>
+      <point x="301" y="-338"/>
+      <point x="475" y="-183"/>
+      <point x="552" y="-108" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w561m647,-88l311,-88c253,-178 145,-308 80,-382l80,-408l280,-408c382,-337 571,-182 647,-108</string>
+    <string>w561m552,-88l206,-88c155,-178 59,-307 9,-381l9,-408l222,-408c301,-338 475,-183 552,-108</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -6,34 +6,34 @@
 uni21EA</note>
   <outline>
     <contour>
-      <point x="408" y="194" type="line"/>
-      <point x="916" y="194" type="line"/>
-      <point x="916" y="806" type="line"/>
-      <point x="1222" y="806" type="line"/>
-      <point x="662" y="1366" type="line"/>
-      <point x="102" y="806" type="line"/>
-      <point x="408" y="806" type="line"/>
+      <point x="829" y="194" type="line"/>
+      <point x="1591" y="194" type="line"/>
+      <point x="1591" y="806" type="line"/>
+      <point x="2049" y="806" type="line"/>
+      <point x="1209" y="1366" type="line"/>
+      <point x="370" y="806" type="line"/>
+      <point x="829" y="806" type="line"/>
     </contour>
     <contour>
-      <point x="408" y="-234" type="line"/>
-      <point x="916" y="-234" type="line"/>
-      <point x="916" y="60" type="line"/>
-      <point x="408" y="60" type="line"/>
+      <point x="829" y="-234" type="line"/>
+      <point x="1591" y="-234" type="line"/>
+      <point x="1591" y="60" type="line"/>
+      <point x="829" y="60" type="line"/>
     </contour>
     <contour>
-      <point x="468" y="-174" type="line"/>
-      <point x="468" y="0" type="line"/>
-      <point x="856" y="0" type="line"/>
-      <point x="856" y="-174" type="line"/>
+      <point x="918" y="-174" type="line"/>
+      <point x="918" y="0" type="line"/>
+      <point x="1500" y="0" type="line"/>
+      <point x="1500" y="-174" type="line"/>
     </contour>
     <contour>
-      <point x="468" y="254" type="line"/>
-      <point x="468" y="866" type="line"/>
-      <point x="248" y="866" type="line"/>
-      <point x="662" y="1280" type="line"/>
-      <point x="1076" y="866" type="line"/>
-      <point x="856" y="866" type="line"/>
-      <point x="856" y="254" type="line"/>
+      <point x="918" y="254" type="line"/>
+      <point x="918" y="866" type="line"/>
+      <point x="588" y="866" type="line"/>
+      <point x="1209" y="1280" type="line"/>
+      <point x="1830" y="866" type="line"/>
+      <point x="1500" y="866" type="line"/>
+      <point x="1500" y="254" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@ uni21EA</note>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e7c2a5b9d1d69753657412ce1711420f3fa637de63214768486fc6740a23f261f6981d57b826626149c84df9da1461aa06d4de5edd64acf1d1f9eb023c9db000</string>
+    <string>4156d5c88f365be67c62a616bb7d968009343523ac1a50bc11999de49d956cb61e59917271b09d0d85b8f31b4e047a916e2e65df03ef16744434eea0ba4a68ae</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -4,26 +4,26 @@
   <unicode hex="1FC9"/>
   <outline>
     <contour>
-      <point x="1339" y="150" type="line"/>
-      <point x="736" y="150" type="line"/>
-      <point x="736" y="673" type="line"/>
-      <point x="1303" y="673" type="line"/>
-      <point x="1303" y="821" type="line"/>
-      <point x="736" y="821" type="line"/>
-      <point x="736" y="1278" type="line"/>
-      <point x="1339" y="1278" type="line"/>
-      <point x="1339" y="1428" type="line"/>
-      <point x="536" y="1428" type="line"/>
-      <point x="536" y="0" type="line"/>
-      <point x="1339" y="0" type="line"/>
+      <point x="1324" y="158" type="line"/>
+      <point x="705" y="158" type="line"/>
+      <point x="705" y="668" type="line"/>
+      <point x="1288" y="668" type="line"/>
+      <point x="1288" y="824" type="line"/>
+      <point x="705" y="824" type="line"/>
+      <point x="705" y="1270" type="line"/>
+      <point x="1324" y="1270" type="line"/>
+      <point x="1324" y="1428" type="line"/>
+      <point x="525" y="1428" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="1324" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="150" y="1088" type="line"/>
-      <point x="346" y="1409" type="line"/>
-      <point x="346" y="1428" type="line"/>
-      <point x="116" y="1428" type="line"/>
-      <point x="20" y="1112" type="line"/>
-      <point x="20" y="1088" type="line"/>
+      <point x="141" y="1088" type="line" name=".hr01"/>
+      <point x="331" y="1408" type="line"/>
+      <point x="331" y="1428" type="line"/>
+      <point x="119" y="1428" type="line"/>
+      <point x="22" y="1112" type="line"/>
+      <point x="22" y="1088" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,18 +35,28 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c30f27610481eb963d72fa01abe84b3d2e29ce14dfc82835ba84b2389b1862dc7c81cf9671c998ff1d4561c82b2b05b2009839c125db7eccbbc1ba352cb1e96c</string>
+    <string>588af44a292f8db63b98809fca169fa321e7b83da3bad95d543d8c44311871958e1c88842567f1dbc9bdd2010bb6ddb8c86cd78dff9a41c96e7213ec2d1805ac</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 158</string>
-          <string>hstem 668 156</string>
-          <string>hstem 1088 340</string>
-          <string>hstem 1270 158</string>
           <string>vstem 522 180</string>
+          <string>hstem 668 156</string>
+          <string>hstem 1270 158</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1088 340</string>
+          <string>vstem 522 180</string>
+          <string>hstem 0 158</string>
+          <string>hstem 668 156</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

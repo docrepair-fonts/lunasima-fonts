@@ -6,10 +6,10 @@
     <contour>
       <point x="492" y="0" type="line"/>
       <point x="492" y="106" type="line"/>
-      <point x="186" y="106" type="line"/>
-      <point x="186" y="452" type="line" name=".hr01"/>
-      <point x="80" y="452" type="line"/>
-      <point x="80" y="0" type="line"/>
+      <point x="192" y="106" type="line"/>
+      <point x="192" y="452" type="line" name=".hr01"/>
+      <point x="88" y="452" type="line"/>
+      <point x="88" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w580m492,0l492,106l186,106l186,452l80,452l80,0</string>
+    <string>w580m492,0l492,106l192,106l192,452l88,452l88,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

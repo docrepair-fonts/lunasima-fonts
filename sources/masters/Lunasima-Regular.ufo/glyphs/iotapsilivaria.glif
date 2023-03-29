@@ -5,7 +5,7 @@
   <anchor x="441" y="0" name="bottom"/>
   <outline>
     <component base="iota"/>
-    <component base="psilivaria" xOffset="-170"/>
+    <component base="psilivaria" xOffset="-376"/>
   </outline>
   <lib>
   <dict>

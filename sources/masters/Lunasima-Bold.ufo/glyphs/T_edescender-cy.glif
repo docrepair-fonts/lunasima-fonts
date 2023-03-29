@@ -2,22 +2,22 @@
 <glyph name="Tedescender-cy" format="2">
   <advance width="1419"/>
   <unicode hex="04AC"/>
-  <anchor x="590" y="-394" name="bottom"/>
-  <anchor x="590" y="1428" name="top"/>
+  <anchor x="712" y="-411" name="bottom"/>
+  <anchor x="712" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="973" y="-392" type="line"/>
-      <point x="973" y="204" type="line"/>
-      <point x="738" y="204" type="line"/>
-      <point x="738" y="1228" type="line"/>
-      <point x="1128" y="1228" type="line"/>
-      <point x="1128" y="1428" type="line"/>
-      <point x="50" y="1428" type="line"/>
-      <point x="50" y="1228" type="line"/>
-      <point x="439" y="1228" type="line"/>
-      <point x="439" y="2" type="line"/>
-      <point x="683" y="2" type="line"/>
-      <point x="683" y="-392" type="line"/>
+      <point x="1130" y="-411" type="line"/>
+      <point x="1130" y="241" type="line"/>
+      <point x="869" y="241" type="line"/>
+      <point x="869" y="1187" type="line"/>
+      <point x="1359" y="1187" type="line"/>
+      <point x="1359" y="1428" type="line"/>
+      <point x="60" y="1428" type="line"/>
+      <point x="60" y="1187" type="line"/>
+      <point x="550" y="1187" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="822" y="0" type="line"/>
+      <point x="822" y="-411" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1419m973,-392l973,204l738,204l738,1228l1128,1228l1128,1428l50,1428l50,1228l439,1228l439,2l683,2l683,-392</string>
+    <string>w1419m1130,-411l1130,241l869,241l869,1187l1359,1187l1359,1428l60,1428l60,1187l550,1187l550,0l822,0l822,-411</string>
     <key>hintSetList</key>
     <array>
       <dict>

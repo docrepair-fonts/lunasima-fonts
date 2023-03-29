@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dblverticallineabovecomb" format="2">
   <unicode hex="030E"/>
-  <anchor x="5" y="1076" name="_top"/>
-  <anchor x="9" y="1523" name="top"/>
+  <anchor x="0" y="1072" name="_top"/>
+  <anchor x="5" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="-240" y="1523" type="line"/>
-      <point x="-240" y="1192" type="line"/>
-      <point x="-73" y="1192" type="line"/>
-      <point x="-73" y="1523" type="line"/>
+      <point x="-264" y="1520" type="line"/>
+      <point x="-264" y="1192" type="line"/>
+      <point x="-91" y="1192" type="line"/>
+      <point x="-91" y="1520" type="line"/>
     </contour>
     <contour>
-      <point x="84" y="1523" type="line"/>
-      <point x="84" y="1192" type="line"/>
-      <point x="251" y="1192" type="line"/>
-      <point x="251" y="1523" type="line"/>
+      <point x="92" y="1520" type="line"/>
+      <point x="92" y="1192" type="line"/>
+      <point x="264" y="1192" type="line"/>
+      <point x="264" y="1520" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-240,1523l-240,1192l-73,1192l-73,1523m84,1523l84,1192l251,1192l251,1523</string>
+    <string>w0m-264,1520l-264,1192l-91,1192l-91,1520m92,1520l92,1192l264,1192l264,1520</string>
     <key>hintSetList</key>
     <array>
       <dict>

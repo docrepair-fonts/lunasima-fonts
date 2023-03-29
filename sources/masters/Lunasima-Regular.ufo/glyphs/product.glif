@@ -1,42 +1,42 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="product" format="2">
   <advance width="1555"/>
   <unicode hex="220F"/>
   <outline>
     <contour>
-      <point x="416" y="1426" type="line"/>
-      <point x="416" y="-268" type="line"/>
-      <point x="600" y="-268" type="line"/>
-      <point x="600" y="1264" type="line"/>
-      <point x="1398" y="1264" type="line"/>
-      <point x="1398" y="-268" type="line"/>
-      <point x="1586" y="-268" type="line"/>
-      <point x="1586" y="1426" type="line"/>
+      <point x="324" y="1426" type="line"/>
+      <point x="324" y="-268" type="line"/>
+      <point x="467" y="-268" type="line"/>
+      <point x="467" y="1264" type="line"/>
+      <point x="1087" y="1264" type="line"/>
+      <point x="1087" y="-268" type="line"/>
+      <point x="1234" y="-268" type="line"/>
+      <point x="1234" y="1426" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.6,0.863,1,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.863,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1555m324,1426l324,-268l467,-268l467,1264l1087,1264l1087,-268l1234,-268l1234,1426</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -268 21</string>
-              <string>hstem 1264 162</string>
-              <string>vstem 416 184</string>
-              <string>vstem 1398 188</string>
-            </array>
-          </dict>
+          <string>hstem -268 21</string>
+          <string>hstem 1264 162</string>
+          <string>vstem 416 184</string>
+          <string>vstem 1398 188</string>
         </array>
-        <key>id</key>
-        <string>w2000m416,1426l416,-268l600,-268l600,1264l1398,1264l1398,-268l1586,-268l1586,1426</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

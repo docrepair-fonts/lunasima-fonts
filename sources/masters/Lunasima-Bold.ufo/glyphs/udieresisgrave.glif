@@ -2,71 +2,71 @@
 <glyph name="udieresisgrave" format="2">
   <advance width="1345"/>
   <unicode hex="01DC"/>
-  <anchor x="619" y="0" name="bottom"/>
-  <anchor x="638" y="1756" name="top"/>
+  <anchor x="656" y="0" name="bottom"/>
+  <anchor x="675" y="1764" name="top"/>
   <outline>
     <contour>
-      <point x="840" y="1086" type="line"/>
-      <point x="840" y="559" type="line" smooth="yes"/>
-      <point x="840" y="321"/>
-      <point x="786" y="190"/>
-      <point x="605" y="190" type="curve" smooth="yes"/>
-      <point x="484" y="190"/>
-      <point x="430" y="271"/>
-      <point x="430" y="432" type="curve" smooth="yes"/>
-      <point x="430" y="1086" type="line"/>
-      <point x="130" y="1086" type="line"/>
-      <point x="130" y="377" type="line" smooth="yes"/>
-      <point x="130" y="100"/>
-      <point x="283" y="-20"/>
-      <point x="517" y="-20" type="curve" smooth="yes"/>
-      <point x="654" y="-20"/>
-      <point x="784" y="29"/>
-      <point x="854" y="141" type="curve"/>
-      <point x="870" y="141" type="line"/>
-      <point x="909" y="0" type="line" name=".hr01"/>
-      <point x="1140" y="0" type="line"/>
-      <point x="1140" y="1086" type="line"/>
+      <point x="867" y="1095" type="line"/>
+      <point x="867" y="586" type="line" smooth="yes"/>
+      <point x="867" y="356"/>
+      <point x="817" y="230"/>
+      <point x="642" y="230" type="curve" smooth="yes"/>
+      <point x="527" y="230"/>
+      <point x="478" y="309"/>
+      <point x="478" y="462" type="curve" smooth="yes"/>
+      <point x="478" y="1095" type="line"/>
+      <point x="156" y="1095" type="line"/>
+      <point x="156" y="381" type="line" smooth="yes"/>
+      <point x="156" y="101"/>
+      <point x="314" y="-20"/>
+      <point x="546" y="-20" type="curve" smooth="yes"/>
+      <point x="683" y="-20"/>
+      <point x="813" y="28"/>
+      <point x="883" y="140" type="curve"/>
+      <point x="901" y="140" type="line"/>
+      <point x="942" y="0" type="line" name=".hr01"/>
+      <point x="1187" y="0" type="line"/>
+      <point x="1187" y="1095" type="line"/>
     </contour>
     <contour>
-      <point x="261" y="1756" type="line"/>
-      <point x="261" y="1736" type="line"/>
-      <point x="330" y="1658"/>
-      <point x="472" y="1534"/>
-      <point x="568" y="1466" type="curve"/>
-      <point x="767" y="1466" type="line"/>
-      <point x="767" y="1491" type="line"/>
-      <point x="702" y="1565"/>
-      <point x="634" y="1666"/>
-      <point x="584" y="1756" type="curve"/>
+      <point x="283" y="1764" type="line"/>
+      <point x="283" y="1744" type="line"/>
+      <point x="356" y="1664"/>
+      <point x="498" y="1540"/>
+      <point x="595" y="1474" type="curve"/>
+      <point x="808" y="1474" type="line"/>
+      <point x="808" y="1500" type="line"/>
+      <point x="742" y="1574"/>
+      <point x="676" y="1674"/>
+      <point x="625" y="1764" type="curve"/>
     </contour>
     <contour>
-      <point x="440" y="1428" type="curve" smooth="yes"/>
-      <point x="364" y="1428"/>
-      <point x="314" y="1390"/>
-      <point x="314" y="1313" type="curve" smooth="yes"/>
-      <point x="314" y="1237"/>
-      <point x="364" y="1200"/>
-      <point x="440" y="1200" type="curve" smooth="yes"/>
-      <point x="514" y="1200"/>
-      <point x="567" y="1237"/>
-      <point x="567" y="1313" type="curve" smooth="yes"/>
-      <point x="567" y="1390"/>
-      <point x="514" y="1428"/>
+      <point x="475" y="1444" type="curve" smooth="yes"/>
+      <point x="394" y="1444"/>
+      <point x="342" y="1403"/>
+      <point x="342" y="1320" type="curve" smooth="yes"/>
+      <point x="342" y="1241"/>
+      <point x="394" y="1198"/>
+      <point x="475" y="1198" type="curve" smooth="yes"/>
+      <point x="553" y="1198"/>
+      <point x="607" y="1241"/>
+      <point x="607" y="1320" type="curve" smooth="yes"/>
+      <point x="607" y="1403"/>
+      <point x="553" y="1444"/>
     </contour>
     <contour>
-      <point x="833" y="1428" type="curve" smooth="yes"/>
-      <point x="758" y="1428"/>
-      <point x="708" y="1390"/>
-      <point x="708" y="1313" type="curve" smooth="yes"/>
-      <point x="708" y="1237"/>
-      <point x="758" y="1200"/>
-      <point x="833" y="1200" type="curve" smooth="yes"/>
-      <point x="907" y="1200"/>
-      <point x="961" y="1237"/>
-      <point x="961" y="1313" type="curve" smooth="yes"/>
-      <point x="961" y="1390"/>
-      <point x="907" y="1428"/>
+      <point x="872" y="1444" type="curve" smooth="yes"/>
+      <point x="793" y="1444"/>
+      <point x="742" y="1403"/>
+      <point x="742" y="1320" type="curve" smooth="yes"/>
+      <point x="742" y="1241"/>
+      <point x="793" y="1198"/>
+      <point x="872" y="1198" type="curve" smooth="yes"/>
+      <point x="950" y="1198"/>
+      <point x="1006" y="1241"/>
+      <point x="1006" y="1320" type="curve" smooth="yes"/>
+      <point x="1006" y="1403"/>
+      <point x="950" y="1444"/>
     </contour>
   </outline>
   <lib>
@@ -78,25 +78,25 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>10fed4a6700f0ddd680c525ca6880f8603c7aabb7df553f5fb414218252f18e1f6d1b4a5dc3e99dd27dcced920f01bc9780217ab342eabc0c4416fc4bdda6936</string>
+    <string>bd0ebd6da9e88b6e7f50412abf69837bb005e2444a2dc437ac0f7c15fc3197fb93cf7d3738725da6849c4e830c8fb92a1bb6474eb0baaac58973acc1db05ac29</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 1196 270</string>
           <string>hstem 1484 290</string>
           <string>hstem 1106 -20</string>
           <string>hstem -20 302</string>
-          <string>hstem 1196 270</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 21</string>
+          <string>hstem 1196 270</string>
           <string>hstem 1484 290</string>
           <string>hstem 1106 -20</string>
-          <string>hstem 1196 270</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>

@@ -4,10 +4,10 @@
   <unicode hex="0170"/>
   <anchor x="707" y="0" name="bottom"/>
   <anchor x="1348" y="1428" name="topright"/>
-  <anchor x="711" y="1884" name="top"/>
+  <anchor x="711" y="1888" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="hungarumlautcomb" xOffset="585" yOffset="352"/>
+    <component base="hungarumlautcomb" xOffset="592" yOffset="356"/>
   </outline>
   <lib>
   <dict>

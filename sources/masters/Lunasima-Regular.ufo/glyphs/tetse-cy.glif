@@ -2,26 +2,26 @@
 <glyph name="tetse-cy" format="2">
   <advance width="1468"/>
   <unicode hex="04B5"/>
-  <anchor x="742" y="-373" name="bottom"/>
-  <anchor x="742" y="1076" name="top"/>
+  <anchor x="735" y="-370" name="bottom"/>
+  <anchor x="735" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="1449" y="-373" type="line"/>
-      <point x="1449" y="159" type="line"/>
-      <point x="1277" y="159" type="line"/>
-      <point x="1277" y="1076" type="line"/>
-      <point x="1077" y="1076" type="line"/>
-      <point x="1077" y="161" type="line"/>
-      <point x="546" y="161" type="line"/>
-      <point x="546" y="917" type="line"/>
-      <point x="885" y="917" type="line"/>
-      <point x="885" y="1076" type="line"/>
-      <point x="40" y="1076" type="line"/>
-      <point x="40" y="917" type="line"/>
-      <point x="348" y="917" type="line"/>
-      <point x="348" y="0" type="line"/>
-      <point x="1259" y="0" type="line"/>
-      <point x="1259" y="-373" type="line"/>
+      <point x="1429" y="-370" type="line"/>
+      <point x="1429" y="146" type="line"/>
+      <point x="1266" y="146" type="line"/>
+      <point x="1266" y="1072" type="line"/>
+      <point x="1090" y="1072" type="line"/>
+      <point x="1090" y="148" type="line"/>
+      <point x="530" y="148" type="line"/>
+      <point x="530" y="926" type="line"/>
+      <point x="881" y="926" type="line"/>
+      <point x="881" y="1072" type="line"/>
+      <point x="44" y="1072" type="line"/>
+      <point x="44" y="926" type="line"/>
+      <point x="356" y="926" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="1257" y="0" type="line"/>
+      <point x="1257" y="-370" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9f869ef808f398f68a094811248c967b22253624f5107bb70ace40696c10cb620e5f6e0df217a7c598e793897d5b929d9e8562995f8e24dddc026e71113f83e9</string>
+    <string>8351354c18c582ecee99f4eef43773babaff41bba4c5987c02537a7b57a856e45d9667f42315d93a374f265a675b3f945087f6cd5e596b9885e0721c881f2dbe</string>
     <key>hintSetList</key>
     <array>
       <dict>

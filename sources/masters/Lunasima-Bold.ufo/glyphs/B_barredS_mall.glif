@@ -2,54 +2,54 @@
 <glyph name="BbarredSmall" format="2">
   <advance width="1303"/>
   <unicode hex="1D03"/>
-  <anchor x="612" y="0" name="bottom"/>
-  <anchor x="612" y="1086" name="top"/>
+  <anchor x="657" y="0" name="bottom"/>
+  <anchor x="657" y="1095" name="top"/>
   <outline>
     <contour>
-      <point x="28" y="649" type="line"/>
-      <point x="28" y="478" type="line"/>
-      <point x="1205" y="478" type="line"/>
-      <point x="1205" y="649" type="line"/>
+      <point x="33" y="662" type="line"/>
+      <point x="33" y="470" type="line"/>
+      <point x="1291" y="470" type="line"/>
+      <point x="1291" y="662" type="line"/>
     </contour>
     <contour>
-      <point x="633" y="0" type="line" smooth="yes"/>
-      <point x="929" y="0"/>
-      <point x="1066" y="138"/>
-      <point x="1066" y="325" type="curve" smooth="yes"/>
-      <point x="1066" y="480"/>
-      <point x="956" y="547"/>
-      <point x="853" y="567" type="curve"/>
-      <point x="853" y="575" type="line"/>
-      <point x="949" y="601"/>
-      <point x="1042" y="671"/>
-      <point x="1042" y="810" type="curve" smooth="yes"/>
-      <point x="1042" y="1002"/>
-      <point x="902" y="1086"/>
-      <point x="602" y="1086" type="curve" smooth="yes"/>
-      <point x="161" y="1086" type="line"/>
-      <point x="161" y="0" type="line"/>
+      <point x="680" y="0" type="line" smooth="yes"/>
+      <point x="997" y="0"/>
+      <point x="1142" y="139"/>
+      <point x="1142" y="329" type="curve" smooth="yes"/>
+      <point x="1142" y="484"/>
+      <point x="1025" y="548"/>
+      <point x="915" y="570" type="curve"/>
+      <point x="915" y="578" type="line"/>
+      <point x="1017" y="603"/>
+      <point x="1116" y="672"/>
+      <point x="1116" y="814" type="curve" smooth="yes"/>
+      <point x="1116" y="998"/>
+      <point x="968" y="1095"/>
+      <point x="647" y="1095" type="curve" smooth="yes"/>
+      <point x="176" y="1095" type="line"/>
+      <point x="176" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="441" y="194" type="line"/>
-      <point x="441" y="469" type="line"/>
-      <point x="605" y="469" type="line" smooth="yes"/>
-      <point x="725" y="469"/>
-      <point x="778" y="420"/>
-      <point x="778" y="331" type="curve" smooth="yes"/>
-      <point x="778" y="237"/>
-      <point x="723" y="194"/>
-      <point x="611" y="194" type="curve" smooth="yes"/>
+      <point x="474" y="224" type="line"/>
+      <point x="474" y="458" type="line"/>
+      <point x="651" y="458" type="line" smooth="yes"/>
+      <point x="779" y="458"/>
+      <point x="835" y="408"/>
+      <point x="835" y="340" type="curve" smooth="yes"/>
+      <point x="835" y="266"/>
+      <point x="776" y="224"/>
+      <point x="656" y="224" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="441" y="651" type="line"/>
-      <point x="441" y="892" type="line"/>
-      <point x="602" y="892" type="line" smooth="yes"/>
-      <point x="708" y="892"/>
-      <point x="755" y="849"/>
-      <point x="755" y="775" type="curve" smooth="yes"/>
-      <point x="755" y="694"/>
-      <point x="704" y="651"/>
-      <point x="590" y="651" type="curve" smooth="yes"/>
+      <point x="474" y="663" type="line"/>
+      <point x="474" y="870" type="line"/>
+      <point x="646" y="870" type="line" smooth="yes"/>
+      <point x="760" y="870"/>
+      <point x="811" y="830"/>
+      <point x="811" y="771" type="curve" smooth="yes"/>
+      <point x="811" y="704"/>
+      <point x="756" y="663"/>
+      <point x="634" y="663" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +61,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b71c758edeea308558c70a29dffce18dda6da4aa4a3aecfec9335f45d4f1afc79f5a754257b10e41811ae6e66cf5a4de80e1bb49c7b93e3403b0403d573dfba1</string>
+    <string>eb718907b23c9565cec1090da85034c3899c1f3475cf960b15aac8e59ffe9997c6308d2eccd560c965649a0864f1dd7a741d0dc1b90fd94b055996a22d092143</string>
     <key>hintSetList</key>
     <array>
       <dict>

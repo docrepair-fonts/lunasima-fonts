@@ -7,18 +7,18 @@ uni2219
 </note>
   <outline>
     <contour>
-      <point x="270" y="556" type="curve" smooth="yes"/>
-      <point x="362" y="556"/>
-      <point x="438" y="632"/>
-      <point x="438" y="724" type="curve" smooth="yes"/>
-      <point x="438" y="816"/>
-      <point x="362" y="892"/>
-      <point x="270" y="892" type="curve" smooth="yes"/>
-      <point x="178" y="892"/>
-      <point x="102" y="816"/>
-      <point x="102" y="724" type="curve" smooth="yes"/>
-      <point x="102" y="632"/>
-      <point x="178" y="556"/>
+      <point x="280" y="556" type="curve" smooth="yes"/>
+      <point x="372" y="556"/>
+      <point x="448" y="632"/>
+      <point x="448" y="724" type="curve" smooth="yes"/>
+      <point x="448" y="816"/>
+      <point x="372" y="892"/>
+      <point x="280" y="892" type="curve" smooth="yes"/>
+      <point x="188" y="892"/>
+      <point x="112" y="816"/>
+      <point x="112" y="724" type="curve" smooth="yes"/>
+      <point x="112" y="632"/>
+      <point x="188" y="556"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@ uni2219
           </dict>
         </array>
         <key>id</key>
-        <string>w540m270,556c362,556 438,632 438,724c438,816 362,892 270,892c178,892 102,816 102,724c102,632 178,556 270,556</string>
+        <string>w560m280,556c372,556 448,632 448,724c448,816 372,892 280,892c188,892 112,816 112,724c112,632 188,556 280,556</string>
       </dict>
       <key>public.verticalOrigin</key>
       <real>1069.0</real>

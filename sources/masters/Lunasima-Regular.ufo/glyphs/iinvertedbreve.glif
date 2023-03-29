@@ -2,11 +2,11 @@
 <glyph name="iinvertedbreve" format="2">
   <advance width="592"/>
   <unicode hex="020B"/>
-  <anchor x="277" y="0" name="bottom"/>
-  <anchor x="275" y="1490" name="top"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="300" y="1480" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="breveinvertedcomb" xOffset="257"/>
+    <component base="breveinvertedcomb" xOffset="295"/>
   </outline>
   <lib>
   <dict>

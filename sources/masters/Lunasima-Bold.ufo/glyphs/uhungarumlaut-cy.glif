@@ -3,10 +3,10 @@
   <advance width="1192"/>
   <unicode hex="04F3"/>
   <anchor x="252" y="-480" name="bottom"/>
-  <anchor x="595" y="1541" name="top"/>
+  <anchor x="595" y="1532" name="top"/>
   <outline>
     <component base="u-cy"/>
-    <component base="hungarumlautcomb" xOffset="509" yOffset="9"/>
+    <component base="hungarumlautcomb" xOffset="432"/>
   </outline>
   <lib>
   <dict>

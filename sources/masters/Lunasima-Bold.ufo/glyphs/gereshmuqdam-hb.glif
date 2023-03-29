@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gereshmuqdam-hb" format="2">
   <unicode hex="059D"/>
-  <anchor x="320" y="1106" name="_top"/>
+  <anchor x="169" y="1095" name="_top"/>
   <outline>
     <contour>
-      <point x="207" y="1289" type="line"/>
-      <point x="207" y="1410"/>
-      <point x="286" y="1478"/>
-      <point x="417" y="1478" type="curve"/>
-      <point x="417" y="1582" type="line"/>
-      <point x="219" y="1582"/>
-      <point x="100" y="1474"/>
-      <point x="100" y="1289" type="curve"/>
+      <point x="89" y="1282" type="line"/>
+      <point x="89" y="1406"/>
+      <point x="148" y="1476"/>
+      <point x="246" y="1476" type="curve"/>
+      <point x="246" y="1582" type="line"/>
+      <point x="97" y="1582"/>
+      <point x="10" y="1472"/>
+      <point x="10" y="1282" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m207,1289c207,1410 286,1478 417,1478l417,1582c219,1582 100,1474 100,1289</string>
+    <string>w0m89,1282c89,1406 148,1476 246,1476l246,1582c97,1582 10,1472 10,1282</string>
     <key>hintSetList</key>
     <array>
       <dict>

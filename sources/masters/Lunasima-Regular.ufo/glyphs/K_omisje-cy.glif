@@ -2,39 +2,39 @@
 <glyph name="Komisje-cy" format="2">
   <advance width="1478"/>
   <unicode hex="050C"/>
-  <anchor x="764" y="0" name="bottom"/>
-  <anchor x="764" y="1428" name="top"/>
+  <anchor x="740" y="0" name="bottom"/>
+  <anchor x="740" y="1428" name="top"/>
   <outline>
     <contour>
-      <point x="840" y="588" type="line"/>
-      <point x="1209" y="588" type="line"/>
-      <point x="1209" y="317"/>
-      <point x="1100" y="129"/>
-      <point x="807" y="129" type="curve" smooth="yes"/>
-      <point x="484" y="129"/>
-      <point x="330" y="362"/>
-      <point x="330" y="714" type="curve" smooth="yes"/>
-      <point x="330" y="1073"/>
-      <point x="507" y="1299"/>
-      <point x="843" y="1299" type="curve" smooth="yes"/>
-      <point x="980" y="1299"/>
-      <point x="1120" y="1260"/>
-      <point x="1222" y="1214" type="curve"/>
-      <point x="1296" y="1361" type="line"/>
-      <point x="1176" y="1415"/>
-      <point x="1017" y="1449"/>
-      <point x="857" y="1449" type="curve" smooth="yes"/>
-      <point x="380" y="1449"/>
-      <point x="122" y="1153"/>
-      <point x="122" y="716" type="curve" smooth="yes"/>
-      <point x="122" y="261"/>
-      <point x="371" y="-20"/>
-      <point x="804" y="-20" type="curve" smooth="yes"/>
-      <point x="1231" y="-20"/>
-      <point x="1417" y="224"/>
-      <point x="1417" y="651" type="curve" smooth="yes"/>
-      <point x="1417" y="738" type="line"/>
-      <point x="840" y="738" type="line"/>
+      <point x="817" y="582" type="line"/>
+      <point x="1168" y="582" type="line"/>
+      <point x="1168" y="322"/>
+      <point x="1065" y="136"/>
+      <point x="781" y="136" type="curve" smooth="yes"/>
+      <point x="470" y="136"/>
+      <point x="322" y="372"/>
+      <point x="322" y="714" type="curve" smooth="yes"/>
+      <point x="322" y="1070"/>
+      <point x="494" y="1290"/>
+      <point x="815" y="1290" type="curve" smooth="yes"/>
+      <point x="945" y="1290"/>
+      <point x="1080" y="1250"/>
+      <point x="1176" y="1206" type="curve"/>
+      <point x="1243" y="1360" type="line"/>
+      <point x="1130" y="1414"/>
+      <point x="980" y="1448"/>
+      <point x="830" y="1448" type="curve" smooth="yes"/>
+      <point x="379" y="1448"/>
+      <point x="134" y="1154"/>
+      <point x="134" y="716" type="curve" smooth="yes"/>
+      <point x="134" y="262"/>
+      <point x="369" y="-20"/>
+      <point x="778" y="-20" type="curve" smooth="yes"/>
+      <point x="1183" y="-20"/>
+      <point x="1355" y="222"/>
+      <point x="1355" y="654" type="curve" smooth="yes"/>
+      <point x="1355" y="740" type="line"/>
+      <point x="817" y="740" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>11136485ee8f7498d73ac70b853fe22106b57ce0a1ec90916be6e2df504385404679fbc80edd09cb4f9066e60f0835cdf0abdc2fcba9c51373a4a8746f5a3aa0</string>
+    <string>94a4394b8a63618988cc642a0541fa96f4684904d85876c5c88bf9e9fa71978aa596f5bd504dfd1bcc6f0931dcd1c6f97d08ababf07bdc9c78972026c910e0b8</string>
     <key>hintSetList</key>
     <array>
       <dict>

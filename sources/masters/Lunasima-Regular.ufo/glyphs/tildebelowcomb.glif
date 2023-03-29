@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildebelowcomb" format="2">
   <unicode hex="0330"/>
-  <anchor x="4" y="0" name="_bottom"/>
-  <anchor x="8" y="-373" name="bottom"/>
+  <anchor x="1" y="0" name="_bottom"/>
+  <anchor x="5" y="-368" name="bottom"/>
   <outline>
     <contour>
-      <point x="-258" y="-373" type="line"/>
-      <point x="-240" y="-295"/>
-      <point x="-212" y="-259"/>
-      <point x="-153" y="-259" type="curve" smooth="yes"/>
-      <point x="-63" y="-259"/>
-      <point x="42" y="-371"/>
-      <point x="155" y="-371" type="curve" smooth="yes"/>
-      <point x="281" y="-371"/>
-      <point x="360" y="-272"/>
-      <point x="376" y="-108" type="curve"/>
-      <point x="267" y="-108" type="line"/>
-      <point x="247" y="-187"/>
-      <point x="219" y="-223"/>
-      <point x="161" y="-223" type="curve" smooth="yes"/>
-      <point x="75" y="-223"/>
-      <point x="-30" y="-110"/>
-      <point x="-145" y="-110" type="curve" smooth="yes"/>
-      <point x="-274" y="-110"/>
-      <point x="-352" y="-208"/>
-      <point x="-368" y="-373" type="curve"/>
+      <point x="-298" y="-368" type="line"/>
+      <point x="-278" y="-290"/>
+      <point x="-247" y="-252"/>
+      <point x="-172" y="-252" type="curve" smooth="yes"/>
+      <point x="-75" y="-252"/>
+      <point x="39" y="-366" name=".hr01"/>
+      <point x="163" y="-366" type="curve" smooth="yes"/>
+      <point x="303" y="-366"/>
+      <point x="386" y="-266"/>
+      <point x="403" y="-110" type="curve"/>
+      <point x="300" y="-110" type="line"/>
+      <point x="277" y="-188"/>
+      <point x="246" y="-226"/>
+      <point x="174" y="-226" type="curve" smooth="yes"/>
+      <point x="82" y="-226"/>
+      <point x="-29" y="-112" name=".hr02"/>
+      <point x="-162" y="-112" type="curve" smooth="yes"/>
+      <point x="-301" y="-112"/>
+      <point x="-387" y="-210"/>
+      <point x="-405" y="-368" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -36,15 +36,30 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>47ebe7cec8ef9ad1bc4029c0148730f6ff1772be86545f67d51e6f8f8d262a8303bad53bd90313f8de9aff6b599484a86ec75209c79cb83420dcbebd48556255</string>
+    <string>9437d69ab81f7119e75c4bf0abe6f6a53a5a60b4b201ec1418fade2cd8304e8e2dcf27e1def274cdd6565f0877c967257c0f00e4785f05649c51b88adff79fec</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -366 140</string>
           <string>hstem -252 140</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -366 140</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -252 140</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

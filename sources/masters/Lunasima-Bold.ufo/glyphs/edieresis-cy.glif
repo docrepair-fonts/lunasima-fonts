@@ -3,17 +3,17 @@
   <advance width="1104"/>
   <unicode hex="04ED"/>
   <anchor x="553" y="0" name="bottom"/>
-  <anchor x="481" y="1488" name="top"/>
+  <anchor x="481" y="1497" name="top"/>
   <outline>
     <component base="ereversed-cy"/>
-    <component base="dieresiscomb" xOffset="532" yOffset="9"/>
+    <component base="dieresiscomb" xOffset="484"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>ereversed-cy+dieresiscomb</string>
+  <string>'ereversed-cy'+dieresiscomb</string>
   <key>public.markColor</key>
   <string>1,0.727,0.6,1</string>
   </dict>

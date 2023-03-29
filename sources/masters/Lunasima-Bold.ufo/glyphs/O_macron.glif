@@ -5,10 +5,10 @@
   <anchor x="844" y="0" name="bottom"/>
   <anchor x="844" y="714" name="center"/>
   <anchor x="1638" y="1428" name="topright"/>
-  <anchor x="844" y="1737" name="top"/>
+  <anchor x="844" y="1751" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="macroncomb" xOffset="868" yOffset="342"/>
+    <component base="macroncomb" xOffset="845" yOffset="333"/>
   </outline>
   <lib>
   <dict>

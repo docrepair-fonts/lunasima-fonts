@@ -2,26 +2,26 @@
 <glyph name="rfishhook" format="2">
   <advance width="842"/>
   <unicode hex="027E"/>
-  <anchor x="358" y="0" name="bottom"/>
-  <anchor x="358" y="1076" name="top"/>
+  <anchor x="398" y="0" name="bottom"/>
+  <anchor x="398" y="1072" name="top"/>
   <outline>
     <contour>
-      <point x="493" y="1096" type="curve" smooth="yes"/>
-      <point x="293" y="1096"/>
-      <point x="164" y="1019"/>
-      <point x="164" y="754" type="curve" smooth="yes"/>
-      <point x="164" y="0" type="line"/>
-      <point x="363" y="0" type="line"/>
-      <point x="363" y="750" type="line" smooth="yes"/>
-      <point x="363" y="871"/>
-      <point x="406" y="928"/>
-      <point x="500" y="928" type="curve" smooth="yes"/>
-      <point x="569" y="928"/>
-      <point x="617" y="910"/>
-      <point x="651" y="900" type="curve"/>
-      <point x="676" y="1064" type="line"/>
-      <point x="624" y="1081"/>
-      <point x="554" y="1096"/>
+      <point x="596" y="1092" type="curve" smooth="yes"/>
+      <point x="353" y="1092"/>
+      <point x="180" y="1020"/>
+      <point x="180" y="758" type="curve" smooth="yes"/>
+      <point x="180" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="756" type="line" smooth="yes"/>
+      <point x="351" y="884"/>
+      <point x="423" y="940"/>
+      <point x="552" y="940" type="curve" smooth="yes"/>
+      <point x="659" y="940"/>
+      <point x="735" y="920"/>
+      <point x="781" y="910" type="curve"/>
+      <point x="803" y="1060" type="line"/>
+      <point x="750" y="1076"/>
+      <point x="653" y="1092"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bc459f12033d156ae791afc0e400ad4b8d54f6a827c1298e3f6866f71c671371d9ea235721af427527e58d76d3ff9159a75db6a6f55d5d6e803f2dd9fe1040f5</string>
+    <string>5538b20e682c2e6e6af572c0c0147954bdc4fa7ab75ba68845401cac14d0e0c04555d4ddfaafb48c8aceedb80bda5cda43a6cf569c9e0c7d1b139c8d2948cb27</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zaqefqatan-hb" format="2">
   <unicode hex="0594"/>
-  <anchor x="168" y="1072" name="_top"/>
+  <anchor x="71" y="1072" name="_top"/>
   <outline>
     <contour>
-      <point x="174" y="1536" type="curve" smooth="yes"/>
-      <point x="216" y="1536"/>
-      <point x="246" y="1561"/>
-      <point x="246" y="1613" type="curve" smooth="yes"/>
-      <point x="246" y="1664"/>
-      <point x="216" y="1688"/>
-      <point x="174" y="1688" type="curve" smooth="yes"/>
-      <point x="132" y="1688"/>
-      <point x="104" y="1664"/>
-      <point x="104" y="1613" type="curve" smooth="yes"/>
-      <point x="104" y="1559"/>
-      <point x="132" y="1536"/>
+      <point x="72" y="1534" type="curve" smooth="yes"/>
+      <point x="106" y="1534"/>
+      <point x="132" y="1558"/>
+      <point x="132" y="1610" type="curve" smooth="yes"/>
+      <point x="132" y="1660"/>
+      <point x="106" y="1684"/>
+      <point x="72" y="1684" type="curve" smooth="yes"/>
+      <point x="37" y="1684"/>
+      <point x="13" y="1660"/>
+      <point x="13" y="1610" type="curve" smooth="yes"/>
+      <point x="13" y="1556"/>
+      <point x="37" y="1534"/>
     </contour>
     <contour>
-      <point x="172" y="1323" type="curve" smooth="yes"/>
-      <point x="214" y="1323"/>
-      <point x="244" y="1347"/>
-      <point x="244" y="1400" type="curve" smooth="yes"/>
-      <point x="244" y="1450"/>
-      <point x="214" y="1474"/>
-      <point x="172" y="1474" type="curve" smooth="yes"/>
-      <point x="131" y="1474"/>
-      <point x="100" y="1450"/>
-      <point x="100" y="1400" type="curve" smooth="yes"/>
-      <point x="100" y="1345"/>
-      <point x="131" y="1323"/>
+      <point x="71" y="1320" type="curve" smooth="yes"/>
+      <point x="105" y="1320"/>
+      <point x="131" y="1344"/>
+      <point x="131" y="1396" type="curve" smooth="yes"/>
+      <point x="131" y="1446"/>
+      <point x="105" y="1470"/>
+      <point x="71" y="1470" type="curve" smooth="yes"/>
+      <point x="36" y="1470"/>
+      <point x="10" y="1446"/>
+      <point x="10" y="1396" type="curve" smooth="yes"/>
+      <point x="10" y="1342"/>
+      <point x="36" y="1320"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e9e47c662b6467fbb75029d01477c816e58f7440f0805105b9597d2cf5d0a8bee47359667100e7b07f765f671b22cb0589850e1aa490479d6f6959916c796208</string>
+    <string>7ae982b31df476b426ca0888117a9f2d5c74c37043de4bd5cd5525b5ae838486a2b42735c32e8a52dcb604702571a3b8bc3e6687d0966b92921416c30f46b782</string>
     <key>hintSetList</key>
     <array>
       <dict>

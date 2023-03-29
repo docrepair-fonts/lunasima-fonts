@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gershayimaccent-hb" format="2">
   <unicode hex="059E"/>
-  <anchor x="332" y="1106" name="_top"/>
+  <anchor x="180" y="1095" name="_top"/>
   <outline>
     <contour>
-      <point x="529" y="1289" type="line"/>
-      <point x="529" y="1410"/>
-      <point x="609" y="1478"/>
-      <point x="741" y="1478" type="curve"/>
-      <point x="741" y="1582" type="line"/>
-      <point x="542" y="1582"/>
-      <point x="420" y="1474"/>
-      <point x="420" y="1289" type="curve"/>
+      <point x="331" y="1282" type="line"/>
+      <point x="331" y="1406"/>
+      <point x="391" y="1476"/>
+      <point x="490" y="1476" type="curve"/>
+      <point x="490" y="1582" type="line"/>
+      <point x="341" y="1582"/>
+      <point x="250" y="1472"/>
+      <point x="250" y="1282" type="curve"/>
     </contour>
     <contour>
-      <point x="209" y="1289" type="line"/>
-      <point x="209" y="1410"/>
-      <point x="289" y="1478"/>
-      <point x="420" y="1478" type="curve"/>
-      <point x="420" y="1582" type="line"/>
-      <point x="217" y="1582"/>
-      <point x="100" y="1472"/>
-      <point x="100" y="1289" type="curve"/>
+      <point x="90" y="1282" type="line"/>
+      <point x="90" y="1406"/>
+      <point x="151" y="1476"/>
+      <point x="250" y="1476" type="curve"/>
+      <point x="250" y="1582" type="line"/>
+      <point x="96" y="1582"/>
+      <point x="10" y="1470"/>
+      <point x="10" y="1282" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ca13ad40dee595db6548babd178a5fddbe150e7b701e143a8f725517b0b5e9a05ea068d12ec512641de1d59cc301d1f0e6c1f432f53ea1112cc7961ca113251b</string>
+    <string>239807d3ed1d220edbb4daaef59038c8b4e0f881df14a2759cc3e4b0f2f635370c5a0248c91ff9fc1cb01696cbb8f5cc8de7763d749aeca41b9bd31cb986dedb</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,30 +2,30 @@
 <glyph name="kturned" format="2">
   <advance width="1293"/>
   <unicode hex="029E"/>
-  <anchor x="602" y="-434" name="bottom"/>
-  <anchor x="602" y="1086" name="top"/>
-  <anchor x="1064" y="1086" name="topright"/>
+  <anchor x="644" y="-425" name="bottom"/>
+  <anchor x="644" y="1095" name="top"/>
+  <anchor x="1135" y="1095" name="topright"/>
   <outline>
     <contour>
-      <point x="763" y="-434" type="line"/>
-      <point x="1064" y="-434" type="line"/>
-      <point x="1064" y="1086" type="line"/>
-      <point x="763" y="1086" type="line"/>
-      <point x="763" y="730" type="line"/>
-      <point x="640" y="629" type="line"/>
-      <point x="346" y="1086" type="line"/>
-      <point x="0" y="1086" type="line"/>
-      <point x="430" y="463" type="line"/>
-      <point x="26" y="0" type="line"/>
-      <point x="364" y="0" type="line"/>
-      <point x="650" y="342" type="line" smooth="yes"/>
-      <point x="685" y="384"/>
-      <point x="744" y="468"/>
-      <point x="772" y="506" type="curve"/>
-      <point x="780" y="506" type="line"/>
-      <point x="771" y="439"/>
-      <point x="763" y="342"/>
-      <point x="763" y="280" type="curve" smooth="yes"/>
+      <point x="815" y="-425" type="line"/>
+      <point x="1135" y="-425" type="line"/>
+      <point x="1135" y="1095" type="line"/>
+      <point x="815" y="1095" type="line"/>
+      <point x="815" y="762" type="line"/>
+      <point x="684" y="664" type="line"/>
+      <point x="370" y="1095" type="line"/>
+      <point x="0" y="1095" type="line"/>
+      <point x="459" y="466" type="line"/>
+      <point x="29" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="694" y="329" type="line"/>
+      <point x="733" y="373"/>
+      <point x="795" y="455"/>
+      <point x="824" y="496" type="curve"/>
+      <point x="833" y="496" type="line"/>
+      <point x="822" y="420"/>
+      <point x="815" y="312"/>
+      <point x="815" y="239" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a173250f0c3d8f0214866e85e1e71be4564733289bcd98c3a3c3c018aa39d64ebd91febbd88f0155198e15d3cf067aa3828394d0f4c47718f954bc4ba61ce815</string>
+    <string>3c5eabe77d8436d4275d9689bcb7c8b184870bf81034bcec3d322f855dbb1bc797149b7b6ae833c6e8621dd4ae5f781835615fff36cbc55cc287452456d06cea</string>
     <key>hintSetList</key>
     <array>
       <dict>

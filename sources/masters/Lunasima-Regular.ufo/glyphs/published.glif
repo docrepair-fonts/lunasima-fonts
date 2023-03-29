@@ -4,56 +4,56 @@
   <unicode hex="2117"/>
   <outline>
     <contour>
-      <point x="832" y="-20" type="curve" smooth="yes"/>
-      <point x="1258" y="-20"/>
-      <point x="1566" y="288"/>
-      <point x="1566" y="714" type="curve" smooth="yes"/>
-      <point x="1566" y="1140"/>
-      <point x="1240" y="1448"/>
-      <point x="832" y="1448" type="curve" smooth="yes"/>
-      <point x="406" y="1448"/>
-      <point x="98" y="1140"/>
-      <point x="98" y="714" type="curve" smooth="yes"/>
-      <point x="98" y="288"/>
-      <point x="406" y="-20"/>
+      <point x="841" y="-20" type="curve" smooth="yes"/>
+      <point x="1267" y="-20"/>
+      <point x="1575" y="288"/>
+      <point x="1575" y="714" type="curve" smooth="yes"/>
+      <point x="1575" y="1140"/>
+      <point x="1247" y="1448"/>
+      <point x="841" y="1448" type="curve" smooth="yes"/>
+      <point x="415" y="1448"/>
+      <point x="107" y="1140"/>
+      <point x="107" y="714" type="curve" smooth="yes"/>
+      <point x="107" y="288"/>
+      <point x="415" y="-20"/>
     </contour>
     <contour>
-      <point x="831" y="91" type="curve" smooth="yes"/>
-      <point x="473" y="91"/>
-      <point x="217" y="369"/>
-      <point x="217" y="714" type="curve" smooth="yes"/>
-      <point x="217" y="1078"/>
-      <point x="473" y="1338"/>
-      <point x="831" y="1338" type="curve" smooth="yes"/>
-      <point x="1189" y="1338"/>
-      <point x="1444" y="1060"/>
-      <point x="1444" y="714" type="curve" smooth="yes"/>
-      <point x="1444" y="351"/>
-      <point x="1172" y="91"/>
+      <point x="841" y="86" type="curve" smooth="yes"/>
+      <point x="479" y="86"/>
+      <point x="219" y="368"/>
+      <point x="219" y="714" type="curve" smooth="yes"/>
+      <point x="219" y="1080"/>
+      <point x="479" y="1342"/>
+      <point x="841" y="1342" type="curve" smooth="yes"/>
+      <point x="1203" y="1342"/>
+      <point x="1461" y="1060"/>
+      <point x="1461" y="714" type="curve" smooth="yes"/>
+      <point x="1461" y="348"/>
+      <point x="1183" y="86"/>
     </contour>
     <contour>
-      <point x="737" y="278" type="line"/>
-      <point x="737" y="590" type="line"/>
-      <point x="890" y="590" type="line" smooth="yes"/>
-      <point x="1059" y="590"/>
-      <point x="1188" y="695"/>
-      <point x="1188" y="875" type="curve" smooth="yes"/>
-      <point x="1188" y="1057"/>
-      <point x="1090" y="1150"/>
-      <point x="865" y="1150" type="curve" smooth="yes"/>
-      <point x="572" y="1150" type="line"/>
-      <point x="572" y="278" type="line"/>
+      <point x="733" y="276" type="line"/>
+      <point x="733" y="590" type="line"/>
+      <point x="897" y="590" type="line" smooth="yes"/>
+      <point x="1063" y="590"/>
+      <point x="1193" y="698"/>
+      <point x="1193" y="876" type="curve" smooth="yes"/>
+      <point x="1193" y="1058"/>
+      <point x="1095" y="1150"/>
+      <point x="877" y="1150" type="curve" smooth="yes"/>
+      <point x="581" y="1150" type="line"/>
+      <point x="581" y="276" type="line"/>
     </contour>
     <contour>
-      <point x="737" y="1016" type="line"/>
-      <point x="860" y="1016" type="line" smooth="yes"/>
-      <point x="971" y="1016"/>
-      <point x="1023" y="975"/>
-      <point x="1023" y="871" type="curve" smooth="yes"/>
-      <point x="1023" y="763"/>
-      <point x="962" y="719"/>
-      <point x="862" y="719" type="curve" smooth="yes"/>
-      <point x="737" y="719" type="line"/>
+      <point x="733" y="1022" type="line"/>
+      <point x="871" y="1022" type="line" smooth="yes"/>
+      <point x="987" y="1022"/>
+      <point x="1039" y="978"/>
+      <point x="1039" y="872" type="curve" smooth="yes"/>
+      <point x="1039" y="760"/>
+      <point x="977" y="714"/>
+      <point x="873" y="714" type="curve" smooth="yes"/>
+      <point x="733" y="714" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -81,7 +81,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>4e05f69641762f8ed2cd88e28c32f76d9d66014ac6c0ceb850a35430c971c25c1cd32bd5d440f64e97da4e24a3b90cafdb315a6818e48c907036f417b1eeac3e</string>
+        <string>b5e7d1a05c589cc08519ae52e73e4b93ffb508a5b3b1300aad23cd22867225f5a51946304afee1ede429c8be7dc1f0f5ad0c1b13d3f630a6951837e9b2394828</string>
       </dict>
     </dict>
   </lib>

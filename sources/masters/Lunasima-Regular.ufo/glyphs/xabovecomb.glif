@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="xabovecomb" format="2">
   <unicode hex="033D"/>
-  <anchor x="0" y="1076" name="_top"/>
-  <anchor x="4" y="1550" name="top"/>
+  <anchor x="0" y="1072" name="_top"/>
+  <anchor x="5" y="1550" name="top"/>
   <outline>
     <contour>
-      <point x="-86" y="1346" type="line"/>
-      <point x="-204" y="1226" type="line"/>
-      <point x="-120" y="1142" type="line"/>
+      <point x="-94" y="1346" type="line"/>
+      <point x="-225" y="1226" type="line"/>
+      <point x="-132" y="1142" type="line"/>
       <point x="0" y="1260" type="line"/>
-      <point x="118" y="1142" type="line"/>
-      <point x="204" y="1226" type="line"/>
-      <point x="84" y="1346" type="line"/>
-      <point x="204" y="1464" type="line"/>
-      <point x="118" y="1550" type="line"/>
+      <point x="131" y="1142" type="line"/>
+      <point x="225" y="1226" type="line"/>
+      <point x="93" y="1346" type="line"/>
+      <point x="225" y="1464" type="line"/>
+      <point x="131" y="1550" type="line"/>
       <point x="0" y="1430" type="line"/>
-      <point x="-120" y="1550" type="line"/>
-      <point x="-204" y="1464" type="line"/>
+      <point x="-132" y="1550" type="line"/>
+      <point x="-225" y="1464" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-86,1346l-204,1226l-120,1142l0,1260l118,1142l204,1226l84,1346l204,1464l118,1550l0,1430l-120,1550l-204,1464</string>
+    <string>w0m-94,1346l-225,1226l-132,1142l0,1260l131,1142l225,1226l93,1346l225,1464l131,1550l0,1430l-132,1550l-225,1464</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="righthalfringabovecomb" format="2">
   <unicode hex="0357"/>
-  <anchor x="-1" y="1086" name="_top"/>
-  <anchor x="3" y="1629" name="top"/>
+  <anchor x="5" y="1095" name="_top"/>
+  <anchor x="13" y="1639" name="top"/>
   <outline>
     <contour>
-      <point x="-106" y="1499" type="line"/>
-      <point x="-57" y="1499"/>
-      <point x="-20" y="1464"/>
-      <point x="-20" y="1405" type="curve" smooth="yes"/>
-      <point x="-20" y="1347"/>
-      <point x="-56" y="1312"/>
-      <point x="-106" y="1312" type="curve"/>
-      <point x="-106" y="1182" type="line"/>
-      <point x="32" y="1182"/>
-      <point x="139" y="1266"/>
-      <point x="139" y="1406" type="curve" smooth="yes"/>
-      <point x="139" y="1545"/>
-      <point x="31" y="1629"/>
-      <point x="-106" y="1629" type="curve"/>
+      <point x="-128" y="1492" type="line"/>
+      <point x="-44" y="1492"/>
+      <point x="10" y="1460"/>
+      <point x="10" y="1408" type="curve" smooth="yes"/>
+      <point x="10" y="1357"/>
+      <point x="-49" y="1325"/>
+      <point x="-128" y="1325" type="curve"/>
+      <point x="-128" y="1177" type="line"/>
+      <point x="56" y="1177"/>
+      <point x="188" y="1264"/>
+      <point x="188" y="1410" type="curve" smooth="yes"/>
+      <point x="188" y="1552"/>
+      <point x="55" y="1639"/>
+      <point x="-128" y="1639" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>53d481f346e0e7af1ce6b8f272a7c9c28074363c1475f8354501b0bffdc396d2dc9afa4c7baa8902e45b01a68a6c06df28ed18be0a61d65d715edd7593de3a85</string>
+    <string>w0m-128,1492c-44,1492 10,1460 10,1408c10,1357 -49,1325 -128,1325l-128,1177c56,1177 188,1264 188,1410c188,1552 55,1639 -128,1639</string>
     <key>hintSetList</key>
     <array>
       <dict>

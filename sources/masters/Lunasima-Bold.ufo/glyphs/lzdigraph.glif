@@ -2,24 +2,24 @@
 <glyph name="lzdigraph" format="2">
   <advance width="1540"/>
   <unicode hex="02AB"/>
-  <anchor x="853" y="0" name="bottom"/>
-  <anchor x="853" y="1520" name="top"/>
+  <anchor x="972" y="0" name="bottom"/>
+  <anchor x="972" y="1520" name="top"/>
   <outline>
     <contour>
-      <point x="1286" y="0" type="line"/>
-      <point x="1286" y="200" type="line"/>
-      <point x="777" y="200" type="line"/>
-      <point x="1267" y="912" type="line"/>
-      <point x="1267" y="1086" type="line"/>
-      <point x="432" y="1086" type="line"/>
-      <point x="432" y="1520" type="line"/>
-      <point x="132" y="1520" type="line"/>
-      <point x="132" y="0" type="line"/>
+      <point x="1480" y="0" type="line"/>
+      <point x="1480" y="240" type="line"/>
+      <point x="846" y="240" type="line"/>
+      <point x="1459" y="894" type="line"/>
+      <point x="1459" y="1095" type="line"/>
+      <point x="478" y="1095" type="line"/>
+      <point x="478" y="1520" type="line"/>
+      <point x="158" y="1520" type="line"/>
+      <point x="158" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="432" y="886" type="line"/>
-      <point x="927" y="886" type="line"/>
-      <point x="432" y="167" type="line"/>
+      <point x="478" y="855" type="line"/>
+      <point x="1099" y="855" type="line"/>
+      <point x="478" y="197" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1540m1286,0l1286,200l777,200l1267,912l1267,1086l432,1086l432,1520l132,1520l132,0m432,886l927,886l432,167</string>
+    <string>w1540m1480,0l1480,240l846,240l1459,894l1459,1095l478,1095l478,1520l158,1520l158,0m478,855l1099,855l478,197</string>
     <key>hintSetList</key>
     <array>
       <dict>
