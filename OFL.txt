@@ -1,5 +1,5 @@
 Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic).
-Copyright 2023 The Dr Vivigraph Project Authors (github.com/googlefonts/dr-vivigraph).
+Copyright 2023 The Lunasima Project Authors (github.com/googlefonts/lunasima).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
