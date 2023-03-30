@@ -2186,22 +2186,22 @@
       <string>dasiaperispomeni.case</string>
       <string>varia.case</string>
       <string>dasia.case</string>
-      <string>Pcircle</string>
-      <string>digammagreek</string>
+      <string>contextmenu</string>
       <string>eject</string>
+      <string>pi1</string>
+      <string>uniFE0E</string>
+      <string>digammagreek</string>
+      <string>nonmarkingreturn</string>
+      <string>TEChint.next3</string>
       <string>TEChint.vartag1</string>
       <string>uni2029</string>
-      <string>contextmenu</string>
-      <string>pi1</string>
-      <string>gammasuperior</string>
-      <string>TEChint.next2</string>
-      <string>uni2028</string>
-      <string>uniFE0E</string>
-      <string>TEChint.next3</string>
       <string>apple</string>
       <string>pencil</string>
+      <string>TEChint.next2</string>
+      <string>Pcircle</string>
+      <string>gammasuperior</string>
       <string>ascript</string>
-      <string>nonmarkingreturn</string>
+      <string>uni2028</string>
     </array>
   </dict>
 </plist>
