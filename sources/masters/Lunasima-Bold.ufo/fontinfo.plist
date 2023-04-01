@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1480</integer>
     <key>copyright</key>
-    <string>Copyright 2022 The Noto Project Authors (github.com/notofonts/latin-greek-cyrillic). Copyright 2023 The Lunasima Project Authors (github.com/googlefonts/lunasima).</string>
+    <string>Copyright 2023 The Lunasima Project Authors (https://github.com/docrepair-fonts/lunasima-fonts).</string>
     <key>descender</key>
     <integer>-419</integer>
     <key>familyName</key>
@@ -60,9 +60,9 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
-    <string>Monotype Design Team</string>
+    <string>The DocRepair Project, Monotype Design Team</string>
     <key>openTypeNameDesignerURL</key>
-    <string>https://fonts.google.com/noto</string>
+    <string>https://github.com/docrepair-fonts/lunasima-fonts</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
