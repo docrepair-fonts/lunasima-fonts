@@ -1,6 +1,6 @@
----
 buildOTF: false
 buildVariable: false
+buildWebfont: false
 familyName: Lunasima
 outputDir: ../fonts
 sources:
