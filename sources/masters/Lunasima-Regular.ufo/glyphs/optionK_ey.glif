@@ -26,8 +26,6 @@ uni2325</note>
   <dict>
   <key>public.verticalOrigin</key>
   <real>1069</real>
-  <key>public.markColor</key>
-  <string>0.6,1,0.736,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

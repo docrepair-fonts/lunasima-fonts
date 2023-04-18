@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zlinebelow" format="2">
   <advance width="1239"/>
   <unicode hex="1E94"/>
@@ -10,13 +10,11 @@
     <component base="macronbelowcomb" xOffset="644"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>Z+macronbelowcomb</string>
-  <key>public.markColor</key>
-  <string>1,0.727,0.6,1</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>Z+macronbelowcomb</string>
+    </dict>
   </lib>
 </glyph>

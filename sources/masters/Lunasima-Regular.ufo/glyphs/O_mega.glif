@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omega" format="2">
   <advance width="1629"/>
-  <unicode hex="03A9"/>
+  <unicode hex="2126"/>
   <anchor x="814" y="0" name="bottom"/>
   <anchor x="814" y="1428" name="top"/>
   <anchor x="93" y="1428" name="topleft"/>
@@ -42,28 +42,26 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.727,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3cfc86b1de47ef597ec632a9b32e231909c733783de7dce55d9cca880c08d84ff8c44997db437d179087c0d7630d47952a089b18093e789e805bd4bac1223664</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 158</string>
-          <string>hstem 1292 158</string>
-          <string>vstem 24 190</string>
-          <string>vstem 1146 188</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 158</string>
+              <string>hstem 1292 158</string>
+              <string>vstem 24 190</string>
+              <string>vstem 1146 188</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3cfc86b1de47ef597ec632a9b32e231909c733783de7dce55d9cca880c08d84ff8c44997db437d179087c0d7630d47952a089b18093e789e805bd4bac1223664</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -40,8 +40,6 @@ uni22F2</note>
   <string></string>
   <key>com.schriftgestaltung.Glyphs.subCategory</key>
   <string>Math</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

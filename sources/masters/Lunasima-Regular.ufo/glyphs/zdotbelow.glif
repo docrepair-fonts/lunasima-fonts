@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zdotbelow" format="2">
   <advance width="1175"/>
   <unicode hex="1E93"/>
@@ -10,13 +10,11 @@
     <component base="dotbelowcomb" xOffset="1254"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>z+dotbelowcomb</string>
-  <key>public.markColor</key>
-  <string>1,0.727,0.6,1</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>z+dotbelowcomb</string>
+    </dict>
   </lib>
 </glyph>

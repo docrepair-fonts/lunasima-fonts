@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gscript" format="2">
   <advance width="1277"/>
-  <unicode hex="0261"/>
+  <unicode hex="210A"/>
   <outline>
     <contour>
       <point x="20" y="-778" type="curve" smooth="yes"/>
@@ -77,30 +77,28 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.727,0.6,1</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3afa5502b5d3d25fa081c3ba0b4165b68faae122d86f597ed154d9a339913304f197e352b9848a8a5e1b5234bceed78342df360573453a7a531d44c42c7ce43d</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -778 21</string>
-              <string>hstem -18 21</string>
-              <string>hstem 748 46</string>
-              <string>vstem -170 88</string>
-              <string>vstem 166 144</string>
-              <string>vstem 816 42</string>
-            </array>
-          </dict>
+          <string>hstem -778 21</string>
+          <string>hstem -18 21</string>
+          <string>hstem 748 46</string>
+          <string>vstem -170 88</string>
+          <string>vstem 166 144</string>
+          <string>vstem 816 42</string>
         </array>
-        <key>id</key>
-        <string>3afa5502b5d3d25fa081c3ba0b4165b68faae122d86f597ed154d9a339913304f197e352b9848a8a5e1b5234bceed78342df360573453a7a531d44c42c7ce43d</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -37,8 +37,6 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>Alpha+tonos.case</string>
-  <key>public.markColor</key>
-  <string>1,0.727,0.6,1</string>
   </dict>
   </lib>
 </glyph>

@@ -53,8 +53,6 @@
   <real>0</real>
   <key>com.schriftgestaltung.Glyphs.lastChange</key>
   <real>0</real>
-  <key>public.markColor</key>
-  <string>1,0.727,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

@@ -44,8 +44,6 @@ uni21E4</note>
   <string></string>
   <key>com.schriftgestaltung.Glyphs.subCategory</key>
   <string>Arrow</string>
-  <key>public.markColor</key>
-  <string>1,0.734,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
