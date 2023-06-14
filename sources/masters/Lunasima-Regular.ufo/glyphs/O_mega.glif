@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omega" format="2">
   <advance width="1629"/>
-  <unicode hex="2126"/>
+  <unicode hex="03A9"/>
   <anchor x="814" y="0" name="bottom"/>
   <anchor x="814" y="1428" name="top"/>
   <anchor x="93" y="1428" name="topleft"/>
